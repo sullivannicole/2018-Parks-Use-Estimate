@@ -1,0 +1,32 @@
+"0","```r
+# Create dataframe with both day types for every park - specify day-type for join
+Weekend_holiday <- c(1:140)
+Weekday <- c(1:140)
+Parks_day_types <- stack(mget(c('Weekend_holiday', 'Weekday'))) %>% rename(Park_trail = values, Day_type = ind)
+# Tidy workbooks
+tidy_sample_class_wkbk <- function(df) {
+  df_tidy <- df %>%
+  rename(Park_trail = 1, Entrance = 2) %>%
+  filter(!is.na(Park_trail) & Park_trail != '#7' & Park_trail != 'Multipliers' & Park_trail != 'Trail:' & Park_trail != 'Park:' & Park_trail != 'Entrance #' & Entrance != 'Entrance #' & !is.na(Entrance) & Entrance!= 'new in 2017' & Entrance != 'LAW' & Entrance != 'BAY') %>%
+  gather(`High 8-10`:`Low 6-8`, key = 'Usage_class_time', value = 'Slot') %>%
+  filter(!is.na(Slot) & Slot != 0) %>%
+  select(-Slot) %>%
+  separate(Usage_class_time, into = c('Usage_class', 'Time'), sep = ' ') %>%
+  separate(Time, into = c('Start_time', 'End_time'), sep = '-') %>%
+  select(-End_time) %>%
+  mutate(Dbl_zero = \"00\") %>%
+  unite(Start_time_2, Start_time, Dbl_zero, sep = '') %>%
+  rename(Start_time = Start_time_2) %>%
+  mutate(Park_trail = as.numeric(Park_trail),
+         Entrance = as.numeric(Entrance))
+df_final <- left_join(df_tidy, Parks_day_types, by = c('Park_trail'))
+}
+# Ensure n always equals 12 (6 timeslots for weekend/holidays, 6 timeslots for weekdays)
+check_count <- function(df) {
+  
+  df %>%
+  group_by(Park_trail, Entrance) %>%
+  count() %>%
+  filter(n != 12)
+}
+```"

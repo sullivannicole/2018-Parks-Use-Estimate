@@ -1,0 +1,151 @@
+Park_or_trail_name,Park_trail_id,Entrance_name,Entrance_id,Start_time,Usage_class
+Cottage Grove Ravine Regional Park,71,Main Gate,1,08:00 AM,Medium
+Cottage Grove Ravine Regional Park,71,Main Gate,1,10:00 AM,High
+Cottage Grove Ravine Regional Park,71,Main Gate,1,12:00 PM,High
+Cottage Grove Ravine Regional Park,71,Main Gate,1,02:00 PM,High
+Cottage Grove Ravine Regional Park,71,Main Gate,1,04:00 PM,Medium
+Cottage Grove Ravine Regional Park,71,Main Gate,1,06:00 PM,Medium
+Cottage Grove Ravine Regional Park,71,Paved Trail,2,08:00 AM,Low
+Cottage Grove Ravine Regional Park,71,Paved Trail,2,10:00 AM,Low
+Cottage Grove Ravine Regional Park,71,Paved Trail,2,12:00 PM,Low
+Cottage Grove Ravine Regional Park,71,Paved Trail,2,02:00 PM,Low
+Cottage Grove Ravine Regional Park,71,Paved Trail,2,04:00 PM,Low
+Cottage Grove Ravine Regional Park,71,Paved Trail,2,06:00 PM,Low
+Lake Elmo Park Reserve,72,Main Gate,1,08:00 AM,Medium
+Lake Elmo Park Reserve,72,Main Gate,1,10:00 AM,High
+Lake Elmo Park Reserve,72,Main Gate,1,12:00 PM,High
+Lake Elmo Park Reserve,72,Main Gate,1,02:00 PM,High
+Lake Elmo Park Reserve,72,Main Gate,1,04:00 PM,High
+Lake Elmo Park Reserve,72,Main Gate,1,06:00 PM,Medium
+St. Croix Bluffs Regional Park,73,Main Gate,1,08:00 AM,Medium
+St. Croix Bluffs Regional Park,73,Main Gate,1,10:00 AM,High
+St. Croix Bluffs Regional Park,73,Main Gate,1,12:00 PM,High
+St. Croix Bluffs Regional Park,73,Main Gate,1,02:00 PM,High
+St. Croix Bluffs Regional Park,73,Main Gate,1,04:00 PM,Medium
+St. Croix Bluffs Regional Park,73,Main Gate,1,06:00 PM,Medium
+Square Lake Special Recreation Feature,74,Main Gate,1,08:00 AM,Medium
+Square Lake Special Recreation Feature,74,Main Gate,1,10:00 AM,High
+Square Lake Special Recreation Feature,74,Main Gate,1,12:00 PM,High
+Square Lake Special Recreation Feature,74,Main Gate,1,02:00 PM,High
+Square Lake Special Recreation Feature,74,Main Gate,1,04:00 PM,High
+Square Lake Special Recreation Feature,74,Main Gate,1,06:00 PM,Medium
+Hardwood Creek Regional Park,81,Trailhead at Transit Center at 19955 Forest Road North - just south of 202nd Street,1,08:00 AM,High
+Hardwood Creek Regional Park,81,Trailhead at Transit Center at 19955 Forest Road North - just south of 202nd Street,1,10:00 AM,High
+Hardwood Creek Regional Park,81,Trailhead at Transit Center at 19955 Forest Road North - just south of 202nd Street,1,12:00 PM,High
+Hardwood Creek Regional Park,81,Trailhead at Transit Center at 19955 Forest Road North - just south of 202nd Street,1,02:00 PM,High
+Hardwood Creek Regional Park,81,Trailhead at Transit Center at 19955 Forest Road North - just south of 202nd Street,1,04:00 PM,High
+Hardwood Creek Regional Park,81,Trailhead at Transit Center at 19955 Forest Road North - just south of 202nd Street,1,06:00 PM,High
+Hardwood Creek Regional Park,81,147th Street Intersection,2,08:00 AM,High
+Hardwood Creek Regional Park,81,147th Street Intersection,2,10:00 AM,High
+Hardwood Creek Regional Park,81,147th Street Intersection,2,12:00 PM,High
+Hardwood Creek Regional Park,81,147th Street Intersection,2,02:00 PM,High
+Hardwood Creek Regional Park,81,147th Street Intersection,2,04:00 PM,High
+Hardwood Creek Regional Park,81,147th Street Intersection,2,06:00 PM,High
+Hardwood Creek Regional Park,81,Trailhead at Hugo,3,08:00 AM,Low
+Hardwood Creek Regional Park,81,Trailhead at Hugo,3,10:00 AM,Low
+Hardwood Creek Regional Park,81,Trailhead at Hugo,3,12:00 PM,Low
+Hardwood Creek Regional Park,81,Trailhead at Hugo,3,02:00 PM,Low
+Hardwood Creek Regional Park,81,Trailhead at Hugo,3,04:00 PM,Low
+Hardwood Creek Regional Park,81,Trailhead at Hugo,3,06:00 PM,Low
+Hardwood Creek Regional Park,81,159th Street Intersection,5,08:00 AM,Low
+Hardwood Creek Regional Park,81,159th Street Intersection,5,10:00 AM,Low
+Hardwood Creek Regional Park,81,159th Street Intersection,5,12:00 PM,Low
+Hardwood Creek Regional Park,81,159th Street Intersection,5,02:00 PM,Low
+Hardwood Creek Regional Park,81,159th Street Intersection,5,04:00 PM,Low
+Hardwood Creek Regional Park,81,159th Street Intersection,5,06:00 PM,Low
+Hardwood Creek Regional Park,81,170th Street (4) Intersection,6,08:00 AM,Low
+Hardwood Creek Regional Park,81,170th Street (4) Intersection,6,10:00 AM,Low
+Hardwood Creek Regional Park,81,170th Street (4) Intersection,6,12:00 PM,Low
+Hardwood Creek Regional Park,81,170th Street (4) Intersection,6,02:00 PM,Low
+Hardwood Creek Regional Park,81,170th Street (4) Intersection,6,04:00 PM,Low
+Hardwood Creek Regional Park,81,170th Street (4) Intersection,6,06:00 PM,Low
+Hardwood Creek Regional Park,81,180th Street Intersection,7,08:00 AM,Low
+Hardwood Creek Regional Park,81,180th Street Intersection,7,10:00 AM,Low
+Hardwood Creek Regional Park,81,180th Street Intersection,7,12:00 PM,Low
+Hardwood Creek Regional Park,81,180th Street Intersection,7,02:00 PM,Low
+Hardwood Creek Regional Park,81,180th Street Intersection,7,04:00 PM,Low
+Hardwood Creek Regional Park,81,180th Street Intersection,7,06:00 PM,Low
+Hardwood Creek Regional Park,81,190th Street Intersection,8,08:00 AM,Low
+Hardwood Creek Regional Park,81,190th Street Intersection,8,10:00 AM,Low
+Hardwood Creek Regional Park,81,190th Street Intersection,8,12:00 PM,Low
+Hardwood Creek Regional Park,81,190th Street Intersection,8,02:00 PM,Low
+Hardwood Creek Regional Park,81,190th Street Intersection,8,04:00 PM,Low
+Hardwood Creek Regional Park,81,190th Street Intersection,8,06:00 PM,Low
+Hardwood Creek Regional Park,81,202nd Street (50) Intersection,9,08:00 AM,Low
+Hardwood Creek Regional Park,81,202nd Street (50) Intersection,9,10:00 AM,Low
+Hardwood Creek Regional Park,81,202nd Street (50) Intersection,9,12:00 PM,Low
+Hardwood Creek Regional Park,81,202nd Street (50) Intersection,9,02:00 PM,Low
+Hardwood Creek Regional Park,81,202nd Street (50) Intersection,9,04:00 PM,Low
+Hardwood Creek Regional Park,81,202nd Street (50) Intersection,9,06:00 PM,Low
+Hardwood Creek Regional Park,81,County Road 83 Intersection,10,08:00 AM,Low
+Hardwood Creek Regional Park,81,County Road 83 Intersection,10,10:00 AM,Low
+Hardwood Creek Regional Park,81,County Road 83 Intersection,10,12:00 PM,Low
+Hardwood Creek Regional Park,81,County Road 83 Intersection,10,02:00 PM,Low
+Hardwood Creek Regional Park,81,County Road 83 Intersection,10,04:00 PM,Low
+Hardwood Creek Regional Park,81,County Road 83 Intersection,10,06:00 PM,Low
+Hardwood Creek Regional Park,81,Broadway (2) Intersection,11,08:00 AM,Low
+Hardwood Creek Regional Park,81,Broadway (2) Intersection,11,10:00 AM,Low
+Hardwood Creek Regional Park,81,Broadway (2) Intersection,11,12:00 PM,Low
+Hardwood Creek Regional Park,81,Broadway (2) Intersection,11,02:00 PM,Low
+Hardwood Creek Regional Park,81,Broadway (2) Intersection,11,04:00 PM,Low
+Hardwood Creek Regional Park,81,Broadway (2) Intersection,11,06:00 PM,Low
+Hardwood Creek Regional Park,81,County Road 8 Intersection,12,08:00 AM,Low
+Hardwood Creek Regional Park,81,County Road 8 Intersection,12,10:00 AM,Low
+Hardwood Creek Regional Park,81,County Road 8 Intersection,12,12:00 PM,Low
+Hardwood Creek Regional Park,81,County Road 8 Intersection,12,02:00 PM,Low
+Hardwood Creek Regional Park,81,County Road 8 Intersection,12,04:00 PM,Low
+Hardwood Creek Regional Park,81,County Road 8 Intersection,12,06:00 PM,Low
+Hardwood Creek Regional Park,81,Chisago County Line,13,08:00 AM,Low
+Hardwood Creek Regional Park,81,Chisago County Line,13,10:00 AM,Low
+Hardwood Creek Regional Park,81,Chisago County Line,13,12:00 PM,Low
+Hardwood Creek Regional Park,81,Chisago County Line,13,02:00 PM,Low
+Hardwood Creek Regional Park,81,Chisago County Line,13,04:00 PM,Low
+Hardwood Creek Regional Park,81,Chisago County Line,13,06:00 PM,Low
+Hardwood Creek Regional Park,81,Highway 61 & 145 Street North Intersection,14,08:00 AM,Low
+Hardwood Creek Regional Park,81,Highway 61 & 145 Street North Intersection,14,10:00 AM,Low
+Hardwood Creek Regional Park,81,Highway 61 & 145 Street North Intersection,14,12:00 PM,Low
+Hardwood Creek Regional Park,81,Highway 61 & 145 Street North Intersection,14,02:00 PM,Low
+Hardwood Creek Regional Park,81,Highway 61 & 145 Street North Intersection,14,04:00 PM,Low
+Hardwood Creek Regional Park,81,Highway 61 & 145 Street North Intersection,14,06:00 PM,Low
+Hardwood Creek Regional Park,81,Highway 61 & Frenchman Road (Highway 8),15,08:00 AM,High
+Hardwood Creek Regional Park,81,Highway 61 & Frenchman Road (Highway 8),15,10:00 AM,High
+Hardwood Creek Regional Park,81,Highway 61 & Frenchman Road (Highway 8),15,12:00 PM,High
+Hardwood Creek Regional Park,81,Highway 61 & Frenchman Road (Highway 8),15,02:00 PM,High
+Hardwood Creek Regional Park,81,Highway 61 & Frenchman Road (Highway 8),15,04:00 PM,High
+Hardwood Creek Regional Park,81,Highway 61 & Frenchman Road (Highway 8),15,06:00 PM,High
+Hardwood Creek Regional Park,81,Highway 61 & 140th Street North Intersection,16,08:00 AM,Low
+Hardwood Creek Regional Park,81,Highway 61 & 140th Street North Intersection,16,10:00 AM,Low
+Hardwood Creek Regional Park,81,Highway 61 & 140th Street North Intersection,16,12:00 PM,Low
+Hardwood Creek Regional Park,81,Highway 61 & 140th Street North Intersection,16,02:00 PM,Low
+Hardwood Creek Regional Park,81,Highway 61 & 140th Street North Intersection,16,04:00 PM,Low
+Hardwood Creek Regional Park,81,Highway 61 & 140th Street North Intersection,16,06:00 PM,Low
+Big Marine Park Reserve,82,Main Gate,1,08:00 AM,Medium
+Big Marine Park Reserve,82,Main Gate,1,10:00 AM,High
+Big Marine Park Reserve,82,Main Gate,1,12:00 PM,High
+Big Marine Park Reserve,82,Main Gate,1,02:00 PM,High
+Big Marine Park Reserve,82,Main Gate,1,04:00 PM,Medium
+Big Marine Park Reserve,82,Main Gate,1,06:00 PM,Medium
+Pine Point Regional Park,83,Main Gate,1,08:00 AM,Medium
+Pine Point Regional Park,83,Main Gate,1,10:00 AM,High
+Pine Point Regional Park,83,Main Gate,1,12:00 PM,High
+Pine Point Regional Park,83,Main Gate,1,02:00 PM,High
+Pine Point Regional Park,83,Main Gate,1,04:00 PM,High
+Pine Point Regional Park,83,Main Gate,1,06:00 PM,Medium
+Pine Point Regional Park,83,Gateway Trail entrance by covered picnic table,2,08:00 AM,Medium
+Pine Point Regional Park,83,Gateway Trail entrance by covered picnic table,2,10:00 AM,High
+Pine Point Regional Park,83,Gateway Trail entrance by covered picnic table,2,12:00 PM,High
+Pine Point Regional Park,83,Gateway Trail entrance by covered picnic table,2,02:00 PM,High
+Pine Point Regional Park,83,Gateway Trail entrance by covered picnic table,2,04:00 PM,High
+Pine Point Regional Park,83,Gateway Trail entrance by covered picnic table,2,06:00 PM,Medium
+Point Douglas Regional Trail,133,Trailhead,1,08:00 AM,Medium
+Point Douglas Regional Trail,133,Trailhead,1,10:00 AM,High
+Point Douglas Regional Trail,133,Trailhead,1,12:00 PM,High
+Point Douglas Regional Trail,133,Trailhead,1,02:00 PM,High
+Point Douglas Regional Trail,133,Trailhead,1,04:00 PM,High
+Point Douglas Regional Trail,133,Trailhead,1,06:00 PM,Medium
+Point Douglas Regional Trail,133,Highway 61 Entrance to Trail,2,08:00 AM,Medium
+Point Douglas Regional Trail,133,Highway 61 Entrance to Trail,2,10:00 AM,High
+Point Douglas Regional Trail,133,Highway 61 Entrance to Trail,2,12:00 PM,High
+Point Douglas Regional Trail,133,Highway 61 Entrance to Trail,2,02:00 PM,High
+Point Douglas Regional Trail,133,Highway 61 Entrance to Trail,2,04:00 PM,High
+Point Douglas Regional Trail,133,Highway 61 Entrance to Trail,2,06:00 PM,Medium

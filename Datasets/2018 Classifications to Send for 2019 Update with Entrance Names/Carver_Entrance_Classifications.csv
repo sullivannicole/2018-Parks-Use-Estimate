@@ -1,0 +1,169 @@
+Park_or_trail_name,Park_trail_id,Entrance_name,Entrance_id,Start_time,Usage_class
+Baylor Regional Park,12,Main Entrance,1,08:00 AM,Medium
+Baylor Regional Park,12,Main Entrance,1,10:00 AM,High
+Baylor Regional Park,12,Main Entrance,1,12:00 PM,High
+Baylor Regional Park,12,Main Entrance,1,02:00 PM,High
+Baylor Regional Park,12,Main Entrance,1,04:00 PM,High
+Baylor Regional Park,12,Main Entrance,1,06:00 PM,Medium
+Lake Minnewashta Regional Park,13,Main Entrance,1,08:00 AM,High
+Lake Minnewashta Regional Park,13,Main Entrance,1,10:00 AM,Medium
+Lake Minnewashta Regional Park,13,Main Entrance,1,12:00 PM,Medium
+Lake Minnewashta Regional Park,13,Main Entrance,1,02:00 PM,High
+Lake Minnewashta Regional Park,13,Main Entrance,1,04:00 PM,High
+Lake Minnewashta Regional Park,13,Main Entrance,1,06:00 PM,High
+Lake Minnewashta Regional Park,13,Paved Multi-Use Trail,2,08:00 AM,Low
+Lake Minnewashta Regional Park,13,Paved Multi-Use Trail,2,10:00 AM,Low
+Lake Minnewashta Regional Park,13,Paved Multi-Use Trail,2,12:00 PM,Low
+Lake Minnewashta Regional Park,13,Paved Multi-Use Trail,2,02:00 PM,Low
+Lake Minnewashta Regional Park,13,Paved Multi-Use Trail,2,04:00 PM,Low
+Lake Minnewashta Regional Park,13,Paved Multi-Use Trail,2,06:00 PM,Low
+Lake Minnewashta Regional Park,13,Multi-use trail - access to regional park from Herman Field Park on northwest side of property,3,08:00 AM,Low
+Lake Minnewashta Regional Park,13,Multi-use trail - access to regional park from Herman Field Park on northwest side of property,3,10:00 AM,Low
+Lake Minnewashta Regional Park,13,Multi-use trail - access to regional park from Herman Field Park on northwest side of property,3,12:00 PM,Low
+Lake Minnewashta Regional Park,13,Multi-use trail - access to regional park from Herman Field Park on northwest side of property,3,02:00 PM,Low
+Lake Minnewashta Regional Park,13,Multi-use trail - access to regional park from Herman Field Park on northwest side of property,3,04:00 PM,Low
+Lake Minnewashta Regional Park,13,Multi-use trail - access to regional park from Herman Field Park on northwest side of property,3,06:00 PM,Low
+Lake Waconia Regional Park,14,Main Entrance,1,08:00 AM,Medium
+Lake Waconia Regional Park,14,Main Entrance,1,10:00 AM,Medium
+Lake Waconia Regional Park,14,Main Entrance,1,12:00 PM,High
+Lake Waconia Regional Park,14,Main Entrance,1,02:00 PM,High
+Lake Waconia Regional Park,14,Main Entrance,1,04:00 PM,High
+Lake Waconia Regional Park,14,Main Entrance,1,06:00 PM,High
+Lake Waconia Regional Park,14,Old Beach Road Lane Entrance,2,08:00 AM,Medium
+Lake Waconia Regional Park,14,Old Beach Road Lane Entrance,2,10:00 AM,Medium
+Lake Waconia Regional Park,14,Old Beach Road Lane Entrance,2,12:00 PM,Medium
+Lake Waconia Regional Park,14,Old Beach Road Lane Entrance,2,02:00 PM,Medium
+Lake Waconia Regional Park,14,Old Beach Road Lane Entrance,2,04:00 PM,Medium
+Lake Waconia Regional Park,14,Old Beach Road Lane Entrance,2,06:00 PM,Medium
+Lake Waconia Regional Park,14,Informal Use Area Entrance,3,08:00 AM,Low
+Lake Waconia Regional Park,14,Informal Use Area Entrance,3,10:00 AM,Low
+Lake Waconia Regional Park,14,Informal Use Area Entrance,3,12:00 PM,Low
+Lake Waconia Regional Park,14,Informal Use Area Entrance,3,02:00 PM,Low
+Lake Waconia Regional Park,14,Informal Use Area Entrance,3,04:00 PM,Low
+Lake Waconia Regional Park,14,Informal Use Area Entrance,3,06:00 PM,Low
+Dakota Rail Regional Trail,104,Hidden Crossing Road Intersection,1,08:00 AM,Medium
+Dakota Rail Regional Trail,104,Hidden Crossing Road Intersection,1,10:00 AM,Medium
+Dakota Rail Regional Trail,104,Hidden Crossing Road Intersection,1,12:00 PM,Medium
+Dakota Rail Regional Trail,104,Hidden Crossing Road Intersection,1,02:00 PM,Medium
+Dakota Rail Regional Trail,104,Hidden Crossing Road Intersection,1,04:00 PM,Medium
+Dakota Rail Regional Trail,104,Hidden Crossing Road Intersection,1,06:00 PM,Medium
+Dakota Rail Regional Trail,104,Mayer Trailhead at Trunk Highway 25 and County Road 30,2,08:00 AM,High
+Dakota Rail Regional Trail,104,Mayer Trailhead at Trunk Highway 25 and County Road 30,2,10:00 AM,High
+Dakota Rail Regional Trail,104,Mayer Trailhead at Trunk Highway 25 and County Road 30,2,12:00 PM,High
+Dakota Rail Regional Trail,104,Mayer Trailhead at Trunk Highway 25 and County Road 30,2,02:00 PM,High
+Dakota Rail Regional Trail,104,Mayer Trailhead at Trunk Highway 25 and County Road 30,2,04:00 PM,High
+Dakota Rail Regional Trail,104,Mayer Trailhead at Trunk Highway 25 and County Road 30,2,06:00 PM,High
+Dakota Rail Regional Trail,104,Quartz Avenue Intersectoin,3,08:00 AM,Low
+Dakota Rail Regional Trail,104,Quartz Avenue Intersectoin,3,10:00 AM,Low
+Dakota Rail Regional Trail,104,Quartz Avenue Intersectoin,3,12:00 PM,Low
+Dakota Rail Regional Trail,104,Quartz Avenue Intersectoin,3,02:00 PM,Low
+Dakota Rail Regional Trail,104,Quartz Avenue Intersectoin,3,04:00 PM,Low
+Dakota Rail Regional Trail,104,Quartz Avenue Intersectoin,3,06:00 PM,Low
+Dakota Rail Regional Trail,104,Goose Lake Drive Intersection,4,08:00 AM,Low
+Dakota Rail Regional Trail,104,Goose Lake Drive Intersection,4,10:00 AM,Low
+Dakota Rail Regional Trail,104,Goose Lake Drive Intersection,4,12:00 PM,Low
+Dakota Rail Regional Trail,104,Goose Lake Drive Intersection,4,02:00 PM,Low
+Dakota Rail Regional Trail,104,Goose Lake Drive Intersection,4,04:00 PM,Low
+Dakota Rail Regional Trail,104,Goose Lake Drive Intersection,4,06:00 PM,Low
+Dakota Rail Regional Trail,104,Highway 10 Trailhead/Intersection,5,08:00 AM,High
+Dakota Rail Regional Trail,104,Highway 10 Trailhead/Intersection,5,10:00 AM,High
+Dakota Rail Regional Trail,104,Highway 10 Trailhead/Intersection,5,12:00 PM,High
+Dakota Rail Regional Trail,104,Highway 10 Trailhead/Intersection,5,02:00 PM,High
+Dakota Rail Regional Trail,104,Highway 10 Trailhead/Intersection,5,04:00 PM,High
+Dakota Rail Regional Trail,104,Highway 10 Trailhead/Intersection,5,06:00 PM,High
+Dakota Rail Regional Trail,104,North Shore Road #1 Intersection,6,08:00 AM,Medium
+Dakota Rail Regional Trail,104,North Shore Road #1 Intersection,6,10:00 AM,Medium
+Dakota Rail Regional Trail,104,North Shore Road #1 Intersection,6,12:00 PM,Medium
+Dakota Rail Regional Trail,104,North Shore Road #1 Intersection,6,02:00 PM,Medium
+Dakota Rail Regional Trail,104,North Shore Road #1 Intersection,6,04:00 PM,Medium
+Dakota Rail Regional Trail,104,North Shore Road #1 Intersection,6,06:00 PM,Medium
+Dakota Rail Regional Trail,104,North shore Road #2 Intersection ('S' in road),7,08:00 AM,High
+Dakota Rail Regional Trail,104,North shore Road #2 Intersection ('S' in road),7,10:00 AM,High
+Dakota Rail Regional Trail,104,North shore Road #2 Intersection ('S' in road),7,12:00 PM,High
+Dakota Rail Regional Trail,104,North shore Road #2 Intersection ('S' in road),7,02:00 PM,High
+Dakota Rail Regional Trail,104,North shore Road #2 Intersection ('S' in road),7,04:00 PM,High
+Dakota Rail Regional Trail,104,North shore Road #2 Intersection ('S' in road),7,06:00 PM,High
+Dakota Rail Regional Trail,104,County Road 155/Hennepin County Line Intersection,8,08:00 AM,High
+Dakota Rail Regional Trail,104,County Road 155/Hennepin County Line Intersection,8,10:00 AM,High
+Dakota Rail Regional Trail,104,County Road 155/Hennepin County Line Intersection,8,12:00 PM,High
+Dakota Rail Regional Trail,104,County Road 155/Hennepin County Line Intersection,8,02:00 PM,High
+Dakota Rail Regional Trail,104,County Road 155/Hennepin County Line Intersection,8,04:00 PM,High
+Dakota Rail Regional Trail,104,County Road 155/Hennepin County Line Intersection,8,06:00 PM,High
+Dakota Rail Regional Trail,104,Adams Avenue South and County Road 30,9,08:00 AM,Medium
+Dakota Rail Regional Trail,104,Adams Avenue South and County Road 30,9,10:00 AM,Medium
+Dakota Rail Regional Trail,104,Adams Avenue South and County Road 30,9,12:00 PM,Medium
+Dakota Rail Regional Trail,104,Adams Avenue South and County Road 30,9,02:00 PM,Medium
+Dakota Rail Regional Trail,104,Adams Avenue South and County Road 30,9,04:00 PM,Medium
+Dakota Rail Regional Trail,104,Adams Avenue South and County Road 30,9,06:00 PM,Medium
+Dakota Rail Regional Trail,104,New Germany Trailhead at County Road 33 and County Road 30,10,08:00 AM,High
+Dakota Rail Regional Trail,104,New Germany Trailhead at County Road 33 and County Road 30,10,10:00 AM,High
+Dakota Rail Regional Trail,104,New Germany Trailhead at County Road 33 and County Road 30,10,12:00 PM,High
+Dakota Rail Regional Trail,104,New Germany Trailhead at County Road 33 and County Road 30,10,02:00 PM,High
+Dakota Rail Regional Trail,104,New Germany Trailhead at County Road 33 and County Road 30,10,04:00 PM,High
+Dakota Rail Regional Trail,104,New Germany Trailhead at County Road 33 and County Road 30,10,06:00 PM,High
+Dakota Rail Regional Trail,104,Union Avenue,11,08:00 AM,Low
+Dakota Rail Regional Trail,104,Union Avenue,11,10:00 AM,Low
+Dakota Rail Regional Trail,104,Union Avenue,11,12:00 PM,Low
+Dakota Rail Regional Trail,104,Union Avenue,11,02:00 PM,Low
+Dakota Rail Regional Trail,104,Union Avenue,11,04:00 PM,Low
+Dakota Rail Regional Trail,104,Union Avenue,11,06:00 PM,Low
+Dakota Rail Regional Trail,104,Yale Avenue,12,08:00 AM,Medium
+Dakota Rail Regional Trail,104,Yale Avenue,12,10:00 AM,Medium
+Dakota Rail Regional Trail,104,Yale Avenue,12,12:00 PM,Medium
+Dakota Rail Regional Trail,104,Yale Avenue,12,02:00 PM,Medium
+Dakota Rail Regional Trail,104,Yale Avenue,12,04:00 PM,Medium
+Dakota Rail Regional Trail,104,Yale Avenue,12,06:00 PM,Medium
+Dakota Rail Regional Trail,104,Carver County and McLeod County Line,13,08:00 AM,Low
+Dakota Rail Regional Trail,104,Carver County and McLeod County Line,13,10:00 AM,Low
+Dakota Rail Regional Trail,104,Carver County and McLeod County Line,13,12:00 PM,Low
+Dakota Rail Regional Trail,104,Carver County and McLeod County Line,13,02:00 PM,Low
+Dakota Rail Regional Trail,104,Carver County and McLeod County Line,13,04:00 PM,Low
+Dakota Rail Regional Trail,104,Carver County and McLeod County Line,13,06:00 PM,Low
+Minnesota River Bluffs Regional Trail,113,Athletic Park Trailhead in Chaska,1,08:00 AM,High
+Minnesota River Bluffs Regional Trail,113,Athletic Park Trailhead in Chaska,1,10:00 AM,Medium
+Minnesota River Bluffs Regional Trail,113,Athletic Park Trailhead in Chaska,1,12:00 PM,Medium
+Minnesota River Bluffs Regional Trail,113,Athletic Park Trailhead in Chaska,1,02:00 PM,Medium
+Minnesota River Bluffs Regional Trail,113,Athletic Park Trailhead in Chaska,1,04:00 PM,High
+Minnesota River Bluffs Regional Trail,113,Athletic Park Trailhead in Chaska,1,06:00 PM,High
+Minnesota River Bluffs Regional Trail,113,Depot Park Trailhead in Carver,2,08:00 AM,High
+Minnesota River Bluffs Regional Trail,113,Depot Park Trailhead in Carver,2,10:00 AM,Medium
+Minnesota River Bluffs Regional Trail,113,Depot Park Trailhead in Carver,2,12:00 PM,Medium
+Minnesota River Bluffs Regional Trail,113,Depot Park Trailhead in Carver,2,02:00 PM,Medium
+Minnesota River Bluffs Regional Trail,113,Depot Park Trailhead in Carver,2,04:00 PM,High
+Minnesota River Bluffs Regional Trail,113,Depot Park Trailhead in Carver,2,06:00 PM,High
+Minnesota River Bluffs Regional Trail,113,Ash Street in Downtown Carver,3,08:00 AM,Medium
+Minnesota River Bluffs Regional Trail,113,Ash Street in Downtown Carver,3,10:00 AM,Medium
+Minnesota River Bluffs Regional Trail,113,Ash Street in Downtown Carver,3,12:00 PM,Medium
+Minnesota River Bluffs Regional Trail,113,Ash Street in Downtown Carver,3,02:00 PM,Medium
+Minnesota River Bluffs Regional Trail,113,Ash Street in Downtown Carver,3,04:00 PM,Medium
+Minnesota River Bluffs Regional Trail,113,Ash Street in Downtown Carver,3,06:00 PM,Medium
+Minnesota River Bluffs Regional Trail,113,Main Street/County Road 40 in Southwest side of Carver proper/outskirts of town,4,08:00 AM,Low
+Minnesota River Bluffs Regional Trail,113,Main Street/County Road 40 in Southwest side of Carver proper/outskirts of town,4,10:00 AM,Low
+Minnesota River Bluffs Regional Trail,113,Main Street/County Road 40 in Southwest side of Carver proper/outskirts of town,4,12:00 PM,Low
+Minnesota River Bluffs Regional Trail,113,Main Street/County Road 40 in Southwest side of Carver proper/outskirts of town,4,02:00 PM,Low
+Minnesota River Bluffs Regional Trail,113,Main Street/County Road 40 in Southwest side of Carver proper/outskirts of town,4,04:00 PM,Low
+Minnesota River Bluffs Regional Trail,113,Main Street/County Road 40 in Southwest side of Carver proper/outskirts of town,4,06:00 PM,Low
+Minnesota River Bluffs Regional Trail,113,Main Street East in Downtown Carver and Pedestrian Access Exchange between trail bridge overpass and roadway,5,08:00 AM,Low
+Minnesota River Bluffs Regional Trail,113,Main Street East in Downtown Carver and Pedestrian Access Exchange between trail bridge overpass and roadway,5,10:00 AM,Low
+Minnesota River Bluffs Regional Trail,113,Main Street East in Downtown Carver and Pedestrian Access Exchange between trail bridge overpass and roadway,5,12:00 PM,Low
+Minnesota River Bluffs Regional Trail,113,Main Street East in Downtown Carver and Pedestrian Access Exchange between trail bridge overpass and roadway,5,02:00 PM,Low
+Minnesota River Bluffs Regional Trail,113,Main Street East in Downtown Carver and Pedestrian Access Exchange between trail bridge overpass and roadway,5,04:00 PM,Low
+Minnesota River Bluffs Regional Trail,113,Main Street East in Downtown Carver and Pedestrian Access Exchange between trail bridge overpass and roadway,5,06:00 PM,Low
+Minnesota River Bluffs Regional Trail,113,Broadway Street/1st Street in Downtown Carver,6,08:00 AM,High
+Minnesota River Bluffs Regional Trail,113,Broadway Street/1st Street in Downtown Carver,6,10:00 AM,High
+Minnesota River Bluffs Regional Trail,113,Broadway Street/1st Street in Downtown Carver,6,12:00 PM,High
+Minnesota River Bluffs Regional Trail,113,Broadway Street/1st Street in Downtown Carver,6,02:00 PM,High
+Minnesota River Bluffs Regional Trail,113,Broadway Street/1st Street in Downtown Carver,6,04:00 PM,High
+Minnesota River Bluffs Regional Trail,113,Broadway Street/1st Street in Downtown Carver,6,06:00 PM,High
+Minnesota River Bluffs Regional Trail,113,Jorgerson Street/Levy Trail in Downtown Carver,7,08:00 AM,Low
+Minnesota River Bluffs Regional Trail,113,Jorgerson Street/Levy Trail in Downtown Carver,7,10:00 AM,Low
+Minnesota River Bluffs Regional Trail,113,Jorgerson Street/Levy Trail in Downtown Carver,7,12:00 PM,Low
+Minnesota River Bluffs Regional Trail,113,Jorgerson Street/Levy Trail in Downtown Carver,7,02:00 PM,Low
+Minnesota River Bluffs Regional Trail,113,Jorgerson Street/Levy Trail in Downtown Carver,7,04:00 PM,Low
+Minnesota River Bluffs Regional Trail,113,Jorgerson Street/Levy Trail in Downtown Carver,7,06:00 PM,Low
+Minnesota River Bluffs Regional Trail,113,Intersection or entry point of the Minnesota River Bluffs Regional Trail and Bluff Creek Drive,8,08:00 AM,High
+Minnesota River Bluffs Regional Trail,113,Intersection or entry point of the Minnesota River Bluffs Regional Trail and Bluff Creek Drive,8,10:00 AM,High
+Minnesota River Bluffs Regional Trail,113,Intersection or entry point of the Minnesota River Bluffs Regional Trail and Bluff Creek Drive,8,12:00 PM,High
+Minnesota River Bluffs Regional Trail,113,Intersection or entry point of the Minnesota River Bluffs Regional Trail and Bluff Creek Drive,8,02:00 PM,High
+Minnesota River Bluffs Regional Trail,113,Intersection or entry point of the Minnesota River Bluffs Regional Trail and Bluff Creek Drive,8,04:00 PM,High
+Minnesota River Bluffs Regional Trail,113,Intersection or entry point of the Minnesota River Bluffs Regional Trail and Bluff Creek Drive,8,06:00 PM,High

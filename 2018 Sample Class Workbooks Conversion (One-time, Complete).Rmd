@@ -1,0 +1,260 @@
+---
+title: "Sample Class Workbook Conversion (One-Time, Complete)"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+
+# Create dataframe with both day types for every park - specify day-type for join
+
+Weekend_holiday <- c(1:140)
+Weekday <- c(1:140)
+
+Parks_day_types <- stack(mget(c('Weekend_holiday', 'Weekday'))) %>% rename(Park_trail = values, Day_type = ind)
+
+# Tidy workbooks
+
+tidy_sample_class_wkbk <- function(df) {
+
+  df_tidy <- df %>%
+  rename(Park_trail = 1, Entrance = 2) %>%
+  filter(!is.na(Park_trail) & Park_trail != '#7' & Park_trail != 'Multipliers' & Park_trail != 'Trail:' & Park_trail != 'Park:' & Park_trail != 'Entrance #' & Entrance != 'Entrance #' & !is.na(Entrance) & Entrance!= 'new in 2017' & Entrance != 'LAW' & Entrance != 'BAY') %>%
+  gather(`High 8-10`:`Low 6-8`, key = 'Usage_class_time', value = 'Slot') %>%
+  filter(!is.na(Slot) & Slot != 0) %>%
+  select(-Slot) %>%
+  separate(Usage_class_time, into = c('Usage_class', 'Time'), sep = ' ') %>%
+  separate(Time, into = c('Start_time', 'End_time'), sep = '-') %>%
+  select(-End_time) %>%
+  mutate(Dbl_zero = "00") %>%
+  unite(Start_time_2, Start_time, Dbl_zero, sep = '') %>%
+  rename(Start_time = Start_time_2) %>%
+  mutate(Park_trail = as.numeric(Park_trail),
+         Entrance = as.numeric(Entrance))
+
+df_final <- left_join(df_tidy, Parks_day_types, by = c('Park_trail'))
+
+}
+
+# Ensure n always equals 12 (6 timeslots for weekend/holidays, 6 timeslots for weekdays)
+check_count <- function(df) {
+  
+  df %>%
+  group_by(Park_trail, Entrance) %>%
+  count() %>%
+  filter(n != 12)
+}
+
+```
+
+# Let the tidying begin
+
+## Tidy all agencies except Ramsey (weekdays and weekends have separate classifications)
+
+```{r}
+setwd('.')
+setwd('Datasets/Former Class Workbooks/')
+parks_classes_18 <- list.files(pattern = '*.csv')
+
+list2env(map(set_names(parks_classes_18, gsub('.csv$', '', parks_classes_18)), read_csv), envir = .GlobalEnv)
+
+all_agencies_classes <- list(Anoka_County, Bloomington, Carver_County, Dakota_County, Minneapolis_Park_and_Recreation_Board, Saint_Paul, Scott_County, Three_Rivers_Park_District, Washington_County)
+
+agencies_class_tidy <- map(all_agencies_classes, tidy_sample_class_wkbk)
+
+agencies_class_bound <- do.call(bind_rows, agencies_class_tidy)
+
+```
+
+## Tidy Ramsey
+
+```{r}
+
+Ramsey_County_Weekday_I <- Ramsey_County_Weekday %>%
+  mutate(Day_type = 'Weekday')
+
+Ramsey_County_Weekend_I <- Ramsey_County_Weekend %>%
+  mutate(Day_type = 'Weekend_holiday')
+
+tidy_ramsey_sample_class <- function(df) {
+  
+df_tidy <- df %>%
+  rename(Park_trail = 1, Entrance = 2) %>%
+  filter(!is.na(Park_trail) & Park_trail != '#7' & Park_trail != 'Multipliers' & Park_trail != 'Trail:' & Park_trail != 'Park:' & Park_trail != 'Entrance #' & Entrance != 'Entrance #' & !is.na(Entrance) & Entrance!= 'new in 2017' & Entrance != 'LAW' & Entrance != 'BAY') %>%
+  gather(`High 8-10`:`Low 6-8`, key = 'Usage_class_time', value = 'Slot') %>%
+  filter(!is.na(Slot)) %>%
+  select(-Slot) %>%
+  separate(Usage_class_time, into = c('Usage_class', 'Time'), sep = ' ') %>%
+  separate(Time, into = c('Start_time', 'End_time'), sep = '-') %>%
+  select(-End_time) %>%
+  mutate(Dbl_zero = "00") %>%
+  unite(Start_time_2, Start_time, Dbl_zero, sep = '') %>%
+  rename(Start_time = Start_time_2) %>%
+  mutate(Park_trail = as.numeric(Park_trail),
+         Entrance = as.numeric(Entrance))
+
+}
+
+ramsey_classes <- list(Ramsey_County_Weekday_I, Ramsey_County_Weekend_I)
+
+ramsey_class_tidy <- map(ramsey_classes, tidy_ramsey_sample_class)
+
+ramsey_class_bound <- do.call(bind_rows, ramsey_class_tidy)
+
+ramsey_class_bound %>%
+  filter(is.na(Park_trail))
+
+ramsey_class_bound %>%
+  select(Park_trail) %>%
+  unique()
+
+```
+
+```{r}
+
+all_agencies_class_bound <- bind_rows(agencies_class_bound, ramsey_class_bound)
+
+all_agencies_class_tidy <- all_agencies_class_bound %>%
+  mutate(Start_time = ifelse(Start_time == 200, 1400,
+                             ifelse(Start_time == 400, 1600,
+                                    ifelse(Start_time == 600, 1800, Start_time)))) %>%
+  filter(!is.na(Park_trail))
+  # mutate(Start_time = format(strptime(substr(as.POSIXct(sprintf("%04.f", as.numeric(Start_time)), format="%H%M"), 12, 16), '%H:%M'), '%I:%M %p')) %>%
+  # mutate(Start_time = as.factor(Start_time))
+
+# Determine if any entrances have more than one designation for a unique timeslot -> it's a mistake if they do!  Check sample class workbooks, entrance site descriptions, and syntaxes to determine correct designation
+entrances_with_multiple_designations <- all_agencies_class_tidy %>%
+  group_by(Park_trail, Entrance, Start_time, Day_type) %>%
+  count() %>%
+  filter(n > 1)
+
+#write_csv(all_agencies_class_tidy, '2018 Entrance Usage Classification Index.csv')
+
+```
+
+```{r}
+# Write out each agency's data as a separate dataframe to send to agencies for update; first, add agency attribute
+setwd('..')
+setwd('Indices')
+agencies_park_cw <- read_csv('Park and Agency Codes Index.csv')
+
+usage_classifications_agency <- left_join(all_agencies_class_tidy, agencies_park_cw, by = c('Park_trail' = 'Park_id'))
+
+usage_classifications_agency_tidy <- usage_classifications_agency %>%
+  select(Agency_name, Agency_id, Park_name, Park_trail, Entrance, Start_time, Day_type, Usage_class) %>%
+  rename(Park_trail_id = Park_trail,
+         Entrance_id = Entrance) %>%
+  arrange(Agency_id, Park_trail_id, Entrance_id, Start_time) %>%
+  mutate(Start_time = format(strptime(substr(as.POSIXct(sprintf("%04.f", as.numeric(Start_time)), format="%H%M"), 12, 16), '%H:%M'), '%I:%M %p')) %>%
+  mutate(Start_time = factor(Start_time, levels = c('08:00 AM', '10:00 AM', '12:00 PM', '02:00 PM', '04:00 PM', '06:00 PM'))) %>%
+  arrange(Agency_id, Park_trail_id, Entrance_id, Start_time)
+```
+
+```{r}
+park_entrance_names <- read_csv('2018 Park Entrance Names.csv')
+
+park_entrance_names_tidy <- park_entrance_names %>%
+  mutate(Park_trail_id = as.numeric(Park_trail_id))
+
+usage_classifications_full <- left_join(usage_classifications_agency_tidy, park_entrance_names_tidy, by = c('Agency_id', 'Park_trail_id', 'Entrance_id'))
+
+usage_classifications_tidy <- usage_classifications_full %>%
+  select(Agency_name, Agency_id, Park_name, Park_trail_id, Entrance_name, Entrance_id, everything()) %>%
+  rename(Park_or_trail_name = Park_name)
+
+```
+
+
+```{r}
+# Add agency attribution; sort, arrange, and mutate variables prior to writing out
+# entrance_classifications <- read_csv('2018 Entrance Usage Classifications Index.csv')
+# park_ids <- read_csv('Park and Agency Codes Index.csv')
+# park_agencies_classifications <- left_join(entrance_classifications, park_ids, by = c('Park_trail' = 'Park_id'))
+# 
+# parks_agencies_classifications_tidy <- park_agencies_classifications %>%
+#   select(Agency_name, Agency_id, Park_name, Park_trail, Entrance, Start_time, Day_type, Usage_class) %>%
+#   rename(Park_trail_id = Park_trail,
+#          Entrance_id = Entrance) %>%
+#   arrange(Agency_id, Park_trail_id, Entrance_id, Start_time) %>%
+#   mutate(Start_time = format(strptime(substr(as.POSIXct(sprintf("%04.f", as.numeric(Start_time)), format="%H%M"), 12, 16), '%H:%M'), '%I:%M %p')) %>%
+#   mutate(Start_time = as.factor(Start_time))
+
+#write_csv(parks_agencies_classifications_tidy, '2018 Entrance Usage Classifications with Agency Attribution Index.csv')
+
+# parks_agencies_classifications <- read_csv('2018 Entrance Usage Classifications with Agency Attribution Index.csv')
+# agencies_entrance_names <- read_csv('2018 Park Entrance Names.csv')
+
+```
+
+## Separate into respective agencies and save to file to send to agencies for 2019 update
+
+```{r}
+anoka_entrances <- usage_classifications_tidy %>%
+  filter(Agency_id == 1) %>%
+  select(-Agency_id, -Agency_name, -Day_type) %>%
+  unique()
+
+bloomington_entrances <- usage_classifications_tidy %>%
+  filter(Agency_id == 2) %>%
+  select(-Agency_id, -Agency_name, -Day_type) %>%
+  unique()
+
+carver_entrances <- usage_classifications_tidy %>%
+  filter(Agency_id == 3) %>%
+  select(-Agency_id, -Agency_name, -Day_type) %>%
+  unique()
+
+dakota_entrances <- usage_classifications_tidy %>%
+  filter(Agency_id == 4) %>%
+  select(-Agency_id, -Agency_name, -Day_type) %>%
+  unique()
+
+mprb_entrances <- usage_classifications_tidy %>%
+  filter(Agency_id == 5) %>%
+  select(-Agency_id, -Agency_name, -Day_type) %>%
+  unique()
+
+ramsey_entrances <- usage_classifications_tidy %>%
+  filter(Agency_id == 6) %>%
+  select(-Agency_id, -Agency_name)
+
+st_paul_entrances <- usage_classifications_tidy %>%
+  filter(Agency_id == 7) %>%
+  select(-Agency_id, -Agency_name, -Day_type) %>%
+  unique()
+
+scott_entrances <- usage_classifications_tidy %>%
+  filter(Agency_id == 8) %>%
+  select(-Agency_id, -Agency_name, -Day_type) %>%
+  unique()
+
+trpd_entrances <- usage_classifications_tidy %>%
+  filter(Agency_id == 9) %>%
+  select(-Agency_id, -Agency_name, -Day_type) %>%
+  unique()
+
+washington_entrances <- usage_classifications_tidy %>%
+  filter(Agency_id == 10) %>%
+  select(-Agency_id, -Agency_name, -Day_type) %>%
+  unique()
+```
+
+```{r}
+parks_by_agency_list <- list(Anoka_Entrance_Classifications = anoka_entrances, Bloomington_Entrance_Classifications = bloomington_entrances, Carver_Entrance_Classifications = carver_entrances, Dakota_Entrance_Classifications = dakota_entrances, MPRB_Entrance_Classifications = mprb_entrances, Ramsey_Entrance_Classifications = ramsey_entrances, St_Paul_Entrance_Classifications = st_paul_entrances, Scott_Entrance_Classifications = scott_entrances, TRPD_Entrance_Classifications = trpd_entrances, Washington_Entrance_Classifications = washington_entrances)
+```
+
+```{r}
+#setwd('..')
+# All folders in destination path below must already exist and be ready for population
+parks_by_agency_list %>%
+  names(.) %>%
+  map(~ write_csv(parks_by_agency_list[[.]], paste0("2018 Classifications to Send for 2019 Update with Entrance Names/", ., ".csv")))
+
+```
+
+
+
+
+
+
+

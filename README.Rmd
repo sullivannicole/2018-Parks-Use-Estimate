@@ -1,0 +1,65 @@
+---
+title: "README"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+# Process for Creating the Annual Estimate of Visitor Use of Regional Parks
+
+## Step 0:  Download and import data; tidy and write out to send to agencies
+
+Data is entered in surveys on the Met Council's Qualtrics account.  Login info for the Qualtrics account is available at N:/CommDev/Research/Research/Parks_Regional.  There are 10 separate regional parks agencies, each of which enter their data in a separate form, resulting in 10 separate datasets in Qualtrics.  Each of these should be downloaded as csv file and all should be stored in one folder together to permit simultaneous import.  In this step, these dataframes are also slightly tidied (a Qualtrics log-related non-observation row and several Qualtrics log-related variables are removed) and written out to a folder entitled 'Sets to Send for Accuracy Audit'.  These datasets will be sent to agencies with a request that they verify the data entered against the data counts on their hard copies.
+
+## Step 1:  Bind all agencies' data together
+
+Each of the 10 forms provided for the agencies have different numbering conventions, and the datasets are imported with the question number as the variable name, or heading.  In this step, variables are renamed with uniform, intuitive names, and bound together so that all steps following are performed across all data at once.
+
+## Step 2:  Create a day type variable (weekend/holiday or weekday); create a variable with the total number of days for that day type in the season
+
+The day type is an intermediary step between the recorded date in the raw data and coding the total number of days in the season that year that are that day type, as well as assigning some entrance usage classifications.  The day type variable itself is not used in the analysis - only the total number of days in the season that are the same day type as that date (weekend/holiday or weekday).  For example, most summer seasons have 30-some weekend/holiday days, and 60-some weekdays.  2017 had 33 weekend/holiday days (including the Saturday and Sunday preceding Memorial Day), and 67 weekdays.  Because usage of parks varies dramatically between work and non-work days, the number of visitors counted at a particular entrance of a trail/park is multiplied only across the number of days in the season that fit in the same category.   For example, if 17 visitors visited the Northeast Diagonal Regional Trail on a non-holiday Tuesday at 10am in 2017, then 17 would get multiplied by 67 (the number of weekdays in the 2017 season) to scale from usage at the trail/entrance/day/time level to trail/entrance/time usage at the seasonal level.  The multiplication is performed in step 7, but is explained here for clarity's sake.
+
+## Step 2a:  Add numeric Park Identifier to dataset (used in step 3 to add park entrance usage classifications)
+
+Why convert from park name to a park ID?  Mainly, this helps one match the park's use estimate for the current year to that park's use estimates for past years (in step 7).  Some parks or trails change names but geographically remain the same; therefore, analyzing park/trail data using a unique ID for each park/trail rather than their unique title makes joining to estimates for past years' usages simpler.
+
+## Step 3:  Add Park Entrance Usage Classifications (High, Medium or Low)
+
+Park entrance usage classifications are determined by park agencies, and are intra-park comparable; that is, what is a 'high' use entrance on one park or trail may be a 'low' use entrance on another park or trail (the Visitor Use Study, conducted every 5 years, then determines the multipliers for the usage classes by park by sampling from an entrance of each usage class at each park).  These classifications are, like the day type variable in the previous step, an intermediary step between the recorded park/entrance in the raw data and the expansion factor assigned in step 6 and used for multiplication in step 7.  The expansion factors determine how to scale counts at the trail/day/time level to usage at the park level on that day type for all trails of that usage classification.
+
+## Step 4:  Add persons per vehicle and persons per bus multipliers
+
+The persons per vehicle and persons per bus multipliers are defined by the 5-Year Visitor Use Study; the vehicle and bus multipliers used here are defined by the 2016 Visitor Study and 1998-1999 Visitor Study, respectively, as there wasn't a representative sample of bus travel to parks in either the 2008 or 2016 Visitor Study.  The multipliers are used to determine number of individuals traveling by car or bus into a park (annual samples count only vehicles or buses, and not the individuals within these transportation modes, according to sampling instructions).  These multipliers are defined at the park level, and are used to scale up bus and vehicle counts only (which occurs in step 5).
+
+## Step 5:  Calculate total visitors in sample at each park entrance by date and time of day & assign expansion factors
+
+In this step, the total number of individuals counted in the designated time frame at the designated park and entrance is calculated.  This adds together pedestrians/skaters, bikers, those traveling in a vehicle (calculated by multiplying number of vehicles by the given multiplier), those traveling by bus (calculated by multiplying number of buses by the given multiplier), those traveling by horseback, and those traveling by boat.  At this point, only scaling up the bus and vehicle counts has occurred.
+
+Expansion factors are assigned based on the park, park entrance class, and the day type (weekend/holiday or weekday).  The expansion factors are **the number of trail entrance/timeslot combinations within a particular usage type (high, medium or low; added in step 3)** at a particular park in that season.  Note that usage type is fluid throughout time - a park entrance designated as 'high' at 8 AM may be designated as 'low' at 6 PM.  Therefore, the expansion factor is defined by a combination of **BOTH** entrance **AND** time.  The equation
+
+$$ Trail\:entrances\:X\:Timeslots = Expansion\:Factor\:for\:Usage\:Classification\:at\:Park $$
+describes this temporal-spatial scalar.  These expansion factors are used to scale counts on one trail/timeslot to all trail/timeslots of that class within that park.  Take, for example, Carver's Lake Waconia Park's entrance #1, which is medium usage from 8 to noon (two timeslots), and high usage from noon to 8 PM (four timeslots).  Because those four timeslots at that entrance are the only time-place combinations at the Lake Waconia Park designated as 'high' usage, a count at a 'high' usage site at the Lake Waconia Park would be expanded by 1 trail X 4 timeslots = **4** (expansion factor).  However, the Dakota Rail Regional Trail has **5 entrances** at which **all 6 timeslots** (8-10, 10-noon, noon-2, 2-4, 4-6, 6-8) are designated as 'high' - so a Dakota Rail Regional Trail count at any of these sites would be expanded by **5 trails X 6 timeslots = 30 (expansion factor)**.  If trails have timeslots that differ in classification, trail entrances are multiplied and then added.  Minneapolis' Above the Falls Park, for example, has 5 entrances that are, at some point throughout the day, designated as 'high' usage.  Entrances 1, 10 and 11 each have 2 high usage timeslots, 7 has 1, and entrance 8 has 6 high usage timeslots.  This results in the following equation
+
+$$ (3*2)+(1*1)+(1*6) = 13 $$
+giving these Above the Falls entrances and timeslots an expansion factor each of 13.
+
+As of EOY 2018, the park entrance classification sampling matrix was kept in a workbook entitled 'XXXX Sample Class Workbook', where XXXX is the year.  Consult this workbook to determine the classifications of trail entrances/times for the given year (usually the expansion factor has already been calculated in this workbook as well).  In 2019, the process used to capture entrance usage designation was changed slightly - classifications are now contained in a 'tidy' format csv which eases usage both directly in Excel (using filters and Pivot Tables) and in R/RStudio (i.e. sans conversion).
+
+## Step 6:  Compute expanded total of visitors at entrance and by date and time of day
+
+In this step, counts at a particular trail are scaled up to the park and all-day level (via the expansion factors added in step 6) and then further, up to the seasonal level (via the number of days in that particular day type, be it weekend/holiday or weekday).  The result is a number that represents the seasonal count for that class of trail (i.e. entrance/time combo) and park, based on a single count that has been successively scaled up.  Note that adding **all** the expanded totals in the dataframe now would be improper, as each trail entrance has been scaled up to all trail entrances of that class in the given park.  Instead, these expanded totals will be averaged across groupings and subsequently summed in step 9.
+
+## Step 7:  Add previous four years (or less) of data to current year
+
+Because conducting counts of a representative nature is cost-prohibitive (see the Met Council's July 2018 Report: METHODOLOGY FOR PRODUCING THE REGIONAL PARKS SYSTEM ANNUAL USE ESTIMATE for more detailed information), the newly processed year's worth of data is added to the previous four year (or less) of available data to obtain a large enough sample (i.e. representative) over which to average (in the next step).  The methodology report notes that
+
+> The four-year approach reduces the effect of extreme weather or other anomalies on each park's estimated visitation.  It reduces the effects of a temporary closure of a popular facility and road construction to the facility.  The four-year average also somewhat underestimates increased visitation associated with a major new facility such as a swim pond or play structure.  By the fourth year of the facility's existence, its visitation is fully represented in the data.  The annual estimate makes no attempt to correct for temporary closures or underestimates for facility additions.  All agencies in the regional system are adding desirable facilities and experiencing temporary closures of facilities that are being redeveloped.  Therefore, it is believed that the four-year average has negligible effects when comparing visitation across agencies.
+
+## Step 8:  Compute averages by Park, Trail Entrance/Timeslot Classification, and Day type (Weekend/holiday or Weekday)
+
+In this step, the scaled-up estimates of a seasonal count, each created based on a different base sample count, but many at identical trail entrance/time classifications on identical day types, are averaged to give *one* unique summer count for each park or trail, representative at the implementing agency level.
+
+
+
+
+

@@ -1,0 +1,618 @@
+Q29,Q1,Q15,Q17,Q17_1,Q21,Q19,Q26,Q27,Q28,Q18,Q22,Q23,Q24,Q26_1,Q27_1
+What are your initials?,Agency Name,Park or Trail,Site Entrance Number,What month is it?,What day of the month is it?,What is the year?,Which timeslot best represents the time you will be onsite to conduct the count?,Is this a scheduled count? (was this count originally scheduled for the date and timeblock previously indicated?),"If not, when was it scheduled? Include date and time.","Bikes
+
+Indicate total number of bikes, tricycles, unicycles, motorcycles. Count people, not the number of bikes. If there are 2 people on 1 bike, count it as 2.","Pedestrian/Skaters
+
+Indicate total number of walkers, joggers, runners, baby strollers, skateboarders, inline and roller skaters, people in wheelchairs, etc.","Vehicles
+
+Indicate total number of cars, vans, pickup trucks, and metro mobility van/buses.
+
+Count the number of vehicles, not the number of people in them.","Buses
+
+Indicate total number of charter, school, church group vehicles that hold more than 8 people. Be sure that the bus enters the park. Metro Transit buses on regular routes never enter parks and are NOT counted. 
+
+Count the number of buses, not the number of people in them.","Horse Riders
+
+Indicate total number of people on horses, not the number of horses. Two people on one horse =2 visits. Do not count mounted police or park patrols.","Boaters
+
+Indicate total number of people arriving at the park by boat, not those towing a boat (that's counted in the vehicle category)."
+JS,Three Rivers Park District,North Mississippi Regional Park,1,May,26,2018,8:00-10:00 AM,Yes,NA,36,11,1,0,0,0
+JS,Three Rivers Park District,Twin Lakes Regional Trail,11,May,26,2018,10:00-12:00 PM,Yes,NA,1,10,0,0,0,0
+JS,Three Rivers Park District,Twin Lakes Regional Trail,13,May,26,2018,12:00-2:00 PM,Yes,NA,1,17,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka Regional Park,4,May,27,2018,8:00-10:00 AM,Yes,NA,0,0,0,0,0,3
+JS,Three Rivers Park District,Elm Creek Park Reserve,1,May,28,2018,8:00-10:00 AM,Yes,NA,12,8,426,0,0,0
+JS,Three Rivers Park District,Rush Creek Regional Trail,9,May,28,2018,10:00-12:00 PM,Yes,NA,71,2,0,0,0,0
+JS,Three Rivers Park District,Shingle Creek Regional Trail,13,May,28,2018,12:00-2:00 PM,Yes,NA,8,0,0,0,0,0
+JS,Three Rivers Park District,Silverwood Special Recreation Feature,2,May,26,2018,4:00-6:00 PM,Yes,NA,1,14,0,0,0,0
+JS,Three Rivers Park District,Northeast Diagonal Regional Trail,1,May,26,2018,6:00-8:00 PM,Yes,NA,11,3,0,0,0,0
+JS,Three Rivers Park District,Hyland Lake Park Reserve,6,May,29,2018,4:00-6:00 PM,Yes,NA,23,1,0,0,0,0
+JS,Three Rivers Park District,Nine Mile Creek Regional Trail,26,May,29,2018,6:00-8:00 PM,Yes,NA,3,0,0,0,0,0
+JS,Three Rivers Park District,Cedar Lake LRT Regional Trail,9,May,27,2018,6:00-8:00 PM,Yes,NA,5,1,0,0,0,0
+JS,Three Rivers Park District,North Cedar Lake Regional Trail,4,May,27,2018,4:00-6:00 PM,Yes,NA,6,6,0,0,0,0
+JS,Three Rivers Park District,Luce Line Regional Trail,16,May,26,2018,4:00-6:00 PM,Yes,NA,14,7,0,0,0,0
+JS,Three Rivers Park District,Clifton French Regional Park,1,May,26,2018,6:00-8:00 PM,Yes,NA,2,2,104,0,0,0
+JS,Three Rivers Park District,Coon Rapids Dam Regional Park,3,May,28,2018,10:00-12:00 PM,Yes,NA,118,93,0,0,0,0
+JS,Three Rivers Park District,Crystal Lake Regional Trail,19,May,31,2018,10:00-12:00 PM,Yes,NA,1,2,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,27,May,26,2018,6:00-8:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Twin Lakes Regional Trail,11,June,2,2018,8:00-10:00 AM,Yes,NA,4,12,0,0,0,0
+JS,Three Rivers Park District,Carver Park Reserve,2,May,26,2018,4:00-6:00 PM,Yes,NA,6,7,7,0,0,0
+JS,Three Rivers Park District,North Mississippi Regional Park,1,June,2,2018,10:00-12:00 PM,Yes,NA,3,9,2,0,0,0
+JS,Three Rivers Park District,Noerenberg Gardens Special Recreation Feature,1,June,3,2018,12:00-2:00 PM,Yes,NA,0,0,4,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka Regional Park,1,June,3,2018,2:00-4:00 PM,Yes,NA,0,0,58,0,0,0
+JS,Three Rivers Park District,Noerenberg Gardens Special Recreation Feature,1,June,7,2018,10:00-12:00 PM,Yes,NA,2,0,4,0,0,0
+JS,Three Rivers Park District,Lake Independence Regional Trail,7,May,29,2018,4:00-6:00 PM,No,06/05/2018 4-6 pm,2,0,0,0,0,0
+JS,Three Rivers Park District,Baker Park Reserve,1,May,29,2018,2:00-4:00 PM,No,06/05/2018 2-4pm,0,0,21,0,0,0
+JS,Three Rivers Park District,Rush Creek Regional Trail,1,June,3,2018,10:00-12:00 PM,Yes,NA,19,6,0,0,0,0
+JS,Three Rivers Park District,Elm Creek Park Reserve,1,June,3,2018,12:00-2:00 PM,Yes,NA,10,1,147,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka Regional Park,1,June,4,2018,10:00-12:00 PM,Yes,NA,0,0,45,2,0,0
+JS,Three Rivers Park District,Luce Line Regional Trail,19,June,3,2018,4:00-6:00 PM,Yes,NA,42,36,0,0,0,0
+JS,Three Rivers Park District,Clifton French Regional Park,1,June,3,2018,2:00-4:00 PM,Yes,NA,1,10,164,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,36,June,2,2018,4:00-6:00 PM,Yes,NA,4,8,0,0,0,0
+JS,Three Rivers Park District,North Cedar Lake Regional Trail,1,June,1,2018,10:00-12:00 PM,Yes,NA,56,11,0,0,0,0
+JS,Three Rivers Park District,Cedar Lake LRT Regional Trail,7,June,1,2018,8:00-10:00 AM,Yes,NA,21,6,0,0,0,0
+JS,Three Rivers Park District,Cleary Lake Regional Park (Scott County),1,June,2,2018,2:00-4:00 PM,Yes,NA,0,0,29,0,0,0
+JS,Three Rivers Park District,Bassett Creek Regional Trail,1,June,10,2018,12:00-2:00 PM,Yes,NA,1,10,0,0,0,0
+JS,Three Rivers Park District,Fish Lake Regional Park,1,June,10,2018,10:00-12:00 PM,Yes,NA,2,0,52,0,0,0
+JS,Three Rivers Park District,Twin Lakes Regional Trail,11,June,9,2018,10:00-12:00 PM,Yes,NA,1,53,0,0,0,0
+JS,Three Rivers Park District,North Mississippi Regional Park,1,June,9,2018,8:00-10:00 AM,Yes,NA,19,5,4,0,0,0
+JS,Three Rivers Park District,Coon Rapids Dam Regional Park,3,June,7,2018,4:00-6:00 PM,Yes,NA,37,80,0,0,0,0
+JS,Three Rivers Park District,Shingle Creek Regional Trail,41,June,7,2018,12:00-2:00 PM,Yes,NA,0,4,0,0,0,0
+JS,Three Rivers Park District,Crystal Lake Regional Trail,6,June,6,2018,8:00-10:00 AM,Yes,NA,0,2,0,0,0,0
+JS,Three Rivers Park District,Elm Creek Park Reserve,2,June,5,2018,12:00-2:00 PM,Yes,NA,16,0,0,0,0,0
+JS,Three Rivers Park District,Crystal Lake Regional Trail,4,June,3,2018,12:00-2:00 PM,Yes,NA,7,4,0,0,0,0
+JS,Three Rivers Park District,Northeast Diagonal Regional Trail,1,June,3,2018,10:00-12:00 PM,Yes,NA,13,11,0,0,0,0
+JS,Three Rivers Park District,Silverwood Special Recreation Feature,1,June,3,2018,8:00-10:00 AM,Yes,NA,0,17,54,0,0,0
+JS,Three Rivers Park District,Silverwood Special Recreation Feature,1,June,1,2018,4:00-6:00 PM,Yes,NA,0,9,113,0,0,0
+JS,Three Rivers Park District,Northeast Diagonal Regional Trail,1,June,1,2018,2:00-4:00 PM,Yes,NA,14,7,0,0,0,0
+JS,Three Rivers Park District,Crow-Hassan Park Reserve,5,June,3,2018,2:00-4:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Hyland Lake Park Reserve,3,June,3,2018,6:00-8:00 PM,Yes,NA,14,14,12,0,0,0
+JS,Three Rivers Park District,Nine Mile Creek Regional Trail,44,June,3,2018,4:00-6:00 PM,Yes,NA,34,12,0,0,0,0
+JS,Three Rivers Park District,Lake Independence Regional Trail,9,June,7,2018,12:00-2:00 PM,Yes,NA,0,6,0,0,0,0
+JS,Three Rivers Park District,Baker Park Reserve,2,June,7,2018,10:00-12:00 PM,Yes,NA,0,3,0,0,0,0
+JS,Three Rivers Park District,Nokomis-Minnesota River Regional Trail,5,June,7,2018,6:00-8:00 PM,Yes,NA,6,5,0,0,0,0
+JS,Three Rivers Park District,Carver Park Reserve,4,June,2,2018,2:00-4:00 PM,Yes,NA,0,2,5,0,0,1
+JS,Three Rivers Park District,Dakota Rail Regional Trail,12,May,29,2018,10:00-12:00 PM,Yes,NA,10,3,0,0,0,0
+sp,Three Rivers Park District,Eagle Lake Regional Park,4,June,16,2018,12:00-2:00 PM,Yes,NA,0,0,0,0,0,0
+sp,Three Rivers Park District,Dakota Rail Regional Trail,10,June,13,2018,4:00-6:00 PM,Yes,NA,4,14,0,0,0,0
+sp,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,17,June,13,2018,6:00-8:00 PM,Yes,NA,0,0,0,0,0,0
+sp,Three Rivers Park District,Clifton French Regional Park,2,June,11,2018,12:00-2:00 PM,Yes,NA,2,6,0,0,0,0
+sp,Three Rivers Park District,Luce Line Regional Trail,20,June,11,2018,2:00-4:00 PM,Yes,NA,1,0,0,0,0,0
+sp,Three Rivers Park District,Minnesota River Bluffs Regional Trail,7,June,10,2018,2:00-4:00 PM,Yes,NA,23,54,0,0,0,0
+sp,Three Rivers Park District,Bryant Lake Regional Park,1,June,10,2018,4:00-6:00 PM,Yes,NA,0,4,80,0,0,0
+sp,Three Rivers Park District,Elm Creek Park Reserve,1,June,9,2018,2:00-4:00 PM,Yes,NA,1,1,90,0,0,0
+sp,Three Rivers Park District,Rush Creek Regional Trail,9,June,9,2018,4:00-6:00 PM,Yes,NA,8,1,0,0,0,0
+SS,Three Rivers Park District,Kingswood Special Recreation Feature,1,June,12,2018,10:00-12:00 PM,Yes,NA,0,0,0,0,0,0
+SS,Three Rivers Park District,Gale Woods Special Recreation Feature,1,June,12,2018,12:00-2:00 PM,Yes,NA,0,0,22,0,0,0
+SS,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,20,June,9,2018,2:00-4:00 PM,Yes,NA,3,12,0,0,0,0
+ss,Three Rivers Park District,Carver Park Reserve,8,June,9,2018,6:00-8:00 PM,Yes,NA,0,0,4,0,0,0
+js,Three Rivers Park District,Murphy-Hanrehan Park Reserve (Scott County),1,June,2,2018,12:00-2:00 PM,Yes,NA,4,8,8,0,0,0
+JS,Three Rivers Park District,Dakota Rail Regional Trail,1,June,4,2018,12:00-2:00 PM,Yes,NA,43,4,0,0,0,0
+HB,Three Rivers Park District,Twin Lakes Regional Trail,14,June,11,2018,12:00-2:00 PM,Yes,NA,0,0,0,0,0,0
+HB,Three Rivers Park District,Northeast Diagonal Regional Trail,2,June,11,2018,4:00-6:00 PM,Yes,NA,6,3,0,0,0,0
+HB,Three Rivers Park District,Silverwood Special Recreation Feature,1,June,11,2018,6:00-8:00 PM,Yes,NA,0,1,22,0,0,0
+HB,Three Rivers Park District,Shingle Creek Regional Trail,41,June,15,2018,8:00-10:00 AM,Yes,NA,10,7,0,0,0,0
+HB,Three Rivers Park District,Coon Rapids Dam Regional Park,2,June,15,2018,10:00-12:00 PM,Yes,NA,30,2,19,0,0,0
+HB,Three Rivers Park District,Shingle Creek Regional Trail,13,June,17,2018,10:00-12:00 PM,Yes,NA,3,8,0,0,0,0
+HB,Three Rivers Park District,Coon Rapids Dam Regional Park,2,June,17,2018,12:00-2:00 PM,Yes,NA,42,9,51,0,0,0
+HB,Three Rivers Park District,Crystal Lake Regional Trail,11,June,17,2018,4:00-6:00 PM,Yes,NA,0,0,0,0,0,0
+HB,Three Rivers Park District,Medicine Lake Regional Trail,36,June,17,2018,6:00-8:00 PM,Yes,NA,0,1,0,0,0,0
+HB,Three Rivers Park District,Northeast Diagonal Regional Trail,1,June,19,2018,4:00-6:00 PM,Yes,NA,13,9,0,0,0,0
+HB,Three Rivers Park District,Silverwood Special Recreation Feature,1,June,19,2018,6:00-8:00 PM,Yes,NA,1,13,71,0,0,0
+HB,Three Rivers Park District,Shingle Creek Regional Trail,12,June,21,2018,10:00-12:00 PM,Yes,NA,0,0,0,0,0,0
+LG,Three Rivers Park District,Elm Creek Park Reserve,11,June,9,2018,8:00-10:00 AM,Yes,NA,1,2,12,0,0,0
+LG,Three Rivers Park District,Eagle Lake Regional Park,4,June,8,2018,12:00-2:00 PM,Yes,NA,0,0,0,0,0,0
+LG,Three Rivers Park District,Rush Creek Regional Trail,1,June,7,2018,8:00-10:00 AM,Yes,NA,11,12,0,0,0,0
+LG,Three Rivers Park District,Elm Creek Park Reserve,1,June,7,2018,10:00-12:00 PM,Yes,NA,1,2,85,7,0,0
+LG,Three Rivers Park District,Elm Creek Park Reserve,4,June,6,2018,4:00-6:00 PM,Yes,NA,2,5,0,0,0,0
+LG,Three Rivers Park District,Elm Creek Park Reserve,7,June,6,2018,10:00-12:00 PM,Yes,NA,0,0,1,0,0,0
+LG,Three Rivers Park District,Bassett Creek Regional Trail,12,June,8,2018,10:00-12:00 PM,Yes,NA,2,3,0,0,0,0
+JS,Three Rivers Park District,Luce Line Regional Trail,18,June,9,2018,10:00-12:00 PM,Yes,NA,12,2,0,0,0,0
+JS,Three Rivers Park District,Nine Mile Creek Regional Trail,11,June,8,2018,6:00-8:00 PM,Yes,NA,8,6,0,0,0,0
+JS,Three Rivers Park District,Hyland Lake Park Reserve,1,June,8,2018,4:00-6:00 PM,Yes,NA,3,0,86,0,0,0
+JS,Three Rivers Park District,Nokomis-Minnesota River Regional Trail,8,June,8,2018,10:00-12:00 PM,Yes,NA,1,6,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,28,June,6,2018,12:00-2:00 PM,Yes,NA,12,17,0,0,0,0
+AB,Three Rivers Park District,Murphy-Hanrehan Park Reserve (Scott County),5,June,17,2018,4:00-6:00 PM,Yes,NA,0,0,0,0,0,0
+AB,Three Rivers Park District,Bassett Creek Regional Trail,4,June,18,2018,6:00-8:00 PM,Yes,NA,8,13,0,0,0,0
+JS,Three Rivers Park District,Nokomis-Minnesota River Regional Trail,5,June,10,2018,2:00-4:00 PM,Yes,NA,3,7,0,0,0,0
+JS,Three Rivers Park District,Clifton French Regional Park,2,June,9,2018,12:00-2:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Clifton French Regional Park,1,June,14,2018,2:00-4:00 PM,Yes,NA,0,3,90,0,0,0
+JS,Three Rivers Park District,Luce Line Regional Trail,11,June,14,2018,4:00-6:00 PM,Yes,NA,34,12,0,0,0,0
+AS,Three Rivers Park District,Lake Independence Regional Trail,5,June,15,2018,8:00-10:00 AM,Yes,NA,10,0,0,0,0,0
+JS,Three Rivers Park District,Cleary Lake Regional Park (Scott County),2,June,18,2018,6:00-8:00 PM,Yes,NA,2,0,0,0,0,0
+JS,Three Rivers Park District,Cleary Lake Regional Park (Scott County),4,June,17,2018,6:00-8:00 PM,Yes,NA,0,6,0,0,0,0
+JS,Three Rivers Park District,Murphy-Hanrehan Park Reserve (Scott County),7,June,9,2018,4:00-6:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Cleary Lake Regional Park (Scott County),2,June,9,2018,2:00-4:00 PM,Yes,NA,2,0,0,0,0,0
+AB,Three Rivers Park District,Gale Woods Special Recreation Feature,1,June,5,2018,6:00-8:00 PM,Yes,NA,1,1,5,0,0,0
+AB,Three Rivers Park District,Kingswood Special Recreation Feature,1,June,5,2018,4:00-6:00 PM,Yes,NA,0,0,0,0,0,0
+AB,Three Rivers Park District,Hyland Lake Park Reserve,1,June,7,2018,10:00-12:00 PM,Yes,NA,3,0,120,4,0,0
+AB,Three Rivers Park District,Nine Mile Creek Regional Trail,11,June,6,2018,12:00-2:00 PM,Yes,NA,3,5,0,0,0,0
+TL,Three Rivers Park District,Twin Lakes Regional Trail,11,June,15,2018,12:00-2:00 PM,Yes,NA,0,9,0,0,0,0
+TL,Three Rivers Park District,North Mississippi Regional Park,1,June,15,2018,10:00-12:00 PM,Yes,NA,6,0,3,0,0,0
+NG,Three Rivers Park District,Lake Rebecca Park Reserve,1,June,11,2018,12:00-2:00 PM,Yes,NA,0,0,16,0,0,0
+NG,Three Rivers Park District,Rush Creek Regional Trail,12,June,9,2018,4:00-6:00 PM,Yes,NA,2,2,0,0,0,0
+NG,Three Rivers Park District,Elm Creek Park Reserve,5,June,9,2018,2:00-4:00 PM,Yes,NA,0,0,16,0,0,0
+NG,Three Rivers Park District,Noerenberg Gardens Special Recreation Feature,1,June,8,2018,6:00-8:00 PM,Yes,NA,0,2,7,0,0,0
+NG,Three Rivers Park District,Eagle Lake Regional Park,3,June,14,2018,4:00-6:00 PM,Yes,NA,0,2,14,0,0,0
+NG,Three Rivers Park District,Bassett Creek Regional Trail,1,June,14,2018,6:00-8:00 PM,Yes,NA,6,13,0,0,0,0
+DP,Three Rivers Park District,Luce Line Regional Trail,13,June,23,2018,10:00-12:00 PM,Yes,NA,3,9,0,0,0,0
+JS,Three Rivers Park District,Cedar Lake LRT Regional Trail,1,June,15,2018,12:00-2:00 PM,Yes,NA,0,7,3,0,0,0
+JS,Three Rivers Park District,Elm Creek Park Reserve,1,June,14,2018,10:00-12:00 PM,Yes,NA,0,0,147,7,0,0
+JS,Three Rivers Park District,Rush Creek Regional Trail,9,June,14,2018,12:00-2:00 PM,Yes,NA,15,5,0,0,0,0
+JS,Three Rivers Park District,Lake Independence Regional Trail,13,June,17,2018,2:00-4:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Crow-Hassan Park Reserve,2,June,21,2018,8:00-10:00 AM,Yes,NA,0,0,11,0,0,0
+JS,Three Rivers Park District,Lake Rebecca Park Reserve,1,June,21,2018,10:00-12:00 PM,Yes,NA,0,0,50,2,0,0
+JS,Three Rivers Park District,Elm Creek Park Reserve,2,June,22,2018,12:00-2:00 PM,Yes,NA,18,1,0,0,0,0
+JS,Three Rivers Park District,Eagle Lake Regional Park,3,June,17,2018,12:00-2:00 PM,Yes,NA,0,1,11,0,0,0
+JS,Three Rivers Park District,Clifton French Regional Park,1,June,18,2018,10:00-12:00 PM,Yes,NA,0,0,43,0,0,0
+JS,Three Rivers Park District,Twin Lakes Regional Trail,11,June,21,2018,4:00-6:00 PM,Yes,NA,4,29,0,0,0,0
+JS,Three Rivers Park District,North Mississippi Regional Park,2,June,21,2018,2:00-4:00 PM,Yes,NA,9,5,0,0,0,0
+JS,Three Rivers Park District,Medicine Lake Regional Trail,54,June,24,2018,2:00-4:00 PM,Yes,NA,1,5,0,0,0,0
+JS,Three Rivers Park District,Murphy-Hanrehan Park Reserve (Scott County),1,June,27,2018,12:00-2:00 PM,Yes,NA,1,2,25,0,0,0
+JS,Three Rivers Park District,Nine Mile Creek Regional Trail,21,June,25,2018,2:00-4:00 PM,Yes,NA,1,1,0,0,0,0
+JS,Three Rivers Park District,Hyland Lake Park Reserve,11,June,25,2018,12:00-2:00 PM,Yes,NA,0,5,28,0,0,0
+JS,Three Rivers Park District,Fish Lake Regional Park,2,June,24,2018,4:00-6:00 PM,No,6/18/18 4-6PM,3,13,0,0,0,0
+JS,Three Rivers Park District,Fish Lake Regional Park,3,June,24,2018,12:00-2:00 PM,Yes,NA,7,6,0,0,0,0
+JS,Three Rivers Park District,Noerenberg Gardens Special Recreation Feature,1,June,23,2018,12:00-2:00 PM,Yes,NA,0,0,21,1,0,0
+JS,Three Rivers Park District,Lake Rebecca Park Reserve,1,June,22,2018,4:00-6:00 PM,Yes,NA,1,0,33,2,0,0
+JS,Three Rivers Park District,Crow-Hassan Park Reserve,2,June,22,2018,2:00-4:00 PM,Yes,NA,0,1,16,0,0,0
+JS,Three Rivers Park District,Rush Creek Regional Trail,40,June,22,2018,10:00-12:00 PM,Yes,NA,8,21,0,0,0,0
+JS,Three Rivers Park District,Lake Independence Regional Trail,7,June,19,2018,12:00-2:00 PM,Yes,NA,1,0,0,0,0,0
+JS,Three Rivers Park District,Nokomis-Minnesota River Regional Trail,13,June,17,2018,10:00-12:00 PM,Yes,NA,2,0,0,0,0,0
+JS,Three Rivers Park District,Nokomis-Minnesota River Regional Trail,5,June,20,2018,12:00-2:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,North Mississippi Regional Park,2,June,16,2018,6:00-8:00 PM,Yes,NA,6,2,0,0,0,0
+JS,Three Rivers Park District,Twin Lakes Regional Trail,17,June,16,2018,4:00-6:00 PM,Yes,NA,0,7,0,0,0,0
+JS,Three Rivers Park District,Coon Rapids Dam Regional Park,6,June,26,2018,2:00-4:00 PM,Yes,NA,2,3,0,0,0,0
+JS,Three Rivers Park District,Shingle Creek Regional Trail,47,June,26,2018,12:00-2:00 PM,Yes,NA,4,1,0,0,0,0
+JS,Three Rivers Park District,Kingswood Special Recreation Feature,1,June,30,2018,10:00-12:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Dakota Rail Regional Trail,1,July,1,2018,4:00-6:00 PM,No,6/3/18 4-6 PM,54,16,0,0,0,0
+JS,Three Rivers Park District,Crow-Hassan Park Reserve,2,June,30,2018,8:00-10:00 AM,Yes,NA,0,0,27,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,20,June,18,2018,12:00-2:00 PM,Yes,NA,1,7,0,0,0,0
+JS,Three Rivers Park District,Gale Woods Special Recreation Feature,2,June,27,2018,10:00-12:00 PM,Yes,NA,1,1,0,0,0,0
+JS,Three Rivers Park District,Kingswood Special Recreation Feature,1,June,27,2018,12:00-2:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,North Cedar Lake Regional Trail,20,June,28,2018,12:00-2:00 PM,Yes,NA,5,3,0,0,0,0
+JS,Three Rivers Park District,Cleary Lake Regional Park (Scott County),1,June,21,2018,8:00-10:00 AM,Yes,NA,2,1,8,8,8,8
+JS,Three Rivers Park District,Murphy-Hanrehan Park Reserve (Scott County),1,June,21,2018,10:00-12:00 PM,Yes,NA,0,2,12,2,2,2
+JS,Three Rivers Park District,Minnesota River Bluffs Regional Trail,7,June,29,2018,8:00-10:00 AM,Yes,NA,4,0,0,0,0,0
+JS,Three Rivers Park District,Bryant Lake Regional Park,1,June,29,2018,10:00-12:00 PM,Yes,NA,1,3,69,2,0,0
+JS,Three Rivers Park District,Carver Park Reserve,1,June,18,2018,10:00-12:00 PM,Yes,NA,0,0,1,0,0,0
+JS,Three Rivers Park District,Noerenberg Gardens Special Recreation Feature,1,June,25,2018,8:00-10:00 AM,Yes,NA,0,10,9,0,0,0
+JS,Three Rivers Park District,Coon Rapids Dam Regional Park,5,June,21,2018,8:00-10:00 AM,Yes,NA,3,2,0,0,0,0
+JS,Three Rivers Park District,Luce Line Regional Trail,11,June,17,2018,4:00-6:00 PM,Yes,NA,8,2,0,0,0,0
+JS,Three Rivers Park District,Eagle Lake Regional Park,2,June,18,2018,4:00-6:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Eagle Lake Regional Park,3,June,18,2018,2:00-4:00 PM,Yes,NA,1,6,5,0,0,0
+JS,Three Rivers Park District,Medicine Lake Regional Trail,54,June,21,2018,12:00-2:00 PM,Yes,NA,2,7,0,0,0,0
+JS,Three Rivers Park District,Fish Lake Regional Park,3,June,21,2018,10:00-12:00 PM,Yes,NA,7,5,0,0,0,0
+JS,Three Rivers Park District,Nine Mile Creek Regional Trail,1,June,23,2018,12:00-2:00 PM,Yes,NA,4,1,0,0,0,0
+JS,Three Rivers Park District,Gale Woods Special Recreation Feature,2,June,28,2018,6:00-8:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Kingswood Special Recreation Feature,1,June,28,2018,4:00-6:00 PM,Yes,NA,0,0,1,0,0,0
+JS,Three Rivers Park District,Baker Park Reserve,4,June,19,2018,10:00-12:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka Regional Park,1,June,10,2018,2:00-4:00 PM,Yes,NA,0,0,46,0,0,0
+JS,Three Rivers Park District,Gale Woods Special Recreation Feature,2,June,30,2018,12:00-2:00 PM,Yes,NA,7,0,0,0,0,0
+JS,Three Rivers Park District,Minnesota River Bluffs Regional Trail,12,June,27,2018,12:00-2:00 PM,Yes,NA,1,3,0,0,0,0
+JS,Three Rivers Park District,Gale Woods Special Recreation Feature,1,July,4,2018,2:00-4:00 PM,Yes,NA,0,0,6,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka Regional Park,5,July,4,2018,12:00-2:00 PM,Yes,NA,6,4,0,0,0,0
+JS,Three Rivers Park District,Lake Independence Regional Trail,1,July,4,2018,8:00-10:00 AM,Yes,NA,3,5,0,0,0,0
+JS,Three Rivers Park District,Dakota Rail Regional Trail,22,June,10,2018,4:00-6:00 PM,Yes,NA,30,10,0,0,0,0
+JS,Three Rivers Park District,Silverwood Special Recreation Feature,3,July,11,2018,10:00-12:00 PM,Yes,NA,4,10,0,0,0,0
+JS,Three Rivers Park District,North Mississippi Regional Park,1,July,10,2018,6:00-8:00 PM,Yes,NA,22,20,15,0,0,0
+JS,Three Rivers Park District,Northeast Diagonal Regional Trail,1,July,11,2018,8:00-10:00 AM,Yes,NA,6,3,0,0,0,0
+JS,Three Rivers Park District,Twin Lakes Regional Trail,11,July,10,2018,4:00-6:00 PM,Yes,NA,4,38,0,0,0,0
+JS,Three Rivers Park District,Baker Park Reserve,6,July,4,2018,10:00-12:00 PM,Yes,NA,3,4,4,0,0,0
+JS,Three Rivers Park District,North Mississippi Regional Park,2,July,9,2018,6:00-8:00 PM,Yes,NA,9,0,0,0,0,0
+JS,Three Rivers Park District,Twin Lakes Regional Trail,9,July,9,2018,4:00-6:00 PM,Yes,NA,0,7,0,0,0,0
+JS,Three Rivers Park District,Northeast Diagonal Regional Trail,2,July,8,2018,6:00-8:00 PM,Yes,NA,6,2,0,0,0,0
+JS,Three Rivers Park District,Silverwood Special Recreation Feature,2,July,8,2018,4:00-6:00 PM,Yes,NA,6,15,0,0,0,0
+JS,Three Rivers Park District,Luce Line Regional Trail,27,June,28,2018,12:00-2:00 PM,Yes,NA,0,4,0,0,0,0
+JS,Three Rivers Park District,Crystal Lake Regional Trail,4,July,27,2018,4:00-6:00 PM,Yes,NA,5,10,0,0,0,0
+JS,Three Rivers Park District,Nokomis-Minnesota River Regional Trail,14,June,24,2018,10:00-12:00 PM,Yes,NA,58,6,0,0,0,0
+JS,Three Rivers Park District,Clifton French Regional Park,1,June,25,2018,12:00-2:00 PM,Yes,NA,4,2,78,0,0,0
+JS,Three Rivers Park District,North Cedar Lake Regional Trail,2,June,22,2018,12:00-2:00 PM,Yes,NA,0,1,0,0,0,0
+JS,Three Rivers Park District,Cedar Lake LRT Regional Trail,4,June,28,2018,4:00-6:00 PM,Yes,NA,28,7,0,0,0,0
+JS,Three Rivers Park District,Bassett Creek Regional Trail,1,June,18,2018,4:00-6:00 PM,Yes,NA,11,23,0,0,0,0
+JS,Three Rivers Park District,Cedar Lake LRT Regional Trail,6,June,22,2018,10:00-12:00 PM,Yes,NA,32,3,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,6,June,23,2018,12:00-2:00 PM,Yes,NA,37,9,0,0,0,0
+JS,Three Rivers Park District,Bryant Lake Regional Park,1,June,25,2018,12:00-2:00 PM,Yes,NA,0,3,83,0,0,0
+JS,Three Rivers Park District,Cedar Lake LRT Regional Trail,3,June,25,2018,2:00-4:00 PM,Yes,NA,96,8,0,0,0,0
+JS,Three Rivers Park District,Medicine Lake Regional Trail,2,July,2,2018,8:00-10:00 AM,Yes,NA,7,6,0,0,0,0
+JS,Three Rivers Park District,Minnesota River Bluffs Regional Trail,7,July,4,2018,2:00-4:00 PM,Yes,NA,3,0,0,0,0,0
+JS,Three Rivers Park District,Shingle Creek Regional Trail,13,July,5,2018,8:00-10:00 AM,Yes,NA,3,10,0,0,0,0
+JS,Three Rivers Park District,Carver Park Reserve,1,June,6,2018,2:00-4:00 PM,Yes,NA,52,0,10,0,0,0
+JS,Three Rivers Park District,Bryant Lake Regional Park,1,July,4,2018,12:00-2:00 PM,Yes,NA,0,2,137,0,0,0
+JS,Three Rivers Park District,Fish Lake Regional Park,1,July,2,2018,10:00-12:00 PM,Yes,NA,1,0,81,0,0,0
+JS,Three Rivers Park District,Bassett Creek Regional Trail,1,June,30,2018,6:00-8:00 PM,Yes,NA,8,0,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,20,June,28,2018,4:00-6:00 PM,Yes,NA,10,1,0,0,0,0
+JS,Three Rivers Park District,Eagle Lake Regional Park,3,June,30,2018,4:00-6:00 PM,Yes,NA,0,0,7,0,0,0
+JS,Three Rivers Park District,North Cedar Lake Regional Trail,1,June,25,2018,4:00-6:00 PM,Yes,NA,120,9,0,0,0,0
+JS,Three Rivers Park District,Coon Rapids Dam Regional Park,2,July,5,2018,10:00-12:00 PM,Yes,NA,56,8,40,0,0,0
+JS,Three Rivers Park District,Eagle Lake Regional Park,1,July,8,2018,12:00-2:00 PM,Yes,NA,1,6,0,0,0,0
+JS,Three Rivers Park District,Lake Rebecca Park Reserve,9,June,23,2018,12:00-2:00 PM,Yes,NA,0,0,8,0,0,0
+JS,Three Rivers Park District,Fish Lake Regional Park,1,July,8,2018,10:00-12:00 PM,Yes,NA,1,2,77,0,0,0
+JS,Three Rivers Park District,Fish Lake Regional Park,1,July,7,2018,2:00-4:00 PM,Yes,NA,5,0,118,0,0,0
+JS,Three Rivers Park District,Lake Independence Regional Trail,7,July,5,2018,4:00-6:00 PM,Yes,NA,4,3,0,0,0,0
+JS,Three Rivers Park District,Baker Park Reserve,1,July,5,2018,6:00-8:00 PM,Yes,NA,2,2,41,0,0,0
+JS,Three Rivers Park District,Lake Rebecca Park Reserve,1,June,30,2018,10:00-12:00 PM,Yes,NA,1,0,75,0,0,0
+JS,Three Rivers Park District,Elm Creek Park Reserve,27,June,26,2018,10:00-12:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Lake Rebecca Park Reserve,9,June,28,2018,6:00-8:00 PM,Yes,NA,0,0,2,0,0,0
+JS,Three Rivers Park District,Rush Creek Regional Trail,2,June,28,2018,12:00-2:00 PM,Yes,NA,3,0,0,0,0,0
+JS,Three Rivers Park District,Carver Park Reserve,8,June,24,2018,12:00-2:00 PM,Yes,NA,0,0,3,0,0,0
+JS,Three Rivers Park District,Murphy-Hanrehan Park Reserve (Scott County),1,July,3,2018,4:00-6:00 PM,Yes,NA,10,2,7,0,0,0
+JS,Three Rivers Park District,Murphy-Hanrehan Park Reserve (Scott County),1,July,4,2018,2:00-4:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Carver Park Reserve,1,June,28,2018,2:00-4:00 PM,Yes,NA,0,0,5,0,0,0
+JS,Three Rivers Park District,Noerenberg Gardens Special Recreation Feature,1,July,2,2018,4:00-6:00 PM,Yes,NA,0,0,13,0,0,0
+JS,Three Rivers Park District,Gale Woods Special Recreation Feature,1,July,7,2018,6:00-8:00 PM,Yes,NA,0,0,5,0,0,0
+JS,Three Rivers Park District,Kingswood Special Recreation Feature,1,July,7,2018,4:00-6:00 PM,Yes,NA,0,3,3,0,0,0
+JS,Three Rivers Park District,Baker Park Reserve,1,July,8,2018,4:00-6:00 PM,Yes,NA,0,0,156,0,0,0
+JS,Three Rivers Park District,Lake Independence Regional Trail,6,July,8,2018,2:00-4:00 PM,Yes,NA,4,0,0,0,0,0
+JS,Three Rivers Park District,Crow-Hassan Park Reserve,1,June,23,2018,2:00-4:00 PM,Yes,NA,0,0,3,0,0,0
+JS,Three Rivers Park District,Dakota Rail Regional Trail,22,June,19,2018,10:00-12:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka Regional Park,4,June,19,2018,8:00-10:00 AM,No,5/29/18 8-10am,0,0,0,0,0,0
+JS,Three Rivers Park District,Carver Park Reserve,7,June,13,2018,4:00-6:00 PM,Yes,NA,17,1,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka Regional Park,6,June,13,2018,6:00-8:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Murphy-Hanrehan Park Reserve (Scott County),5,June,29,2018,10:00-12:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Bryant Lake Regional Park,4,June,27,2018,10:00-12:00 PM,Yes,NA,0,0,14,0,0,0
+JS,Three Rivers Park District,Nine Mile Creek Regional Trail,1,June,30,2018,10:00-12:00 PM,Yes,NA,1,8,0,0,0,0
+JS,Three Rivers Park District,Hyland Lake Park Reserve,1,June,30,2018,12:00-2:00 PM,Yes,NA,5,0,49,0,0,0
+JS,Three Rivers Park District,Nine Mile Creek Regional Trail,10,July,2,2018,4:00-6:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Hyland Lake Park Reserve,1,July,2,2018,6:00-8:00 PM,Yes,NA,0,0,48,0,0,0
+JS,Three Rivers Park District,Hyland Lake Park Reserve,6,July,7,2018,10:00-12:00 PM,Yes,NA,3,2,0,0,0,0
+JS,Three Rivers Park District,Bryant Lake Regional Park,1,July,7,2018,2:00-4:00 PM,Yes,NA,0,0,91,0,0,0
+JS,Three Rivers Park District,Nine Mile Creek Regional Trail,30,July,7,2018,12:00-2:00 PM,Yes,NA,1,2,0,0,0,0
+JS,Three Rivers Park District,Rush Creek Regional Trail,46,July,21,2018,2:00-4:00 PM,Yes,NA,10,3,0,0,0,0
+JS,Three Rivers Park District,Twin Lakes Regional Trail,11,July,21,2018,12:00-2:00 PM,Yes,NA,1,36,0,0,0,0
+JS,Three Rivers Park District,North Mississippi Regional Park,1,July,21,2018,10:00-12:00 PM,Yes,NA,47,1,5,0,0,0
+JS,Three Rivers Park District,Murphy-Hanrehan Park Reserve (Scott County),1,July,7,2018,10:00-12:00 PM,Yes,NA,23,0,9,0,0,0
+JS,Three Rivers Park District,Bryant Lake Regional Park,4,July,15,2018,12:00-2:00 PM,Yes,NA,1,5,12,0,0,0
+JS,Three Rivers Park District,Minnesota River Bluffs Regional Trail,3,July,15,2018,2:00-4:00 PM,Yes,NA,2,0,0,0,0,0
+JS,Three Rivers Park District,Medicine Lake Regional Trail,10,July,11,2018,4:00-6:00 PM,Yes,NA,13,2,0,0,0,0
+JS,Three Rivers Park District,Bassett Creek Regional Trail,4,July,15,2018,10:00-12:00 PM,No,7/8/18 10-12pm,3,10,0,0,0,0
+JS,Three Rivers Park District,Bassett Creek Regional Trail,1,June,17,2018,2:00-4:00 PM,Yes,NA,1,3,0,0,0,0
+JS,Three Rivers Park District,Crow-Hassan Park Reserve,2,July,1,2018,10:00-12:00 PM,Yes,NA,0,0,3,0,0,0
+JS,Three Rivers Park District,Coon Rapids Dam Regional Park,2,July,7,2018,2:00-4:00 PM,Yes,NA,107,7,64,0,0,0
+JS,Three Rivers Park District,Crystal Lake Regional Trail,19,July,14,2018,10:00-12:00 PM,Yes,NA,2,4,0,0,0,0
+JS,Three Rivers Park District,Crystal Lake Regional Trail,1,June,23,2018,8:00-10:00 AM,Yes,NA,2,7,0,0,0,0
+JS,Three Rivers Park District,Cleary Lake Regional Park (Scott County),1,June,27,2018,10:00-12:00 PM,Yes,NA,10,13,44,0,0,0
+JS,Three Rivers Park District,Coon Rapids Dam Regional Park,6,July,15,2018,12:00-2:00 PM,Yes,NA,24,0,0,0,0,0
+JS,Three Rivers Park District,Fish Lake Regional Park,1,July,11,2018,6:00-8:00 PM,Yes,NA,1,2,62,0,0,0
+JS,Three Rivers Park District,Lake Rebecca Park Reserve,1,July,1,2018,8:00-10:00 AM,Yes,NA,0,0,6,0,0,0
+JS,Three Rivers Park District,Medicine Lake Regional Trail,30,July,8,2018,8:00-10:00 AM,Yes,NA,2,11,0,0,0,0
+JS,Three Rivers Park District,North Mississippi Regional Park,2,July,22,2018,12:00-2:00 PM,Yes,NA,24,2,0,0,0,0
+JS,Three Rivers Park District,Northeast Diagonal Regional Trail,1,July,15,2018,2:00-4:00 PM,Yes,NA,11,9,0,0,0,0
+JS,Three Rivers Park District,Shingle Creek Regional Trail,44,July,7,2018,12:00-2:00 PM,Yes,NA,13,3,0,0,0,0
+JS,Three Rivers Park District,Shingle Creek Regional Trail,10,July,15,2018,2:00-4:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Rush Creek Regional Trail,9,June,30,2018,6:00-8:00 PM,Yes,NA,31,0,0,0,0,0
+JS,Three Rivers Park District,Rush Creek Regional Trail,41,July,8,2018,12:00-2:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Silverwood Special Recreation Feature,1,July,15,2018,4:00-6:00 PM,Yes,NA,5,3,97,0,0,0
+JS,Three Rivers Park District,Twin Lakes Regional Trail,10,July,22,2018,10:00-12:00 PM,Yes,NA,0,6,0,0,0,0
+JS,Three Rivers Park District,Bryant Lake Regional Park,3,June,27,2018,4:00-6:00 PM,No,6/13/18 4-6pm,0,7,0,0,0,0
+JS,Three Rivers Park District,Bassett Creek Regional Trail,1,July,16,2018,2:00-4:00 PM,Yes,NA,3,0,0,0,0,0
+JS,Three Rivers Park District,Baker Park Reserve,1,July,19,2018,2:00-4:00 PM,Yes,NA,14,0,105,0,0,0
+JS,Three Rivers Park District,Baker Park Reserve,1,July,15,2018,6:00-8:00 PM,Yes,NA,0,0,27,0,0,0
+JS,Three Rivers Park District,Baker Park Reserve,1,July,21,2018,12:00-2:00 PM,Yes,NA,0,0,100,0,0,0
+JS,Three Rivers Park District,Cedar Lake LRT Regional Trail,3,July,4,2018,6:00-8:00 PM,Yes,NA,81,8,0,0,0,0
+JS,Three Rivers Park District,Crystal Lake Regional Trail,1,July,10,2018,8:00-10:00 AM,Yes,NA,2,3,0,0,0,0
+JS,Three Rivers Park District,Crystal Lake Regional Trail,1,July,21,2018,12:00-2:00 PM,Yes,NA,30,33,0,0,0,0
+JS,Three Rivers Park District,Eagle Lake Regional Park,2,July,8,2018,8:00-10:00 AM,Yes,NA,8,20,0,0,0,0
+JS,Three Rivers Park District,Eagle Lake Regional Park,3,July,1,2018,2:00-4:00 PM,No,6/10/18 2-4 pm,7,0,7,0,0,0
+JS,Three Rivers Park District,Elm Creek Park Reserve,9,July,8,2018,2:00-4:00 PM,Yes,NA,1,3,0,0,0,0
+JS,Three Rivers Park District,Fish Lake Regional Park,1,July,26,2018,8:00-10:00 AM,Yes,NA,0,1,41,0,0,0
+JS,Three Rivers Park District,Fish Lake Regional Park,6,June,29,2018,12:00-2:00 PM,No,6/8/18 12-2pm,0,1,0,0,0,0
+JS,Three Rivers Park District,Gale Woods Special Recreation Feature,2,July,22,2018,4:00-6:00 PM,Yes,NA,12,0,0,0,0,0
+JS,Three Rivers Park District,Kingswood Special Recreation Feature,1,July,22,2018,6:00-8:00 PM,Yes,NA,0,1,0,0,0,0
+JS,Three Rivers Park District,Lake Independence Regional Trail,6,July,14,2018,4:00-6:00 PM,Yes,NA,1,0,0,0,0,0
+JS,Three Rivers Park District,Lake Independence Regional Trail,3,July,15,2018,4:00-6:00 PM,Yes,NA,6,0,0,0,0,0
+JS,Three Rivers Park District,Lake Independence Regional Trail,6,July,21,2018,2:00-4:00 PM,Yes,NA,2,1,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka Regional Park,1,July,14,2018,4:00-6:00 PM,Yes,NA,0,0,70,0,0,0
+JS,Three Rivers Park District,Lake Rebecca Park Reserve,2,June,5,2018,4:00-6:00 PM,Yes,NA,0,0,3,0,0,0
+JS,Three Rivers Park District,Luce Line Regional Trail,16,July,16,2018,2:00-4:00 PM,No,6/25/18 2-4 pm,20,8,0,0,0,0
+JS,Three Rivers Park District,Luce Line Regional Trail,19,July,16,2018,12:00-2:00 PM,No,6/18/18 12-2pm,15,14,0,0,0,0
+JS,Three Rivers Park District,Medicine Lake Regional Trail,51,June,29,2018,10:00-12:00 PM,No,6/8/18 10-12pm,6,4,0,0,0,0
+JS,Three Rivers Park District,Medicine Lake Regional Trail,30,June,20,2018,4:00-6:00 PM,Yes,NA,10,1,0,0,0,0
+JS,Three Rivers Park District,Medicine Lake Regional Trail,10,July,1,2018,12:00-2:00 PM,No,6/10/18 12-2pm,12,3,0,0,0,0
+JS,Three Rivers Park District,Minnesota River Bluffs Regional Trail,2,June,27,2018,6:00-8:00 PM,No,6/13/18 6-8pm,0,0,0,0,0,0
+JS,Three Rivers Park District,Noerenberg Gardens Special Recreation Feature,1,July,15,2018,2:00-4:00 PM,Yes,NA,0,47,22,0,0,0
+JS,Three Rivers Park District,North Cedar Lake Regional Trail,1,July,11,2018,10:00-12:00 PM,Yes,NA,72,6,0,0,0,0
+JS,Three Rivers Park District,North Cedar Lake Regional Trail,1,July,11,2018,12:00-2:00 PM,Yes,NA,34,4,0,0,0,0
+JS,Three Rivers Park District,North Cedar Lake Regional Trail,1,July,4,2018,4:00-6:00 PM,Yes,NA,55,13,0,0,0,0
+JS,Three Rivers Park District,Nokomis-Minnesota River Regional Trail,13,June,21,2018,8:00-10:00 AM,Yes,NA,3,7,0,0,0,0
+JS,Three Rivers Park District,Nokomis-Minnesota River Regional Trail,14,July,2,2018,4:00-6:00 PM,Yes,NA,7,9,0,0,0,0
+JS,Three Rivers Park District,Nokomis-Minnesota River Regional Trail,5,July,7,2018,2:00-4:00 PM,Yes,NA,4,18,0,0,0,0
+JS,Three Rivers Park District,Silverwood Special Recreation Feature,3,July,2,2018,4:00-6:00 PM,Yes,NA,1,10,0,0,0,0
+JS,Three Rivers Park District,Fish Lake Regional Park,1,June,20,2018,6:00-8:00 PM,Yes,NA,5,0,43,0,0,0
+JS,Three Rivers Park District,Baker Park Reserve,1,July,28,2018,10:00-12:00 PM,Yes,NA,3,0,137,0,0,0
+JS,Three Rivers Park District,Baker Park Reserve,11,July,31,2018,6:00-8:00 PM,Yes,NA,7,4,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,6,June,23,2018,12:00-2:00 PM,No,6/16/18 12-2pm,37,9,0,0,0,0
+JS,Three Rivers Park District,Rush Creek Regional Trail,9,June,9,2018,4:00-6:00 PM,No,6/16/18 4-6pm,8,1,0,0,0,0
+JS,Three Rivers Park District,Elm Creek Park Reserve,1,June,19,2018,4:00-6:00 PM,No,6/30/18 4-6pm,0,0,53,0,0,0
+JS,Three Rivers Park District,Dakota Rail Regional Trail,12,May,27,2018,10:00-12:00 PM,Yes,NA,23,16,0,0,0,0
+JS,Three Rivers Park District,Carver Park Reserve,4,May,29,2018,4:00-6:00 PM,No,7/3/18 4-6pm,0,0,2,0,0,0
+JS,Three Rivers Park District,Bassett Creek Regional Trail,10,July,25,2018,8:00-10:00 AM,Yes,NA,0,6,0,0,0,0
+JS,Three Rivers Park District,Bassett Creek Regional Trail,8,August,4,2018,2:00-4:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Bassett Creek Regional Trail,1,July,23,2018,2:00-4:00 PM,Yes,NA,0,1,0,0,0,0
+JS,Three Rivers Park District,Clifton French Regional Park,2,August,5,2018,10:00-12:00 PM,Yes,NA,74,17,0,0,0,0
+JS,Three Rivers Park District,Clifton French Regional Park,1,June,17,2018,6:00-8:00 PM,Yes,NA,4,4,185,0,0,0
+JS,Three Rivers Park District,Clifton French Regional Park,5,July,25,2018,6:00-8:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Clifton French Regional Park,5,July,28,2018,8:00-10:00 AM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Carver Park Reserve,4,July,22,2018,8:00-10:00 AM,Yes,NA,0,1,8,0,0,14
+JS,Three Rivers Park District,Cedar Lake LRT Regional Trail,3,August,2,2018,4:00-6:00 PM,Yes,NA,197,26,0,0,0,0
+JS,Three Rivers Park District,Cleary Lake Regional Park (Scott County),4,July,27,2018,8:00-10:00 AM,No,6/29/18 8-10am,2,0,32,0,0,0
+JS,Three Rivers Park District,Coon Rapids Dam Regional Park,2,July,25,2018,12:00-2:00 PM,Yes,NA,20,2,25,0,0,0
+JS,Three Rivers Park District,Coon Rapids Dam Regional Park,6,July,24,2018,6:00-8:00 PM,Yes,NA,27,5,0,0,0,0
+JS,Three Rivers Park District,Coon Rapids Dam Regional Park,2,July,8,2018,2:00-4:00 PM,Yes,NA,111,3,63,0,0,0
+JS,Three Rivers Park District,Crow-Hassan Park Reserve,2,July,15,2018,6:00-8:00 PM,Yes,NA,0,0,5,0,0,0
+JS,Three Rivers Park District,Crow-Hassan Park Reserve,2,July,27,2018,2:00-4:00 PM,Yes,NA,0,0,3,0,0,0
+JS,Three Rivers Park District,Crow-Hassan Park Reserve,2,August,2,2018,10:00-12:00 PM,Yes,NA,0,0,13,0,0,0
+JS,Three Rivers Park District,Crow-Hassan Park Reserve,4,July,11,2018,10:00-12:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Crow-Hassan Park Reserve,3,August,6,2018,10:00-12:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Dakota Rail Regional Trail,1,August,2,2018,4:00-6:00 PM,Yes,NA,40,9,0,0,0,0
+JS,Three Rivers Park District,Eagle Lake Regional Park,3,August,5,2018,12:00-2:00 PM,Yes,NA,6,11,17,0,0,0
+JS,Three Rivers Park District,Eagle Lake Regional Park,4,August,4,2018,4:00-6:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Eagle Lake Regional Park,3,July,23,2018,12:00-2:00 PM,Yes,NA,0,3,13,0,0,0
+JS,Three Rivers Park District,Eagle Lake Regional Park,3,July,16,2018,12:00-2:00 PM,Yes,NA,0,2,9,0,0,0
+JS,Three Rivers Park District,Eagle Lake Regional Park,1,July,25,2018,10:00-12:00 PM,Yes,NA,0,1,0,0,0,0
+JS,Three Rivers Park District,Elm Creek Park Reserve,13,July,25,2018,10:00-12:00 PM,Yes,NA,0,0,3,0,0,0
+JS,Three Rivers Park District,Gale Woods Special Recreation Feature,1,July,30,2018,4:00-6:00 PM,Yes,NA,0,0,4,0,0,0
+JS,Three Rivers Park District,Gale Woods Special Recreation Feature,2,July,27,2018,6:00-8:00 PM,Yes,NA,3,0,0,0,0,0
+JS,Three Rivers Park District,Kingswood Special Recreation Feature,1,July,30,2018,2:00-4:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Kingswood Special Recreation Feature,1,July,27,2018,4:00-6:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Kingswood Special Recreation Feature,1,August,4,2018,4:00-6:00 PM,No,7/28/19 4-6PM,0,3,0,0,0,0
+JS,Three Rivers Park District,Lake Independence Regional Trail,6,July,28,2018,8:00-10:00 AM,Yes,NA,3,4,0,0,0,0
+JS,Three Rivers Park District,Lake Independence Regional Trail,11,July,31,2018,4:00-6:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Lake Rebecca Park Reserve,10,July,11,2018,8:00-10:00 AM,Yes,NA,7,2,0,0,0,0
+JS,Three Rivers Park District,Lake Rebecca Park Reserve,1,August,2,2018,12:00-2:00 PM,Yes,NA,0,0,48,0,0,0
+JS,Three Rivers Park District,Lake Rebecca Park Reserve,2,August,6,2018,8:00-10:00 AM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Lake Rebecca Park Reserve,1,July,27,2018,12:00-2:00 PM,Yes,NA,0,0,40,0,0,0
+JS,Three Rivers Park District,Lake Rebecca Park Reserve,1,July,15,2018,4:00-6:00 PM,Yes,NA,0,0,54,0,0,0
+JS,Three Rivers Park District,Lake Rebecca Park Reserve,9,July,23,2018,4:00-6:00 PM,Yes,NA,0,0,6,0,0,0
+JS,Three Rivers Park District,Luce Line Regional Trail,23,July,25,2018,4:00-6:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Luce Line Regional Trail,15,July,28,2018,10:00-12:00 PM,Yes,NA,3,0,0,0,0,0
+JS,Three Rivers Park District,North Mississippi Regional Park,1,July,24,2018,6:00-8:00 PM,Yes,NA,15,1,8,0,0,0
+JS,Three Rivers Park District,Noerenberg Gardens Special Recreation Feature,1,August,4,2018,6:00-8:00 PM,Yes,NA,2,0,5,0,0,0
+JS,Three Rivers Park District,Noerenberg Gardens Special Recreation Feature,1,August,1,2018,10:00-12:00 PM,Yes,NA,0,0,10,10,0,0
+JS,Three Rivers Park District,Nokomis-Minnesota River Regional Trail,10,July,26,2018,6:00-8:00 PM,Yes,NA,5,12,0,0,0,0
+JS,Three Rivers Park District,North Cedar Lake Regional Trail,9,August,2,2018,2:00-4:00 PM,Yes,NA,46,5,0,0,0,0
+JS,Three Rivers Park District,Northeast Diagonal Regional Trail,1,July,24,2018,6:00-8:00 PM,Yes,NA,29,12,0,0,0,0
+JS,Three Rivers Park District,Northeast Diagonal Regional Trail,1,July,29,2018,2:00-4:00 PM,Yes,NA,3,0,0,0,0,0
+JS,Three Rivers Park District,Rush Creek Regional Trail,4,July,25,2018,12:00-2:00 PM,Yes,NA,3,1,0,0,0,0
+JS,Three Rivers Park District,Shingle Creek Regional Trail,41,July,25,2018,2:00-4:00 PM,Yes,NA,2,0,0,0,0,0
+JS,Three Rivers Park District,Shingle Creek Regional Trail,48,July,24,2018,4:00-6:00 PM,Yes,NA,3,12,0,0,0,0
+JS,Three Rivers Park District,Shingle Creek Regional Trail,44,August,5,2018,4:00-6:00 PM,Yes,NA,9,16,0,0,0,0
+JS,Three Rivers Park District,Silverwood Special Recreation Feature,2,July,24,2018,4:00-6:00 PM,Yes,NA,4,18,0,0,0,0
+JS,Three Rivers Park District,Silverwood Special Recreation Feature,5,July,29,2018,12:00-2:00 PM,Yes,NA,5,7,0,0,0,0
+JS,Three Rivers Park District,Twin Lakes Regional Trail,11,July,24,2018,4:00-6:00 PM,Yes,NA,2,36,0,0,0,0
+JS,Three Rivers Park District,Carver Park Reserve,1,June,16,2018,2:00-4:00 PM,Yes,NA,0,0,26,0,0,0
+JS,Three Rivers Park District,Baker Park Reserve,7,August,10,2018,12:00-2:00 PM,Yes,NA,0,0,2,0,0,0
+JS,Three Rivers Park District,Bassett Creek Regional Trail,4,July,15,2018,10:00-12:00 PM,No,7/1/18 10-12pm,3,10,0,0,0,0
+JS,Three Rivers Park District,Bryant Lake Regional Park,4,July,22,2018,4:00-6:00 PM,Yes,NA,2,1,15,0,0,0
+JS,Three Rivers Park District,Bryant Lake Regional Park,3,July,14,2018,6:00-8:00 PM,Yes,NA,0,1,0,0,0,0
+JS,Three Rivers Park District,Clifton French Regional Park,1,August,13,2018,2:00-4:00 PM,Yes,NA,0,0,69,0,0,0
+JS,Three Rivers Park District,Clifton French Regional Park,1,August,11,2018,12:00-2:00 PM,Yes,NA,2,1,226,2,0,0
+JS,Three Rivers Park District,Cedar Lake LRT Regional Trail,3,June,30,2018,10:00-12:00 PM,Yes,NA,83,17,0,0,0,0
+JS,Three Rivers Park District,Cedar Lake LRT Regional Trail,13,August,9,2018,12:00-2:00 PM,Yes,NA,4,1,0,0,0,0
+JS,Three Rivers Park District,Cedar Lake LRT Regional Trail,3,August,8,2018,10:00-12:00 PM,Yes,NA,73,13,0,0,0,0
+JS,Three Rivers Park District,Cleary Lake Regional Park (Scott County),1,July,21,2018,2:00-4:00 PM,Yes,NA,7,0,56,0,0,0
+JS,Three Rivers Park District,Cleary Lake Regional Park (Scott County),4,July,29,2018,10:00-12:00 PM,Yes,NA,0,0,12,0,0,0
+JS,Three Rivers Park District,Coon Rapids Dam Regional Park,6,August,4,2018,2:00-4:00 PM,Yes,NA,3,3,6,0,0,0
+JS,Three Rivers Park District,Crow-Hassan Park Reserve,2,August,12,2018,8:00-10:00 AM,Yes,NA,0,0,15,0,0,0
+JS,Three Rivers Park District,Crystal Lake Regional Trail,19,August,10,2018,8:00-10:00 AM,Yes,NA,0,2,0,0,0,0
+JS,Three Rivers Park District,Dakota Rail Regional Trail,10,August,10,2018,2:00-4:00 PM,Yes,NA,2,1,0,0,0,0
+JS,Three Rivers Park District,Dakota Rail Regional Trail,1,August,4,2018,6:00-8:00 PM,No,7/14/18 6-8pm,4,0,0,0,0,0
+JS,Three Rivers Park District,Dakota Rail Regional Trail,20,June,17,2018,10:00-12:00 PM,No,5/27/18 10-12pm,41,4,0,0,0,0
+JS,Three Rivers Park District,Elm Creek Park Reserve,1,August,11,2018,4:00-6:00 PM,No,6/30/18 4-6pm,2,0,244,0,0,0
+JS,Three Rivers Park District,Hyland Lake Park Reserve,1,July,15,2018,10:00-12:00 PM,Yes,NA,0,0,76,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,29,August,14,2018,10:00-12:00 PM,No,7/3/18 10-12pm,2,4,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka Regional Park,1,August,14,2018,12:00-2:00 PM,No,6/19/18 12-2pm,0,0,25,0,0,0
+JS,Three Rivers Park District,Lake Rebecca Park Reserve,1,August,12,2018,10:00-12:00 PM,Yes,NA,0,0,69,0,0,0
+JS,Three Rivers Park District,Luce Line Regional Trail,23,August,5,2018,8:00-10:00 AM,Yes,NA,1,2,0,0,0,0
+JS,Three Rivers Park District,Luce Line Regional Trail,16,August,14,2018,4:00-6:00 PM,Yes,NA,16,4,0,0,0,0
+JS,Three Rivers Park District,Luce Line Regional Trail,19,August,11,2018,2:00-4:00 PM,Yes,NA,17,15,0,0,0,0
+JS,Three Rivers Park District,Medicine Lake Regional Trail,25,July,7,2018,12:00-2:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Minnesota River Bluffs Regional Trail,1,July,15,2018,12:00-2:00 PM,No,7/7/18 12-2pm,20,5,0,0,0,0
+JS,Three Rivers Park District,Minnesota River Bluffs Regional Trail,11,July,14,2018,4:00-6:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Minnesota River Bluffs Regional Trail,8,July,16,2018,10:00-12:00 PM,No,6/25/18 10-12pm,1,1,0,0,0,0
+JS,Three Rivers Park District,Minnesota River Bluffs Regional Trail,3,July,22,2018,2:00-4:00 PM,Yes,NA,5,0,0,0,0,0
+JS,Three Rivers Park District,Murphy-Hanrehan Park Reserve (Scott County),2,July,26,2018,12:00-2:00 PM,Yes,NA,0,0,5,0,0,0
+JS,Three Rivers Park District,Murphy-Hanrehan Park Reserve (Scott County),1,July,21,2018,12:00-2:00 PM,Yes,NA,2,0,13,0,0,0
+JS,Three Rivers Park District,North Mississippi Regional Park,1,August,12,2018,6:00-8:00 PM,Yes,NA,10,1,1,0,0,0
+JS,Three Rivers Park District,Nine Mile Creek Regional Trail,11,July,15,2018,8:00-10:00 AM,Yes,NA,1,0,0,0,0,0
+JS,Three Rivers Park District,Noerenberg Gardens Special Recreation Feature,1,August,10,2018,12:00-2:00 PM,Yes,NA,0,0,10,0,0,0
+JS,Three Rivers Park District,Nokomis-Minnesota River Regional Trail,11,July,5,2018,10:00-12:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Nokomis-Minnesota River Regional Trail,5,July,11,2018,2:00-4:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,North Cedar Lake Regional Trail,1,June,30,2018,8:00-10:00 AM,Yes,NA,25,6,0,0,0,0
+JS,Three Rivers Park District,North Cedar Lake Regional Trail,1,August,8,2018,12:00-2:00 PM,Yes,NA,35,9,0,0,0,0
+JS,Three Rivers Park District,North Cedar Lake Regional Trail,5,August,9,2018,10:00-12:00 PM,Yes,NA,6,7,0,0,0,0
+JS,Three Rivers Park District,Northeast Diagonal Regional Trail,2,July,2,2018,2:00-4:00 PM,Yes,NA,5,1,0,0,0,0
+JS,Three Rivers Park District,Shingle Creek Regional Trail,48,August,4,2018,12:00-2:00 PM,Yes,NA,0,4,0,0,0,0
+JS,Three Rivers Park District,Silverwood Special Recreation Feature,1,August,12,2018,2:00-4:00 PM,No,6/24/18 2-4pm,2,3,107,1,0,0
+JS,Three Rivers Park District,Silverwood Special Recreation Feature,1,August,10,2018,6:00-8:00 PM,Yes,NA,3,6,135,1,0,0
+JS,Three Rivers Park District,Twin Lakes Regional Trail,11,August,14,2018,4:00-6:00 PM,Yes,NA,0,18,0,0,0,0
+JS,Three Rivers Park District,Baker Park Reserve,1,August,13,2018,2:00-4:00 PM,Yes,NA,0,0,25,2,0,0
+JS,Three Rivers Park District,Baker Park Reserve,1,August,14,2018,2:00-4:00 PM,Yes,NA,0,0,6,2,0,0
+JS,Three Rivers Park District,Dakota Rail Regional Trail,6,August,15,2018,6:00-8:00 PM,Yes,NA,4,4,0,0,0,0
+JS,Three Rivers Park District,Gale Woods Special Recreation Feature,1,August,11,2018,6:00-8:00 PM,Yes,NA,0,0,2,0,0,0
+JS,Three Rivers Park District,Kingswood Special Recreation Feature,1,August,11,2018,4:00-6:00 PM,Yes,NA,0,2,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka Regional Park,2,August,13,2018,12:00-2:00 PM,Yes,NA,2,1,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka Regional Park,1,August,16,2018,4:00-6:00 PM,Yes,NA,0,0,21,0,0,0
+JS,Three Rivers Park District,Lake Independence Regional Trail,3,August,15,2018,12:00-2:00 PM,Yes,NA,0,1,0,0,0,0
+JS,Three Rivers Park District,Noerenberg Gardens Special Recreation Feature,1,August,9,2018,6:00-8:00 PM,Yes,NA,0,2,12,0,0,0
+JS,Three Rivers Park District,Baker Park Reserve,6,August,4,2018,12:00-2:00 PM,Yes,NA,0,0,4,0,0,0
+JS,Three Rivers Park District,Bassett Creek Regional Trail,8,August,1,2018,6:00-8:00 PM,Yes,NA,3,3,0,0,0,0
+JS,Three Rivers Park District,Bassett Creek Regional Trail,1,August,12,2018,2:00-4:00 PM,No,8/5/18 2-4pm,5,0,0,0,0,0
+JS,Three Rivers Park District,Bryant Lake Regional Park,1,July,8,2018,10:00-12:00 PM,Yes,NA,3,4,31,0,0,0
+JS,Three Rivers Park District,Carver Park Reserve,1,July,29,2018,10:00-12:00 PM,Yes,NA,0,0,11,0,0,0
+JS,Three Rivers Park District,Carver Park Reserve,2,August,20,2018,2:00-4:00 PM,Yes,NA,0,0,26,0,0,0
+JS,Three Rivers Park District,Cedar Lake LRT Regional Trail,9,August,17,2018,2:00-4:00 PM,Yes,NA,5,2,0,0,0,0
+JS,Three Rivers Park District,Coon Rapids Dam Regional Park,5,August,19,2018,10:00-12:00 PM,Yes,NA,1,6,0,0,0,0
+JS,Three Rivers Park District,Crow-Hassan Park Reserve,3,August,5,2018,12:00-2:00 PM,Yes,NA,7,0,0,0,0,0
+JS,Three Rivers Park District,Crystal Lake Regional Trail,3,August,12,2018,4:00-6:00 PM,No,8/5/18 4-6pm,10,6,0,0,0,0
+JS,Three Rivers Park District,Dakota Rail Regional Trail,10,August,5,2018,8:00-10:00 AM,No,7/29/18 8-10 am,1,0,0,0,0,0
+JS,Three Rivers Park District,Dakota Rail Regional Trail,8,August,17,2018,8:00-10:00 AM,Yes,NA,5,5,0,0,0,0
+JS,Three Rivers Park District,Eagle Lake Regional Park,4,August,1,2018,4:00-6:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Elm Creek Park Reserve,23,July,21,2018,4:00-6:00 PM,Yes,NA,4,1,0,0,0,0
+JS,Three Rivers Park District,Elm Creek Park Reserve,1,August,8,2018,10:00-12:00 PM,Yes,NA,0,1,257,2,0,0
+JS,Three Rivers Park District,Fish Lake Regional Park,5,August,10,2018,4:00-6:00 PM,Yes,NA,8,4,0,0,0,0
+JS,Three Rivers Park District,Fish Lake Regional Park,1,July,28,2018,6:00-8:00 PM,Yes,NA,0,0,58,0,0,0
+JS,Three Rivers Park District,Gale Woods Special Recreation Feature,1,August,19,2018,10:00-12:00 PM,No,6/24/18 10-12pm,0,2,7,0,0,0
+JS,Three Rivers Park District,Gale Woods Special Recreation Feature,2,August,18,2018,10:00-12:00 PM,Yes,NA,6,6,0,0,0,0
+JS,Three Rivers Park District,Hyland Lake Park Reserve,7,August,19,2018,12:00-2:00 PM,Yes,NA,11,6,0,0,0,0
+JS,Three Rivers Park District,Kingswood Special Recreation Feature,1,August,18,2018,8:00-10:00 AM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Kingswood Special Recreation Feature,1,August,19,2018,8:00-10:00 AM,No,6/24/18 8-10 am,0,2,0,0,0,0
+JS,Three Rivers Park District,Lake Independence Regional Trail,7,August,13,2018,12:00-2:00 PM,Yes,NA,1,1,0,0,0,0
+JS,Three Rivers Park District,Lake Independence Regional Trail,8,August,10,2018,2:00-4:00 PM,Yes,NA,0,3,0,0,0,0
+JS,Three Rivers Park District,Lake Independence Regional Trail,10,August,4,2018,10:00-12:00 PM,Yes,NA,0,2,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,10,July,3,2018,12:00-2:00 PM,Yes,NA,0,1,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,20,August,12,2018,10:00-12:00 PM,No,6/24/18 10-12pm,0,3,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,6,July,29,2018,8:00-10:00 AM,Yes,NA,2,0,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,3,August,20,2018,4:00-6:00 PM,Yes,NA,0,14,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka Regional Park,1,July,5,2018,10:00-12:00 PM,Yes,NA,1,0,63,1,0,0
+JS,Three Rivers Park District,Lake Minnetonka Regional Park,4,August,17,2018,10:00-12:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka Regional Park,1,August,2,2018,6:00-8:00 PM,Yes,NA,0,0,17,0,0,0
+JS,Three Rivers Park District,Lake Rebecca Park Reserve,4,August,5,2018,2:00-4:00 PM,Yes,NA,2,0,0,0,0,0
+JS,Three Rivers Park District,Medicine Lake Regional Trail,16,August,10,2018,2:00-4:00 PM,Yes,NA,9,5,0,0,0,0
+JS,Three Rivers Park District,Medicine Lake Regional Trail,50,August,8,2018,4:00-6:00 PM,Yes,NA,5,4,0,0,0,0
+JS,Three Rivers Park District,Medicine Lake Regional Trail,2,July,28,2018,4:00-6:00 PM,Yes,NA,18,3,0,0,0,0
+JS,Three Rivers Park District,Minnesota River Bluffs Regional Trail,1,July,8,2018,8:00-10:00 AM,Yes,NA,0,9,0,0,0,0
+JS,Three Rivers Park District,North Mississippi Regional Park,2,August,14,2018,8:00-10:00 AM,Yes,NA,7,4,0,0,0,0
+JS,Three Rivers Park District,Nine Mile Creek Regional Trail,26,August,19,2018,10:00-12:00 PM,Yes,NA,8,8,0,0,0,0
+JS,Three Rivers Park District,Noerenberg Gardens Special Recreation Feature,1,July,7,2018,8:00-10:00 AM,Yes,NA,0,4,10,0,0,0
+JS,Three Rivers Park District,Northeast Diagonal Regional Trail,1,August,11,2018,10:00-12:00 PM,Yes,NA,17,4,0,0,0,0
+JS,Three Rivers Park District,Rush Creek Regional Trail,9,August,8,2018,12:00-2:00 PM,Yes,NA,27,7,0,0,0,0
+JS,Three Rivers Park District,Shingle Creek Regional Trail,50,August,19,2018,8:00-10:00 AM,Yes,NA,2,1,0,0,0,0
+JS,Three Rivers Park District,Silverwood Special Recreation Feature,2,August,11,2018,8:00-10:00 AM,Yes,NA,1,20,0,0,0,0
+JS,Three Rivers Park District,Twin Lakes Regional Trail,9,August,14,2018,10:00-12:00 PM,Yes,NA,1,6,0,0,0,0
+JS,Three Rivers Park District,Baker Park Reserve,11,August,26,2018,4:00-6:00 PM,No,6/17/18 4-6 pm,2,1,0,0,0,0
+JS,Three Rivers Park District,Baker Park Reserve,13,September,1,2018,2:00-4:00 PM,Yes,NA,4,0,0,0,0,0
+JS,Three Rivers Park District,Bassett Creek Regional Trail,14,August,18,2018,12:00-2:00 PM,Yes,NA,4,0,0,0,0,0
+JS,Three Rivers Park District,Bassett Creek Regional Trail,1,September,2,2018,8:00-10:00 AM,No,8/5/18 8-10 am,6,4,0,0,0,0
+JS,Three Rivers Park District,Bryant Lake Regional Park,1,August,9,2018,6:00-8:00 PM,Yes,NA,3,0,17,0,0,0
+JS,Three Rivers Park District,Bryant Lake Regional Park,2,August,26,2018,4:00-6:00 PM,Yes,NA,4,8,0,0,0,0
+JS,Three Rivers Park District,Bryant Lake Regional Park,1,September,3,2018,8:00-10:00 AM,Yes,NA,2,2,67,0,0,0
+JS,Three Rivers Park District,Carver Park Reserve,4,August,27,2018,10:00-12:00 PM,Yes,NA,0,3,8,0,0,0
+JS,Three Rivers Park District,Carver Park Reserve,1,September,2,2018,2:00-4:00 PM,Yes,NA,0,0,21,0,0,0
+JS,Three Rivers Park District,Cedar Lake LRT Regional Trail,8,September,2,2018,4:00-6:00 PM,Yes,NA,8,3,0,0,0,0
+JS,Three Rivers Park District,Cedar Lake LRT Regional Trail,1,August,5,2018,10:00-12:00 PM,Yes,NA,7,0,0,0,0,0
+JS,Three Rivers Park District,Cleary Lake Regional Park (Scott County),1,August,11,2018,8:00-10:00 AM,No,7/7/18 8-10pm,0,0,26,0,0,0
+JS,Three Rivers Park District,Clifton French Regional Park,2,August,20,2018,4:00-6:00 PM,Yes,NA,8,18,0,0,0,0
+JS,Three Rivers Park District,Clifton French Regional Park,1,August,26,2018,10:00-12:00 PM,Yes,NA,0,8,260,0,0,0
+JS,Three Rivers Park District,Clifton French Regional Park,1,August,27,2018,8:00-10:00 AM,Yes,NA,2,19,85,0,0,0
+JS,Three Rivers Park District,Coon Rapids Dam Regional Park,3,August,15,2018,8:00-10:00 AM,Yes,NA,17,65,0,0,0,0
+JS,Three Rivers Park District,Coon Rapids Dam Regional Park,5,August,22,2018,4:00-6:00 PM,Yes,NA,5,3,0,0,0,0
+JS,Three Rivers Park District,Coon Rapids Dam Regional Park,5,September,2,2018,2:00-4:00 PM,No,7/8/18 2-4pm,3,2,0,0,0,0
+JS,Three Rivers Park District,Crystal Lake Regional Trail,10,August,30,2018,12:00-2:00 PM,Yes,NA,3,5,0,0,0,0
+JS,Three Rivers Park District,Crystal Lake Regional Trail,8,August,21,2018,2:00-4:00 PM,No,7/3/18 2-4pm,4,5,0,0,0,0
+JS,Three Rivers Park District,Crystal Lake Regional Trail,3,September,2,2018,4:00-6:00 PM,No,8/5/18 4-6pm,5,3,0,0,0,0
+JS,Three Rivers Park District,Crystal Lake Regional Trail,1,August,19,2018,10:00-12:00 PM,Yes,NA,6,5,0,0,0,0
+JS,Three Rivers Park District,Dakota Rail Regional Trail,18,August,26,2018,4:00-6:00 PM,Yes,NA,22,2,0,0,0,0
+JS,Three Rivers Park District,Dakota Rail Regional Trail,1,August,25,2018,4:00-6:00 PM,Yes,NA,30,5,0,0,0,0
+JS,Three Rivers Park District,Dakota Rail Regional Trail,11,August,22,2018,2:00-4:00 PM,No,7/4/18 2-4pm,1,0,0,0,0,0
+JS,Three Rivers Park District,Dakota Rail Regional Trail,22,September,3,2018,10:00-12:00 PM,Yes,NA,72,12,0,0,0,0
+JS,Three Rivers Park District,Eagle Lake Regional Park,1,August,18,2018,2:00-4:00 PM,Yes,NA,2,1,0,0,0,0
+JS,Three Rivers Park District,Fish Lake Regional Park,1,August,25,2018,10:00-12:00 PM,Yes,NA,1,1,70,0,0,0
+JS,Three Rivers Park District,Fish Lake Regional Park,4,August,18,2018,6:00-8:00 PM,Yes,NA,3,6,0,0,0,0
+JS,Three Rivers Park District,Fish Lake Regional Park,2,August,17,2018,4:00-6:00 PM,Yes,NA,1,7,0,0,0,0
+JS,Three Rivers Park District,Gale Woods Special Recreation Feature,1,August,27,2018,4:00-6:00 PM,Yes,NA,0,0,4,0,0,0
+JS,Three Rivers Park District,Hyland Lake Park Reserve,4,August,17,2018,12:00-2:00 PM,Yes,NA,3,5,1,0,0,0
+JS,Three Rivers Park District,Hyland Lake Park Reserve,1,September,1,2018,12:00-2:00 PM,Yes,NA,0,0,115,0,0,0
+JS,Three Rivers Park District,Kingswood Special Recreation Feature,1,August,22,2018,12:00-2:00 PM,No,7/4/18 12-2pm,0,2,0,0,0,0
+JS,Three Rivers Park District,Kingswood Special Recreation Feature,1,August,27,2018,6:00-8:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Lake Independence Regional Trail,15,September,1,2018,12:00-2:00 PM,Yes,NA,1,0,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka Regional Park,1,August,25,2018,2:00-4:00 PM,Yes,NA,0,0,35,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka Regional Park,3,July,29,2018,10:00-12:00 PM,Yes,NA,2,6,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka Regional Park,1,September,3,2018,8:00-10:00 AM,Yes,NA,0,0,13,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka Regional Park,4,August,26,2018,2:00-4:00 PM,Yes,NA,0,7,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,9,August,27,2018,8:00-10:00 AM,Yes,NA,4,2,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,7,August,25,2018,12:00-2:00 PM,Yes,NA,7,7,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,20,September,2,2018,4:00-6:00 PM,Yes,NA,73,20,0,0,0,0
+JS,Three Rivers Park District,Luce Line Regional Trail,20,August,20,2018,6:00-8:00 PM,Yes,NA,10,1,0,0,0,0
+JS,Three Rivers Park District,Luce Line Regional Trail,16,August,27,2018,10:00-12:00 PM,Yes,NA,3,5,0,0,0,0
+JS,Three Rivers Park District,Luce Line Regional Trail,11,August,26,2018,8:00-10:00 AM,Yes,NA,28,23,0,0,0,0
+JS,Three Rivers Park District,Medicine Lake Regional Trail,44,August,25,2018,8:00-10:00 AM,Yes,NA,19,20,0,0,0,0
+JS,Three Rivers Park District,Gale Woods Special Recreation Feature,1,July,28,2018,2:00-4:00 PM,Yes,NA,2,0,93,0,0,0
+JS,Three Rivers Park District,Medicine Lake Regional Trail,1,August,17,2018,6:00-8:00 PM,Yes,NA,19,11,0,0,0,0
+JS,Three Rivers Park District,Medicine Lake Regional Trail,40,August,18,2018,4:00-6:00 PM,Yes,NA,0,1,0,0,0,0
+JS,Three Rivers Park District,Minnesota River Bluffs Regional Trail,1,September,3,2018,10:00-12:00 PM,Yes,NA,106,7,0,0,0,0
+JS,Three Rivers Park District,Minnesota River Bluffs Regional Trail,15,August,26,2018,2:00-4:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Minnesota River Bluffs Regional Trail,7,August,9,2018,4:00-6:00 PM,Yes,NA,6,0,0,0,0,0
+JS,Three Rivers Park District,Minnesota River Bluffs Regional Trail,1,August,8,2018,10:00-12:00 PM,Yes,NA,16,0,0,0,0,0
+JS,Three Rivers Park District,Murphy-Hanrehan Park Reserve (Scott County),1,August,12,2018,4:00-6:00 PM,Yes,NA,7,0,0,0,0,0
+JS,Three Rivers Park District,North Mississippi Regional Park,2,August,31,2018,2:00-4:00 PM,Yes,NA,10,0,0,0,0,0
+JS,Three Rivers Park District,North Mississippi Regional Park,2,August,26,2018,10:00-12:00 PM,Yes,NA,13,3,0,0,0,0
+JS,Three Rivers Park District,North Mississippi Regional Park,1,August,29,2018,8:00-10:00 AM,Yes,NA,2,6,1,0,0,0
+JS,Three Rivers Park District,Nine Mile Creek Regional Trail,20,August,17,2018,10:00-12:00 PM,Yes,NA,2,5,0,0,0,0
+JS,Three Rivers Park District,Nine Mile Creek Regional Trail,11,September,1,2018,2:00-4:00 PM,Yes,NA,7,3,0,0,0,0
+JS,Three Rivers Park District,Noerenberg Gardens Special Recreation Feature,1,September,3,2018,10:00-12:00 PM,Yes,NA,1,2,8,0,0,0
+JS,Three Rivers Park District,Noerenberg Gardens Special Recreation Feature,1,August,19,2018,4:00-6:00 PM,Yes,NA,0,0,11,0,0,0
+JS,Three Rivers Park District,Nokomis-Minnesota River Regional Trail,11,August,3,2018,2:00-4:00 PM,Yes,NA,5,7,0,0,0,0
+JS,Three Rivers Park District,Nokomis-Minnesota River Regional Trail,3,August,31,2018,8:00-10:00 AM,Yes,NA,1,0,0,0,0,0
+JS,Three Rivers Park District,Nokomis-Minnesota River Regional Trail,5,August,25,2018,10:00-12:00 PM,Yes,NA,5,7,0,0,0,0
+JS,Three Rivers Park District,North Cedar Lake Regional Trail,8,August,17,2018,4:00-6:00 PM,Yes,NA,6,1,0,0,0,0
+JS,Three Rivers Park District,North Cedar Lake Regional Trail,10,August,5,2018,8:00-10:00 AM,Yes,NA,1,0,0,0,0,0
+JS,Three Rivers Park District,Northeast Diagonal Regional Trail,2,July,26,2018,10:00-12:00 PM,Yes,NA,3,17,0,0,0,0
+JS,Three Rivers Park District,Northeast Diagonal Regional Trail,1,August,26,2018,12:00-2:00 PM,No,6/24/18 12-2pm,19,10,0,0,0,0
+JS,Three Rivers Park District,Northeast Diagonal Regional Trail,1,July,27,2018,2:00-4:00 PM,Yes,NA,8,1,0,0,0,0
+JS,Three Rivers Park District,Shingle Creek Regional Trail,15,August,30,2018,10:00-12:00 PM,No,6/21/18 10-12pm,0,0,0,0,0,0
+JS,Three Rivers Park District,Shingle Creek Regional Trail,12,August,22,2018,6:00-8:00 PM,Yes,NA,0,2,0,0,0,0
+JS,Three Rivers Park District,Shingle Creek Regional Trail,56,August,15,2018,10:00-12:00 PM,Yes,NA,5,2,0,0,0,0
+JS,Three Rivers Park District,Silverwood Special Recreation Feature,1,July,27,2018,4:00-6:00 PM,Yes,NA,1,5,108,0,0,0
+JS,Three Rivers Park District,Twin Lakes Regional Trail,4,August,31,2018,4:00-6:00 PM,Yes,NA,4,2,0,0,0,0
+JS,Three Rivers Park District,Twin Lakes Regional Trail,4,August,26,2018,8:00-10:00 AM,Yes,NA,3,1,0,0,0,0
+JS,Three Rivers Park District,Twin Lakes Regional Trail,11,August,29,2018,10:00-12:00 PM,Yes,NA,7,49,0,0,0,0
+JS,Three Rivers Park District,Cleary Lake Regional Park (Scott County),1,August,12,2018,12:00-2:00 PM,No,7/4/18 12-2pm,1,0,47,0,0,0
+JS,Three Rivers Park District,Cedar Lake LRT Regional Trail,3,September,9,2018,8:00-10:00 AM,No,7/21/18 8-10am,112,32,0,0,0,0
+JS,Three Rivers Park District,North Cedar Lake Regional Trail,9,September,9,2018,10:00-12:00 PM,No,7/21/18 10-12pm,136,29,0,0,0,0
+JS,Three Rivers Park District,Medicine Lake Regional Trail,25,August,31,2018,2:00-4:00 PM,Yes,NA,4,2,0,0,0,0
+JS,Three Rivers Park District,Fish Lake Regional Park,1,August,31,2018,12:00-2:00 PM,Yes,NA,0,0,28,0,0,0
+JS,Three Rivers Park District,Noerenberg Gardens Special Recreation Feature,1,September,1,2018,2:00-4:00 PM,Yes,NA,3,0,13,0,0,0
+JS,Three Rivers Park District,Medicine Lake Regional Trail,1,September,3,2018,10:00-12:00 PM,Yes,NA,38,24,0,0,0,0
+JS,Three Rivers Park District,Fish Lake Regional Park,3,September,3,2018,8:00-10:00 AM,Yes,NA,0,1,0,0,0,0
+JS,Three Rivers Park District,Crystal Lake Regional Trail,14,September,1,2018,6:00-8:00 PM,Yes,NA,7,3,0,0,0,0
+JS,Three Rivers Park District,Minnesota River Bluffs Regional Trail,13,August,20,2018,12:00-2:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Murphy-Hanrehan Park Reserve (Scott County),8,August,19,2018,6:00-8:00 PM,Yes,NA,2,0,0,0,0,0
+JS,Three Rivers Park District,Murphy-Hanrehan Park Reserve (Scott County),1,August,14,2018,4:00-6:00 PM,Yes,NA,3,0,3,0,0,0
+JS,Three Rivers Park District,Murphy-Hanrehan Park Reserve (Scott County),1,August,8,2018,10:00-12:00 PM,Yes,NA,6,1,5,0,0,0
+JS,Three Rivers Park District,Cleary Lake Regional Park (Scott County),1,August,8,2018,8:00-10:00 AM,Yes,NA,1,2,8,0,0,0
+JS,Three Rivers Park District,Carver Park Reserve,8,August,28,2018,10:00-12:00 PM,Yes,NA,1,0,1,0,0,0
+JS,Three Rivers Park District,Noerenberg Gardens Special Recreation Feature,1,August,25,2018,8:00-10:00 AM,No,6/30/18 8-10,0,0,7,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,6,August,28,2018,12:00-2:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Cleary Lake Regional Park (Scott County),3,August,19,2018,4:00-6:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Bryant Lake Regional Park,3,August,20,2018,2:00-4:00 PM,Yes,NA,0,1,0,0,0,0
+JS,Three Rivers Park District,Cleary Lake Regional Park (Scott County),4,July,22,2018,4:00-6:00 PM,Yes,NA,0,1,10,0,0,0
+JS,Three Rivers Park District,Nokomis-Minnesota River Regional Trail,13,July,28,2018,12:00-2:00 PM,Yes,NA,1,6,0,0,0,0
+JS,Three Rivers Park District,Murphy-Hanrehan Park Reserve (Scott County),2,July,22,2018,2:00-4:00 PM,Yes,NA,0,1,4,0,0,0
+JS,Three Rivers Park District,Hyland Lake Park Reserve,8,August,9,2018,10:00-12:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Hyland Lake Park Reserve,4,August,4,2018,8:00-10:00 AM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Hyland Lake Park Reserve,1,August,1,2018,4:00-6:00 PM,Yes,NA,3,0,72,0,0,0
+JS,Three Rivers Park District,Nine Mile Creek Regional Trail,1,August,10,2018,6:00-8:00 PM,Yes,NA,19,12,0,0,0,0
+JS,Three Rivers Park District,Nine Mile Creek Regional Trail,17,August,4,2018,10:00-12:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Nine Mile Creek Regional Trail,1,August,1,2018,6:00-8:00 PM,Yes,NA,4,6,0,0,0,0
+JS,Three Rivers Park District,Silverwood Special Recreation Feature,3,August,23,2018,12:00-2:00 PM,No,7/26/18 12-2pm,8,0,0,0,0,0
+JS,Three Rivers Park District,Crow-Hassan Park Reserve,1,July,29,2018,10:00-12:00 PM,No,8/19/18 10-12pm,0,36,20,0,0,0
+JS,Three Rivers Park District,Crow-Hassan Park Reserve,1,August,1,2018,2:00-4:00 PM,No,7/23/18 2-4pm,0,8,5,0,0,0
+JS,Three Rivers Park District,Carver Park Reserve,1,August,22,2018,6:00-8:00 PM,Yes,NA,0,0,77,0,0,0
+JS,Three Rivers Park District,Crystal Lake Regional Trail,4,August,26,2018,10:00-12:00 PM,Yes,NA,8,9,0,0,0,0
+JS,Three Rivers Park District,Crow-Hassan Park Reserve,2,August,11,2018,4:00-6:00 PM,Yes,NA,0,0,9,0,0,0
+JS,Three Rivers Park District,Crow-Hassan Park Reserve,1,August,16,2018,4:00-6:00 PM,No,6/28/18 4-6pm,0,4,4,0,3,0
+JS,Three Rivers Park District,Elm Creek Park Reserve,12,August,25,2018,12:00-2:00 PM,Yes,NA,5,0,1,0,0,0
+JS,Three Rivers Park District,Elm Creek Park Reserve,27,August,28,2018,6:00-8:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Elm Creek Park Reserve,1,August,31,2018,8:00-10:00 AM,Yes,NA,0,0,42,0,0,0
+JS,Three Rivers Park District,Elm Creek Park Reserve,1,September,3,2018,4:00-6:00 PM,Yes,NA,0,0,187,0,0,0
+JS,Three Rivers Park District,Elm Creek Park Reserve,1,September,2,2018,12:00-2:00 PM,Yes,NA,0,0,152,0,0,0
+JS,Three Rivers Park District,Eagle Lake Regional Park,3,September,3,2018,10:00-12:00 PM,Yes,NA,0,6,7,0,0,0
+JS,Three Rivers Park District,Gale Woods Special Recreation Feature,2,August,23,2018,10:00-12:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Hyland Lake Park Reserve,1,August,10,2018,4:00-6:00 PM,Yes,NA,3,0,29,0,0,0
+JS,Three Rivers Park District,Hyland Lake Park Reserve,1,September,9,2018,10:00-12:00 PM,No,9/3/18 10-12pm,2,4,102,0,0,0
+JS,Three Rivers Park District,Kingswood Special Recreation Feature,1,August,23,2018,12:00-2:00 PM,Yes,NA,0,0,0,0,0,0
+JS,Three Rivers Park District,Lake Minnetonka LRT Regional Trail,20,August,22,2018,4:00-6:00 PM,Yes,NA,22,60,0,0,0,0
+JS,Three Rivers Park District,Lake Rebecca Park Reserve,9,August,19,2018,12:00-2:00 PM,Yes,NA,0,0,5,0,0,0
+JS,Three Rivers Park District,Lake Rebecca Park Reserve,1,August,11,2018,2:00-4:00 PM,Yes,NA,0,0,69,0,0,0
+JS,Three Rivers Park District,Nine Mile Creek Regional Trail,23,August,9,2018,8:00-10:00 AM,Yes,NA,1,2,0,0,0,0
+JS,Three Rivers Park District,Nine Mile Creek Regional Trail,10,August,9,2018,8:00-10:00 AM,No,9/3/18 8-10am,2,3,0,0,0,0
+JS,Three Rivers Park District,Noerenberg Gardens Special Recreation Feature,1,August,17,2018,6:00-8:00 PM,Yes,NA,0,0,10,0,0,0
+JS,Three Rivers Park District,Rush Creek Regional Trail,9,September,3,2018,2:00-4:00 PM,Yes,NA,23,2,0,0,0,0
+JS,Three Rivers Park District,Rush Creek Regional Trail,1,September,2,2018,2:00-4:00 PM,Yes,NA,15,10,0,0,0,0
+JS,Three Rivers Park District,Rush Creek Regional Trail,9,August,31,2018,10:00-12:00 PM,Yes,NA,22,3,0,0,0,0
+JS,Three Rivers Park District,Rush Creek Regional Trail,6,August,28,2018,4:00-6:00 PM,Yes,NA,1,3,0,0,0,0
+JS,Three Rivers Park District,Rush Creek Regional Trail,40,August,25,2018,10:00-12:00 PM,Yes,NA,18,10,0,0,0,0
+JS,Three Rivers Park District,Shingle Creek Regional Trail,40,August,27,2018,12:00-2:00 PM,No,7/8/18 12-2pm,0,0,0,0,0,0
+JS,Three Rivers Park District,Silverwood Special Recreation Feature,1,September,1,2018,2:00-4:00 PM,No,7/21/18 2-4pm,2,2,141,0,0,0
+JS,Three Rivers Park District,Silverwood Special Recreation Feature,1,August,4,2018,6:00-8:00 PM,No,8/25/18 6-8pm,5,11,62,0,0,0
+JS,Three Rivers Park District,Northeast Diagonal Regional Trail,1,August,25,2018,4:00-6:00 PM,Yes,NA,11,2,0,0,0,0

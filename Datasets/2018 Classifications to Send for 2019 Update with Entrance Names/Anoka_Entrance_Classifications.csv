@@ -1,0 +1,595 @@
+Park_or_trail_name,Park_trail_id,Entrance_name,Entrance_id,Start_time,Usage_class
+Anoka County Riverfront Regional Park,1,Islands of Peace Visitor Center,1,08:00 AM,Medium
+Anoka County Riverfront Regional Park,1,Islands of Peace Visitor Center,1,10:00 AM,Medium
+Anoka County Riverfront Regional Park,1,Islands of Peace Visitor Center,1,12:00 PM,Medium
+Anoka County Riverfront Regional Park,1,Islands of Peace Visitor Center,1,02:00 PM,Medium
+Anoka County Riverfront Regional Park,1,Islands of Peace Visitor Center,1,04:00 PM,Medium
+Anoka County Riverfront Regional Park,1,Islands of Peace Visitor Center,1,06:00 PM,Medium
+Anoka County Riverfront Regional Park,1,Main Entrance,2,08:00 AM,Medium
+Anoka County Riverfront Regional Park,1,Main Entrance,2,10:00 AM,High
+Anoka County Riverfront Regional Park,1,Main Entrance,2,12:00 PM,High
+Anoka County Riverfront Regional Park,1,Main Entrance,2,02:00 PM,High
+Anoka County Riverfront Regional Park,1,Main Entrance,2,04:00 PM,High
+Anoka County Riverfront Regional Park,1,Main Entrance,2,06:00 PM,Medium
+Anoka County Riverfront Regional Park,1,Bike/hike trail at south end of park,3,08:00 AM,High
+Anoka County Riverfront Regional Park,1,Bike/hike trail at south end of park,3,10:00 AM,High
+Anoka County Riverfront Regional Park,1,Bike/hike trail at south end of park,3,12:00 PM,High
+Anoka County Riverfront Regional Park,1,Bike/hike trail at south end of park,3,02:00 PM,High
+Anoka County Riverfront Regional Park,1,Bike/hike trail at south end of park,3,04:00 PM,High
+Anoka County Riverfront Regional Park,1,Bike/hike trail at south end of park,3,06:00 PM,High
+Anoka County Riverfront Regional Park,1,Bike/hike trail at north end of park,4,08:00 AM,Medium
+Anoka County Riverfront Regional Park,1,Bike/hike trail at north end of park,4,10:00 AM,Medium
+Anoka County Riverfront Regional Park,1,Bike/hike trail at north end of park,4,12:00 PM,Medium
+Anoka County Riverfront Regional Park,1,Bike/hike trail at north end of park,4,02:00 PM,Medium
+Anoka County Riverfront Regional Park,1,Bike/hike trail at north end of park,4,04:00 PM,Medium
+Anoka County Riverfront Regional Park,1,Bike/hike trail at north end of park,4,06:00 PM,Medium
+Bunker Hills Regional Park,2,Activity Center Lot,1,08:00 AM,Low
+Bunker Hills Regional Park,2,Activity Center Lot,1,10:00 AM,Low
+Bunker Hills Regional Park,2,Activity Center Lot,1,12:00 PM,Low
+Bunker Hills Regional Park,2,Activity Center Lot,1,02:00 PM,Low
+Bunker Hills Regional Park,2,Activity Center Lot,1,04:00 PM,Low
+Bunker Hills Regional Park,2,Activity Center Lot,1,06:00 PM,Low
+Bunker Hills Regional Park,2,Parking lot at junction of Parkway A and campground road,2,08:00 AM,Low
+Bunker Hills Regional Park,2,Parking lot at junction of Parkway A and campground road,2,10:00 AM,Low
+Bunker Hills Regional Park,2,Parking lot at junction of Parkway A and campground road,2,12:00 PM,Low
+Bunker Hills Regional Park,2,Parking lot at junction of Parkway A and campground road,2,02:00 PM,Low
+Bunker Hills Regional Park,2,Parking lot at junction of Parkway A and campground road,2,04:00 PM,Low
+Bunker Hills Regional Park,2,Parking lot at junction of Parkway A and campground road,2,06:00 PM,Low
+Bunker Hills Regional Park,2,South gatehouse,3,08:00 AM,Medium
+Bunker Hills Regional Park,2,South gatehouse,3,10:00 AM,Medium
+Bunker Hills Regional Park,2,South gatehouse,3,12:00 PM,Medium
+Bunker Hills Regional Park,2,South gatehouse,3,02:00 PM,Medium
+Bunker Hills Regional Park,2,South gatehouse,3,04:00 PM,Medium
+Bunker Hills Regional Park,2,South gatehouse,3,06:00 PM,Medium
+Bunker Hills Regional Park,2,North gatehouse,4,08:00 AM,Medium
+Bunker Hills Regional Park,2,North gatehouse,4,10:00 AM,Medium
+Bunker Hills Regional Park,2,North gatehouse,4,12:00 PM,Medium
+Bunker Hills Regional Park,2,North gatehouse,4,02:00 PM,Medium
+Bunker Hills Regional Park,2,North gatehouse,4,04:00 PM,Medium
+Bunker Hills Regional Park,2,North gatehouse,4,06:00 PM,Medium
+Bunker Hills Regional Park,2,Trail access off Prairie Road,5,08:00 AM,Low
+Bunker Hills Regional Park,2,Trail access off Prairie Road,5,10:00 AM,Low
+Bunker Hills Regional Park,2,Trail access off Prairie Road,5,12:00 PM,Low
+Bunker Hills Regional Park,2,Trail access off Prairie Road,5,02:00 PM,Low
+Bunker Hills Regional Park,2,Trail access off Prairie Road,5,04:00 PM,Low
+Bunker Hills Regional Park,2,Trail access off Prairie Road,5,06:00 PM,Low
+Bunker Hills Regional Park,2,Dog Park Complex (13315 Hanson Boulevard),6,08:00 AM,High
+Bunker Hills Regional Park,2,Dog Park Complex (13315 Hanson Boulevard),6,10:00 AM,High
+Bunker Hills Regional Park,2,Dog Park Complex (13315 Hanson Boulevard),6,12:00 PM,High
+Bunker Hills Regional Park,2,Dog Park Complex (13315 Hanson Boulevard),6,02:00 PM,High
+Bunker Hills Regional Park,2,Dog Park Complex (13315 Hanson Boulevard),6,04:00 PM,High
+Bunker Hills Regional Park,2,Dog Park Complex (13315 Hanson Boulevard),6,06:00 PM,High
+Bunker Hills Regional Park,2,Blaine High School - near north parking lot,7,08:00 AM,Low
+Bunker Hills Regional Park,2,Blaine High School - near north parking lot,7,10:00 AM,Low
+Bunker Hills Regional Park,2,Blaine High School - near north parking lot,7,12:00 PM,Low
+Bunker Hills Regional Park,2,Blaine High School - near north parking lot,7,02:00 PM,Low
+Bunker Hills Regional Park,2,Blaine High School - near north parking lot,7,04:00 PM,Low
+Bunker Hills Regional Park,2,Blaine High School - near north parking lot,7,06:00 PM,Low
+Bunker Hills Regional Park,2,Bunker Lake Boulevard Tunnel Entrance,8,08:00 AM,Low
+Bunker Hills Regional Park,2,Bunker Lake Boulevard Tunnel Entrance,8,10:00 AM,Low
+Bunker Hills Regional Park,2,Bunker Lake Boulevard Tunnel Entrance,8,12:00 PM,Low
+Bunker Hills Regional Park,2,Bunker Lake Boulevard Tunnel Entrance,8,02:00 PM,Low
+Bunker Hills Regional Park,2,Bunker Lake Boulevard Tunnel Entrance,8,04:00 PM,Low
+Bunker Hills Regional Park,2,Bunker Lake Boulevard Tunnel Entrance,8,06:00 PM,Low
+Bunker Hills Regional Park,2,Access road entrance to picnic areas/overflow beach parking/Veterans Memorial,9,08:00 AM,Medium
+Bunker Hills Regional Park,2,Access road entrance to picnic areas/overflow beach parking/Veterans Memorial,9,10:00 AM,Medium
+Bunker Hills Regional Park,2,Access road entrance to picnic areas/overflow beach parking/Veterans Memorial,9,12:00 PM,Medium
+Bunker Hills Regional Park,2,Access road entrance to picnic areas/overflow beach parking/Veterans Memorial,9,02:00 PM,Medium
+Bunker Hills Regional Park,2,Access road entrance to picnic areas/overflow beach parking/Veterans Memorial,9,04:00 PM,Medium
+Bunker Hills Regional Park,2,Access road entrance to picnic areas/overflow beach parking/Veterans Memorial,9,06:00 PM,Medium
+Coon Rapids Dam Regional Park,3,Main Entrance,1,08:00 AM,High
+Coon Rapids Dam Regional Park,3,Main Entrance,1,10:00 AM,High
+Coon Rapids Dam Regional Park,3,Main Entrance,1,12:00 PM,High
+Coon Rapids Dam Regional Park,3,Main Entrance,1,02:00 PM,High
+Coon Rapids Dam Regional Park,3,Main Entrance,1,04:00 PM,High
+Coon Rapids Dam Regional Park,3,Main Entrance,1,06:00 PM,High
+Coon Rapids Dam Regional Park,3,Trail access at 86th Avenue and Mississippi River Boulevard,3,08:00 AM,Medium
+Coon Rapids Dam Regional Park,3,Trail access at 86th Avenue and Mississippi River Boulevard,3,10:00 AM,Medium
+Coon Rapids Dam Regional Park,3,Trail access at 86th Avenue and Mississippi River Boulevard,3,12:00 PM,Medium
+Coon Rapids Dam Regional Park,3,Trail access at 86th Avenue and Mississippi River Boulevard,3,02:00 PM,Medium
+Coon Rapids Dam Regional Park,3,Trail access at 86th Avenue and Mississippi River Boulevard,3,04:00 PM,Medium
+Coon Rapids Dam Regional Park,3,Trail access at 86th Avenue and Mississippi River Boulevard,3,06:00 PM,Medium
+Coon Rapids Dam Regional Park,3,West end of Coon Rapids Dam Powerhouse,4,08:00 AM,High
+Coon Rapids Dam Regional Park,3,West end of Coon Rapids Dam Powerhouse,4,10:00 AM,High
+Coon Rapids Dam Regional Park,3,West end of Coon Rapids Dam Powerhouse,4,12:00 PM,High
+Coon Rapids Dam Regional Park,3,West end of Coon Rapids Dam Powerhouse,4,02:00 PM,High
+Coon Rapids Dam Regional Park,3,West end of Coon Rapids Dam Powerhouse,4,04:00 PM,High
+Coon Rapids Dam Regional Park,3,West end of Coon Rapids Dam Powerhouse,4,06:00 PM,High
+Coon Rapids Dam Regional Park,3,Egret and 99th,5,08:00 AM,Medium
+Coon Rapids Dam Regional Park,3,Egret and 99th,5,10:00 AM,Medium
+Coon Rapids Dam Regional Park,3,Egret and 99th,5,12:00 PM,Medium
+Coon Rapids Dam Regional Park,3,Egret and 99th,5,02:00 PM,Medium
+Coon Rapids Dam Regional Park,3,Egret and 99th,5,04:00 PM,Medium
+Coon Rapids Dam Regional Park,3,Egret and 99th,5,06:00 PM,Medium
+Coon Rapids Dam Regional Park,3,Mississippi Boulevard and Uplander Street,6,08:00 AM,Low
+Coon Rapids Dam Regional Park,3,Mississippi Boulevard and Uplander Street,6,10:00 AM,Low
+Coon Rapids Dam Regional Park,3,Mississippi Boulevard and Uplander Street,6,12:00 PM,Low
+Coon Rapids Dam Regional Park,3,Mississippi Boulevard and Uplander Street,6,02:00 PM,Low
+Coon Rapids Dam Regional Park,3,Mississippi Boulevard and Uplander Street,6,04:00 PM,Low
+Coon Rapids Dam Regional Park,3,Mississippi Boulevard and Uplander Street,6,06:00 PM,Low
+Lake George Regional Park,4,Main Gate,1,08:00 AM,High
+Lake George Regional Park,4,Main Gate,1,10:00 AM,High
+Lake George Regional Park,4,Main Gate,1,12:00 PM,High
+Lake George Regional Park,4,Main Gate,1,02:00 PM,High
+Lake George Regional Park,4,Main Gate,1,04:00 PM,High
+Lake George Regional Park,4,Main Gate,1,06:00 PM,High
+Lake George Regional Park,4,Boat Launch,2,08:00 AM,Medium
+Lake George Regional Park,4,Boat Launch,2,10:00 AM,Medium
+Lake George Regional Park,4,Boat Launch,2,12:00 PM,Medium
+Lake George Regional Park,4,Boat Launch,2,02:00 PM,Medium
+Lake George Regional Park,4,Boat Launch,2,04:00 PM,Medium
+Lake George Regional Park,4,Boat Launch,2,06:00 PM,Medium
+Lake George Regional Park,4,East Trail Entrance,3,08:00 AM,Low
+Lake George Regional Park,4,East Trail Entrance,3,10:00 AM,Low
+Lake George Regional Park,4,East Trail Entrance,3,12:00 PM,Low
+Lake George Regional Park,4,East Trail Entrance,3,02:00 PM,Low
+Lake George Regional Park,4,East Trail Entrance,3,04:00 PM,Low
+Lake George Regional Park,4,East Trail Entrance,3,06:00 PM,Low
+Lake George Regional Park,4,South Trail Entrance off of 216th,4,08:00 AM,Medium
+Lake George Regional Park,4,South Trail Entrance off of 216th,4,10:00 AM,Medium
+Lake George Regional Park,4,South Trail Entrance off of 216th,4,12:00 PM,Medium
+Lake George Regional Park,4,South Trail Entrance off of 216th,4,02:00 PM,Medium
+Lake George Regional Park,4,South Trail Entrance off of 216th,4,04:00 PM,Medium
+Lake George Regional Park,4,South Trail Entrance off of 216th,4,06:00 PM,Medium
+Lake George Regional Park,4,North Trail Entrance on 221st,5,08:00 AM,Low
+Lake George Regional Park,4,North Trail Entrance on 221st,5,10:00 AM,Low
+Lake George Regional Park,4,North Trail Entrance on 221st,5,12:00 PM,Low
+Lake George Regional Park,4,North Trail Entrance on 221st,5,02:00 PM,Low
+Lake George Regional Park,4,North Trail Entrance on 221st,5,04:00 PM,Low
+Lake George Regional Park,4,North Trail Entrance on 221st,5,06:00 PM,Low
+Martin-Island-Linwood Regional Park,5,Picnic Area,1,08:00 AM,Low
+Martin-Island-Linwood Regional Park,5,Picnic Area,1,10:00 AM,Low
+Martin-Island-Linwood Regional Park,5,Picnic Area,1,12:00 PM,Low
+Martin-Island-Linwood Regional Park,5,Picnic Area,1,02:00 PM,Low
+Martin-Island-Linwood Regional Park,5,Picnic Area,1,04:00 PM,Low
+Martin-Island-Linwood Regional Park,5,Picnic Area,1,06:00 PM,Low
+Martin-Island-Linwood Regional Park,5,Boat Launch (Martin Lake),2,08:00 AM,High
+Martin-Island-Linwood Regional Park,5,Boat Launch (Martin Lake),2,10:00 AM,High
+Martin-Island-Linwood Regional Park,5,Boat Launch (Martin Lake),2,12:00 PM,High
+Martin-Island-Linwood Regional Park,5,Boat Launch (Martin Lake),2,02:00 PM,High
+Martin-Island-Linwood Regional Park,5,Boat Launch (Martin Lake),2,04:00 PM,High
+Martin-Island-Linwood Regional Park,5,Boat Launch (Martin Lake),2,06:00 PM,High
+Martin-Island-Linwood Regional Park,5,Boat Launch (Linwood Lake),3,08:00 AM,High
+Martin-Island-Linwood Regional Park,5,Boat Launch (Linwood Lake),3,10:00 AM,High
+Martin-Island-Linwood Regional Park,5,Boat Launch (Linwood Lake),3,12:00 PM,High
+Martin-Island-Linwood Regional Park,5,Boat Launch (Linwood Lake),3,02:00 PM,High
+Martin-Island-Linwood Regional Park,5,Boat Launch (Linwood Lake),3,04:00 PM,High
+Martin-Island-Linwood Regional Park,5,Boat Launch (Linwood Lake),3,06:00 PM,High
+Martin-Island-Linwood Regional Park,5,Beach and trail at Island Lake,4,08:00 AM,Medium
+Martin-Island-Linwood Regional Park,5,Beach and trail at Island Lake,4,10:00 AM,Medium
+Martin-Island-Linwood Regional Park,5,Beach and trail at Island Lake,4,12:00 PM,Medium
+Martin-Island-Linwood Regional Park,5,Beach and trail at Island Lake,4,02:00 PM,Medium
+Martin-Island-Linwood Regional Park,5,Beach and trail at Island Lake,4,04:00 PM,Medium
+Martin-Island-Linwood Regional Park,5,Beach and trail at Island Lake,4,06:00 PM,Medium
+Mississippi River Regional Trail,6,Trail access at 86th Avenue and Mississippi River Boulevard,1,08:00 AM,Low
+Mississippi River Regional Trail,6,Trail access at 86th Avenue and Mississippi River Boulevard,1,10:00 AM,Low
+Mississippi River Regional Trail,6,Trail access at 86th Avenue and Mississippi River Boulevard,1,12:00 PM,Low
+Mississippi River Regional Trail,6,Trail access at 86th Avenue and Mississippi River Boulevard,1,02:00 PM,Low
+Mississippi River Regional Trail,6,Trail access at 86th Avenue and Mississippi River Boulevard,1,04:00 PM,Low
+Mississippi River Regional Trail,6,Trail access at 86th Avenue and Mississippi River Boulevard,1,06:00 PM,Low
+Mississippi River Regional Trail,6,Trail access at Riverview Heights Park in Fridley,2,08:00 AM,Medium
+Mississippi River Regional Trail,6,Trail access at Riverview Heights Park in Fridley,2,10:00 AM,Medium
+Mississippi River Regional Trail,6,Trail access at Riverview Heights Park in Fridley,2,12:00 PM,Medium
+Mississippi River Regional Trail,6,Trail access at Riverview Heights Park in Fridley,2,02:00 PM,Medium
+Mississippi River Regional Trail,6,Trail access at Riverview Heights Park in Fridley,2,04:00 PM,Medium
+Mississippi River Regional Trail,6,Trail access at Riverview Heights Park in Fridley,2,06:00 PM,Medium
+Mississippi River Regional Trail,6,Trail access at Island of Peace Visitor Center (Minnesota Recreation and Parks Association Headquarters),3,08:00 AM,Low
+Mississippi River Regional Trail,6,Trail access at Island of Peace Visitor Center (Minnesota Recreation and Parks Association Headquarters),3,10:00 AM,Low
+Mississippi River Regional Trail,6,Trail access at Island of Peace Visitor Center (Minnesota Recreation and Parks Association Headquarters),3,12:00 PM,Low
+Mississippi River Regional Trail,6,Trail access at Island of Peace Visitor Center (Minnesota Recreation and Parks Association Headquarters),3,02:00 PM,Low
+Mississippi River Regional Trail,6,Trail access at Island of Peace Visitor Center (Minnesota Recreation and Parks Association Headquarters),3,04:00 PM,Low
+Mississippi River Regional Trail,6,Trail access at Island of Peace Visitor Center (Minnesota Recreation and Parks Association Headquarters),3,06:00 PM,Low
+Mississippi River Regional Trail,6,Trail access on north side of I-694 bridge in Anoka County Riverfront Regional Park,4,08:00 AM,Medium
+Mississippi River Regional Trail,6,Trail access on north side of I-694 bridge in Anoka County Riverfront Regional Park,4,10:00 AM,Medium
+Mississippi River Regional Trail,6,Trail access on north side of I-694 bridge in Anoka County Riverfront Regional Park,4,12:00 PM,Medium
+Mississippi River Regional Trail,6,Trail access on north side of I-694 bridge in Anoka County Riverfront Regional Park,4,02:00 PM,Medium
+Mississippi River Regional Trail,6,Trail access on north side of I-694 bridge in Anoka County Riverfront Regional Park,4,04:00 PM,Medium
+Mississippi River Regional Trail,6,Trail access on north side of I-694 bridge in Anoka County Riverfront Regional Park,4,06:00 PM,Medium
+Mississippi River Regional Trail,6,East River Road/Hartman,5,08:00 AM,Medium
+Mississippi River Regional Trail,6,East River Road/Hartman,5,10:00 AM,Medium
+Mississippi River Regional Trail,6,East River Road/Hartman,5,12:00 PM,Medium
+Mississippi River Regional Trail,6,East River Road/Hartman,5,02:00 PM,Medium
+Mississippi River Regional Trail,6,East River Road/Hartman,5,04:00 PM,Medium
+Mississippi River Regional Trail,6,East River Road/Hartman,5,06:00 PM,Medium
+Mississippi River Regional Trail,6,Coon Rapids Boulevard and Mississippi Boulevard,6,08:00 AM,Medium
+Mississippi River Regional Trail,6,Coon Rapids Boulevard and Mississippi Boulevard,6,10:00 AM,Medium
+Mississippi River Regional Trail,6,Coon Rapids Boulevard and Mississippi Boulevard,6,12:00 PM,Medium
+Mississippi River Regional Trail,6,Coon Rapids Boulevard and Mississippi Boulevard,6,02:00 PM,Medium
+Mississippi River Regional Trail,6,Coon Rapids Boulevard and Mississippi Boulevard,6,04:00 PM,Medium
+Mississippi River Regional Trail,6,Coon Rapids Boulevard and Mississippi Boulevard,6,06:00 PM,Medium
+Mississippi River Regional Trail,6,East River Road and Osborne Road Northeast,7,08:00 AM,Low
+Mississippi River Regional Trail,6,East River Road and Osborne Road Northeast,7,10:00 AM,Low
+Mississippi River Regional Trail,6,East River Road and Osborne Road Northeast,7,12:00 PM,Low
+Mississippi River Regional Trail,6,East River Road and Osborne Road Northeast,7,02:00 PM,Low
+Mississippi River Regional Trail,6,East River Road and Osborne Road Northeast,7,04:00 PM,Low
+Mississippi River Regional Trail,6,East River Road and Osborne Road Northeast,7,06:00 PM,Low
+Mississippi River Regional Trail,6,East River Road (Coon Rapids Bouleavard) and 7th Avenue,8,08:00 AM,Low
+Mississippi River Regional Trail,6,East River Road (Coon Rapids Bouleavard) and 7th Avenue,8,10:00 AM,Low
+Mississippi River Regional Trail,6,East River Road (Coon Rapids Bouleavard) and 7th Avenue,8,12:00 PM,Low
+Mississippi River Regional Trail,6,East River Road (Coon Rapids Bouleavard) and 7th Avenue,8,02:00 PM,Low
+Mississippi River Regional Trail,6,East River Road (Coon Rapids Bouleavard) and 7th Avenue,8,04:00 PM,Low
+Mississippi River Regional Trail,6,East River Road (Coon Rapids Bouleavard) and 7th Avenue,8,06:00 PM,Low
+Mississippi River Regional Trail,6,Ferry Street and Benton Street,9,08:00 AM,Low
+Mississippi River Regional Trail,6,Ferry Street and Benton Street,9,10:00 AM,Low
+Mississippi River Regional Trail,6,Ferry Street and Benton Street,9,12:00 PM,Low
+Mississippi River Regional Trail,6,Ferry Street and Benton Street,9,02:00 PM,Low
+Mississippi River Regional Trail,6,Ferry Street and Benton Street,9,04:00 PM,Low
+Mississippi River Regional Trail,6,Ferry Street and Benton Street,9,06:00 PM,Low
+Mississippi River Regional Trail,6,Mississippi River Community Park,10,08:00 AM,Medium
+Mississippi River Regional Trail,6,Mississippi River Community Park,10,10:00 AM,Medium
+Mississippi River Regional Trail,6,Mississippi River Community Park,10,12:00 PM,Medium
+Mississippi River Regional Trail,6,Mississippi River Community Park,10,02:00 PM,Medium
+Mississippi River Regional Trail,6,Mississippi River Community Park,10,04:00 PM,Medium
+Mississippi River Regional Trail,6,Mississippi River Community Park,10,06:00 PM,Medium
+Mississippi River Regional Trail,6,Robinson Drive Northwest and Creek Meadow Drive Northwest,11,08:00 AM,Low
+Mississippi River Regional Trail,6,Robinson Drive Northwest and Creek Meadow Drive Northwest,11,10:00 AM,Low
+Mississippi River Regional Trail,6,Robinson Drive Northwest and Creek Meadow Drive Northwest,11,12:00 PM,Low
+Mississippi River Regional Trail,6,Robinson Drive Northwest and Creek Meadow Drive Northwest,11,02:00 PM,Low
+Mississippi River Regional Trail,6,Robinson Drive Northwest and Creek Meadow Drive Northwest,11,04:00 PM,Low
+Mississippi River Regional Trail,6,Robinson Drive Northwest and Creek Meadow Drive Northwest,11,06:00 PM,Low
+Rice Creek West Regional Trail,7,Fridley Community Park,1,08:00 AM,High
+Rice Creek West Regional Trail,7,Fridley Community Park,1,10:00 AM,High
+Rice Creek West Regional Trail,7,Fridley Community Park,1,12:00 PM,High
+Rice Creek West Regional Trail,7,Fridley Community Park,1,02:00 PM,High
+Rice Creek West Regional Trail,7,Fridley Community Park,1,04:00 PM,High
+Rice Creek West Regional Trail,7,Fridley Community Park,1,06:00 PM,High
+Rice Creek West Regional Trail,7,69th and University,2,08:00 AM,Medium
+Rice Creek West Regional Trail,7,69th and University,2,10:00 AM,Medium
+Rice Creek West Regional Trail,7,69th and University,2,12:00 PM,Medium
+Rice Creek West Regional Trail,7,69th and University,2,02:00 PM,Medium
+Rice Creek West Regional Trail,7,69th and University,2,04:00 PM,Medium
+Rice Creek West Regional Trail,7,69th and University,2,06:00 PM,Medium
+Rice Creek West Regional Trail,7,Former Columbia Arena,3,08:00 AM,Low
+Rice Creek West Regional Trail,7,Former Columbia Arena,3,10:00 AM,Low
+Rice Creek West Regional Trail,7,Former Columbia Arena,3,12:00 PM,Low
+Rice Creek West Regional Trail,7,Former Columbia Arena,3,02:00 PM,Low
+Rice Creek West Regional Trail,7,Former Columbia Arena,3,04:00 PM,Low
+Rice Creek West Regional Trail,7,Former Columbia Arena,3,06:00 PM,Low
+Rice Creek West Regional Trail,7,Monroe Street,4,08:00 AM,Low
+Rice Creek West Regional Trail,7,Monroe Street,4,10:00 AM,Low
+Rice Creek West Regional Trail,7,Monroe Street,4,12:00 PM,Low
+Rice Creek West Regional Trail,7,Monroe Street,4,02:00 PM,Low
+Rice Creek West Regional Trail,7,Monroe Street,4,04:00 PM,Low
+Rice Creek West Regional Trail,7,Monroe Street,4,06:00 PM,Low
+Rice Creek West Regional Trail,7,Highway 65,5,08:00 AM,Low
+Rice Creek West Regional Trail,7,Highway 65,5,10:00 AM,Low
+Rice Creek West Regional Trail,7,Highway 65,5,12:00 PM,Low
+Rice Creek West Regional Trail,7,Highway 65,5,02:00 PM,Low
+Rice Creek West Regional Trail,7,Highway 65,5,04:00 PM,Low
+Rice Creek West Regional Trail,7,Highway 65,5,06:00 PM,Low
+Rice Creek West Regional Trail,7,Old Central Avenue (County Road 35) and 69th Avenue Northeast,7,08:00 AM,Low
+Rice Creek West Regional Trail,7,Old Central Avenue (County Road 35) and 69th Avenue Northeast,7,10:00 AM,Low
+Rice Creek West Regional Trail,7,Old Central Avenue (County Road 35) and 69th Avenue Northeast,7,12:00 PM,Low
+Rice Creek West Regional Trail,7,Old Central Avenue (County Road 35) and 69th Avenue Northeast,7,02:00 PM,Low
+Rice Creek West Regional Trail,7,Old Central Avenue (County Road 35) and 69th Avenue Northeast,7,04:00 PM,Low
+Rice Creek West Regional Trail,7,Old Central Avenue (County Road 35) and 69th Avenue Northeast,7,06:00 PM,Low
+Rice Creek West Regional Trail,7,Parking Lot (69th Avenue Northeast),8,08:00 AM,Low
+Rice Creek West Regional Trail,7,Parking Lot (69th Avenue Northeast),8,10:00 AM,Low
+Rice Creek West Regional Trail,7,Parking Lot (69th Avenue Northeast),8,12:00 PM,Low
+Rice Creek West Regional Trail,7,Parking Lot (69th Avenue Northeast),8,02:00 PM,Low
+Rice Creek West Regional Trail,7,Parking Lot (69th Avenue Northeast),8,04:00 PM,Low
+Rice Creek West Regional Trail,7,Parking Lot (69th Avenue Northeast),8,06:00 PM,Low
+Rice Creek West Regional Trail,7,Anoka Street North,9,08:00 AM,Low
+Rice Creek West Regional Trail,7,Anoka Street North,9,10:00 AM,Low
+Rice Creek West Regional Trail,7,Anoka Street North,9,12:00 PM,Low
+Rice Creek West Regional Trail,7,Anoka Street North,9,02:00 PM,Low
+Rice Creek West Regional Trail,7,Anoka Street North,9,04:00 PM,Low
+Rice Creek West Regional Trail,7,Anoka Street North,9,06:00 PM,Low
+Rice Creek West Regional Trail,7,Stinson Boulevard,10,08:00 AM,Medium
+Rice Creek West Regional Trail,7,Stinson Boulevard,10,10:00 AM,Medium
+Rice Creek West Regional Trail,7,Stinson Boulevard,10,12:00 PM,Medium
+Rice Creek West Regional Trail,7,Stinson Boulevard,10,02:00 PM,Medium
+Rice Creek West Regional Trail,7,Stinson Boulevard,10,04:00 PM,Medium
+Rice Creek West Regional Trail,7,Stinson Boulevard,10,06:00 PM,Medium
+Rice Creek West Regional Trail,7,Locke Park - Pavilion 1,11,08:00 AM,Medium
+Rice Creek West Regional Trail,7,Locke Park - Pavilion 1,11,10:00 AM,Medium
+Rice Creek West Regional Trail,7,Locke Park - Pavilion 1,11,12:00 PM,Medium
+Rice Creek West Regional Trail,7,Locke Park - Pavilion 1,11,02:00 PM,Medium
+Rice Creek West Regional Trail,7,Locke Park - Pavilion 1,11,04:00 PM,Medium
+Rice Creek West Regional Trail,7,Locke Park - Pavilion 1,11,06:00 PM,Medium
+Rice Creek West Regional Trail,7,Locke Park - Pavilion 2,12,08:00 AM,Low
+Rice Creek West Regional Trail,7,Locke Park - Pavilion 2,12,10:00 AM,Low
+Rice Creek West Regional Trail,7,Locke Park - Pavilion 2,12,12:00 PM,Low
+Rice Creek West Regional Trail,7,Locke Park - Pavilion 2,12,02:00 PM,Low
+Rice Creek West Regional Trail,7,Locke Park - Pavilion 2,12,04:00 PM,Low
+Rice Creek West Regional Trail,7,Locke Park - Pavilion 2,12,06:00 PM,Low
+Rice Creek West Regional Trail,7,East River Road/Hartman Circle,13,08:00 AM,Medium
+Rice Creek West Regional Trail,7,East River Road/Hartman Circle,13,10:00 AM,Medium
+Rice Creek West Regional Trail,7,East River Road/Hartman Circle,13,12:00 PM,Medium
+Rice Creek West Regional Trail,7,East River Road/Hartman Circle,13,02:00 PM,Medium
+Rice Creek West Regional Trail,7,East River Road/Hartman Circle,13,04:00 PM,Medium
+Rice Creek West Regional Trail,7,East River Road/Hartman Circle,13,06:00 PM,Medium
+Rice Creek West Regional Trail,7,Banfill Locke Center for the Arts Parking Lot,14,08:00 AM,Medium
+Rice Creek West Regional Trail,7,Banfill Locke Center for the Arts Parking Lot,14,10:00 AM,Medium
+Rice Creek West Regional Trail,7,Banfill Locke Center for the Arts Parking Lot,14,12:00 PM,Medium
+Rice Creek West Regional Trail,7,Banfill Locke Center for the Arts Parking Lot,14,02:00 PM,Medium
+Rice Creek West Regional Trail,7,Banfill Locke Center for the Arts Parking Lot,14,04:00 PM,Medium
+Rice Creek West Regional Trail,7,Banfill Locke Center for the Arts Parking Lot,14,06:00 PM,Medium
+Rice Creek Chain of Lakes Park Reserve,8,Main Entrance,1,08:00 AM,High
+Rice Creek Chain of Lakes Park Reserve,8,Main Entrance,1,10:00 AM,High
+Rice Creek Chain of Lakes Park Reserve,8,Main Entrance,1,12:00 PM,High
+Rice Creek Chain of Lakes Park Reserve,8,Main Entrance,1,02:00 PM,High
+Rice Creek Chain of Lakes Park Reserve,8,Main Entrance,1,04:00 PM,High
+Rice Creek Chain of Lakes Park Reserve,8,Main Entrance,1,06:00 PM,High
+Rice Creek Chain of Lakes Park Reserve,8,Peltier Access,2,08:00 AM,High
+Rice Creek Chain of Lakes Park Reserve,8,Peltier Access,2,10:00 AM,High
+Rice Creek Chain of Lakes Park Reserve,8,Peltier Access,2,12:00 PM,High
+Rice Creek Chain of Lakes Park Reserve,8,Peltier Access,2,02:00 PM,High
+Rice Creek Chain of Lakes Park Reserve,8,Peltier Access,2,04:00 PM,High
+Rice Creek Chain of Lakes Park Reserve,8,Peltier Access,2,06:00 PM,High
+Rice Creek Chain of Lakes Park Reserve,8,Aqua Lane/Lake Drive,5,08:00 AM,Low
+Rice Creek Chain of Lakes Park Reserve,8,Aqua Lane/Lake Drive,5,10:00 AM,Low
+Rice Creek Chain of Lakes Park Reserve,8,Aqua Lane/Lake Drive,5,12:00 PM,Low
+Rice Creek Chain of Lakes Park Reserve,8,Aqua Lane/Lake Drive,5,02:00 PM,Low
+Rice Creek Chain of Lakes Park Reserve,8,Aqua Lane/Lake Drive,5,04:00 PM,Low
+Rice Creek Chain of Lakes Park Reserve,8,Aqua Lane/Lake Drive,5,06:00 PM,Low
+Rice Creek Chain of Lakes Park Reserve,8,LaMotte Park,6,08:00 AM,Medium
+Rice Creek Chain of Lakes Park Reserve,8,LaMotte Park,6,10:00 AM,Medium
+Rice Creek Chain of Lakes Park Reserve,8,LaMotte Park,6,12:00 PM,Medium
+Rice Creek Chain of Lakes Park Reserve,8,LaMotte Park,6,02:00 PM,Medium
+Rice Creek Chain of Lakes Park Reserve,8,LaMotte Park,6,04:00 PM,Medium
+Rice Creek Chain of Lakes Park Reserve,8,LaMotte Park,6,06:00 PM,Medium
+Rice Creek Chain of Lakes Park Reserve,8,West Shadow Lake Drive,7,08:00 AM,Medium
+Rice Creek Chain of Lakes Park Reserve,8,West Shadow Lake Drive,7,10:00 AM,Medium
+Rice Creek Chain of Lakes Park Reserve,8,West Shadow Lake Drive,7,12:00 PM,Medium
+Rice Creek Chain of Lakes Park Reserve,8,West Shadow Lake Drive,7,02:00 PM,Medium
+Rice Creek Chain of Lakes Park Reserve,8,West Shadow Lake Drive,7,04:00 PM,Medium
+Rice Creek Chain of Lakes Park Reserve,8,West Shadow Lake Drive,7,06:00 PM,Medium
+Rice Creek Chain of Lakes Park Reserve,8,YMCA - Lino Lakes,9,08:00 AM,Low
+Rice Creek Chain of Lakes Park Reserve,8,YMCA - Lino Lakes,9,10:00 AM,Low
+Rice Creek Chain of Lakes Park Reserve,8,YMCA - Lino Lakes,9,12:00 PM,Low
+Rice Creek Chain of Lakes Park Reserve,8,YMCA - Lino Lakes,9,02:00 PM,Low
+Rice Creek Chain of Lakes Park Reserve,8,YMCA - Lino Lakes,9,04:00 PM,Low
+Rice Creek Chain of Lakes Park Reserve,8,YMCA - Lino Lakes,9,06:00 PM,Low
+Rice Creek Chain of Lakes Park Reserve,8,Burch and West Shadow Lake Drive (where Rice Creek North Regional Trail enters the Park Reserve),10,08:00 AM,Low
+Rice Creek Chain of Lakes Park Reserve,8,Burch and West Shadow Lake Drive (where Rice Creek North Regional Trail enters the Park Reserve),10,10:00 AM,Low
+Rice Creek Chain of Lakes Park Reserve,8,Burch and West Shadow Lake Drive (where Rice Creek North Regional Trail enters the Park Reserve),10,12:00 PM,Low
+Rice Creek Chain of Lakes Park Reserve,8,Burch and West Shadow Lake Drive (where Rice Creek North Regional Trail enters the Park Reserve),10,02:00 PM,Low
+Rice Creek Chain of Lakes Park Reserve,8,Burch and West Shadow Lake Drive (where Rice Creek North Regional Trail enters the Park Reserve),10,04:00 PM,Low
+Rice Creek Chain of Lakes Park Reserve,8,Burch and West Shadow Lake Drive (where Rice Creek North Regional Trail enters the Park Reserve),10,06:00 PM,Low
+Rice Creek Chain of Lakes Park Reserve,8,Centerville Boat Launch,11,08:00 AM,High
+Rice Creek Chain of Lakes Park Reserve,8,Centerville Boat Launch,11,10:00 AM,High
+Rice Creek Chain of Lakes Park Reserve,8,Centerville Boat Launch,11,12:00 PM,High
+Rice Creek Chain of Lakes Park Reserve,8,Centerville Boat Launch,11,02:00 PM,High
+Rice Creek Chain of Lakes Park Reserve,8,Centerville Boat Launch,11,04:00 PM,High
+Rice Creek Chain of Lakes Park Reserve,8,Centerville Boat Launch,11,06:00 PM,High
+Rice Creek Chain of Lakes Park Reserve,8,Rice Creek Chain of Lakes Park Reserve Beach,12,08:00 AM,High
+Rice Creek Chain of Lakes Park Reserve,8,Rice Creek Chain of Lakes Park Reserve Beach,12,10:00 AM,High
+Rice Creek Chain of Lakes Park Reserve,8,Rice Creek Chain of Lakes Park Reserve Beach,12,12:00 PM,High
+Rice Creek Chain of Lakes Park Reserve,8,Rice Creek Chain of Lakes Park Reserve Beach,12,02:00 PM,High
+Rice Creek Chain of Lakes Park Reserve,8,Rice Creek Chain of Lakes Park Reserve Beach,12,04:00 PM,High
+Rice Creek Chain of Lakes Park Reserve,8,Rice Creek Chain of Lakes Park Reserve Beach,12,06:00 PM,High
+Rice Creek North Regional Trail,9,County Road J/Lexington Avenue,1,08:00 AM,Medium
+Rice Creek North Regional Trail,9,County Road J/Lexington Avenue,1,10:00 AM,Medium
+Rice Creek North Regional Trail,9,County Road J/Lexington Avenue,1,12:00 PM,Medium
+Rice Creek North Regional Trail,9,County Road J/Lexington Avenue,1,02:00 PM,Medium
+Rice Creek North Regional Trail,9,County Road J/Lexington Avenue,1,04:00 PM,Medium
+Rice Creek North Regional Trail,9,County Road J/Lexington Avenue,1,06:00 PM,Medium
+Rice Creek North Regional Trail,9,Golden Lake Elementary School,2,08:00 AM,High
+Rice Creek North Regional Trail,9,Golden Lake Elementary School,2,10:00 AM,High
+Rice Creek North Regional Trail,9,Golden Lake Elementary School,2,12:00 PM,High
+Rice Creek North Regional Trail,9,Golden Lake Elementary School,2,02:00 PM,High
+Rice Creek North Regional Trail,9,Golden Lake Elementary School,2,04:00 PM,High
+Rice Creek North Regional Trail,9,Golden Lake Elementary School,2,06:00 PM,High
+Rice Creek North Regional Trail,9,City Park,3,08:00 AM,High
+Rice Creek North Regional Trail,9,City Park,3,10:00 AM,High
+Rice Creek North Regional Trail,9,City Park,3,12:00 PM,High
+Rice Creek North Regional Trail,9,City Park,3,02:00 PM,High
+Rice Creek North Regional Trail,9,City Park,3,04:00 PM,High
+Rice Creek North Regional Trail,9,City Park,3,06:00 PM,High
+Rice Creek North Regional Trail,9,Rice Lake Elementary School,4,08:00 AM,Medium
+Rice Creek North Regional Trail,9,Rice Lake Elementary School,4,10:00 AM,Medium
+Rice Creek North Regional Trail,9,Rice Lake Elementary School,4,12:00 PM,Medium
+Rice Creek North Regional Trail,9,Rice Lake Elementary School,4,02:00 PM,Medium
+Rice Creek North Regional Trail,9,Rice Lake Elementary School,4,04:00 PM,Medium
+Rice Creek North Regional Trail,9,Rice Lake Elementary School,4,06:00 PM,Medium
+Rice Creek North Regional Trail,9,Baldwin City Park,6,08:00 AM,Low
+Rice Creek North Regional Trail,9,Baldwin City Park,6,10:00 AM,Low
+Rice Creek North Regional Trail,9,Baldwin City Park,6,12:00 PM,Low
+Rice Creek North Regional Trail,9,Baldwin City Park,6,02:00 PM,Low
+Rice Creek North Regional Trail,9,Baldwin City Park,6,04:00 PM,Low
+Rice Creek North Regional Trail,9,Baldwin City Park,6,06:00 PM,Low
+Rice Creek North Regional Trail,9,Robinhood Lane,7,08:00 AM,Low
+Rice Creek North Regional Trail,9,Robinhood Lane,7,10:00 AM,Low
+Rice Creek North Regional Trail,9,Robinhood Lane,7,12:00 PM,Low
+Rice Creek North Regional Trail,9,Robinhood Lane,7,02:00 PM,Low
+Rice Creek North Regional Trail,9,Robinhood Lane,7,04:00 PM,Low
+Rice Creek North Regional Trail,9,Robinhood Lane,7,06:00 PM,Low
+Rum River Central Regional Park,10,Park Entrance,1,08:00 AM,High
+Rum River Central Regional Park,10,Park Entrance,1,10:00 AM,High
+Rum River Central Regional Park,10,Park Entrance,1,12:00 PM,High
+Rum River Central Regional Park,10,Park Entrance,1,02:00 PM,High
+Rum River Central Regional Park,10,Park Entrance,1,04:00 PM,High
+Rum River Central Regional Park,10,Park Entrance,1,06:00 PM,High
+Central Anoka County Regional Trail,75,Coon Creek Boulevard/Bunker Lake Boulevard,1,08:00 AM,Low
+Central Anoka County Regional Trail,75,Coon Creek Boulevard/Bunker Lake Boulevard,1,10:00 AM,Low
+Central Anoka County Regional Trail,75,Coon Creek Boulevard/Bunker Lake Boulevard,1,12:00 PM,Medium
+Central Anoka County Regional Trail,75,Coon Creek Boulevard/Bunker Lake Boulevard,1,02:00 PM,Medium
+Central Anoka County Regional Trail,75,Coon Creek Boulevard/Bunker Lake Boulevard,1,04:00 PM,High
+Central Anoka County Regional Trail,75,Coon Creek Boulevard/Bunker Lake Boulevard,1,06:00 PM,High
+Central Anoka County Regional Trail,75,Meadow Creek Church/Bunker Lake Boulevard,2,08:00 AM,Low
+Central Anoka County Regional Trail,75,Meadow Creek Church/Bunker Lake Boulevard,2,10:00 AM,Low
+Central Anoka County Regional Trail,75,Meadow Creek Church/Bunker Lake Boulevard,2,12:00 PM,Medium
+Central Anoka County Regional Trail,75,Meadow Creek Church/Bunker Lake Boulevard,2,02:00 PM,Medium
+Central Anoka County Regional Trail,75,Meadow Creek Church/Bunker Lake Boulevard,2,04:00 PM,High
+Central Anoka County Regional Trail,75,Meadow Creek Church/Bunker Lake Boulevard,2,06:00 PM,High
+Central Anoka County Regional Trail,75,Highway 47/Bunker Lake Boulevard,3,08:00 AM,Low
+Central Anoka County Regional Trail,75,Highway 47/Bunker Lake Boulevard,3,10:00 AM,Low
+Central Anoka County Regional Trail,75,Highway 47/Bunker Lake Boulevard,3,12:00 PM,Medium
+Central Anoka County Regional Trail,75,Highway 47/Bunker Lake Boulevard,3,02:00 PM,Medium
+Central Anoka County Regional Trail,75,Highway 47/Bunker Lake Boulevard,3,04:00 PM,High
+Central Anoka County Regional Trail,75,Highway 47/Bunker Lake Boulevard,3,06:00 PM,High
+Central Anoka County Regional Trail,75,Bunker Lake Boulevard/Sunfish Lake Boulevard,4,08:00 AM,Low
+Central Anoka County Regional Trail,75,Bunker Lake Boulevard/Sunfish Lake Boulevard,4,10:00 AM,Low
+Central Anoka County Regional Trail,75,Bunker Lake Boulevard/Sunfish Lake Boulevard,4,12:00 PM,Low
+Central Anoka County Regional Trail,75,Bunker Lake Boulevard/Sunfish Lake Boulevard,4,02:00 PM,Low
+Central Anoka County Regional Trail,75,Bunker Lake Boulevard/Sunfish Lake Boulevard,4,04:00 PM,Low
+Central Anoka County Regional Trail,75,Bunker Lake Boulevard/Sunfish Lake Boulevard,4,06:00 PM,Low
+Central Anoka County Regional Trail,75,County Road 14 and 21st Avenue,5,08:00 AM,Low
+Central Anoka County Regional Trail,75,County Road 14 and 21st Avenue,5,10:00 AM,Low
+Central Anoka County Regional Trail,75,County Road 14 and 21st Avenue,5,12:00 PM,Low
+Central Anoka County Regional Trail,75,County Road 14 and 21st Avenue,5,02:00 PM,Low
+Central Anoka County Regional Trail,75,County Road 14 and 21st Avenue,5,04:00 PM,Low
+Central Anoka County Regional Trail,75,County Road 14 and 21st Avenue,5,06:00 PM,Low
+Coon Creek Regional Trail,107,Holiday Gas Station parking lot,1,08:00 AM,High
+Coon Creek Regional Trail,107,Holiday Gas Station parking lot,1,10:00 AM,High
+Coon Creek Regional Trail,107,Holiday Gas Station parking lot,1,12:00 PM,High
+Coon Creek Regional Trail,107,Holiday Gas Station parking lot,1,02:00 PM,High
+Coon Creek Regional Trail,107,Holiday Gas Station parking lot,1,04:00 PM,High
+Coon Creek Regional Trail,107,Holiday Gas Station parking lot,1,06:00 PM,High
+Coon Creek Regional Trail,107,Al Flynn Park - City of Coon Rapids,2,08:00 AM,High
+Coon Creek Regional Trail,107,Al Flynn Park - City of Coon Rapids,2,10:00 AM,High
+Coon Creek Regional Trail,107,Al Flynn Park - City of Coon Rapids,2,12:00 PM,High
+Coon Creek Regional Trail,107,Al Flynn Park - City of Coon Rapids,2,02:00 PM,High
+Coon Creek Regional Trail,107,Al Flynn Park - City of Coon Rapids,2,04:00 PM,High
+Coon Creek Regional Trail,107,Al Flynn Park - City of Coon Rapids,2,06:00 PM,High
+Coon Creek Regional Trail,107,South of the intersection of 118th Avenue and Xeon Street,3,08:00 AM,Low
+Coon Creek Regional Trail,107,South of the intersection of 118th Avenue and Xeon Street,3,10:00 AM,Low
+Coon Creek Regional Trail,107,South of the intersection of 118th Avenue and Xeon Street,3,12:00 PM,Medium
+Coon Creek Regional Trail,107,South of the intersection of 118th Avenue and Xeon Street,3,02:00 PM,Medium
+Coon Creek Regional Trail,107,South of the intersection of 118th Avenue and Xeon Street,3,04:00 PM,High
+Coon Creek Regional Trail,107,South of the intersection of 118th Avenue and Xeon Street,3,06:00 PM,High
+Coon Creek Regional Trail,107,Sand Creek Drive and Olive Street,4,08:00 AM,Medium
+Coon Creek Regional Trail,107,Sand Creek Drive and Olive Street,4,10:00 AM,Medium
+Coon Creek Regional Trail,107,Sand Creek Drive and Olive Street,4,12:00 PM,Low
+Coon Creek Regional Trail,107,Sand Creek Drive and Olive Street,4,02:00 PM,Low
+Coon Creek Regional Trail,107,Sand Creek Drive and Olive Street,4,04:00 PM,High
+Coon Creek Regional Trail,107,Sand Creek Drive and Olive Street,4,06:00 PM,High
+Coon Creek Regional Trail,107,Foley Boulevard/Goldenrod Street,5,08:00 AM,Medium
+Coon Creek Regional Trail,107,Foley Boulevard/Goldenrod Street,5,10:00 AM,Medium
+Coon Creek Regional Trail,107,Foley Boulevard/Goldenrod Street,5,12:00 PM,High
+Coon Creek Regional Trail,107,Foley Boulevard/Goldenrod Street,5,02:00 PM,High
+Coon Creek Regional Trail,107,Foley Boulevard/Goldenrod Street,5,04:00 PM,High
+Coon Creek Regional Trail,107,Foley Boulevard/Goldenrod Street,5,06:00 PM,High
+Coon Creek Regional Trail,107,Foley Boulevard/121st,6,08:00 AM,Medium
+Coon Creek Regional Trail,107,Foley Boulevard/121st,6,10:00 AM,Medium
+Coon Creek Regional Trail,107,Foley Boulevard/121st,6,12:00 PM,Medium
+Coon Creek Regional Trail,107,Foley Boulevard/121st,6,02:00 PM,Medium
+Coon Creek Regional Trail,107,Foley Boulevard/121st,6,04:00 PM,Medium
+Coon Creek Regional Trail,107,Foley Boulevard/121st,6,06:00 PM,Medium
+Coon Creek Regional Trail,107,Foley Boulevard/123rd,7,08:00 AM,Medium
+Coon Creek Regional Trail,107,Foley Boulevard/123rd,7,10:00 AM,Medium
+Coon Creek Regional Trail,107,Foley Boulevard/123rd,7,12:00 PM,Medium
+Coon Creek Regional Trail,107,Foley Boulevard/123rd,7,02:00 PM,Medium
+Coon Creek Regional Trail,107,Foley Boulevard/123rd,7,04:00 PM,Medium
+Coon Creek Regional Trail,107,Foley Boulevard/123rd,7,06:00 PM,Medium
+Coon Creek Regional Trail,107,Egret and Robinson,8,08:00 AM,Medium
+Coon Creek Regional Trail,107,Egret and Robinson,8,10:00 AM,Medium
+Coon Creek Regional Trail,107,Egret and Robinson,8,12:00 PM,Medium
+Coon Creek Regional Trail,107,Egret and Robinson,8,02:00 PM,Medium
+Coon Creek Regional Trail,107,Egret and Robinson,8,04:00 PM,Medium
+Coon Creek Regional Trail,107,Egret and Robinson,8,06:00 PM,Medium
+Coon Creek Regional Trail,107,Meadow Lake Drive and Robinson,9,08:00 AM,Low
+Coon Creek Regional Trail,107,Meadow Lake Drive and Robinson,9,10:00 AM,Low
+Coon Creek Regional Trail,107,Meadow Lake Drive and Robinson,9,12:00 PM,Low
+Coon Creek Regional Trail,107,Meadow Lake Drive and Robinson,9,02:00 PM,Low
+Coon Creek Regional Trail,107,Meadow Lake Drive and Robinson,9,04:00 PM,Low
+Coon Creek Regional Trail,107,Meadow Lake Drive and Robinson,9,06:00 PM,Low
+East Anoka County Regional Trail,108,Lexington Avenue/121st Avenue Northeast,1,08:00 AM,Low
+East Anoka County Regional Trail,108,Lexington Avenue/121st Avenue Northeast,1,10:00 AM,Low
+East Anoka County Regional Trail,108,Lexington Avenue/121st Avenue Northeast,1,12:00 PM,Low
+East Anoka County Regional Trail,108,Lexington Avenue/121st Avenue Northeast,1,02:00 PM,Low
+East Anoka County Regional Trail,108,Lexington Avenue/121st Avenue Northeast,1,04:00 PM,Low
+East Anoka County Regional Trail,108,Lexington Avenue/121st Avenue Northeast,1,06:00 PM,Low
+East Anoka County Regional Trail,108,Lexington Avenue/Ball Road,2,08:00 AM,Low
+East Anoka County Regional Trail,108,Lexington Avenue/Ball Road,2,10:00 AM,Low
+East Anoka County Regional Trail,108,Lexington Avenue/Ball Road,2,12:00 PM,Low
+East Anoka County Regional Trail,108,Lexington Avenue/Ball Road,2,02:00 PM,Low
+East Anoka County Regional Trail,108,Lexington Avenue/Ball Road,2,04:00 PM,Medium
+East Anoka County Regional Trail,108,Lexington Avenue/Ball Road,2,06:00 PM,Medium
+East Anoka County Regional Trail,108,Lexington Avenue/87th Avenue,3,08:00 AM,High
+East Anoka County Regional Trail,108,Lexington Avenue/87th Avenue,3,10:00 AM,High
+East Anoka County Regional Trail,108,Lexington Avenue/87th Avenue,3,12:00 PM,Medium
+East Anoka County Regional Trail,108,Lexington Avenue/87th Avenue,3,02:00 PM,Medium
+East Anoka County Regional Trail,108,Lexington Avenue/87th Avenue,3,04:00 PM,High
+East Anoka County Regional Trail,108,Lexington Avenue/87th Avenue,3,06:00 PM,High
+East Anoka County Regional Trail,108,Lexington Avenue/Lake Drive (County Road 23),4,08:00 AM,High
+East Anoka County Regional Trail,108,Lexington Avenue/Lake Drive (County Road 23),4,10:00 AM,High
+East Anoka County Regional Trail,108,Lexington Avenue/Lake Drive (County Road 23),4,12:00 PM,High
+East Anoka County Regional Trail,108,Lexington Avenue/Lake Drive (County Road 23),4,02:00 PM,High
+East Anoka County Regional Trail,108,Lexington Avenue/Lake Drive (County Road 23),4,04:00 PM,High
+East Anoka County Regional Trail,108,Lexington Avenue/Lake Drive (County Road 23),4,06:00 PM,High
+East Anoka County Regional Trail,108,Lexington Avenue/North road,5,08:00 AM,Medium
+East Anoka County Regional Trail,108,Lexington Avenue/North road,5,10:00 AM,Medium
+East Anoka County Regional Trail,108,Lexington Avenue/North road,5,12:00 PM,Medium
+East Anoka County Regional Trail,108,Lexington Avenue/North road,5,02:00 PM,Medium
+East Anoka County Regional Trail,108,Lexington Avenue/North road,5,04:00 PM,Medium
+East Anoka County Regional Trail,108,Lexington Avenue/North road,5,06:00 PM,Medium
+East Anoka County Regional Trail,108,West Road and Village Parkway,6,08:00 AM,Low
+East Anoka County Regional Trail,108,West Road and Village Parkway,6,10:00 AM,Low
+East Anoka County Regional Trail,108,West Road and Village Parkway,6,12:00 PM,Low
+East Anoka County Regional Trail,108,West Road and Village Parkway,6,02:00 PM,Low
+East Anoka County Regional Trail,108,West Road and Village Parkway,6,04:00 PM,Low
+East Anoka County Regional Trail,108,West Road and Village Parkway,6,06:00 PM,Low
+East Anoka County Regional Trail,108,Lexington Avenue and Woodland Road,7,08:00 AM,Low
+East Anoka County Regional Trail,108,Lexington Avenue and Woodland Road,7,10:00 AM,Low
+East Anoka County Regional Trail,108,Lexington Avenue and Woodland Road,7,12:00 PM,Low
+East Anoka County Regional Trail,108,Lexington Avenue and Woodland Road,7,02:00 PM,Low
+East Anoka County Regional Trail,108,Lexington Avenue and Woodland Road,7,04:00 PM,Low
+East Anoka County Regional Trail,108,Lexington Avenue and Woodland Road,7,06:00 PM,Low
+Rum River Regional Trail,109,Rum River North Count Park - Pavilion 2 Parking Lot,1,08:00 AM,Medium
+Rum River Regional Trail,109,Rum River North Count Park - Pavilion 2 Parking Lot,1,10:00 AM,Medium
+Rum River Regional Trail,109,Rum River North Count Park - Pavilion 2 Parking Lot,1,12:00 PM,Medium
+Rum River Regional Trail,109,Rum River North Count Park - Pavilion 2 Parking Lot,1,02:00 PM,Medium
+Rum River Regional Trail,109,Rum River North Count Park - Pavilion 2 Parking Lot,1,04:00 PM,Medium
+Rum River Regional Trail,109,Rum River North Count Park - Pavilion 2 Parking Lot,1,06:00 PM,Medium
+Rum River Regional Trail,109,Anoka High School - Parking lot next to the track,2,08:00 AM,Medium
+Rum River Regional Trail,109,Anoka High School - Parking lot next to the track,2,10:00 AM,Medium
+Rum River Regional Trail,109,Anoka High School - Parking lot next to the track,2,12:00 PM,Medium
+Rum River Regional Trail,109,Anoka High School - Parking lot next to the track,2,02:00 PM,Medium
+Rum River Regional Trail,109,Anoka High School - Parking lot next to the track,2,04:00 PM,Medium
+Rum River Regional Trail,109,Anoka High School - Parking lot next to the track,2,06:00 PM,Medium
+Rum River Regional Trail,109,Northstar Commuter Lot - Johnson Street and 4th Avenue,3,08:00 AM,Low
+Rum River Regional Trail,109,Northstar Commuter Lot - Johnson Street and 4th Avenue,3,10:00 AM,Low
+Rum River Regional Trail,109,Northstar Commuter Lot - Johnson Street and 4th Avenue,3,12:00 PM,Low
+Rum River Regional Trail,109,Northstar Commuter Lot - Johnson Street and 4th Avenue,3,02:00 PM,Low
+Rum River Regional Trail,109,Northstar Commuter Lot - Johnson Street and 4th Avenue,3,04:00 PM,Low
+Rum River Regional Trail,109,Northstar Commuter Lot - Johnson Street and 4th Avenue,3,06:00 PM,Low
+Rum River Regional Trail,109,City Hall - City of Anoka,4,08:00 AM,Medium
+Rum River Regional Trail,109,City Hall - City of Anoka,4,10:00 AM,Medium
+Rum River Regional Trail,109,City Hall - City of Anoka,4,12:00 PM,Medium
+Rum River Regional Trail,109,City Hall - City of Anoka,4,02:00 PM,Medium
+Rum River Regional Trail,109,City Hall - City of Anoka,4,04:00 PM,Medium
+Rum River Regional Trail,109,City Hall - City of Anoka,4,06:00 PM,Medium
+Rum River Regional Trail,109,Rum River Trail/The Ponds Golf Course,5,08:00 AM,Low
+Rum River Regional Trail,109,Rum River Trail/The Ponds Golf Course,5,10:00 AM,Low
+Rum River Regional Trail,109,Rum River Trail/The Ponds Golf Course,5,12:00 PM,Low
+Rum River Regional Trail,109,Rum River Trail/The Ponds Golf Course,5,02:00 PM,Low
+Rum River Regional Trail,109,Rum River Trail/The Ponds Golf Course,5,04:00 PM,Low
+Rum River Regional Trail,109,Rum River Trail/The Ponds Golf Course,5,06:00 PM,Low
+Bunker Hills Regional Trail,110,Lakeside Commons Park - City of Blaine,1,08:00 AM,High
+Bunker Hills Regional Trail,110,Lakeside Commons Park - City of Blaine,1,10:00 AM,High
+Bunker Hills Regional Trail,110,Lakeside Commons Park - City of Blaine,1,12:00 PM,Medium
+Bunker Hills Regional Trail,110,Lakeside Commons Park - City of Blaine,1,02:00 PM,Medium
+Bunker Hills Regional Trail,110,Lakeside Commons Park - City of Blaine,1,04:00 PM,High
+Bunker Hills Regional Trail,110,Lakeside Commons Park - City of Blaine,1,06:00 PM,High
+Bunker Hills Regional Trail,110,Blaine High School - behind football bleachers,2,08:00 AM,Low
+Bunker Hills Regional Trail,110,Blaine High School - behind football bleachers,2,10:00 AM,Low
+Bunker Hills Regional Trail,110,Blaine High School - behind football bleachers,2,12:00 PM,Low
+Bunker Hills Regional Trail,110,Blaine High School - behind football bleachers,2,02:00 PM,Low
+Bunker Hills Regional Trail,110,Blaine High School - behind football bleachers,2,04:00 PM,Medium
+Bunker Hills Regional Trail,110,Blaine High School - behind football bleachers,2,06:00 PM,Medium
+Bunker Hills Regional Trail,110,Aqua Lane - behind Townhomes on north side of Aqua Lane,3,08:00 AM,High
+Bunker Hills Regional Trail,110,Aqua Lane - behind Townhomes on north side of Aqua Lane,3,10:00 AM,High
+Bunker Hills Regional Trail,110,Aqua Lane - behind Townhomes on north side of Aqua Lane,3,12:00 PM,Medium
+Bunker Hills Regional Trail,110,Aqua Lane - behind Townhomes on north side of Aqua Lane,3,02:00 PM,Medium
+Bunker Hills Regional Trail,110,Aqua Lane - behind Townhomes on north side of Aqua Lane,3,04:00 PM,High
+Bunker Hills Regional Trail,110,Aqua Lane - behind Townhomes on north side of Aqua Lane,3,06:00 PM,High
+Bunker Hills Regional Trail,110,Elm Street near Centennial School,4,08:00 AM,Medium
+Bunker Hills Regional Trail,110,Elm Street near Centennial School,4,10:00 AM,Medium
+Bunker Hills Regional Trail,110,Elm Street near Centennial School,4,12:00 PM,Medium
+Bunker Hills Regional Trail,110,Elm Street near Centennial School,4,02:00 PM,Medium
+Bunker Hills Regional Trail,110,Elm Street near Centennial School,4,04:00 PM,Medium
+Bunker Hills Regional Trail,110,Elm Street near Centennial School,4,06:00 PM,Medium
+Mississippi West Regional Park,112,Boat Launch,1,08:00 AM,High
+Mississippi West Regional Park,112,Boat Launch,1,10:00 AM,High
+Mississippi West Regional Park,112,Boat Launch,1,12:00 PM,High
+Mississippi West Regional Park,112,Boat Launch,1,02:00 PM,High
+Mississippi West Regional Park,112,Boat Launch,1,04:00 PM,High
+Mississippi West Regional Park,112,Boat Launch,1,06:00 PM,High
+Mississippi West Regional Park,112,Riverdale Drive Northwest and Ramsey Boulevard,2,08:00 AM,Medium
+Mississippi West Regional Park,112,Riverdale Drive Northwest and Ramsey Boulevard,2,10:00 AM,Medium
+Mississippi West Regional Park,112,Riverdale Drive Northwest and Ramsey Boulevard,2,12:00 PM,Medium
+Mississippi West Regional Park,112,Riverdale Drive Northwest and Ramsey Boulevard,2,02:00 PM,Medium
+Mississippi West Regional Park,112,Riverdale Drive Northwest and Ramsey Boulevard,2,04:00 PM,Medium
+Mississippi West Regional Park,112,Riverdale Drive Northwest and Ramsey Boulevard,2,06:00 PM,Medium

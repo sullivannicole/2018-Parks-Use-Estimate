@@ -1,0 +1,541 @@
+Park_or_trail_name,Park_trail_id,Entrance_name,Entrance_id,Start_time,Usage_class
+Bruce Vento Regional Trail,62,Johnson Parkway - Maryland Avenue entranc,1,08:00 AM,High
+Bruce Vento Regional Trail,62,Johnson Parkway - Maryland Avenue entranc,1,10:00 AM,High
+Bruce Vento Regional Trail,62,Johnson Parkway - Maryland Avenue entranc,1,12:00 PM,High
+Bruce Vento Regional Trail,62,Johnson Parkway - Maryland Avenue entranc,1,02:00 PM,High
+Bruce Vento Regional Trail,62,Johnson Parkway - Maryland Avenue entranc,1,04:00 PM,High
+Bruce Vento Regional Trail,62,Johnson Parkway - Maryland Avenue entranc,1,06:00 PM,High
+Bruce Vento Regional Trail,62,Drewry Lane and Beaumont Street access,3,08:00 AM,Low
+Bruce Vento Regional Trail,62,Drewry Lane and Beaumont Street access,3,10:00 AM,Low
+Bruce Vento Regional Trail,62,Drewry Lane and Beaumont Street access,3,12:00 PM,Low
+Bruce Vento Regional Trail,62,Drewry Lane and Beaumont Street access,3,02:00 PM,Low
+Bruce Vento Regional Trail,62,Drewry Lane and Beaumont Street access,3,04:00 PM,Low
+Bruce Vento Regional Trail,62,Drewry Lane and Beaumont Street access,3,06:00 PM,Low
+Bruce Vento Regional Trail,62,Payne Avenue Access,5,08:00 AM,Medium
+Bruce Vento Regional Trail,62,Payne Avenue Access,5,10:00 AM,High
+Bruce Vento Regional Trail,62,Payne Avenue Access,5,12:00 PM,High
+Bruce Vento Regional Trail,62,Payne Avenue Access,5,02:00 PM,High
+Bruce Vento Regional Trail,62,Payne Avenue Access,5,04:00 PM,High
+Bruce Vento Regional Trail,62,Payne Avenue Access,5,06:00 PM,High
+Bruce Vento Regional Trail,62,Intersection of Phalen Boulevard and Johnson Parkway,6,08:00 AM,Medium
+Bruce Vento Regional Trail,62,Intersection of Phalen Boulevard and Johnson Parkway,6,10:00 AM,High
+Bruce Vento Regional Trail,62,Intersection of Phalen Boulevard and Johnson Parkway,6,12:00 PM,High
+Bruce Vento Regional Trail,62,Intersection of Phalen Boulevard and Johnson Parkway,6,02:00 PM,High
+Bruce Vento Regional Trail,62,Intersection of Phalen Boulevard and Johnson Parkway,6,04:00 PM,High
+Bruce Vento Regional Trail,62,Intersection of Phalen Boulevard and Johnson Parkway,6,06:00 PM,High
+Bruce Vento Regional Trail,62,Intersection of Phalen Boulevard and Frank Street,7,08:00 AM,Medium
+Bruce Vento Regional Trail,62,Intersection of Phalen Boulevard and Frank Street,7,10:00 AM,Low
+Bruce Vento Regional Trail,62,Intersection of Phalen Boulevard and Frank Street,7,12:00 PM,Low
+Bruce Vento Regional Trail,62,Intersection of Phalen Boulevard and Frank Street,7,02:00 PM,Low
+Bruce Vento Regional Trail,62,Intersection of Phalen Boulevard and Frank Street,7,04:00 PM,Medium
+Bruce Vento Regional Trail,62,Intersection of Phalen Boulevard and Frank Street,7,06:00 PM,Medium
+Bruce Vento Regional Trail,62,Parking lot at entrance to Bruce Vento Nature Sanctuary,8,08:00 AM,Medium
+Bruce Vento Regional Trail,62,Parking lot at entrance to Bruce Vento Nature Sanctuary,8,10:00 AM,High
+Bruce Vento Regional Trail,62,Parking lot at entrance to Bruce Vento Nature Sanctuary,8,12:00 PM,High
+Bruce Vento Regional Trail,62,Parking lot at entrance to Bruce Vento Nature Sanctuary,8,02:00 PM,High
+Bruce Vento Regional Trail,62,Parking lot at entrance to Bruce Vento Nature Sanctuary,8,04:00 PM,High
+Bruce Vento Regional Trail,62,Parking lot at entrance to Bruce Vento Nature Sanctuary,8,06:00 PM,High
+Cherokee Heights Regional Park,63,Chippewa - Curtice,1,08:00 AM,Medium
+Cherokee Heights Regional Park,63,Chippewa - Curtice,1,10:00 AM,Medium
+Cherokee Heights Regional Park,63,Chippewa - Curtice,1,12:00 PM,High
+Cherokee Heights Regional Park,63,Chippewa - Curtice,1,02:00 PM,High
+Cherokee Heights Regional Park,63,Chippewa - Curtice,1,04:00 PM,High
+Cherokee Heights Regional Park,63,Chippewa - Curtice,1,06:00 PM,Medium
+Cherokee Heights Regional Park,63,"Intersection of Cherokee Heights Boulevard, Baker Street West and Chippewa Avenue",2,08:00 AM,Medium
+Cherokee Heights Regional Park,63,"Intersection of Cherokee Heights Boulevard, Baker Street West and Chippewa Avenue",2,10:00 AM,Medium
+Cherokee Heights Regional Park,63,"Intersection of Cherokee Heights Boulevard, Baker Street West and Chippewa Avenue",2,12:00 PM,High
+Cherokee Heights Regional Park,63,"Intersection of Cherokee Heights Boulevard, Baker Street West and Chippewa Avenue",2,02:00 PM,High
+Cherokee Heights Regional Park,63,"Intersection of Cherokee Heights Boulevard, Baker Street West and Chippewa Avenue",2,04:00 PM,High
+Cherokee Heights Regional Park,63,"Intersection of Cherokee Heights Boulevard, Baker Street West and Chippewa Avenue",2,06:00 PM,Medium
+Cherokee Heights Regional Park,63,Annapolis - Chippewa,3,08:00 AM,Low
+Cherokee Heights Regional Park,63,Annapolis - Chippewa,3,10:00 AM,Low
+Cherokee Heights Regional Park,63,Annapolis - Chippewa,3,12:00 PM,Low
+Cherokee Heights Regional Park,63,Annapolis - Chippewa,3,02:00 PM,Low
+Cherokee Heights Regional Park,63,Annapolis - Chippewa,3,04:00 PM,Low
+Cherokee Heights Regional Park,63,Annapolis - Chippewa,3,06:00 PM,Low
+Cherokee Heights Regional Park,63,Cherokee Heights Boulevard - South,4,08:00 AM,Medium
+Cherokee Heights Regional Park,63,Cherokee Heights Boulevard - South,4,10:00 AM,High
+Cherokee Heights Regional Park,63,Cherokee Heights Boulevard - South,4,12:00 PM,High
+Cherokee Heights Regional Park,63,Cherokee Heights Boulevard - South,4,02:00 PM,High
+Cherokee Heights Regional Park,63,Cherokee Heights Boulevard - South,4,04:00 PM,High
+Cherokee Heights Regional Park,63,Cherokee Heights Boulevard - South,4,06:00 PM,High
+Cherokee Heights Regional Park,63,Cherokee Avenue - Baker Street,5,08:00 AM,Medium
+Cherokee Heights Regional Park,63,Cherokee Avenue - Baker Street,5,10:00 AM,Medium
+Cherokee Heights Regional Park,63,Cherokee Avenue - Baker Street,5,12:00 PM,High
+Cherokee Heights Regional Park,63,Cherokee Avenue - Baker Street,5,02:00 PM,High
+Cherokee Heights Regional Park,63,Cherokee Avenue - Baker Street,5,04:00 PM,High
+Cherokee Heights Regional Park,63,Cherokee Avenue - Baker Street,5,06:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,E Como - North,1,08:00 AM,Low
+"Como Regional Park, Zoo, & Conservatory",64,E Como - North,1,10:00 AM,Low
+"Como Regional Park, Zoo, & Conservatory",64,E Como - North,1,12:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,E Como - North,1,02:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,E Como - North,1,04:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,E Como - North,1,06:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,E Como - Lakeview,2,08:00 AM,Low
+"Como Regional Park, Zoo, & Conservatory",64,E Como - Lakeview,2,10:00 AM,Low
+"Como Regional Park, Zoo, & Conservatory",64,E Como - Lakeview,2,12:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,E Como - Lakeview,2,02:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,E Como - Lakeview,2,04:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,E Como - Lakeview,2,06:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,E Como - Victoria,3,08:00 AM,Low
+"Como Regional Park, Zoo, & Conservatory",64,E Como - Victoria,3,10:00 AM,Low
+"Como Regional Park, Zoo, & Conservatory",64,E Como - Victoria,3,12:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,E Como - Victoria,3,02:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,E Como - Victoria,3,04:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,E Como - Victoria,3,06:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Como - Chatsworth,5,08:00 AM,Low
+"Como Regional Park, Zoo, & Conservatory",64,Como - Chatsworth,5,10:00 AM,Low
+"Como Regional Park, Zoo, & Conservatory",64,Como - Chatsworth,5,12:00 PM,Low
+"Como Regional Park, Zoo, & Conservatory",64,Como - Chatsworth,5,02:00 PM,Low
+"Como Regional Park, Zoo, & Conservatory",64,Como - Chatsworth,5,04:00 PM,Low
+"Como Regional Park, Zoo, & Conservatory",64,Como - Chatsworth,5,06:00 PM,Low
+"Como Regional Park, Zoo, & Conservatory",64,Como Boulevard - Horton,6,08:00 AM,Low
+"Como Regional Park, Zoo, & Conservatory",64,Como Boulevard - Horton,6,10:00 AM,Low
+"Como Regional Park, Zoo, & Conservatory",64,Como Boulevard - Horton,6,12:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Como Boulevard - Horton,6,02:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Como Boulevard - Horton,6,04:00 PM,Low
+"Como Regional Park, Zoo, & Conservatory",64,Como Boulevard - Horton,6,06:00 PM,Low
+"Como Regional Park, Zoo, & Conservatory",64,Horton Avenue - Churchill,7,08:00 AM,Low
+"Como Regional Park, Zoo, & Conservatory",64,Horton Avenue - Churchill,7,10:00 AM,Low
+"Como Regional Park, Zoo, & Conservatory",64,Horton Avenue - Churchill,7,12:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Horton Avenue - Churchill,7,02:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Horton Avenue - Churchill,7,04:00 PM,Low
+"Como Regional Park, Zoo, & Conservatory",64,Horton Avenue - Churchill,7,06:00 PM,Low
+"Como Regional Park, Zoo, & Conservatory",64,Horton Avenue - Lexington,8,08:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Horton Avenue - Lexington,8,10:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Horton Avenue - Lexington,8,12:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Horton Avenue - Lexington,8,02:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Horton Avenue - Lexington,8,04:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Horton Avenue - Lexington,8,06:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Horton Avenue - Midway Parkway,9,08:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Horton Avenue - Midway Parkway,9,10:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Horton Avenue - Midway Parkway,9,12:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Horton Avenue - Midway Parkway,9,02:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Horton Avenue - Midway Parkway,9,04:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Horton Avenue - Midway Parkway,9,06:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Como Avenue - Midway Parkway to Hamline,10,08:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Como Avenue - Midway Parkway to Hamline,10,10:00 AM,High
+"Como Regional Park, Zoo, & Conservatory",64,Como Avenue - Midway Parkway to Hamline,10,12:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Como Avenue - Midway Parkway to Hamline,10,02:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Como Avenue - Midway Parkway to Hamline,10,04:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Como Avenue - Midway Parkway to Hamline,10,06:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Como/Horton-Hamline,13,08:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Como/Horton-Hamline,13,10:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Como/Horton-Hamline,13,12:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Como/Horton-Hamline,13,02:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Como/Horton-Hamline,13,04:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Como/Horton-Hamline,13,06:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Hamline - Midway Parkway,14,08:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Hamline - Midway Parkway,14,10:00 AM,High
+"Como Regional Park, Zoo, & Conservatory",64,Hamline - Midway Parkway,14,12:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Hamline - Midway Parkway,14,02:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Hamline - Midway Parkway,14,04:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Hamline - Midway Parkway,14,06:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Zoo WOLF Lot - 1/2 lot nearest Wolf Woods,16,08:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Zoo WOLF Lot - 1/2 lot nearest Wolf Woods,16,10:00 AM,High
+"Como Regional Park, Zoo, & Conservatory",64,Zoo WOLF Lot - 1/2 lot nearest Wolf Woods,16,12:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Zoo WOLF Lot - 1/2 lot nearest Wolf Woods,16,02:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Zoo WOLF Lot - 1/2 lot nearest Wolf Woods,16,04:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Zoo WOLF Lot - 1/2 lot nearest Wolf Woods,16,06:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Zoo WOLF Lot - 1/2 lot nearest Amusement Rides,17,08:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Zoo WOLF Lot - 1/2 lot nearest Amusement Rides,17,10:00 AM,High
+"Como Regional Park, Zoo, & Conservatory",64,Zoo WOLF Lot - 1/2 lot nearest Amusement Rides,17,12:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Zoo WOLF Lot - 1/2 lot nearest Amusement Rides,17,02:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Zoo WOLF Lot - 1/2 lot nearest Amusement Rides,17,04:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Zoo WOLF Lot - 1/2 lot nearest Amusement Rides,17,06:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Nason - Kaufman,18,08:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Nason - Kaufman,18,10:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Nason - Kaufman,18,12:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Nason - Kaufman,18,02:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Nason - Kaufman,18,04:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Nason - Kaufman,18,06:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Estabrook - Lexington Parkway,19,08:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Estabrook - Lexington Parkway,19,10:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Estabrook - Lexington Parkway,19,12:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Estabrook - Lexington Parkway,19,02:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Estabrook - Lexington Parkway,19,04:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Estabrook - Lexington Parkway,19,06:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Palm Lot - Midway Parkway 1,20,08:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Palm Lot - Midway Parkway 1,20,10:00 AM,High
+"Como Regional Park, Zoo, & Conservatory",64,Palm Lot - Midway Parkway 1,20,12:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Palm Lot - Midway Parkway 1,20,02:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Palm Lot - Midway Parkway 1,20,04:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Palm Lot - Midway Parkway 1,20,06:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,On the end of the Palm Lot closest Midway Parkway,21,08:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,On the end of the Palm Lot closest Midway Parkway,21,10:00 AM,High
+"Como Regional Park, Zoo, & Conservatory",64,On the end of the Palm Lot closest Midway Parkway,21,12:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,On the end of the Palm Lot closest Midway Parkway,21,02:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,On the end of the Palm Lot closest Midway Parkway,21,04:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,On the end of the Palm Lot closest Midway Parkway,21,06:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Palm Lot - Aida 3,22,08:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Palm Lot - Aida 3,22,10:00 AM,High
+"Como Regional Park, Zoo, & Conservatory",64,Palm Lot - Aida 3,22,12:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Palm Lot - Aida 3,22,02:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Palm Lot - Aida 3,22,04:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Palm Lot - Aida 3,22,06:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Lake Pavilion - South,23,08:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Lake Pavilion - South,23,10:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Lake Pavilion - South,23,12:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Lake Pavilion - South,23,02:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Lake Pavilion - South,23,04:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Lake Pavilion - South,23,06:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Lake Pavilion - North,24,08:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Lake Pavilion - North,24,10:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Lake Pavilion - North,24,12:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Lake Pavilion - North,24,02:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Lake Pavilion - North,24,04:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Lake Pavilion - North,24,06:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,West Picnic Lot,26,08:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,West Picnic Lot,26,10:00 AM,High
+"Como Regional Park, Zoo, & Conservatory",64,West Picnic Lot,26,12:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,West Picnic Lot,26,02:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,West Picnic Lot,26,04:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,West Picnic Lot,26,06:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Butterfly Lot,27,08:00 AM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Butterfly Lot,27,10:00 AM,High
+"Como Regional Park, Zoo, & Conservatory",64,Butterfly Lot,27,12:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Butterfly Lot,27,02:00 PM,High
+"Como Regional Park, Zoo, & Conservatory",64,Butterfly Lot,27,04:00 PM,Medium
+"Como Regional Park, Zoo, & Conservatory",64,Butterfly Lot,27,06:00 PM,Medium
+Lilydale-Harriet Island Regional Park,65,Picnic Pavilion Parking Lot,1,08:00 AM,Low
+Lilydale-Harriet Island Regional Park,65,Picnic Pavilion Parking Lot,1,10:00 AM,High
+Lilydale-Harriet Island Regional Park,65,Picnic Pavilion Parking Lot,1,12:00 PM,High
+Lilydale-Harriet Island Regional Park,65,Picnic Pavilion Parking Lot,1,02:00 PM,High
+Lilydale-Harriet Island Regional Park,65,Picnic Pavilion Parking Lot,1,04:00 PM,High
+Lilydale-Harriet Island Regional Park,65,Picnic Pavilion Parking Lot,1,06:00 PM,Medium
+Lilydale-Harriet Island Regional Park,65,East Parking Lot,2,08:00 AM,Low
+Lilydale-Harriet Island Regional Park,65,East Parking Lot,2,10:00 AM,High
+Lilydale-Harriet Island Regional Park,65,East Parking Lot,2,12:00 PM,High
+Lilydale-Harriet Island Regional Park,65,East Parking Lot,2,02:00 PM,High
+Lilydale-Harriet Island Regional Park,65,East Parking Lot,2,04:00 PM,High
+Lilydale-Harriet Island Regional Park,65,East Parking Lot,2,06:00 PM,Medium
+Lilydale-Harriet Island Regional Park,65,Long Public Dock that points down river,3,08:00 AM,Low
+Lilydale-Harriet Island Regional Park,65,Long Public Dock that points down river,3,10:00 AM,Low
+Lilydale-Harriet Island Regional Park,65,Long Public Dock that points down river,3,12:00 PM,Low
+Lilydale-Harriet Island Regional Park,65,Long Public Dock that points down river,3,02:00 PM,Low
+Lilydale-Harriet Island Regional Park,65,Long Public Dock that points down river,3,04:00 PM,Low
+Lilydale-Harriet Island Regional Park,65,Long Public Dock that points down river,3,06:00 PM,Low
+Lilydale-Harriet Island Regional Park,65,Harriet Island and Lilydale Park Junction,4,08:00 AM,Low
+Lilydale-Harriet Island Regional Park,65,Harriet Island and Lilydale Park Junction,4,10:00 AM,Low
+Lilydale-Harriet Island Regional Park,65,Harriet Island and Lilydale Park Junction,4,12:00 PM,Low
+Lilydale-Harriet Island Regional Park,65,Harriet Island and Lilydale Park Junction,4,02:00 PM,Low
+Lilydale-Harriet Island Regional Park,65,Harriet Island and Lilydale Park Junction,4,04:00 PM,Low
+Lilydale-Harriet Island Regional Park,65,Harriet Island and Lilydale Park Junction,4,06:00 PM,Low
+Lilydale-Harriet Island Regional Park,65,Lilydale Road & Plato Boulevard,5,08:00 AM,Low
+Lilydale-Harriet Island Regional Park,65,Lilydale Road & Plato Boulevard,5,10:00 AM,Low
+Lilydale-Harriet Island Regional Park,65,Lilydale Road & Plato Boulevard,5,12:00 PM,Medium
+Lilydale-Harriet Island Regional Park,65,Lilydale Road & Plato Boulevard,5,02:00 PM,Medium
+Lilydale-Harriet Island Regional Park,65,Lilydale Road & Plato Boulevard,5,04:00 PM,Medium
+Lilydale-Harriet Island Regional Park,65,Lilydale Road & Plato Boulevard,5,06:00 PM,Low
+Lilydale-Harriet Island Regional Park,65,Lilydale pool and Yacht Club parking area,7,08:00 AM,Low
+Lilydale-Harriet Island Regional Park,65,Lilydale pool and Yacht Club parking area,7,10:00 AM,Low
+Lilydale-Harriet Island Regional Park,65,Lilydale pool and Yacht Club parking area,7,12:00 PM,Low
+Lilydale-Harriet Island Regional Park,65,Lilydale pool and Yacht Club parking area,7,02:00 PM,Low
+Lilydale-Harriet Island Regional Park,65,Lilydale pool and Yacht Club parking area,7,04:00 PM,Low
+Lilydale-Harriet Island Regional Park,65,Lilydale pool and Yacht Club parking area,7,06:00 PM,Low
+Lilydale-Harriet Island Regional Park,65,Harriet Island Pedestrian Gateway,8,08:00 AM,Low
+Lilydale-Harriet Island Regional Park,65,Harriet Island Pedestrian Gateway,8,10:00 AM,Medium
+Lilydale-Harriet Island Regional Park,65,Harriet Island Pedestrian Gateway,8,12:00 PM,Medium
+Lilydale-Harriet Island Regional Park,65,Harriet Island Pedestrian Gateway,8,02:00 PM,Medium
+Lilydale-Harriet Island Regional Park,65,Harriet Island Pedestrian Gateway,8,04:00 PM,Medium
+Lilydale-Harriet Island Regional Park,65,Harriet Island Pedestrian Gateway,8,06:00 PM,Medium
+Hidden Falls-Crosby Farm Regional Park,66,Interstate 35E,1,08:00 AM,Low
+Hidden Falls-Crosby Farm Regional Park,66,Interstate 35E,1,10:00 AM,Medium
+Hidden Falls-Crosby Farm Regional Park,66,Interstate 35E,1,12:00 PM,High
+Hidden Falls-Crosby Farm Regional Park,66,Interstate 35E,1,02:00 PM,High
+Hidden Falls-Crosby Farm Regional Park,66,Interstate 35E,1,04:00 PM,Medium
+Hidden Falls-Crosby Farm Regional Park,66,Interstate 35E,1,06:00 PM,Low
+Hidden Falls-Crosby Farm Regional Park,66,Watergate,2,08:00 AM,Low
+Hidden Falls-Crosby Farm Regional Park,66,Watergate,2,10:00 AM,Medium
+Hidden Falls-Crosby Farm Regional Park,66,Watergate,2,12:00 PM,High
+Hidden Falls-Crosby Farm Regional Park,66,Watergate,2,02:00 PM,High
+Hidden Falls-Crosby Farm Regional Park,66,Watergate,2,04:00 PM,Medium
+Hidden Falls-Crosby Farm Regional Park,66,Watergate,2,06:00 PM,Low
+Hidden Falls-Crosby Farm Regional Park,66,Lower Hidden Falls - South Gate (at corner of Prior Avenue and Mississippi River Boulevard),3,08:00 AM,Low
+Hidden Falls-Crosby Farm Regional Park,66,Lower Hidden Falls - South Gate (at corner of Prior Avenue and Mississippi River Boulevard),3,10:00 AM,Medium
+Hidden Falls-Crosby Farm Regional Park,66,Lower Hidden Falls - South Gate (at corner of Prior Avenue and Mississippi River Boulevard),3,12:00 PM,High
+Hidden Falls-Crosby Farm Regional Park,66,Lower Hidden Falls - South Gate (at corner of Prior Avenue and Mississippi River Boulevard),3,02:00 PM,High
+Hidden Falls-Crosby Farm Regional Park,66,Lower Hidden Falls - South Gate (at corner of Prior Avenue and Mississippi River Boulevard),3,04:00 PM,Medium
+Hidden Falls-Crosby Farm Regional Park,66,Lower Hidden Falls - South Gate (at corner of Prior Avenue and Mississippi River Boulevard),3,06:00 PM,Low
+Hidden Falls-Crosby Farm Regional Park,66,Hidden Falls - Main,4,08:00 AM,Medium
+Hidden Falls-Crosby Farm Regional Park,66,Hidden Falls - Main,4,10:00 AM,Medium
+Hidden Falls-Crosby Farm Regional Park,66,Hidden Falls - Main,4,12:00 PM,High
+Hidden Falls-Crosby Farm Regional Park,66,Hidden Falls - Main,4,02:00 PM,High
+Hidden Falls-Crosby Farm Regional Park,66,Hidden Falls - Main,4,04:00 PM,High
+Hidden Falls-Crosby Farm Regional Park,66,Hidden Falls - Main,4,06:00 PM,Medium
+Hidden Falls-Crosby Farm Regional Park,66,River Entries,5,08:00 AM,Low
+Hidden Falls-Crosby Farm Regional Park,66,River Entries,5,10:00 AM,Low
+Hidden Falls-Crosby Farm Regional Park,66,River Entries,5,12:00 PM,Low
+Hidden Falls-Crosby Farm Regional Park,66,River Entries,5,02:00 PM,Low
+Hidden Falls-Crosby Farm Regional Park,66,River Entries,5,04:00 PM,Low
+Hidden Falls-Crosby Farm Regional Park,66,River Entries,5,06:00 PM,Low
+Indian Mounds Regional Park,67,Earl Street,1,08:00 AM,Low
+Indian Mounds Regional Park,67,Earl Street,1,10:00 AM,Medium
+Indian Mounds Regional Park,67,Earl Street,1,12:00 PM,High
+Indian Mounds Regional Park,67,Earl Street,1,02:00 PM,High
+Indian Mounds Regional Park,67,Earl Street,1,04:00 PM,High
+Indian Mounds Regional Park,67,Earl Street,1,06:00 PM,Medium
+Indian Mounds Regional Park,67,Thorn Street - Mounds Boulevard,2,08:00 AM,Low
+Indian Mounds Regional Park,67,Thorn Street - Mounds Boulevard,2,10:00 AM,Low
+Indian Mounds Regional Park,67,Thorn Street - Mounds Boulevard,2,12:00 PM,Medium
+Indian Mounds Regional Park,67,Thorn Street - Mounds Boulevard,2,02:00 PM,Medium
+Indian Mounds Regional Park,67,Thorn Street - Mounds Boulevard,2,04:00 PM,Medium
+Indian Mounds Regional Park,67,Thorn Street - Mounds Boulevard,2,06:00 PM,Low
+Indian Mounds Regional Park,67,Wilshire/Mounds Boulevard,3,08:00 AM,Low
+Indian Mounds Regional Park,67,Wilshire/Mounds Boulevard,3,10:00 AM,Low
+Indian Mounds Regional Park,67,Wilshire/Mounds Boulevard,3,12:00 PM,Low
+Indian Mounds Regional Park,67,Wilshire/Mounds Boulevard,3,02:00 PM,Low
+Indian Mounds Regional Park,67,Wilshire/Mounds Boulevard,3,04:00 PM,Low
+Indian Mounds Regional Park,67,Wilshire/Mounds Boulevard,3,06:00 PM,Low
+Indian Mounds Regional Park,67,Cherry Street/Mounds Boulevard,4,08:00 AM,Low
+Indian Mounds Regional Park,67,Cherry Street/Mounds Boulevard,4,10:00 AM,Medium
+Indian Mounds Regional Park,67,Cherry Street/Mounds Boulevard,4,12:00 PM,High
+Indian Mounds Regional Park,67,Cherry Street/Mounds Boulevard,4,02:00 PM,High
+Indian Mounds Regional Park,67,Cherry Street/Mounds Boulevard,4,04:00 PM,High
+Indian Mounds Regional Park,67,Cherry Street/Mounds Boulevard,4,06:00 PM,Medium
+Mississippi Gorge Regional Park,68,430 Mississippi River Boulevard,1,08:00 AM,Medium
+Mississippi Gorge Regional Park,68,430 Mississippi River Boulevard,1,10:00 AM,Medium
+Mississippi Gorge Regional Park,68,430 Mississippi River Boulevard,1,12:00 PM,High
+Mississippi Gorge Regional Park,68,430 Mississippi River Boulevard,1,02:00 PM,High
+Mississippi Gorge Regional Park,68,430 Mississippi River Boulevard,1,04:00 PM,High
+Mississippi Gorge Regional Park,68,430 Mississippi River Boulevard,1,06:00 PM,High
+Mississippi Gorge Regional Park,68,Lake Street - Marsahll Avenue Bridge,2,08:00 AM,Low
+Mississippi Gorge Regional Park,68,Lake Street - Marsahll Avenue Bridge,2,10:00 AM,Low
+Mississippi Gorge Regional Park,68,Lake Street - Marsahll Avenue Bridge,2,12:00 PM,Medium
+Mississippi Gorge Regional Park,68,Lake Street - Marsahll Avenue Bridge,2,02:00 PM,Medium
+Mississippi Gorge Regional Park,68,Lake Street - Marsahll Avenue Bridge,2,04:00 PM,Medium
+Mississippi Gorge Regional Park,68,Lake Street - Marsahll Avenue Bridge,2,06:00 PM,Medium
+Mississippi Gorge Regional Park,68,104 Mississippi River Boulevard,3,08:00 AM,Low
+Mississippi Gorge Regional Park,68,104 Mississippi River Boulevard,3,10:00 AM,Low
+Mississippi Gorge Regional Park,68,104 Mississippi River Boulevard,3,12:00 PM,Medium
+Mississippi Gorge Regional Park,68,104 Mississippi River Boulevard,3,02:00 PM,Medium
+Mississippi Gorge Regional Park,68,104 Mississippi River Boulevard,3,04:00 PM,Medium
+Mississippi Gorge Regional Park,68,104 Mississippi River Boulevard,3,06:00 PM,Medium
+Mississippi Gorge Regional Park,68,Boulevard - West of Exeter,4,08:00 AM,Low
+Mississippi Gorge Regional Park,68,Boulevard - West of Exeter,4,10:00 AM,Low
+Mississippi Gorge Regional Park,68,Boulevard - West of Exeter,4,12:00 PM,Low
+Mississippi Gorge Regional Park,68,Boulevard - West of Exeter,4,02:00 PM,Low
+Mississippi Gorge Regional Park,68,Boulevard - West of Exeter,4,04:00 PM,Low
+Mississippi Gorge Regional Park,68,Boulevard - West of Exeter,4,06:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi Boulevard - Cretin,5,08:00 AM,Medium
+Mississippi Gorge Regional Park,68,Mississippi Boulevard - Cretin,5,10:00 AM,Medium
+Mississippi Gorge Regional Park,68,Mississippi Boulevard - Cretin,5,12:00 PM,High
+Mississippi Gorge Regional Park,68,Mississippi Boulevard - Cretin,5,02:00 PM,High
+Mississippi Gorge Regional Park,68,Mississippi Boulevard - Cretin,5,04:00 PM,High
+Mississippi Gorge Regional Park,68,Mississippi Boulevard - Cretin,5,06:00 PM,High
+Mississippi Gorge Regional Park,68,Mississippi Boulevard - Summit,6,08:00 AM,Medium
+Mississippi Gorge Regional Park,68,Mississippi Boulevard - Summit,6,10:00 AM,Medium
+Mississippi Gorge Regional Park,68,Mississippi Boulevard - Summit,6,12:00 PM,High
+Mississippi Gorge Regional Park,68,Mississippi Boulevard - Summit,6,02:00 PM,High
+Mississippi Gorge Regional Park,68,Mississippi Boulevard - Summit,6,04:00 PM,High
+Mississippi Gorge Regional Park,68,Mississippi Boulevard - Summit,6,06:00 PM,High
+Mississippi Gorge Regional Park,68,162 Mississippi River Boulevard,7,08:00 AM,Low
+Mississippi Gorge Regional Park,68,162 Mississippi River Boulevard,7,10:00 AM,Low
+Mississippi Gorge Regional Park,68,162 Mississippi River Boulevard,7,12:00 PM,Low
+Mississippi Gorge Regional Park,68,162 Mississippi River Boulevard,7,02:00 PM,Low
+Mississippi Gorge Regional Park,68,162 Mississippi River Boulevard,7,04:00 PM,Low
+Mississippi Gorge Regional Park,68,162 Mississippi River Boulevard,7,06:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Saint Clair,8,08:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Saint Clair,8,10:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Saint Clair,8,12:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Saint Clair,8,02:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Saint Clair,8,04:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Saint Clair,8,06:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Jefferson,9,08:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Jefferson,9,10:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Jefferson,9,12:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Jefferson,9,02:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Jefferson,9,04:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Jefferson,9,06:00 PM,Low
+Mississippi Gorge Regional Park,68,524/534 Mississippi River Boulevard,10,08:00 AM,Low
+Mississippi Gorge Regional Park,68,524/534 Mississippi River Boulevard,10,10:00 AM,Low
+Mississippi Gorge Regional Park,68,524/534 Mississippi River Boulevard,10,12:00 PM,Medium
+Mississippi Gorge Regional Park,68,524/534 Mississippi River Boulevard,10,02:00 PM,Medium
+Mississippi Gorge Regional Park,68,524/534 Mississippi River Boulevard,10,04:00 PM,Medium
+Mississippi Gorge Regional Park,68,524/534 Mississippi River Boulevard,10,06:00 PM,Medium
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Woodlawn,11,08:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Woodlawn,11,10:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Woodlawn,11,12:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Woodlawn,11,02:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Woodlawn,11,04:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Woodlawn,11,06:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Highland Parkway,12,08:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Highland Parkway,12,10:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Highland Parkway,12,12:00 PM,Medium
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Highland Parkway,12,02:00 PM,Medium
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Highland Parkway,12,04:00 PM,Medium
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Highland Parkway,12,06:00 PM,Medium
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Ford Dam Overlook,13,08:00 AM,Medium
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Ford Dam Overlook,13,10:00 AM,Medium
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Ford Dam Overlook,13,12:00 PM,High
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Ford Dam Overlook,13,02:00 PM,High
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Ford Dam Overlook,13,04:00 PM,High
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Ford Dam Overlook,13,06:00 PM,High
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Hidden Falls Overlook,14,08:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Hidden Falls Overlook,14,10:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Hidden Falls Overlook,14,12:00 PM,Medium
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Hidden Falls Overlook,14,02:00 PM,Medium
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Hidden Falls Overlook,14,04:00 PM,Medium
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Hidden Falls Overlook,14,06:00 PM,Medium
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - South of Magoffin,15,08:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - South of Magoffin,15,10:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - South of Magoffin,15,12:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - South of Magoffin,15,02:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - South of Magoffin,15,04:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - South of Magoffin,15,06:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Itasca,16,08:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Itasca,16,10:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Itasca,16,12:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Itasca,16,02:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Itasca,16,04:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Itasca,16,06:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Elsie Street,17,08:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Elsie Street,17,10:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Elsie Street,17,12:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Elsie Street,17,02:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Elsie Street,17,04:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - Elsie Street,17,06:00 PM,Low
+Mississippi Gorge Regional Park,68,Mississippi river Boulevard - Cleveland,18,08:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi river Boulevard - Cleveland,18,10:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi river Boulevard - Cleveland,18,12:00 PM,Medium
+Mississippi Gorge Regional Park,68,Mississippi river Boulevard - Cleveland,18,02:00 PM,Medium
+Mississippi Gorge Regional Park,68,Mississippi river Boulevard - Cleveland,18,04:00 PM,Medium
+Mississippi Gorge Regional Park,68,Mississippi river Boulevard - Cleveland,18,06:00 PM,Medium
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - North of Prior,19,08:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - North of Prior,19,10:00 AM,Low
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - North of Prior,19,12:00 PM,Medium
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - North of Prior,19,02:00 PM,Medium
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - North of Prior,19,04:00 PM,Medium
+Mississippi Gorge Regional Park,68,Mississippi River Boulevard - North of Prior,19,06:00 PM,Medium
+Sam Morgan Regional Trail,69,Crosby Farm Nature Area Parking Lot at Shepard Road and Gannon Street,1,08:00 AM,Medium
+Sam Morgan Regional Trail,69,Crosby Farm Nature Area Parking Lot at Shepard Road and Gannon Street,1,10:00 AM,Medium
+Sam Morgan Regional Trail,69,Crosby Farm Nature Area Parking Lot at Shepard Road and Gannon Street,1,12:00 PM,High
+Sam Morgan Regional Trail,69,Crosby Farm Nature Area Parking Lot at Shepard Road and Gannon Street,1,02:00 PM,High
+Sam Morgan Regional Trail,69,Crosby Farm Nature Area Parking Lot at Shepard Road and Gannon Street,1,04:00 PM,High
+Sam Morgan Regional Trail,69,Crosby Farm Nature Area Parking Lot at Shepard Road and Gannon Street,1,06:00 PM,High
+Sam Morgan Regional Trail,69,Watergate Marina Entrance at Shepard Road and Davern Street,2,08:00 AM,Medium
+Sam Morgan Regional Trail,69,Watergate Marina Entrance at Shepard Road and Davern Street,2,10:00 AM,Medium
+Sam Morgan Regional Trail,69,Watergate Marina Entrance at Shepard Road and Davern Street,2,12:00 PM,High
+Sam Morgan Regional Trail,69,Watergate Marina Entrance at Shepard Road and Davern Street,2,02:00 PM,High
+Sam Morgan Regional Trail,69,Watergate Marina Entrance at Shepard Road and Davern Street,2,04:00 PM,High
+Sam Morgan Regional Trail,69,Watergate Marina Entrance at Shepard Road and Davern Street,2,06:00 PM,High
+Sam Morgan Regional Trail,69,Crosby Lake Avenue and Shepard Road parking lot (Elway entrance),3,08:00 AM,Medium
+Sam Morgan Regional Trail,69,Crosby Lake Avenue and Shepard Road parking lot (Elway entrance),3,10:00 AM,Medium
+Sam Morgan Regional Trail,69,Crosby Lake Avenue and Shepard Road parking lot (Elway entrance),3,12:00 PM,Medium
+Sam Morgan Regional Trail,69,Crosby Lake Avenue and Shepard Road parking lot (Elway entrance),3,02:00 PM,Medium
+Sam Morgan Regional Trail,69,Crosby Lake Avenue and Shepard Road parking lot (Elway entrance),3,04:00 PM,Medium
+Sam Morgan Regional Trail,69,Crosby Lake Avenue and Shepard Road parking lot (Elway entrance),3,06:00 PM,Medium
+Sam Morgan Regional Trail,69,Otto Avenue entrance,4,08:00 AM,Low
+Sam Morgan Regional Trail,69,Otto Avenue entrance,4,10:00 AM,Low
+Sam Morgan Regional Trail,69,Otto Avenue entrance,4,12:00 PM,Low
+Sam Morgan Regional Trail,69,Otto Avenue entrance,4,02:00 PM,Low
+Sam Morgan Regional Trail,69,Otto Avenue entrance,4,04:00 PM,Low
+Sam Morgan Regional Trail,69,Otto Avenue entrance,4,06:00 PM,Low
+Sam Morgan Regional Trail,69,Randolph Street entrance,5,08:00 AM,Low
+Sam Morgan Regional Trail,69,Randolph Street entrance,5,10:00 AM,Low
+Sam Morgan Regional Trail,69,Randolph Street entrance,5,12:00 PM,Low
+Sam Morgan Regional Trail,69,Randolph Street entrance,5,02:00 PM,Low
+Sam Morgan Regional Trail,69,Randolph Street entrance,5,04:00 PM,Low
+Sam Morgan Regional Trail,69,Randolph Street entrance,5,06:00 PM,Low
+Sam Morgan Regional Trail,69,Parking lot east (downriver) of Sibley Street and Warner Road Stoplight,6,08:00 AM,Medium
+Sam Morgan Regional Trail,69,Parking lot east (downriver) of Sibley Street and Warner Road Stoplight,6,10:00 AM,Medium
+Sam Morgan Regional Trail,69,Parking lot east (downriver) of Sibley Street and Warner Road Stoplight,6,12:00 PM,High
+Sam Morgan Regional Trail,69,Parking lot east (downriver) of Sibley Street and Warner Road Stoplight,6,02:00 PM,High
+Sam Morgan Regional Trail,69,Parking lot east (downriver) of Sibley Street and Warner Road Stoplight,6,04:00 PM,High
+Sam Morgan Regional Trail,69,Parking lot east (downriver) of Sibley Street and Warner Road Stoplight,6,06:00 PM,High
+Phalen Regional Park,70,Round Lake,1,08:00 AM,Medium
+Phalen Regional Park,70,Round Lake,1,10:00 AM,Medium
+Phalen Regional Park,70,Round Lake,1,12:00 PM,High
+Phalen Regional Park,70,Round Lake,1,02:00 PM,High
+Phalen Regional Park,70,Round Lake,1,04:00 PM,High
+Phalen Regional Park,70,Round Lake,1,06:00 PM,High
+Phalen Regional Park,70,East Shore Drive - Sophia,2,08:00 AM,Low
+Phalen Regional Park,70,East Shore Drive - Sophia,2,10:00 AM,Low
+Phalen Regional Park,70,East Shore Drive - Sophia,2,12:00 PM,Low
+Phalen Regional Park,70,East Shore Drive - Sophia,2,02:00 PM,Low
+Phalen Regional Park,70,East Shore Drive - Sophia,2,04:00 PM,Low
+Phalen Regional Park,70,East Shore Drive - Sophia,2,06:00 PM,Low
+Phalen Regional Park,70,East Shore Drive - Larpenteur,3,08:00 AM,Medium
+Phalen Regional Park,70,East Shore Drive - Larpenteur,3,10:00 AM,Medium
+Phalen Regional Park,70,East Shore Drive - Larpenteur,3,12:00 PM,High
+Phalen Regional Park,70,East Shore Drive - Larpenteur,3,02:00 PM,High
+Phalen Regional Park,70,East Shore Drive - Larpenteur,3,04:00 PM,High
+Phalen Regional Park,70,East Shore Drive - Larpenteur,3,06:00 PM,High
+Phalen Regional Park,70,East Shore Drive - Brighton,4,08:00 AM,Low
+Phalen Regional Park,70,East Shore Drive - Brighton,4,10:00 AM,Low
+Phalen Regional Park,70,East Shore Drive - Brighton,4,12:00 PM,Low
+Phalen Regional Park,70,East Shore Drive - Brighton,4,02:00 PM,Low
+Phalen Regional Park,70,East Shore Drive - Brighton,4,04:00 PM,Low
+Phalen Regional Park,70,East Shore Drive - Brighton,4,06:00 PM,Low
+Phalen Regional Park,70,East Shore Drive - Arlington,5,08:00 AM,Low
+Phalen Regional Park,70,East Shore Drive - Arlington,5,10:00 AM,Low
+Phalen Regional Park,70,East Shore Drive - Arlington,5,12:00 PM,Low
+Phalen Regional Park,70,East Shore Drive - Arlington,5,02:00 PM,Low
+Phalen Regional Park,70,East Shore Drive - Arlington,5,04:00 PM,Low
+Phalen Regional Park,70,East Shore Drive - Arlington,5,06:00 PM,Low
+Phalen Regional Park,70,East Shore Drive - Wheelock,6,08:00 AM,Medium
+Phalen Regional Park,70,East Shore Drive - Wheelock,6,10:00 AM,Medium
+Phalen Regional Park,70,East Shore Drive - Wheelock,6,12:00 PM,High
+Phalen Regional Park,70,East Shore Drive - Wheelock,6,02:00 PM,High
+Phalen Regional Park,70,East Shore Drive - Wheelock,6,04:00 PM,High
+Phalen Regional Park,70,East Shore Drive - Wheelock,6,06:00 PM,High
+Phalen Regional Park,70,Wheelock Gate,7,08:00 AM,Low
+Phalen Regional Park,70,Wheelock Gate,7,10:00 AM,Low
+Phalen Regional Park,70,Wheelock Gate,7,12:00 PM,Low
+Phalen Regional Park,70,Wheelock Gate,7,02:00 PM,Low
+Phalen Regional Park,70,Wheelock Gate,7,04:00 PM,Low
+Phalen Regional Park,70,Wheelock Gate,7,06:00 PM,Low
+Phalen Regional Park,70,Beach Lot,8,08:00 AM,Medium
+Phalen Regional Park,70,Beach Lot,8,10:00 AM,Medium
+Phalen Regional Park,70,Beach Lot,8,12:00 PM,High
+Phalen Regional Park,70,Beach Lot,8,02:00 PM,High
+Phalen Regional Park,70,Beach Lot,8,04:00 PM,High
+Phalen Regional Park,70,Beach Lot,8,06:00 PM,High
+Phalen Regional Park,70,Lakeside Lot,9,08:00 AM,Medium
+Phalen Regional Park,70,Lakeside Lot,9,10:00 AM,Medium
+Phalen Regional Park,70,Lakeside Lot,9,12:00 PM,High
+Phalen Regional Park,70,Lakeside Lot,9,02:00 PM,High
+Phalen Regional Park,70,Lakeside Lot,9,04:00 PM,High
+Phalen Regional Park,70,Lakeside Lot,9,06:00 PM,High
+Phalen Regional Park,70,Picnic Lot,10,08:00 AM,Medium
+Phalen Regional Park,70,Picnic Lot,10,10:00 AM,Medium
+Phalen Regional Park,70,Picnic Lot,10,12:00 PM,High
+Phalen Regional Park,70,Picnic Lot,10,02:00 PM,High
+Phalen Regional Park,70,Picnic Lot,10,04:00 PM,High
+Phalen Regional Park,70,Picnic Lot,10,06:00 PM,High
+Phalen Regional Park,70,Bridge Lot,11,08:00 AM,Medium
+Phalen Regional Park,70,Bridge Lot,11,10:00 AM,Medium
+Phalen Regional Park,70,Bridge Lot,11,12:00 PM,High
+Phalen Regional Park,70,Bridge Lot,11,02:00 PM,High
+Phalen Regional Park,70,Bridge Lot,11,04:00 PM,High
+Phalen Regional Park,70,Bridge Lot,11,06:00 PM,High
+Phalen Regional Park,70,Arcade Lot,12,08:00 AM,Low
+Phalen Regional Park,70,Arcade Lot,12,10:00 AM,Low
+Phalen Regional Park,70,Arcade Lot,12,12:00 PM,Low
+Phalen Regional Park,70,Arcade Lot,12,02:00 PM,Low
+Phalen Regional Park,70,Arcade Lot,12,04:00 PM,Low
+Phalen Regional Park,70,Arcade Lot,12,06:00 PM,Low
+Phalen Regional Park,70,Gold Course Lot,13,08:00 AM,Low
+Phalen Regional Park,70,Gold Course Lot,13,10:00 AM,Low
+Phalen Regional Park,70,Gold Course Lot,13,12:00 PM,Medium
+Phalen Regional Park,70,Gold Course Lot,13,02:00 PM,Medium
+Phalen Regional Park,70,Gold Course Lot,13,04:00 PM,Low
+Phalen Regional Park,70,Gold Course Lot,13,06:00 PM,Low
+Trout Brook Regional Trail,130,Main entry off Jackson Street - Parking lot,1,08:00 AM,High
+Trout Brook Regional Trail,130,Main entry off Jackson Street - Parking lot,1,10:00 AM,High
+Trout Brook Regional Trail,130,Main entry off Jackson Street - Parking lot,1,12:00 PM,High
+Trout Brook Regional Trail,130,Main entry off Jackson Street - Parking lot,1,02:00 PM,High
+Trout Brook Regional Trail,130,Main entry off Jackson Street - Parking lot,1,04:00 PM,High
+Trout Brook Regional Trail,130,Main entry off Jackson Street - Parking lot,1,06:00 PM,High
+Trout Brook Regional Trail,130,Rose Avenue East at trail leading into park trail off the east end of Rose Avenue - trail entry,2,08:00 AM,Medium
+Trout Brook Regional Trail,130,Rose Avenue East at trail leading into park trail off the east end of Rose Avenue - trail entry,2,10:00 AM,Medium
+Trout Brook Regional Trail,130,Rose Avenue East at trail leading into park trail off the east end of Rose Avenue - trail entry,2,12:00 PM,Medium
+Trout Brook Regional Trail,130,Rose Avenue East at trail leading into park trail off the east end of Rose Avenue - trail entry,2,02:00 PM,Medium
+Trout Brook Regional Trail,130,Rose Avenue East at trail leading into park trail off the east end of Rose Avenue - trail entry,2,04:00 PM,Medium
+Trout Brook Regional Trail,130,Rose Avenue East at trail leading into park trail off the east end of Rose Avenue - trail entry,2,06:00 PM,Medium
+Trout Brook Regional Trail,130,Jenks Avenue East at trail leading into trail Jackson Street - trail entry,3,08:00 AM,Low
+Trout Brook Regional Trail,130,Jenks Avenue East at trail leading into trail Jackson Street - trail entry,3,10:00 AM,Low
+Trout Brook Regional Trail,130,Jenks Avenue East at trail leading into trail Jackson Street - trail entry,3,12:00 PM,Low
+Trout Brook Regional Trail,130,Jenks Avenue East at trail leading into trail Jackson Street - trail entry,3,02:00 PM,Low
+Trout Brook Regional Trail,130,Jenks Avenue East at trail leading into trail Jackson Street - trail entry,3,04:00 PM,Low
+Trout Brook Regional Trail,130,Jenks Avenue East at trail leading into trail Jackson Street - trail entry,3,06:00 PM,Low

@@ -1,0 +1,2923 @@
+Park_name,Park_id,Entrance,Start_time,Usage_class
+Baker Park Reserve,21,1,08:00 AM,High
+Baker Park Reserve,21,1,10:00 AM,High
+Baker Park Reserve,21,1,12:00 PM,High
+Baker Park Reserve,21,1,02:00 PM,High
+Baker Park Reserve,21,1,04:00 PM,High
+Baker Park Reserve,21,1,06:00 PM,High
+Baker Park Reserve,21,2,08:00 AM,Low
+Baker Park Reserve,21,2,10:00 AM,Low
+Baker Park Reserve,21,2,12:00 PM,Low
+Baker Park Reserve,21,2,02:00 PM,Low
+Baker Park Reserve,21,2,04:00 PM,Low
+Baker Park Reserve,21,2,06:00 PM,Low
+Baker Park Reserve,21,3,08:00 AM,Low
+Baker Park Reserve,21,3,10:00 AM,Low
+Baker Park Reserve,21,3,12:00 PM,Low
+Baker Park Reserve,21,3,02:00 PM,Low
+Baker Park Reserve,21,3,04:00 PM,Low
+Baker Park Reserve,21,3,06:00 PM,Low
+Baker Park Reserve,21,4,08:00 AM,Medium
+Baker Park Reserve,21,4,10:00 AM,Medium
+Baker Park Reserve,21,4,12:00 PM,Medium
+Baker Park Reserve,21,4,02:00 PM,Medium
+Baker Park Reserve,21,4,04:00 PM,Medium
+Baker Park Reserve,21,4,06:00 PM,Medium
+Baker Park Reserve,21,5,08:00 AM,Low
+Baker Park Reserve,21,5,10:00 AM,Low
+Baker Park Reserve,21,5,12:00 PM,Low
+Baker Park Reserve,21,5,02:00 PM,Low
+Baker Park Reserve,21,5,04:00 PM,Low
+Baker Park Reserve,21,5,06:00 PM,Low
+Baker Park Reserve,21,6,08:00 AM,Medium
+Baker Park Reserve,21,6,10:00 AM,Medium
+Baker Park Reserve,21,6,12:00 PM,Medium
+Baker Park Reserve,21,6,02:00 PM,Medium
+Baker Park Reserve,21,6,04:00 PM,Medium
+Baker Park Reserve,21,6,06:00 PM,Medium
+Baker Park Reserve,21,7,08:00 AM,Medium
+Baker Park Reserve,21,7,10:00 AM,Medium
+Baker Park Reserve,21,7,12:00 PM,Medium
+Baker Park Reserve,21,7,02:00 PM,Medium
+Baker Park Reserve,21,7,04:00 PM,Medium
+Baker Park Reserve,21,7,06:00 PM,Medium
+Baker Park Reserve,21,8,08:00 AM,Low
+Baker Park Reserve,21,8,10:00 AM,Low
+Baker Park Reserve,21,8,12:00 PM,Low
+Baker Park Reserve,21,8,02:00 PM,Low
+Baker Park Reserve,21,8,04:00 PM,Low
+Baker Park Reserve,21,8,06:00 PM,Low
+Baker Park Reserve,21,9,08:00 AM,Low
+Baker Park Reserve,21,9,10:00 AM,Low
+Baker Park Reserve,21,9,12:00 PM,Low
+Baker Park Reserve,21,9,02:00 PM,Low
+Baker Park Reserve,21,9,04:00 PM,Low
+Baker Park Reserve,21,9,06:00 PM,Low
+Baker Park Reserve,21,10,08:00 AM,Low
+Baker Park Reserve,21,10,10:00 AM,Low
+Baker Park Reserve,21,10,12:00 PM,Low
+Baker Park Reserve,21,10,02:00 PM,Low
+Baker Park Reserve,21,10,04:00 PM,Low
+Baker Park Reserve,21,10,06:00 PM,Low
+Baker Park Reserve,21,11,08:00 AM,Low
+Baker Park Reserve,21,11,10:00 AM,Low
+Baker Park Reserve,21,11,12:00 PM,Low
+Baker Park Reserve,21,11,02:00 PM,Low
+Baker Park Reserve,21,11,04:00 PM,Low
+Baker Park Reserve,21,11,06:00 PM,Low
+Baker Park Reserve,21,12,08:00 AM,Low
+Baker Park Reserve,21,12,10:00 AM,Low
+Baker Park Reserve,21,12,12:00 PM,Low
+Baker Park Reserve,21,12,02:00 PM,Low
+Baker Park Reserve,21,12,04:00 PM,Low
+Baker Park Reserve,21,12,06:00 PM,Low
+Baker Park Reserve,21,13,08:00 AM,Low
+Baker Park Reserve,21,13,10:00 AM,Low
+Baker Park Reserve,21,13,12:00 PM,Low
+Baker Park Reserve,21,13,02:00 PM,Low
+Baker Park Reserve,21,13,04:00 PM,Low
+Baker Park Reserve,21,13,06:00 PM,Low
+Bryant Lake Regional Park,22,1,08:00 AM,High
+Bryant Lake Regional Park,22,1,10:00 AM,High
+Bryant Lake Regional Park,22,1,12:00 PM,High
+Bryant Lake Regional Park,22,1,02:00 PM,High
+Bryant Lake Regional Park,22,1,04:00 PM,High
+Bryant Lake Regional Park,22,1,06:00 PM,High
+Bryant Lake Regional Park,22,2,08:00 AM,Low
+Bryant Lake Regional Park,22,2,10:00 AM,Low
+Bryant Lake Regional Park,22,2,12:00 PM,Low
+Bryant Lake Regional Park,22,2,02:00 PM,Low
+Bryant Lake Regional Park,22,2,04:00 PM,Low
+Bryant Lake Regional Park,22,2,06:00 PM,Low
+Bryant Lake Regional Park,22,3,08:00 AM,Low
+Bryant Lake Regional Park,22,3,10:00 AM,Low
+Bryant Lake Regional Park,22,3,12:00 PM,Low
+Bryant Lake Regional Park,22,3,02:00 PM,Low
+Bryant Lake Regional Park,22,3,04:00 PM,Low
+Bryant Lake Regional Park,22,3,06:00 PM,Low
+Bryant Lake Regional Park,22,4,08:00 AM,Medium
+Bryant Lake Regional Park,22,4,10:00 AM,Medium
+Bryant Lake Regional Park,22,4,12:00 PM,Medium
+Bryant Lake Regional Park,22,4,02:00 PM,Medium
+Bryant Lake Regional Park,22,4,04:00 PM,Medium
+Bryant Lake Regional Park,22,4,06:00 PM,Medium
+Carver Park Reserve,23,1,08:00 AM,High
+Carver Park Reserve,23,1,10:00 AM,High
+Carver Park Reserve,23,1,12:00 PM,High
+Carver Park Reserve,23,1,02:00 PM,High
+Carver Park Reserve,23,1,04:00 PM,High
+Carver Park Reserve,23,1,06:00 PM,High
+Carver Park Reserve,23,2,08:00 AM,Medium
+Carver Park Reserve,23,2,10:00 AM,Medium
+Carver Park Reserve,23,2,12:00 PM,Medium
+Carver Park Reserve,23,2,02:00 PM,Medium
+Carver Park Reserve,23,2,04:00 PM,Medium
+Carver Park Reserve,23,2,06:00 PM,Medium
+Carver Park Reserve,23,3,08:00 AM,Low
+Carver Park Reserve,23,3,10:00 AM,Low
+Carver Park Reserve,23,3,12:00 PM,Low
+Carver Park Reserve,23,3,02:00 PM,Low
+Carver Park Reserve,23,3,04:00 PM,Low
+Carver Park Reserve,23,3,06:00 PM,Low
+Carver Park Reserve,23,4,08:00 AM,Low
+Carver Park Reserve,23,4,10:00 AM,Low
+Carver Park Reserve,23,4,12:00 PM,Low
+Carver Park Reserve,23,4,02:00 PM,Low
+Carver Park Reserve,23,4,04:00 PM,Low
+Carver Park Reserve,23,4,06:00 PM,Low
+Carver Park Reserve,23,5,08:00 AM,Low
+Carver Park Reserve,23,5,10:00 AM,Low
+Carver Park Reserve,23,5,12:00 PM,Low
+Carver Park Reserve,23,5,02:00 PM,Low
+Carver Park Reserve,23,5,04:00 PM,Low
+Carver Park Reserve,23,5,06:00 PM,Low
+Carver Park Reserve,23,7,08:00 AM,Medium
+Carver Park Reserve,23,7,10:00 AM,Medium
+Carver Park Reserve,23,7,12:00 PM,Medium
+Carver Park Reserve,23,7,02:00 PM,Medium
+Carver Park Reserve,23,7,04:00 PM,Medium
+Carver Park Reserve,23,7,06:00 PM,Medium
+Carver Park Reserve,23,8,08:00 AM,High
+Carver Park Reserve,23,8,10:00 AM,High
+Carver Park Reserve,23,8,12:00 PM,High
+Carver Park Reserve,23,8,02:00 PM,High
+Carver Park Reserve,23,8,04:00 PM,High
+Carver Park Reserve,23,8,06:00 PM,High
+Clifton French Regional Park,24,1,08:00 AM,High
+Clifton French Regional Park,24,1,10:00 AM,High
+Clifton French Regional Park,24,1,12:00 PM,High
+Clifton French Regional Park,24,1,02:00 PM,High
+Clifton French Regional Park,24,1,04:00 PM,High
+Clifton French Regional Park,24,1,06:00 PM,High
+Clifton French Regional Park,24,2,08:00 AM,Medium
+Clifton French Regional Park,24,2,10:00 AM,Medium
+Clifton French Regional Park,24,2,12:00 PM,Medium
+Clifton French Regional Park,24,2,02:00 PM,Medium
+Clifton French Regional Park,24,2,04:00 PM,Medium
+Clifton French Regional Park,24,2,06:00 PM,Medium
+Clifton French Regional Park,24,3,08:00 AM,Low
+Clifton French Regional Park,24,3,10:00 AM,Low
+Clifton French Regional Park,24,3,12:00 PM,Low
+Clifton French Regional Park,24,3,02:00 PM,Low
+Clifton French Regional Park,24,3,04:00 PM,Low
+Clifton French Regional Park,24,3,06:00 PM,Low
+Clifton French Regional Park,24,4,08:00 AM,Medium
+Clifton French Regional Park,24,4,10:00 AM,Medium
+Clifton French Regional Park,24,4,12:00 PM,Medium
+Clifton French Regional Park,24,4,02:00 PM,Medium
+Clifton French Regional Park,24,4,04:00 PM,Medium
+Clifton French Regional Park,24,4,06:00 PM,Medium
+Clifton French Regional Park,24,5,08:00 AM,Low
+Clifton French Regional Park,24,5,10:00 AM,Low
+Clifton French Regional Park,24,5,12:00 PM,Low
+Clifton French Regional Park,24,5,02:00 PM,Low
+Clifton French Regional Park,24,5,04:00 PM,Low
+Clifton French Regional Park,24,5,06:00 PM,Low
+Cleary Lake Regional Park (Scott County),25,1,08:00 AM,High
+Cleary Lake Regional Park (Scott County),25,1,10:00 AM,High
+Cleary Lake Regional Park (Scott County),25,1,12:00 PM,High
+Cleary Lake Regional Park (Scott County),25,1,02:00 PM,High
+Cleary Lake Regional Park (Scott County),25,1,04:00 PM,High
+Cleary Lake Regional Park (Scott County),25,1,06:00 PM,High
+Cleary Lake Regional Park (Scott County),25,2,08:00 AM,Low
+Cleary Lake Regional Park (Scott County),25,2,10:00 AM,Low
+Cleary Lake Regional Park (Scott County),25,2,12:00 PM,Low
+Cleary Lake Regional Park (Scott County),25,2,02:00 PM,Low
+Cleary Lake Regional Park (Scott County),25,2,04:00 PM,Low
+Cleary Lake Regional Park (Scott County),25,2,06:00 PM,Low
+Cleary Lake Regional Park (Scott County),25,3,08:00 AM,Low
+Cleary Lake Regional Park (Scott County),25,3,10:00 AM,Low
+Cleary Lake Regional Park (Scott County),25,3,12:00 PM,Low
+Cleary Lake Regional Park (Scott County),25,3,02:00 PM,Low
+Cleary Lake Regional Park (Scott County),25,3,04:00 PM,Low
+Cleary Lake Regional Park (Scott County),25,3,06:00 PM,Low
+Cleary Lake Regional Park (Scott County),25,4,08:00 AM,Medium
+Cleary Lake Regional Park (Scott County),25,4,10:00 AM,Medium
+Cleary Lake Regional Park (Scott County),25,4,12:00 PM,Medium
+Cleary Lake Regional Park (Scott County),25,4,02:00 PM,Medium
+Cleary Lake Regional Park (Scott County),25,4,04:00 PM,Medium
+Cleary Lake Regional Park (Scott County),25,4,06:00 PM,Medium
+Cleary Lake Regional Park (Scott County),25,5,08:00 AM,Low
+Cleary Lake Regional Park (Scott County),25,5,10:00 AM,Low
+Cleary Lake Regional Park (Scott County),25,5,12:00 PM,Low
+Cleary Lake Regional Park (Scott County),25,5,02:00 PM,Low
+Cleary Lake Regional Park (Scott County),25,5,04:00 PM,Low
+Cleary Lake Regional Park (Scott County),25,5,06:00 PM,Low
+Coon Rapids Dam Regional Park,26,2,08:00 AM,High
+Coon Rapids Dam Regional Park,26,2,10:00 AM,High
+Coon Rapids Dam Regional Park,26,2,12:00 PM,High
+Coon Rapids Dam Regional Park,26,2,02:00 PM,High
+Coon Rapids Dam Regional Park,26,2,04:00 PM,High
+Coon Rapids Dam Regional Park,26,2,06:00 PM,High
+Coon Rapids Dam Regional Park,26,3,08:00 AM,High
+Coon Rapids Dam Regional Park,26,3,10:00 AM,High
+Coon Rapids Dam Regional Park,26,3,12:00 PM,High
+Coon Rapids Dam Regional Park,26,3,02:00 PM,High
+Coon Rapids Dam Regional Park,26,3,04:00 PM,High
+Coon Rapids Dam Regional Park,26,3,06:00 PM,High
+Coon Rapids Dam Regional Park,26,5,08:00 AM,Low
+Coon Rapids Dam Regional Park,26,5,10:00 AM,Low
+Coon Rapids Dam Regional Park,26,5,12:00 PM,Low
+Coon Rapids Dam Regional Park,26,5,02:00 PM,Low
+Coon Rapids Dam Regional Park,26,5,04:00 PM,Low
+Coon Rapids Dam Regional Park,26,5,06:00 PM,Low
+Coon Rapids Dam Regional Park,26,6,08:00 AM,Medium
+Coon Rapids Dam Regional Park,26,6,10:00 AM,Medium
+Coon Rapids Dam Regional Park,26,6,12:00 PM,Medium
+Coon Rapids Dam Regional Park,26,6,02:00 PM,Medium
+Coon Rapids Dam Regional Park,26,6,04:00 PM,Medium
+Coon Rapids Dam Regional Park,26,6,06:00 PM,Medium
+Crow-Hassan Park Reserve,27,1,08:00 AM,Medium
+Crow-Hassan Park Reserve,27,1,10:00 AM,Medium
+Crow-Hassan Park Reserve,27,1,12:00 PM,Medium
+Crow-Hassan Park Reserve,27,1,02:00 PM,Medium
+Crow-Hassan Park Reserve,27,1,04:00 PM,Medium
+Crow-Hassan Park Reserve,27,1,06:00 PM,Medium
+Crow-Hassan Park Reserve,27,2,08:00 AM,High
+Crow-Hassan Park Reserve,27,2,10:00 AM,High
+Crow-Hassan Park Reserve,27,2,12:00 PM,High
+Crow-Hassan Park Reserve,27,2,02:00 PM,High
+Crow-Hassan Park Reserve,27,2,04:00 PM,High
+Crow-Hassan Park Reserve,27,2,06:00 PM,High
+Crow-Hassan Park Reserve,27,3,08:00 AM,Low
+Crow-Hassan Park Reserve,27,3,10:00 AM,Low
+Crow-Hassan Park Reserve,27,3,12:00 PM,Low
+Crow-Hassan Park Reserve,27,3,02:00 PM,Low
+Crow-Hassan Park Reserve,27,3,04:00 PM,Low
+Crow-Hassan Park Reserve,27,3,06:00 PM,Low
+Crow-Hassan Park Reserve,27,4,08:00 AM,Low
+Crow-Hassan Park Reserve,27,4,10:00 AM,Low
+Crow-Hassan Park Reserve,27,4,12:00 PM,Low
+Crow-Hassan Park Reserve,27,4,02:00 PM,Low
+Crow-Hassan Park Reserve,27,4,04:00 PM,Low
+Crow-Hassan Park Reserve,27,4,06:00 PM,Low
+Crow-Hassan Park Reserve,27,5,08:00 AM,Low
+Crow-Hassan Park Reserve,27,5,10:00 AM,Low
+Crow-Hassan Park Reserve,27,5,12:00 PM,Low
+Crow-Hassan Park Reserve,27,5,02:00 PM,Low
+Crow-Hassan Park Reserve,27,5,04:00 PM,Low
+Crow-Hassan Park Reserve,27,5,06:00 PM,Low
+Elm Creek Park Reserve,28,1,08:00 AM,High
+Elm Creek Park Reserve,28,1,10:00 AM,High
+Elm Creek Park Reserve,28,1,12:00 PM,High
+Elm Creek Park Reserve,28,1,02:00 PM,High
+Elm Creek Park Reserve,28,1,04:00 PM,High
+Elm Creek Park Reserve,28,1,06:00 PM,High
+Elm Creek Park Reserve,28,2,08:00 AM,Medium
+Elm Creek Park Reserve,28,2,10:00 AM,Medium
+Elm Creek Park Reserve,28,2,12:00 PM,Medium
+Elm Creek Park Reserve,28,2,02:00 PM,Medium
+Elm Creek Park Reserve,28,2,04:00 PM,Medium
+Elm Creek Park Reserve,28,2,06:00 PM,Medium
+Elm Creek Park Reserve,28,3,08:00 AM,Low
+Elm Creek Park Reserve,28,3,10:00 AM,Low
+Elm Creek Park Reserve,28,3,12:00 PM,Low
+Elm Creek Park Reserve,28,3,02:00 PM,Low
+Elm Creek Park Reserve,28,3,04:00 PM,Low
+Elm Creek Park Reserve,28,3,06:00 PM,Low
+Elm Creek Park Reserve,28,4,08:00 AM,Low
+Elm Creek Park Reserve,28,4,10:00 AM,Low
+Elm Creek Park Reserve,28,4,12:00 PM,Low
+Elm Creek Park Reserve,28,4,02:00 PM,Low
+Elm Creek Park Reserve,28,4,04:00 PM,Low
+Elm Creek Park Reserve,28,4,06:00 PM,Low
+Elm Creek Park Reserve,28,5,08:00 AM,Medium
+Elm Creek Park Reserve,28,5,10:00 AM,Medium
+Elm Creek Park Reserve,28,5,12:00 PM,Medium
+Elm Creek Park Reserve,28,5,02:00 PM,Medium
+Elm Creek Park Reserve,28,5,04:00 PM,Medium
+Elm Creek Park Reserve,28,5,06:00 PM,Medium
+Elm Creek Park Reserve,28,7,08:00 AM,Medium
+Elm Creek Park Reserve,28,7,10:00 AM,Medium
+Elm Creek Park Reserve,28,7,12:00 PM,Medium
+Elm Creek Park Reserve,28,7,02:00 PM,Medium
+Elm Creek Park Reserve,28,7,04:00 PM,Medium
+Elm Creek Park Reserve,28,7,06:00 PM,Medium
+Elm Creek Park Reserve,28,8,08:00 AM,Low
+Elm Creek Park Reserve,28,8,10:00 AM,Low
+Elm Creek Park Reserve,28,8,12:00 PM,Low
+Elm Creek Park Reserve,28,8,02:00 PM,Low
+Elm Creek Park Reserve,28,8,04:00 PM,Low
+Elm Creek Park Reserve,28,8,06:00 PM,Low
+Elm Creek Park Reserve,28,9,08:00 AM,Low
+Elm Creek Park Reserve,28,9,10:00 AM,Low
+Elm Creek Park Reserve,28,9,12:00 PM,Low
+Elm Creek Park Reserve,28,9,02:00 PM,Low
+Elm Creek Park Reserve,28,9,04:00 PM,Low
+Elm Creek Park Reserve,28,9,06:00 PM,Low
+Elm Creek Park Reserve,28,10,08:00 AM,Low
+Elm Creek Park Reserve,28,10,10:00 AM,Low
+Elm Creek Park Reserve,28,10,12:00 PM,Low
+Elm Creek Park Reserve,28,10,02:00 PM,Low
+Elm Creek Park Reserve,28,10,04:00 PM,Low
+Elm Creek Park Reserve,28,10,06:00 PM,Low
+Elm Creek Park Reserve,28,11,08:00 AM,Medium
+Elm Creek Park Reserve,28,11,10:00 AM,Medium
+Elm Creek Park Reserve,28,11,12:00 PM,Medium
+Elm Creek Park Reserve,28,11,02:00 PM,Medium
+Elm Creek Park Reserve,28,11,04:00 PM,Medium
+Elm Creek Park Reserve,28,11,06:00 PM,Medium
+Elm Creek Park Reserve,28,12,08:00 AM,Medium
+Elm Creek Park Reserve,28,12,10:00 AM,Medium
+Elm Creek Park Reserve,28,12,12:00 PM,Medium
+Elm Creek Park Reserve,28,12,02:00 PM,Medium
+Elm Creek Park Reserve,28,12,04:00 PM,Medium
+Elm Creek Park Reserve,28,12,06:00 PM,Medium
+Elm Creek Park Reserve,28,13,08:00 AM,Medium
+Elm Creek Park Reserve,28,13,10:00 AM,Medium
+Elm Creek Park Reserve,28,13,12:00 PM,Medium
+Elm Creek Park Reserve,28,13,02:00 PM,Medium
+Elm Creek Park Reserve,28,13,04:00 PM,Medium
+Elm Creek Park Reserve,28,13,06:00 PM,Medium
+Elm Creek Park Reserve,28,15,08:00 AM,Low
+Elm Creek Park Reserve,28,15,10:00 AM,Low
+Elm Creek Park Reserve,28,15,12:00 PM,Low
+Elm Creek Park Reserve,28,15,02:00 PM,Low
+Elm Creek Park Reserve,28,15,04:00 PM,Low
+Elm Creek Park Reserve,28,15,06:00 PM,Low
+Elm Creek Park Reserve,28,16,08:00 AM,Low
+Elm Creek Park Reserve,28,16,10:00 AM,Low
+Elm Creek Park Reserve,28,16,12:00 PM,Low
+Elm Creek Park Reserve,28,16,02:00 PM,Low
+Elm Creek Park Reserve,28,16,04:00 PM,Low
+Elm Creek Park Reserve,28,16,06:00 PM,Low
+Elm Creek Park Reserve,28,17,08:00 AM,Medium
+Elm Creek Park Reserve,28,17,10:00 AM,Medium
+Elm Creek Park Reserve,28,17,12:00 PM,Medium
+Elm Creek Park Reserve,28,17,02:00 PM,Medium
+Elm Creek Park Reserve,28,17,04:00 PM,Medium
+Elm Creek Park Reserve,28,17,06:00 PM,Medium
+Elm Creek Park Reserve,28,18,08:00 AM,Low
+Elm Creek Park Reserve,28,18,10:00 AM,Low
+Elm Creek Park Reserve,28,18,12:00 PM,Low
+Elm Creek Park Reserve,28,18,02:00 PM,Low
+Elm Creek Park Reserve,28,18,04:00 PM,Low
+Elm Creek Park Reserve,28,18,06:00 PM,Low
+Elm Creek Park Reserve,28,19,08:00 AM,Low
+Elm Creek Park Reserve,28,19,10:00 AM,Low
+Elm Creek Park Reserve,28,19,12:00 PM,Low
+Elm Creek Park Reserve,28,19,02:00 PM,Low
+Elm Creek Park Reserve,28,19,04:00 PM,Low
+Elm Creek Park Reserve,28,19,06:00 PM,Low
+Elm Creek Park Reserve,28,20,08:00 AM,Low
+Elm Creek Park Reserve,28,20,10:00 AM,Low
+Elm Creek Park Reserve,28,20,12:00 PM,Low
+Elm Creek Park Reserve,28,20,02:00 PM,Low
+Elm Creek Park Reserve,28,20,04:00 PM,Low
+Elm Creek Park Reserve,28,20,06:00 PM,Low
+Elm Creek Park Reserve,28,22,08:00 AM,Low
+Elm Creek Park Reserve,28,22,10:00 AM,Low
+Elm Creek Park Reserve,28,22,12:00 PM,Low
+Elm Creek Park Reserve,28,22,02:00 PM,Low
+Elm Creek Park Reserve,28,22,04:00 PM,Low
+Elm Creek Park Reserve,28,22,06:00 PM,Low
+Elm Creek Park Reserve,28,23,08:00 AM,Low
+Elm Creek Park Reserve,28,23,10:00 AM,Low
+Elm Creek Park Reserve,28,23,12:00 PM,Low
+Elm Creek Park Reserve,28,23,02:00 PM,Low
+Elm Creek Park Reserve,28,23,04:00 PM,Low
+Elm Creek Park Reserve,28,23,06:00 PM,Low
+Elm Creek Park Reserve,28,24,08:00 AM,Low
+Elm Creek Park Reserve,28,24,10:00 AM,Low
+Elm Creek Park Reserve,28,24,12:00 PM,Low
+Elm Creek Park Reserve,28,24,02:00 PM,Low
+Elm Creek Park Reserve,28,24,04:00 PM,Low
+Elm Creek Park Reserve,28,24,06:00 PM,Low
+Elm Creek Park Reserve,28,25,08:00 AM,Medium
+Elm Creek Park Reserve,28,25,10:00 AM,Medium
+Elm Creek Park Reserve,28,25,12:00 PM,Medium
+Elm Creek Park Reserve,28,25,02:00 PM,Medium
+Elm Creek Park Reserve,28,25,04:00 PM,Medium
+Elm Creek Park Reserve,28,25,06:00 PM,Medium
+Elm Creek Park Reserve,28,26,08:00 AM,Low
+Elm Creek Park Reserve,28,26,10:00 AM,Low
+Elm Creek Park Reserve,28,26,12:00 PM,Low
+Elm Creek Park Reserve,28,26,02:00 PM,Low
+Elm Creek Park Reserve,28,26,04:00 PM,Low
+Elm Creek Park Reserve,28,26,06:00 PM,Low
+Elm Creek Park Reserve,28,27,08:00 AM,Low
+Elm Creek Park Reserve,28,27,10:00 AM,Low
+Elm Creek Park Reserve,28,27,12:00 PM,Low
+Elm Creek Park Reserve,28,27,02:00 PM,Low
+Elm Creek Park Reserve,28,27,04:00 PM,Low
+Elm Creek Park Reserve,28,27,06:00 PM,Low
+Medicine Lake Regional Trail,29,1,08:00 AM,Medium
+Medicine Lake Regional Trail,29,1,10:00 AM,Medium
+Medicine Lake Regional Trail,29,1,12:00 PM,Medium
+Medicine Lake Regional Trail,29,1,02:00 PM,Medium
+Medicine Lake Regional Trail,29,1,04:00 PM,Medium
+Medicine Lake Regional Trail,29,1,06:00 PM,Medium
+Medicine Lake Regional Trail,29,2,08:00 AM,High
+Medicine Lake Regional Trail,29,2,10:00 AM,High
+Medicine Lake Regional Trail,29,2,12:00 PM,High
+Medicine Lake Regional Trail,29,2,02:00 PM,High
+Medicine Lake Regional Trail,29,2,04:00 PM,High
+Medicine Lake Regional Trail,29,2,06:00 PM,High
+Medicine Lake Regional Trail,29,4,08:00 AM,Low
+Medicine Lake Regional Trail,29,4,10:00 AM,Low
+Medicine Lake Regional Trail,29,4,12:00 PM,Low
+Medicine Lake Regional Trail,29,4,02:00 PM,Low
+Medicine Lake Regional Trail,29,4,04:00 PM,Low
+Medicine Lake Regional Trail,29,4,06:00 PM,Low
+Medicine Lake Regional Trail,29,5,08:00 AM,Low
+Medicine Lake Regional Trail,29,5,10:00 AM,Low
+Medicine Lake Regional Trail,29,5,12:00 PM,Low
+Medicine Lake Regional Trail,29,5,02:00 PM,Low
+Medicine Lake Regional Trail,29,5,04:00 PM,Low
+Medicine Lake Regional Trail,29,5,06:00 PM,Low
+Medicine Lake Regional Trail,29,6,08:00 AM,Low
+Medicine Lake Regional Trail,29,6,10:00 AM,Low
+Medicine Lake Regional Trail,29,6,12:00 PM,Low
+Medicine Lake Regional Trail,29,6,02:00 PM,Low
+Medicine Lake Regional Trail,29,6,04:00 PM,Low
+Medicine Lake Regional Trail,29,6,06:00 PM,Low
+Medicine Lake Regional Trail,29,7,08:00 AM,Low
+Medicine Lake Regional Trail,29,7,10:00 AM,Low
+Medicine Lake Regional Trail,29,7,12:00 PM,Low
+Medicine Lake Regional Trail,29,7,02:00 PM,Low
+Medicine Lake Regional Trail,29,7,04:00 PM,Low
+Medicine Lake Regional Trail,29,7,06:00 PM,Low
+Medicine Lake Regional Trail,29,8,08:00 AM,Low
+Medicine Lake Regional Trail,29,8,10:00 AM,Low
+Medicine Lake Regional Trail,29,8,12:00 PM,Low
+Medicine Lake Regional Trail,29,8,02:00 PM,Low
+Medicine Lake Regional Trail,29,8,04:00 PM,Low
+Medicine Lake Regional Trail,29,8,06:00 PM,Low
+Medicine Lake Regional Trail,29,9,08:00 AM,Medium
+Medicine Lake Regional Trail,29,9,10:00 AM,Medium
+Medicine Lake Regional Trail,29,9,12:00 PM,Medium
+Medicine Lake Regional Trail,29,9,02:00 PM,Medium
+Medicine Lake Regional Trail,29,9,04:00 PM,Medium
+Medicine Lake Regional Trail,29,9,06:00 PM,Medium
+Medicine Lake Regional Trail,29,10,08:00 AM,High
+Medicine Lake Regional Trail,29,10,10:00 AM,High
+Medicine Lake Regional Trail,29,10,12:00 PM,High
+Medicine Lake Regional Trail,29,10,02:00 PM,High
+Medicine Lake Regional Trail,29,10,04:00 PM,High
+Medicine Lake Regional Trail,29,10,06:00 PM,High
+Medicine Lake Regional Trail,29,16,08:00 AM,Medium
+Medicine Lake Regional Trail,29,16,10:00 AM,Medium
+Medicine Lake Regional Trail,29,16,12:00 PM,Medium
+Medicine Lake Regional Trail,29,16,02:00 PM,Medium
+Medicine Lake Regional Trail,29,16,04:00 PM,Medium
+Medicine Lake Regional Trail,29,16,06:00 PM,Medium
+Medicine Lake Regional Trail,29,17,08:00 AM,Medium
+Medicine Lake Regional Trail,29,17,10:00 AM,Medium
+Medicine Lake Regional Trail,29,17,12:00 PM,Medium
+Medicine Lake Regional Trail,29,17,02:00 PM,Medium
+Medicine Lake Regional Trail,29,17,04:00 PM,Medium
+Medicine Lake Regional Trail,29,17,06:00 PM,Medium
+Medicine Lake Regional Trail,29,18,08:00 AM,Low
+Medicine Lake Regional Trail,29,18,10:00 AM,Low
+Medicine Lake Regional Trail,29,18,12:00 PM,Low
+Medicine Lake Regional Trail,29,18,02:00 PM,Low
+Medicine Lake Regional Trail,29,18,04:00 PM,Low
+Medicine Lake Regional Trail,29,18,06:00 PM,Low
+Medicine Lake Regional Trail,29,19,08:00 AM,Low
+Medicine Lake Regional Trail,29,19,10:00 AM,Low
+Medicine Lake Regional Trail,29,19,12:00 PM,Low
+Medicine Lake Regional Trail,29,19,02:00 PM,Low
+Medicine Lake Regional Trail,29,19,04:00 PM,Low
+Medicine Lake Regional Trail,29,19,06:00 PM,Low
+Medicine Lake Regional Trail,29,20,08:00 AM,Low
+Medicine Lake Regional Trail,29,20,10:00 AM,Low
+Medicine Lake Regional Trail,29,20,12:00 PM,Low
+Medicine Lake Regional Trail,29,20,02:00 PM,Low
+Medicine Lake Regional Trail,29,20,04:00 PM,Low
+Medicine Lake Regional Trail,29,20,06:00 PM,Low
+Medicine Lake Regional Trail,29,21,08:00 AM,Medium
+Medicine Lake Regional Trail,29,21,10:00 AM,Medium
+Medicine Lake Regional Trail,29,21,12:00 PM,Medium
+Medicine Lake Regional Trail,29,21,02:00 PM,Medium
+Medicine Lake Regional Trail,29,21,04:00 PM,Medium
+Medicine Lake Regional Trail,29,21,06:00 PM,Medium
+Medicine Lake Regional Trail,29,22,08:00 AM,Low
+Medicine Lake Regional Trail,29,22,10:00 AM,Low
+Medicine Lake Regional Trail,29,22,12:00 PM,Low
+Medicine Lake Regional Trail,29,22,02:00 PM,Low
+Medicine Lake Regional Trail,29,22,04:00 PM,Low
+Medicine Lake Regional Trail,29,22,06:00 PM,Low
+Medicine Lake Regional Trail,29,23,08:00 AM,Low
+Medicine Lake Regional Trail,29,23,10:00 AM,Low
+Medicine Lake Regional Trail,29,23,12:00 PM,Low
+Medicine Lake Regional Trail,29,23,02:00 PM,Low
+Medicine Lake Regional Trail,29,23,04:00 PM,Low
+Medicine Lake Regional Trail,29,23,06:00 PM,Low
+Medicine Lake Regional Trail,29,24,08:00 AM,Low
+Medicine Lake Regional Trail,29,24,10:00 AM,Low
+Medicine Lake Regional Trail,29,24,12:00 PM,Low
+Medicine Lake Regional Trail,29,24,02:00 PM,Low
+Medicine Lake Regional Trail,29,24,04:00 PM,Low
+Medicine Lake Regional Trail,29,24,06:00 PM,Low
+Medicine Lake Regional Trail,29,25,08:00 AM,High
+Medicine Lake Regional Trail,29,25,10:00 AM,High
+Medicine Lake Regional Trail,29,25,12:00 PM,High
+Medicine Lake Regional Trail,29,25,02:00 PM,High
+Medicine Lake Regional Trail,29,25,04:00 PM,High
+Medicine Lake Regional Trail,29,25,06:00 PM,High
+Medicine Lake Regional Trail,29,26,08:00 AM,Low
+Medicine Lake Regional Trail,29,26,10:00 AM,Low
+Medicine Lake Regional Trail,29,26,12:00 PM,Low
+Medicine Lake Regional Trail,29,26,02:00 PM,Low
+Medicine Lake Regional Trail,29,26,04:00 PM,Low
+Medicine Lake Regional Trail,29,26,06:00 PM,Low
+Medicine Lake Regional Trail,29,27,08:00 AM,Low
+Medicine Lake Regional Trail,29,27,10:00 AM,Low
+Medicine Lake Regional Trail,29,27,12:00 PM,Low
+Medicine Lake Regional Trail,29,27,02:00 PM,Low
+Medicine Lake Regional Trail,29,27,04:00 PM,Low
+Medicine Lake Regional Trail,29,27,06:00 PM,Low
+Medicine Lake Regional Trail,29,29,08:00 AM,Medium
+Medicine Lake Regional Trail,29,29,10:00 AM,Medium
+Medicine Lake Regional Trail,29,29,12:00 PM,Medium
+Medicine Lake Regional Trail,29,29,02:00 PM,Medium
+Medicine Lake Regional Trail,29,29,04:00 PM,Medium
+Medicine Lake Regional Trail,29,29,06:00 PM,Medium
+Medicine Lake Regional Trail,29,30,08:00 AM,High
+Medicine Lake Regional Trail,29,30,10:00 AM,High
+Medicine Lake Regional Trail,29,30,12:00 PM,High
+Medicine Lake Regional Trail,29,30,02:00 PM,High
+Medicine Lake Regional Trail,29,30,04:00 PM,High
+Medicine Lake Regional Trail,29,30,06:00 PM,High
+Medicine Lake Regional Trail,29,31,08:00 AM,Low
+Medicine Lake Regional Trail,29,31,10:00 AM,Low
+Medicine Lake Regional Trail,29,31,12:00 PM,Low
+Medicine Lake Regional Trail,29,31,02:00 PM,Low
+Medicine Lake Regional Trail,29,31,04:00 PM,Low
+Medicine Lake Regional Trail,29,31,06:00 PM,Low
+Medicine Lake Regional Trail,29,32,08:00 AM,Low
+Medicine Lake Regional Trail,29,32,10:00 AM,Low
+Medicine Lake Regional Trail,29,32,12:00 PM,Low
+Medicine Lake Regional Trail,29,32,02:00 PM,Low
+Medicine Lake Regional Trail,29,32,04:00 PM,Low
+Medicine Lake Regional Trail,29,32,06:00 PM,Low
+Medicine Lake Regional Trail,29,34,08:00 AM,Low
+Medicine Lake Regional Trail,29,34,10:00 AM,Low
+Medicine Lake Regional Trail,29,34,12:00 PM,Low
+Medicine Lake Regional Trail,29,34,02:00 PM,Low
+Medicine Lake Regional Trail,29,34,04:00 PM,Low
+Medicine Lake Regional Trail,29,34,06:00 PM,Low
+Medicine Lake Regional Trail,29,35,08:00 AM,Low
+Medicine Lake Regional Trail,29,35,10:00 AM,Low
+Medicine Lake Regional Trail,29,35,12:00 PM,Low
+Medicine Lake Regional Trail,29,35,02:00 PM,Low
+Medicine Lake Regional Trail,29,35,04:00 PM,Low
+Medicine Lake Regional Trail,29,35,06:00 PM,Low
+Medicine Lake Regional Trail,29,36,08:00 AM,Low
+Medicine Lake Regional Trail,29,36,10:00 AM,Low
+Medicine Lake Regional Trail,29,36,12:00 PM,Low
+Medicine Lake Regional Trail,29,36,02:00 PM,Low
+Medicine Lake Regional Trail,29,36,04:00 PM,Low
+Medicine Lake Regional Trail,29,36,06:00 PM,Low
+Medicine Lake Regional Trail,29,37,08:00 AM,High
+Medicine Lake Regional Trail,29,37,10:00 AM,High
+Medicine Lake Regional Trail,29,37,12:00 PM,High
+Medicine Lake Regional Trail,29,37,02:00 PM,High
+Medicine Lake Regional Trail,29,37,04:00 PM,High
+Medicine Lake Regional Trail,29,37,06:00 PM,High
+Medicine Lake Regional Trail,29,38,08:00 AM,Low
+Medicine Lake Regional Trail,29,38,10:00 AM,Low
+Medicine Lake Regional Trail,29,38,12:00 PM,Low
+Medicine Lake Regional Trail,29,38,02:00 PM,Low
+Medicine Lake Regional Trail,29,38,04:00 PM,Low
+Medicine Lake Regional Trail,29,38,06:00 PM,Low
+Medicine Lake Regional Trail,29,39,08:00 AM,Low
+Medicine Lake Regional Trail,29,39,10:00 AM,Low
+Medicine Lake Regional Trail,29,39,12:00 PM,Low
+Medicine Lake Regional Trail,29,39,02:00 PM,Low
+Medicine Lake Regional Trail,29,39,04:00 PM,Low
+Medicine Lake Regional Trail,29,39,06:00 PM,Low
+Medicine Lake Regional Trail,29,40,08:00 AM,Low
+Medicine Lake Regional Trail,29,40,10:00 AM,Low
+Medicine Lake Regional Trail,29,40,12:00 PM,Low
+Medicine Lake Regional Trail,29,40,02:00 PM,Low
+Medicine Lake Regional Trail,29,40,04:00 PM,Low
+Medicine Lake Regional Trail,29,40,06:00 PM,Low
+Medicine Lake Regional Trail,29,41,08:00 AM,Low
+Medicine Lake Regional Trail,29,41,10:00 AM,Low
+Medicine Lake Regional Trail,29,41,12:00 PM,Low
+Medicine Lake Regional Trail,29,41,02:00 PM,Low
+Medicine Lake Regional Trail,29,41,04:00 PM,Low
+Medicine Lake Regional Trail,29,41,06:00 PM,Low
+Medicine Lake Regional Trail,29,42,08:00 AM,Low
+Medicine Lake Regional Trail,29,42,10:00 AM,Low
+Medicine Lake Regional Trail,29,42,12:00 PM,Low
+Medicine Lake Regional Trail,29,42,02:00 PM,Low
+Medicine Lake Regional Trail,29,42,04:00 PM,Low
+Medicine Lake Regional Trail,29,42,06:00 PM,Low
+Medicine Lake Regional Trail,29,43,08:00 AM,Low
+Medicine Lake Regional Trail,29,43,10:00 AM,Low
+Medicine Lake Regional Trail,29,43,12:00 PM,Low
+Medicine Lake Regional Trail,29,43,02:00 PM,Low
+Medicine Lake Regional Trail,29,43,04:00 PM,Low
+Medicine Lake Regional Trail,29,43,06:00 PM,Low
+Medicine Lake Regional Trail,29,44,08:00 AM,High
+Medicine Lake Regional Trail,29,44,10:00 AM,High
+Medicine Lake Regional Trail,29,44,12:00 PM,High
+Medicine Lake Regional Trail,29,44,02:00 PM,High
+Medicine Lake Regional Trail,29,44,04:00 PM,High
+Medicine Lake Regional Trail,29,44,06:00 PM,High
+Medicine Lake Regional Trail,29,45,08:00 AM,Low
+Medicine Lake Regional Trail,29,45,10:00 AM,Low
+Medicine Lake Regional Trail,29,45,12:00 PM,Low
+Medicine Lake Regional Trail,29,45,02:00 PM,Low
+Medicine Lake Regional Trail,29,45,04:00 PM,Low
+Medicine Lake Regional Trail,29,45,06:00 PM,Low
+Medicine Lake Regional Trail,29,46,08:00 AM,Medium
+Medicine Lake Regional Trail,29,46,10:00 AM,Medium
+Medicine Lake Regional Trail,29,46,12:00 PM,Medium
+Medicine Lake Regional Trail,29,46,02:00 PM,Medium
+Medicine Lake Regional Trail,29,46,04:00 PM,Medium
+Medicine Lake Regional Trail,29,46,06:00 PM,Medium
+Medicine Lake Regional Trail,29,47,08:00 AM,Low
+Medicine Lake Regional Trail,29,47,10:00 AM,Low
+Medicine Lake Regional Trail,29,47,12:00 PM,Low
+Medicine Lake Regional Trail,29,47,02:00 PM,Low
+Medicine Lake Regional Trail,29,47,04:00 PM,Low
+Medicine Lake Regional Trail,29,47,06:00 PM,Low
+Medicine Lake Regional Trail,29,48,08:00 AM,Low
+Medicine Lake Regional Trail,29,48,10:00 AM,Low
+Medicine Lake Regional Trail,29,48,12:00 PM,Low
+Medicine Lake Regional Trail,29,48,02:00 PM,Low
+Medicine Lake Regional Trail,29,48,04:00 PM,Low
+Medicine Lake Regional Trail,29,48,06:00 PM,Low
+Medicine Lake Regional Trail,29,49,08:00 AM,Low
+Medicine Lake Regional Trail,29,49,10:00 AM,Low
+Medicine Lake Regional Trail,29,49,12:00 PM,Low
+Medicine Lake Regional Trail,29,49,02:00 PM,Low
+Medicine Lake Regional Trail,29,49,04:00 PM,Low
+Medicine Lake Regional Trail,29,49,06:00 PM,Low
+Medicine Lake Regional Trail,29,50,08:00 AM,Low
+Medicine Lake Regional Trail,29,50,10:00 AM,Low
+Medicine Lake Regional Trail,29,50,12:00 PM,Low
+Medicine Lake Regional Trail,29,50,02:00 PM,Low
+Medicine Lake Regional Trail,29,50,04:00 PM,Low
+Medicine Lake Regional Trail,29,50,06:00 PM,Low
+Medicine Lake Regional Trail,29,51,08:00 AM,Low
+Medicine Lake Regional Trail,29,51,10:00 AM,Low
+Medicine Lake Regional Trail,29,51,12:00 PM,Low
+Medicine Lake Regional Trail,29,51,02:00 PM,Low
+Medicine Lake Regional Trail,29,51,04:00 PM,Low
+Medicine Lake Regional Trail,29,51,06:00 PM,Low
+Medicine Lake Regional Trail,29,52,08:00 AM,Low
+Medicine Lake Regional Trail,29,52,10:00 AM,Low
+Medicine Lake Regional Trail,29,52,12:00 PM,Low
+Medicine Lake Regional Trail,29,52,02:00 PM,Low
+Medicine Lake Regional Trail,29,52,04:00 PM,Low
+Medicine Lake Regional Trail,29,52,06:00 PM,Low
+Medicine Lake Regional Trail,29,53,08:00 AM,Low
+Medicine Lake Regional Trail,29,53,10:00 AM,Low
+Medicine Lake Regional Trail,29,53,12:00 PM,Low
+Medicine Lake Regional Trail,29,53,02:00 PM,Low
+Medicine Lake Regional Trail,29,53,04:00 PM,Low
+Medicine Lake Regional Trail,29,53,06:00 PM,Low
+Medicine Lake Regional Trail,29,54,08:00 AM,Medium
+Medicine Lake Regional Trail,29,54,10:00 AM,Medium
+Medicine Lake Regional Trail,29,54,12:00 PM,Medium
+Medicine Lake Regional Trail,29,54,02:00 PM,Medium
+Medicine Lake Regional Trail,29,54,04:00 PM,Medium
+Medicine Lake Regional Trail,29,54,06:00 PM,Medium
+Medicine Lake Regional Trail,29,55,08:00 AM,Low
+Medicine Lake Regional Trail,29,55,10:00 AM,Low
+Medicine Lake Regional Trail,29,55,12:00 PM,Low
+Medicine Lake Regional Trail,29,55,02:00 PM,Low
+Medicine Lake Regional Trail,29,55,04:00 PM,Low
+Medicine Lake Regional Trail,29,55,06:00 PM,Low
+Medicine Lake Regional Trail,29,56,08:00 AM,Low
+Medicine Lake Regional Trail,29,56,10:00 AM,Low
+Medicine Lake Regional Trail,29,56,12:00 PM,Low
+Medicine Lake Regional Trail,29,56,02:00 PM,Low
+Medicine Lake Regional Trail,29,56,04:00 PM,Low
+Medicine Lake Regional Trail,29,56,06:00 PM,Low
+Medicine Lake Regional Trail,29,57,08:00 AM,Low
+Medicine Lake Regional Trail,29,57,10:00 AM,Low
+Medicine Lake Regional Trail,29,57,12:00 PM,Low
+Medicine Lake Regional Trail,29,57,02:00 PM,Low
+Medicine Lake Regional Trail,29,57,04:00 PM,Low
+Medicine Lake Regional Trail,29,57,06:00 PM,Low
+Fish Lake Regional Park,30,1,08:00 AM,High
+Fish Lake Regional Park,30,1,10:00 AM,High
+Fish Lake Regional Park,30,1,12:00 PM,High
+Fish Lake Regional Park,30,1,02:00 PM,High
+Fish Lake Regional Park,30,1,04:00 PM,High
+Fish Lake Regional Park,30,1,06:00 PM,High
+Fish Lake Regional Park,30,2,08:00 AM,Low
+Fish Lake Regional Park,30,2,10:00 AM,Low
+Fish Lake Regional Park,30,2,12:00 PM,Low
+Fish Lake Regional Park,30,2,02:00 PM,Low
+Fish Lake Regional Park,30,2,04:00 PM,Low
+Fish Lake Regional Park,30,2,06:00 PM,Low
+Fish Lake Regional Park,30,3,08:00 AM,Medium
+Fish Lake Regional Park,30,3,10:00 AM,Medium
+Fish Lake Regional Park,30,3,12:00 PM,Medium
+Fish Lake Regional Park,30,3,02:00 PM,Medium
+Fish Lake Regional Park,30,3,04:00 PM,Medium
+Fish Lake Regional Park,30,3,06:00 PM,Medium
+Fish Lake Regional Park,30,4,08:00 AM,Low
+Fish Lake Regional Park,30,4,10:00 AM,Low
+Fish Lake Regional Park,30,4,12:00 PM,Low
+Fish Lake Regional Park,30,4,02:00 PM,Low
+Fish Lake Regional Park,30,4,04:00 PM,Low
+Fish Lake Regional Park,30,4,06:00 PM,Low
+Fish Lake Regional Park,30,5,08:00 AM,Medium
+Fish Lake Regional Park,30,5,10:00 AM,Medium
+Fish Lake Regional Park,30,5,12:00 PM,Medium
+Fish Lake Regional Park,30,5,02:00 PM,Medium
+Fish Lake Regional Park,30,5,04:00 PM,Medium
+Fish Lake Regional Park,30,5,06:00 PM,Medium
+Fish Lake Regional Park,30,6,08:00 AM,Low
+Fish Lake Regional Park,30,6,10:00 AM,Low
+Fish Lake Regional Park,30,6,12:00 PM,Low
+Fish Lake Regional Park,30,6,02:00 PM,Low
+Fish Lake Regional Park,30,6,04:00 PM,Low
+Fish Lake Regional Park,30,6,06:00 PM,Low
+Hyland Lake Park Reserve,31,1,08:00 AM,High
+Hyland Lake Park Reserve,31,1,10:00 AM,High
+Hyland Lake Park Reserve,31,1,12:00 PM,High
+Hyland Lake Park Reserve,31,1,02:00 PM,High
+Hyland Lake Park Reserve,31,1,04:00 PM,High
+Hyland Lake Park Reserve,31,1,06:00 PM,High
+Hyland Lake Park Reserve,31,2,08:00 AM,Medium
+Hyland Lake Park Reserve,31,2,10:00 AM,Medium
+Hyland Lake Park Reserve,31,2,12:00 PM,Medium
+Hyland Lake Park Reserve,31,2,02:00 PM,Medium
+Hyland Lake Park Reserve,31,2,04:00 PM,Medium
+Hyland Lake Park Reserve,31,2,06:00 PM,Medium
+Hyland Lake Park Reserve,31,3,08:00 AM,Medium
+Hyland Lake Park Reserve,31,3,10:00 AM,Medium
+Hyland Lake Park Reserve,31,3,12:00 PM,Medium
+Hyland Lake Park Reserve,31,3,02:00 PM,Medium
+Hyland Lake Park Reserve,31,3,04:00 PM,Medium
+Hyland Lake Park Reserve,31,3,06:00 PM,Medium
+Hyland Lake Park Reserve,31,4,08:00 AM,Medium
+Hyland Lake Park Reserve,31,4,10:00 AM,Medium
+Hyland Lake Park Reserve,31,4,12:00 PM,Medium
+Hyland Lake Park Reserve,31,4,02:00 PM,Medium
+Hyland Lake Park Reserve,31,4,04:00 PM,Medium
+Hyland Lake Park Reserve,31,4,06:00 PM,Medium
+Hyland Lake Park Reserve,31,5,08:00 AM,Low
+Hyland Lake Park Reserve,31,5,10:00 AM,Low
+Hyland Lake Park Reserve,31,5,12:00 PM,Low
+Hyland Lake Park Reserve,31,5,02:00 PM,Low
+Hyland Lake Park Reserve,31,5,04:00 PM,Low
+Hyland Lake Park Reserve,31,5,06:00 PM,Low
+Hyland Lake Park Reserve,31,6,08:00 AM,Low
+Hyland Lake Park Reserve,31,6,10:00 AM,Low
+Hyland Lake Park Reserve,31,6,12:00 PM,Low
+Hyland Lake Park Reserve,31,6,02:00 PM,Low
+Hyland Lake Park Reserve,31,6,04:00 PM,Low
+Hyland Lake Park Reserve,31,6,06:00 PM,Low
+Hyland Lake Park Reserve,31,7,08:00 AM,Low
+Hyland Lake Park Reserve,31,7,10:00 AM,Low
+Hyland Lake Park Reserve,31,7,12:00 PM,Low
+Hyland Lake Park Reserve,31,7,02:00 PM,Low
+Hyland Lake Park Reserve,31,7,04:00 PM,Low
+Hyland Lake Park Reserve,31,7,06:00 PM,Low
+Hyland Lake Park Reserve,31,8,08:00 AM,Low
+Hyland Lake Park Reserve,31,8,10:00 AM,Low
+Hyland Lake Park Reserve,31,8,12:00 PM,Low
+Hyland Lake Park Reserve,31,8,02:00 PM,Low
+Hyland Lake Park Reserve,31,8,04:00 PM,Low
+Hyland Lake Park Reserve,31,8,06:00 PM,Low
+Hyland Lake Park Reserve,31,9,08:00 AM,Low
+Hyland Lake Park Reserve,31,9,10:00 AM,Low
+Hyland Lake Park Reserve,31,9,12:00 PM,Low
+Hyland Lake Park Reserve,31,9,02:00 PM,Low
+Hyland Lake Park Reserve,31,9,04:00 PM,Low
+Hyland Lake Park Reserve,31,9,06:00 PM,Low
+Hyland Lake Park Reserve,31,10,08:00 AM,Low
+Hyland Lake Park Reserve,31,10,10:00 AM,Low
+Hyland Lake Park Reserve,31,10,12:00 PM,Low
+Hyland Lake Park Reserve,31,10,02:00 PM,Low
+Hyland Lake Park Reserve,31,10,04:00 PM,Low
+Hyland Lake Park Reserve,31,10,06:00 PM,Low
+Hyland Lake Park Reserve,31,11,08:00 AM,Medium
+Hyland Lake Park Reserve,31,11,10:00 AM,Medium
+Hyland Lake Park Reserve,31,11,12:00 PM,Medium
+Hyland Lake Park Reserve,31,11,02:00 PM,Medium
+Hyland Lake Park Reserve,31,11,04:00 PM,Medium
+Hyland Lake Park Reserve,31,11,06:00 PM,Medium
+Lake Rebecca Park Reserve,32,1,08:00 AM,High
+Lake Rebecca Park Reserve,32,1,10:00 AM,High
+Lake Rebecca Park Reserve,32,1,12:00 PM,High
+Lake Rebecca Park Reserve,32,1,02:00 PM,High
+Lake Rebecca Park Reserve,32,1,04:00 PM,High
+Lake Rebecca Park Reserve,32,1,06:00 PM,High
+Lake Rebecca Park Reserve,32,2,08:00 AM,Low
+Lake Rebecca Park Reserve,32,2,10:00 AM,Low
+Lake Rebecca Park Reserve,32,2,12:00 PM,Low
+Lake Rebecca Park Reserve,32,2,02:00 PM,Low
+Lake Rebecca Park Reserve,32,2,04:00 PM,Low
+Lake Rebecca Park Reserve,32,2,06:00 PM,Low
+Lake Rebecca Park Reserve,32,4,08:00 AM,Low
+Lake Rebecca Park Reserve,32,4,10:00 AM,Low
+Lake Rebecca Park Reserve,32,4,12:00 PM,Low
+Lake Rebecca Park Reserve,32,4,02:00 PM,Low
+Lake Rebecca Park Reserve,32,4,04:00 PM,Low
+Lake Rebecca Park Reserve,32,4,06:00 PM,Low
+Lake Rebecca Park Reserve,32,6,08:00 AM,Low
+Lake Rebecca Park Reserve,32,6,10:00 AM,Low
+Lake Rebecca Park Reserve,32,6,12:00 PM,Low
+Lake Rebecca Park Reserve,32,6,02:00 PM,Low
+Lake Rebecca Park Reserve,32,6,04:00 PM,Low
+Lake Rebecca Park Reserve,32,6,06:00 PM,Low
+Lake Rebecca Park Reserve,32,7,08:00 AM,Low
+Lake Rebecca Park Reserve,32,7,10:00 AM,Low
+Lake Rebecca Park Reserve,32,7,12:00 PM,Low
+Lake Rebecca Park Reserve,32,7,02:00 PM,Low
+Lake Rebecca Park Reserve,32,7,04:00 PM,Low
+Lake Rebecca Park Reserve,32,7,06:00 PM,Low
+Lake Rebecca Park Reserve,32,9,08:00 AM,Medium
+Lake Rebecca Park Reserve,32,9,10:00 AM,Medium
+Lake Rebecca Park Reserve,32,9,12:00 PM,Medium
+Lake Rebecca Park Reserve,32,9,02:00 PM,Medium
+Lake Rebecca Park Reserve,32,9,04:00 PM,Medium
+Lake Rebecca Park Reserve,32,9,06:00 PM,Medium
+Lake Rebecca Park Reserve,32,10,08:00 AM,Low
+Lake Rebecca Park Reserve,32,10,10:00 AM,Low
+Lake Rebecca Park Reserve,32,10,12:00 PM,Low
+Lake Rebecca Park Reserve,32,10,02:00 PM,Low
+Lake Rebecca Park Reserve,32,10,04:00 PM,Low
+Lake Rebecca Park Reserve,32,10,06:00 PM,Low
+Lake Minnetonka Regional Park,33,1,08:00 AM,High
+Lake Minnetonka Regional Park,33,1,10:00 AM,High
+Lake Minnetonka Regional Park,33,1,12:00 PM,High
+Lake Minnetonka Regional Park,33,1,02:00 PM,High
+Lake Minnetonka Regional Park,33,1,04:00 PM,High
+Lake Minnetonka Regional Park,33,1,06:00 PM,High
+Lake Minnetonka Regional Park,33,2,08:00 AM,Low
+Lake Minnetonka Regional Park,33,2,10:00 AM,Low
+Lake Minnetonka Regional Park,33,2,12:00 PM,Low
+Lake Minnetonka Regional Park,33,2,02:00 PM,Low
+Lake Minnetonka Regional Park,33,2,04:00 PM,Low
+Lake Minnetonka Regional Park,33,2,06:00 PM,Low
+Lake Minnetonka Regional Park,33,3,08:00 AM,Low
+Lake Minnetonka Regional Park,33,3,10:00 AM,Low
+Lake Minnetonka Regional Park,33,3,12:00 PM,Low
+Lake Minnetonka Regional Park,33,3,02:00 PM,Low
+Lake Minnetonka Regional Park,33,3,04:00 PM,Low
+Lake Minnetonka Regional Park,33,3,06:00 PM,Low
+Lake Minnetonka Regional Park,33,4,08:00 AM,Medium
+Lake Minnetonka Regional Park,33,4,10:00 AM,Medium
+Lake Minnetonka Regional Park,33,4,12:00 PM,Medium
+Lake Minnetonka Regional Park,33,4,02:00 PM,Medium
+Lake Minnetonka Regional Park,33,4,04:00 PM,Medium
+Lake Minnetonka Regional Park,33,4,06:00 PM,Medium
+Lake Minnetonka Regional Park,33,5,08:00 AM,Low
+Lake Minnetonka Regional Park,33,5,10:00 AM,Low
+Lake Minnetonka Regional Park,33,5,12:00 PM,Low
+Lake Minnetonka Regional Park,33,5,02:00 PM,Low
+Lake Minnetonka Regional Park,33,5,04:00 PM,Low
+Lake Minnetonka Regional Park,33,5,06:00 PM,Low
+Lake Minnetonka Regional Park,33,6,08:00 AM,Low
+Lake Minnetonka Regional Park,33,6,10:00 AM,Low
+Lake Minnetonka Regional Park,33,6,12:00 PM,Low
+Lake Minnetonka Regional Park,33,6,02:00 PM,Low
+Lake Minnetonka Regional Park,33,6,04:00 PM,Low
+Lake Minnetonka Regional Park,33,6,06:00 PM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,1,08:00 AM,High
+Murphy-Hanrehan Park Reserve (Scott County),34,1,10:00 AM,High
+Murphy-Hanrehan Park Reserve (Scott County),34,1,12:00 PM,High
+Murphy-Hanrehan Park Reserve (Scott County),34,1,02:00 PM,High
+Murphy-Hanrehan Park Reserve (Scott County),34,1,04:00 PM,High
+Murphy-Hanrehan Park Reserve (Scott County),34,1,06:00 PM,High
+Murphy-Hanrehan Park Reserve (Scott County),34,2,08:00 AM,Medium
+Murphy-Hanrehan Park Reserve (Scott County),34,2,10:00 AM,Medium
+Murphy-Hanrehan Park Reserve (Scott County),34,2,12:00 PM,Medium
+Murphy-Hanrehan Park Reserve (Scott County),34,2,02:00 PM,Medium
+Murphy-Hanrehan Park Reserve (Scott County),34,2,04:00 PM,Medium
+Murphy-Hanrehan Park Reserve (Scott County),34,2,06:00 PM,Medium
+Murphy-Hanrehan Park Reserve (Scott County),34,3,08:00 AM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,3,10:00 AM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,3,12:00 PM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,3,02:00 PM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,3,04:00 PM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,3,06:00 PM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,4,08:00 AM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,4,10:00 AM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,4,12:00 PM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,4,02:00 PM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,4,04:00 PM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,4,06:00 PM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,5,08:00 AM,Medium
+Murphy-Hanrehan Park Reserve (Scott County),34,5,10:00 AM,Medium
+Murphy-Hanrehan Park Reserve (Scott County),34,5,12:00 PM,Medium
+Murphy-Hanrehan Park Reserve (Scott County),34,5,02:00 PM,Medium
+Murphy-Hanrehan Park Reserve (Scott County),34,5,04:00 PM,Medium
+Murphy-Hanrehan Park Reserve (Scott County),34,5,06:00 PM,Medium
+Murphy-Hanrehan Park Reserve (Scott County),34,6,08:00 AM,Medium
+Murphy-Hanrehan Park Reserve (Scott County),34,6,10:00 AM,Medium
+Murphy-Hanrehan Park Reserve (Scott County),34,6,12:00 PM,Medium
+Murphy-Hanrehan Park Reserve (Scott County),34,6,02:00 PM,Medium
+Murphy-Hanrehan Park Reserve (Scott County),34,6,04:00 PM,Medium
+Murphy-Hanrehan Park Reserve (Scott County),34,6,06:00 PM,Medium
+Murphy-Hanrehan Park Reserve (Scott County),34,7,08:00 AM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,7,10:00 AM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,7,12:00 PM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,7,02:00 PM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,7,04:00 PM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,7,06:00 PM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,8,08:00 AM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,8,10:00 AM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,8,12:00 PM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,8,02:00 PM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,8,04:00 PM,Low
+Murphy-Hanrehan Park Reserve (Scott County),34,8,06:00 PM,Low
+Rush Creek Regional Trail,35,1,08:00 AM,High
+Rush Creek Regional Trail,35,1,10:00 AM,High
+Rush Creek Regional Trail,35,1,12:00 PM,High
+Rush Creek Regional Trail,35,1,02:00 PM,High
+Rush Creek Regional Trail,35,1,04:00 PM,High
+Rush Creek Regional Trail,35,1,06:00 PM,High
+Rush Creek Regional Trail,35,2,08:00 AM,Low
+Rush Creek Regional Trail,35,2,10:00 AM,Low
+Rush Creek Regional Trail,35,2,12:00 PM,Low
+Rush Creek Regional Trail,35,2,02:00 PM,Low
+Rush Creek Regional Trail,35,2,04:00 PM,Low
+Rush Creek Regional Trail,35,2,06:00 PM,Low
+Rush Creek Regional Trail,35,3,08:00 AM,Low
+Rush Creek Regional Trail,35,3,10:00 AM,Low
+Rush Creek Regional Trail,35,3,12:00 PM,Low
+Rush Creek Regional Trail,35,3,02:00 PM,Low
+Rush Creek Regional Trail,35,3,04:00 PM,Low
+Rush Creek Regional Trail,35,3,06:00 PM,Low
+Rush Creek Regional Trail,35,4,08:00 AM,Medium
+Rush Creek Regional Trail,35,4,10:00 AM,Medium
+Rush Creek Regional Trail,35,4,12:00 PM,Medium
+Rush Creek Regional Trail,35,4,02:00 PM,Medium
+Rush Creek Regional Trail,35,4,04:00 PM,Medium
+Rush Creek Regional Trail,35,4,06:00 PM,Medium
+Rush Creek Regional Trail,35,5,08:00 AM,Low
+Rush Creek Regional Trail,35,5,10:00 AM,Low
+Rush Creek Regional Trail,35,5,12:00 PM,Low
+Rush Creek Regional Trail,35,5,02:00 PM,Low
+Rush Creek Regional Trail,35,5,04:00 PM,Low
+Rush Creek Regional Trail,35,5,06:00 PM,Low
+Rush Creek Regional Trail,35,6,08:00 AM,Low
+Rush Creek Regional Trail,35,6,10:00 AM,Low
+Rush Creek Regional Trail,35,6,12:00 PM,Low
+Rush Creek Regional Trail,35,6,02:00 PM,Low
+Rush Creek Regional Trail,35,6,04:00 PM,Low
+Rush Creek Regional Trail,35,6,06:00 PM,Low
+Rush Creek Regional Trail,35,7,08:00 AM,Low
+Rush Creek Regional Trail,35,7,10:00 AM,Low
+Rush Creek Regional Trail,35,7,12:00 PM,Low
+Rush Creek Regional Trail,35,7,02:00 PM,Low
+Rush Creek Regional Trail,35,7,04:00 PM,Low
+Rush Creek Regional Trail,35,7,06:00 PM,Low
+Rush Creek Regional Trail,35,8,08:00 AM,Low
+Rush Creek Regional Trail,35,8,10:00 AM,Low
+Rush Creek Regional Trail,35,8,12:00 PM,Low
+Rush Creek Regional Trail,35,8,02:00 PM,Low
+Rush Creek Regional Trail,35,8,04:00 PM,Low
+Rush Creek Regional Trail,35,8,06:00 PM,Low
+Rush Creek Regional Trail,35,9,08:00 AM,High
+Rush Creek Regional Trail,35,9,10:00 AM,High
+Rush Creek Regional Trail,35,9,12:00 PM,High
+Rush Creek Regional Trail,35,9,02:00 PM,High
+Rush Creek Regional Trail,35,9,04:00 PM,High
+Rush Creek Regional Trail,35,9,06:00 PM,High
+Rush Creek Regional Trail,35,10,08:00 AM,Low
+Rush Creek Regional Trail,35,10,10:00 AM,Low
+Rush Creek Regional Trail,35,10,12:00 PM,Low
+Rush Creek Regional Trail,35,10,02:00 PM,Low
+Rush Creek Regional Trail,35,10,04:00 PM,Low
+Rush Creek Regional Trail,35,10,06:00 PM,Low
+Rush Creek Regional Trail,35,11,08:00 AM,Low
+Rush Creek Regional Trail,35,11,10:00 AM,Low
+Rush Creek Regional Trail,35,11,12:00 PM,Low
+Rush Creek Regional Trail,35,11,02:00 PM,Low
+Rush Creek Regional Trail,35,11,04:00 PM,Low
+Rush Creek Regional Trail,35,11,06:00 PM,Low
+Rush Creek Regional Trail,35,12,08:00 AM,Medium
+Rush Creek Regional Trail,35,12,10:00 AM,Medium
+Rush Creek Regional Trail,35,12,12:00 PM,Medium
+Rush Creek Regional Trail,35,12,02:00 PM,Medium
+Rush Creek Regional Trail,35,12,04:00 PM,Medium
+Rush Creek Regional Trail,35,12,06:00 PM,Medium
+Rush Creek Regional Trail,35,33,08:00 AM,Low
+Rush Creek Regional Trail,35,33,10:00 AM,Low
+Rush Creek Regional Trail,35,33,12:00 PM,Low
+Rush Creek Regional Trail,35,33,02:00 PM,Low
+Rush Creek Regional Trail,35,33,04:00 PM,Low
+Rush Creek Regional Trail,35,33,06:00 PM,Low
+Rush Creek Regional Trail,35,38,08:00 AM,Low
+Rush Creek Regional Trail,35,38,10:00 AM,Low
+Rush Creek Regional Trail,35,38,12:00 PM,Low
+Rush Creek Regional Trail,35,38,02:00 PM,Low
+Rush Creek Regional Trail,35,38,04:00 PM,Low
+Rush Creek Regional Trail,35,38,06:00 PM,Low
+Rush Creek Regional Trail,35,40,08:00 AM,Medium
+Rush Creek Regional Trail,35,40,10:00 AM,Medium
+Rush Creek Regional Trail,35,40,12:00 PM,Medium
+Rush Creek Regional Trail,35,40,02:00 PM,Medium
+Rush Creek Regional Trail,35,40,04:00 PM,Medium
+Rush Creek Regional Trail,35,40,06:00 PM,Medium
+Rush Creek Regional Trail,35,41,08:00 AM,Low
+Rush Creek Regional Trail,35,41,10:00 AM,Low
+Rush Creek Regional Trail,35,41,12:00 PM,Low
+Rush Creek Regional Trail,35,41,02:00 PM,Low
+Rush Creek Regional Trail,35,41,04:00 PM,Low
+Rush Creek Regional Trail,35,41,06:00 PM,Low
+Rush Creek Regional Trail,35,42,08:00 AM,Low
+Rush Creek Regional Trail,35,42,10:00 AM,Low
+Rush Creek Regional Trail,35,42,12:00 PM,Low
+Rush Creek Regional Trail,35,42,02:00 PM,Low
+Rush Creek Regional Trail,35,42,04:00 PM,Low
+Rush Creek Regional Trail,35,42,06:00 PM,Low
+Rush Creek Regional Trail,35,43,08:00 AM,Low
+Rush Creek Regional Trail,35,43,10:00 AM,Low
+Rush Creek Regional Trail,35,43,12:00 PM,Low
+Rush Creek Regional Trail,35,43,02:00 PM,Low
+Rush Creek Regional Trail,35,43,04:00 PM,Low
+Rush Creek Regional Trail,35,43,06:00 PM,Low
+Rush Creek Regional Trail,35,44,08:00 AM,Low
+Rush Creek Regional Trail,35,44,10:00 AM,Low
+Rush Creek Regional Trail,35,44,12:00 PM,Low
+Rush Creek Regional Trail,35,44,02:00 PM,Low
+Rush Creek Regional Trail,35,44,04:00 PM,Low
+Rush Creek Regional Trail,35,44,06:00 PM,Low
+Rush Creek Regional Trail,35,45,08:00 AM,Low
+Rush Creek Regional Trail,35,45,10:00 AM,Low
+Rush Creek Regional Trail,35,45,12:00 PM,Low
+Rush Creek Regional Trail,35,45,02:00 PM,Low
+Rush Creek Regional Trail,35,45,04:00 PM,Low
+Rush Creek Regional Trail,35,45,06:00 PM,Low
+Rush Creek Regional Trail,35,46,08:00 AM,Low
+Rush Creek Regional Trail,35,46,10:00 AM,Low
+Rush Creek Regional Trail,35,46,12:00 PM,Low
+Rush Creek Regional Trail,35,46,02:00 PM,Low
+Rush Creek Regional Trail,35,46,04:00 PM,Low
+Rush Creek Regional Trail,35,46,06:00 PM,Low
+North Mississippi Regional Park,36,1,08:00 AM,High
+North Mississippi Regional Park,36,1,10:00 AM,High
+North Mississippi Regional Park,36,1,12:00 PM,High
+North Mississippi Regional Park,36,1,02:00 PM,High
+North Mississippi Regional Park,36,1,04:00 PM,High
+North Mississippi Regional Park,36,1,06:00 PM,High
+North Mississippi Regional Park,36,2,08:00 AM,Medium
+North Mississippi Regional Park,36,2,10:00 AM,Medium
+North Mississippi Regional Park,36,2,12:00 PM,Medium
+North Mississippi Regional Park,36,2,02:00 PM,Medium
+North Mississippi Regional Park,36,2,04:00 PM,Medium
+North Mississippi Regional Park,36,2,06:00 PM,Medium
+Noerenberg Gardens Special Recreation Feature,37,1,08:00 AM,High
+Noerenberg Gardens Special Recreation Feature,37,1,10:00 AM,High
+Noerenberg Gardens Special Recreation Feature,37,1,12:00 PM,High
+Noerenberg Gardens Special Recreation Feature,37,1,02:00 PM,High
+Noerenberg Gardens Special Recreation Feature,37,1,04:00 PM,High
+Noerenberg Gardens Special Recreation Feature,37,1,06:00 PM,High
+Lake Minnetonka LRT Regional Trail,39,1,08:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,1,10:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,1,12:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,1,02:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,1,04:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,1,06:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,2,08:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,2,10:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,2,12:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,2,02:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,2,04:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,2,06:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,3,08:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,3,10:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,3,12:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,3,02:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,3,04:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,3,06:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,4,08:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,4,10:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,4,12:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,4,02:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,4,04:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,4,06:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,5,08:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,5,10:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,5,12:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,5,02:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,5,04:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,5,06:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,6,08:00 AM,High
+Lake Minnetonka LRT Regional Trail,39,6,10:00 AM,High
+Lake Minnetonka LRT Regional Trail,39,6,12:00 PM,High
+Lake Minnetonka LRT Regional Trail,39,6,02:00 PM,High
+Lake Minnetonka LRT Regional Trail,39,6,04:00 PM,High
+Lake Minnetonka LRT Regional Trail,39,6,06:00 PM,High
+Lake Minnetonka LRT Regional Trail,39,7,08:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,7,10:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,7,12:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,7,02:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,7,04:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,7,06:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,8,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,8,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,8,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,8,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,8,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,8,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,9,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,9,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,9,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,9,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,9,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,9,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,10,08:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,10,10:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,10,12:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,10,02:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,10,04:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,10,06:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,11,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,11,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,11,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,11,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,11,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,11,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,12,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,12,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,12,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,12,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,12,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,12,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,13,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,13,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,13,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,13,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,13,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,13,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,14,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,14,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,14,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,14,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,14,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,14,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,15,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,15,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,15,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,15,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,15,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,15,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,16,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,16,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,16,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,16,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,16,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,16,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,17,08:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,17,10:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,17,12:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,17,02:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,17,04:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,17,06:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,18,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,18,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,18,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,18,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,18,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,18,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,19,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,19,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,19,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,19,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,19,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,19,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,20,08:00 AM,High
+Lake Minnetonka LRT Regional Trail,39,20,10:00 AM,High
+Lake Minnetonka LRT Regional Trail,39,20,12:00 PM,High
+Lake Minnetonka LRT Regional Trail,39,20,02:00 PM,High
+Lake Minnetonka LRT Regional Trail,39,20,04:00 PM,High
+Lake Minnetonka LRT Regional Trail,39,20,06:00 PM,High
+Lake Minnetonka LRT Regional Trail,39,21,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,21,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,21,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,21,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,21,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,21,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,22,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,22,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,22,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,22,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,22,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,22,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,23,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,23,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,23,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,23,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,23,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,23,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,24,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,24,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,24,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,24,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,24,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,24,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,25,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,25,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,25,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,25,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,25,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,25,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,26,08:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,26,10:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,26,12:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,26,02:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,26,04:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,26,06:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,27,08:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,27,10:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,27,12:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,27,02:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,27,04:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,27,06:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,28,08:00 AM,High
+Lake Minnetonka LRT Regional Trail,39,28,10:00 AM,High
+Lake Minnetonka LRT Regional Trail,39,28,12:00 PM,High
+Lake Minnetonka LRT Regional Trail,39,28,02:00 PM,High
+Lake Minnetonka LRT Regional Trail,39,28,04:00 PM,High
+Lake Minnetonka LRT Regional Trail,39,28,06:00 PM,High
+Lake Minnetonka LRT Regional Trail,39,29,08:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,29,10:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,29,12:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,29,02:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,29,04:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,29,06:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,30,08:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,30,10:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,30,12:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,30,02:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,30,04:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,30,06:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,31,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,31,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,31,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,31,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,31,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,31,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,32,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,32,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,32,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,32,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,32,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,32,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,33,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,33,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,33,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,33,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,33,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,33,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,34,08:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,34,10:00 AM,Medium
+Lake Minnetonka LRT Regional Trail,39,34,12:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,34,02:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,34,04:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,34,06:00 PM,Medium
+Lake Minnetonka LRT Regional Trail,39,35,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,35,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,35,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,35,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,35,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,35,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,36,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,36,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,36,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,36,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,36,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,36,06:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,37,08:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,37,10:00 AM,Low
+Lake Minnetonka LRT Regional Trail,39,37,12:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,37,02:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,37,04:00 PM,Low
+Lake Minnetonka LRT Regional Trail,39,37,06:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,1,08:00 AM,High
+Minnesota River Bluffs Regional Trail,40,1,10:00 AM,High
+Minnesota River Bluffs Regional Trail,40,1,12:00 PM,High
+Minnesota River Bluffs Regional Trail,40,1,02:00 PM,High
+Minnesota River Bluffs Regional Trail,40,1,04:00 PM,High
+Minnesota River Bluffs Regional Trail,40,1,06:00 PM,High
+Minnesota River Bluffs Regional Trail,40,2,08:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,2,10:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,2,12:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,2,02:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,2,04:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,2,06:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,3,08:00 AM,Medium
+Minnesota River Bluffs Regional Trail,40,3,10:00 AM,Medium
+Minnesota River Bluffs Regional Trail,40,3,12:00 PM,Medium
+Minnesota River Bluffs Regional Trail,40,3,02:00 PM,Medium
+Minnesota River Bluffs Regional Trail,40,3,04:00 PM,Medium
+Minnesota River Bluffs Regional Trail,40,3,06:00 PM,Medium
+Minnesota River Bluffs Regional Trail,40,4,08:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,4,10:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,4,12:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,4,02:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,4,04:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,4,06:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,5,08:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,5,10:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,5,12:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,5,02:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,5,04:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,5,06:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,6,08:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,6,10:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,6,12:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,6,02:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,6,04:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,6,06:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,7,08:00 AM,High
+Minnesota River Bluffs Regional Trail,40,7,10:00 AM,High
+Minnesota River Bluffs Regional Trail,40,7,12:00 PM,High
+Minnesota River Bluffs Regional Trail,40,7,02:00 PM,High
+Minnesota River Bluffs Regional Trail,40,7,04:00 PM,High
+Minnesota River Bluffs Regional Trail,40,7,06:00 PM,High
+Minnesota River Bluffs Regional Trail,40,8,08:00 AM,High
+Minnesota River Bluffs Regional Trail,40,8,10:00 AM,High
+Minnesota River Bluffs Regional Trail,40,8,12:00 PM,High
+Minnesota River Bluffs Regional Trail,40,8,02:00 PM,High
+Minnesota River Bluffs Regional Trail,40,8,04:00 PM,High
+Minnesota River Bluffs Regional Trail,40,8,06:00 PM,High
+Minnesota River Bluffs Regional Trail,40,10,08:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,10,10:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,10,12:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,10,02:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,10,04:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,10,06:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,11,08:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,11,10:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,11,12:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,11,02:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,11,04:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,11,06:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,12,08:00 AM,Medium
+Minnesota River Bluffs Regional Trail,40,12,10:00 AM,Medium
+Minnesota River Bluffs Regional Trail,40,12,12:00 PM,Medium
+Minnesota River Bluffs Regional Trail,40,12,02:00 PM,Medium
+Minnesota River Bluffs Regional Trail,40,12,04:00 PM,Medium
+Minnesota River Bluffs Regional Trail,40,12,06:00 PM,Medium
+Minnesota River Bluffs Regional Trail,40,13,08:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,13,10:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,13,12:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,13,02:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,13,04:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,13,06:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,14,08:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,14,10:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,14,12:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,14,02:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,14,04:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,14,06:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,15,08:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,15,10:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,15,12:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,15,02:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,15,04:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,15,06:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,16,08:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,16,10:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,16,12:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,16,02:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,16,04:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,16,06:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,17,08:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,17,10:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,17,12:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,17,02:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,17,04:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,17,06:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,18,08:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,18,10:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,18,12:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,18,02:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,18,04:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,18,06:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,20,08:00 AM,Medium
+Minnesota River Bluffs Regional Trail,40,20,10:00 AM,Medium
+Minnesota River Bluffs Regional Trail,40,20,12:00 PM,Medium
+Minnesota River Bluffs Regional Trail,40,20,02:00 PM,Medium
+Minnesota River Bluffs Regional Trail,40,20,04:00 PM,Medium
+Minnesota River Bluffs Regional Trail,40,20,06:00 PM,Medium
+Minnesota River Bluffs Regional Trail,40,21,08:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,21,10:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,21,12:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,21,02:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,21,04:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,21,06:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,22,08:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,22,10:00 AM,Low
+Minnesota River Bluffs Regional Trail,40,22,12:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,22,02:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,22,04:00 PM,Low
+Minnesota River Bluffs Regional Trail,40,22,06:00 PM,Low
+Cedar Lake LRT Regional Trail,76,1,08:00 AM,Medium
+Cedar Lake LRT Regional Trail,76,1,10:00 AM,Medium
+Cedar Lake LRT Regional Trail,76,1,12:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,1,02:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,1,04:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,1,06:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,2,08:00 AM,Medium
+Cedar Lake LRT Regional Trail,76,2,10:00 AM,Medium
+Cedar Lake LRT Regional Trail,76,2,12:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,2,02:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,2,04:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,2,06:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,3,08:00 AM,High
+Cedar Lake LRT Regional Trail,76,3,10:00 AM,High
+Cedar Lake LRT Regional Trail,76,3,12:00 PM,High
+Cedar Lake LRT Regional Trail,76,3,02:00 PM,High
+Cedar Lake LRT Regional Trail,76,3,04:00 PM,High
+Cedar Lake LRT Regional Trail,76,3,06:00 PM,High
+Cedar Lake LRT Regional Trail,76,4,08:00 AM,Medium
+Cedar Lake LRT Regional Trail,76,4,10:00 AM,Medium
+Cedar Lake LRT Regional Trail,76,4,12:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,4,02:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,4,04:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,4,06:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,5,08:00 AM,Medium
+Cedar Lake LRT Regional Trail,76,5,10:00 AM,Medium
+Cedar Lake LRT Regional Trail,76,5,12:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,5,02:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,5,04:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,5,06:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,6,08:00 AM,Low
+Cedar Lake LRT Regional Trail,76,6,10:00 AM,Low
+Cedar Lake LRT Regional Trail,76,6,12:00 PM,Low
+Cedar Lake LRT Regional Trail,76,6,02:00 PM,Low
+Cedar Lake LRT Regional Trail,76,6,04:00 PM,Low
+Cedar Lake LRT Regional Trail,76,6,06:00 PM,Low
+Cedar Lake LRT Regional Trail,76,7,08:00 AM,High
+Cedar Lake LRT Regional Trail,76,7,10:00 AM,High
+Cedar Lake LRT Regional Trail,76,7,12:00 PM,High
+Cedar Lake LRT Regional Trail,76,7,02:00 PM,High
+Cedar Lake LRT Regional Trail,76,7,04:00 PM,High
+Cedar Lake LRT Regional Trail,76,7,06:00 PM,High
+Cedar Lake LRT Regional Trail,76,8,08:00 AM,Low
+Cedar Lake LRT Regional Trail,76,8,10:00 AM,Low
+Cedar Lake LRT Regional Trail,76,8,12:00 PM,Low
+Cedar Lake LRT Regional Trail,76,8,02:00 PM,Low
+Cedar Lake LRT Regional Trail,76,8,04:00 PM,Low
+Cedar Lake LRT Regional Trail,76,8,06:00 PM,Low
+Cedar Lake LRT Regional Trail,76,9,08:00 AM,Low
+Cedar Lake LRT Regional Trail,76,9,10:00 AM,Low
+Cedar Lake LRT Regional Trail,76,9,12:00 PM,Low
+Cedar Lake LRT Regional Trail,76,9,02:00 PM,Low
+Cedar Lake LRT Regional Trail,76,9,04:00 PM,Low
+Cedar Lake LRT Regional Trail,76,9,06:00 PM,Low
+Cedar Lake LRT Regional Trail,76,10,08:00 AM,Low
+Cedar Lake LRT Regional Trail,76,10,10:00 AM,Low
+Cedar Lake LRT Regional Trail,76,10,12:00 PM,Low
+Cedar Lake LRT Regional Trail,76,10,02:00 PM,Low
+Cedar Lake LRT Regional Trail,76,10,04:00 PM,Low
+Cedar Lake LRT Regional Trail,76,10,06:00 PM,Low
+Cedar Lake LRT Regional Trail,76,11,08:00 AM,Low
+Cedar Lake LRT Regional Trail,76,11,10:00 AM,Low
+Cedar Lake LRT Regional Trail,76,11,12:00 PM,Low
+Cedar Lake LRT Regional Trail,76,11,02:00 PM,Low
+Cedar Lake LRT Regional Trail,76,11,04:00 PM,Low
+Cedar Lake LRT Regional Trail,76,11,06:00 PM,Low
+Cedar Lake LRT Regional Trail,76,12,08:00 AM,Low
+Cedar Lake LRT Regional Trail,76,12,10:00 AM,Low
+Cedar Lake LRT Regional Trail,76,12,12:00 PM,Low
+Cedar Lake LRT Regional Trail,76,12,02:00 PM,Low
+Cedar Lake LRT Regional Trail,76,12,04:00 PM,Low
+Cedar Lake LRT Regional Trail,76,12,06:00 PM,Low
+Cedar Lake LRT Regional Trail,76,13,08:00 AM,Medium
+Cedar Lake LRT Regional Trail,76,13,10:00 AM,Medium
+Cedar Lake LRT Regional Trail,76,13,12:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,13,02:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,13,04:00 PM,Medium
+Cedar Lake LRT Regional Trail,76,13,06:00 PM,Medium
+Lake Independence Regional Trail,77,1,08:00 AM,Medium
+Lake Independence Regional Trail,77,1,10:00 AM,Medium
+Lake Independence Regional Trail,77,1,12:00 PM,Medium
+Lake Independence Regional Trail,77,1,02:00 PM,Medium
+Lake Independence Regional Trail,77,1,04:00 PM,Medium
+Lake Independence Regional Trail,77,1,06:00 PM,Medium
+Lake Independence Regional Trail,77,2,08:00 AM,Low
+Lake Independence Regional Trail,77,2,10:00 AM,Low
+Lake Independence Regional Trail,77,2,12:00 PM,Low
+Lake Independence Regional Trail,77,2,02:00 PM,Low
+Lake Independence Regional Trail,77,2,04:00 PM,Low
+Lake Independence Regional Trail,77,2,06:00 PM,Low
+Lake Independence Regional Trail,77,3,08:00 AM,High
+Lake Independence Regional Trail,77,3,10:00 AM,High
+Lake Independence Regional Trail,77,3,12:00 PM,High
+Lake Independence Regional Trail,77,3,02:00 PM,High
+Lake Independence Regional Trail,77,3,04:00 PM,High
+Lake Independence Regional Trail,77,3,06:00 PM,High
+Lake Independence Regional Trail,77,4,08:00 AM,Low
+Lake Independence Regional Trail,77,4,10:00 AM,Low
+Lake Independence Regional Trail,77,4,12:00 PM,Low
+Lake Independence Regional Trail,77,4,02:00 PM,Low
+Lake Independence Regional Trail,77,4,04:00 PM,Low
+Lake Independence Regional Trail,77,4,06:00 PM,Low
+Lake Independence Regional Trail,77,5,08:00 AM,Low
+Lake Independence Regional Trail,77,5,10:00 AM,Low
+Lake Independence Regional Trail,77,5,12:00 PM,Low
+Lake Independence Regional Trail,77,5,02:00 PM,Low
+Lake Independence Regional Trail,77,5,04:00 PM,Low
+Lake Independence Regional Trail,77,5,06:00 PM,Low
+Lake Independence Regional Trail,77,6,08:00 AM,High
+Lake Independence Regional Trail,77,6,10:00 AM,High
+Lake Independence Regional Trail,77,6,12:00 PM,High
+Lake Independence Regional Trail,77,6,02:00 PM,High
+Lake Independence Regional Trail,77,6,04:00 PM,High
+Lake Independence Regional Trail,77,6,06:00 PM,High
+Lake Independence Regional Trail,77,7,08:00 AM,High
+Lake Independence Regional Trail,77,7,10:00 AM,High
+Lake Independence Regional Trail,77,7,12:00 PM,High
+Lake Independence Regional Trail,77,7,02:00 PM,High
+Lake Independence Regional Trail,77,7,04:00 PM,High
+Lake Independence Regional Trail,77,7,06:00 PM,High
+Lake Independence Regional Trail,77,8,08:00 AM,Medium
+Lake Independence Regional Trail,77,8,10:00 AM,Medium
+Lake Independence Regional Trail,77,8,12:00 PM,Medium
+Lake Independence Regional Trail,77,8,02:00 PM,Medium
+Lake Independence Regional Trail,77,8,04:00 PM,Medium
+Lake Independence Regional Trail,77,8,06:00 PM,Medium
+Lake Independence Regional Trail,77,9,08:00 AM,Medium
+Lake Independence Regional Trail,77,9,10:00 AM,Medium
+Lake Independence Regional Trail,77,9,12:00 PM,Medium
+Lake Independence Regional Trail,77,9,02:00 PM,Medium
+Lake Independence Regional Trail,77,9,04:00 PM,Medium
+Lake Independence Regional Trail,77,9,06:00 PM,Medium
+Lake Independence Regional Trail,77,10,08:00 AM,Medium
+Lake Independence Regional Trail,77,10,10:00 AM,Medium
+Lake Independence Regional Trail,77,10,12:00 PM,Medium
+Lake Independence Regional Trail,77,10,02:00 PM,Medium
+Lake Independence Regional Trail,77,10,04:00 PM,Medium
+Lake Independence Regional Trail,77,10,06:00 PM,Medium
+Lake Independence Regional Trail,77,11,08:00 AM,Low
+Lake Independence Regional Trail,77,11,10:00 AM,Low
+Lake Independence Regional Trail,77,11,12:00 PM,Low
+Lake Independence Regional Trail,77,11,02:00 PM,Low
+Lake Independence Regional Trail,77,11,04:00 PM,Low
+Lake Independence Regional Trail,77,11,06:00 PM,Low
+Lake Independence Regional Trail,77,12,08:00 AM,Low
+Lake Independence Regional Trail,77,12,10:00 AM,Low
+Lake Independence Regional Trail,77,12,12:00 PM,Low
+Lake Independence Regional Trail,77,12,02:00 PM,Low
+Lake Independence Regional Trail,77,12,04:00 PM,Low
+Lake Independence Regional Trail,77,12,06:00 PM,Low
+Lake Independence Regional Trail,77,13,08:00 AM,Low
+Lake Independence Regional Trail,77,13,10:00 AM,Low
+Lake Independence Regional Trail,77,13,12:00 PM,Low
+Lake Independence Regional Trail,77,13,02:00 PM,Low
+Lake Independence Regional Trail,77,13,04:00 PM,Low
+Lake Independence Regional Trail,77,13,06:00 PM,Low
+Lake Independence Regional Trail,77,14,08:00 AM,Medium
+Lake Independence Regional Trail,77,14,10:00 AM,Medium
+Lake Independence Regional Trail,77,14,12:00 PM,Medium
+Lake Independence Regional Trail,77,14,02:00 PM,Medium
+Lake Independence Regional Trail,77,14,04:00 PM,Medium
+Lake Independence Regional Trail,77,14,06:00 PM,Medium
+Lake Independence Regional Trail,77,15,08:00 AM,Low
+Lake Independence Regional Trail,77,15,10:00 AM,Low
+Lake Independence Regional Trail,77,15,12:00 PM,Low
+Lake Independence Regional Trail,77,15,02:00 PM,Low
+Lake Independence Regional Trail,77,15,04:00 PM,Low
+Lake Independence Regional Trail,77,15,06:00 PM,Low
+Lake Independence Regional Trail,77,16,08:00 AM,Low
+Lake Independence Regional Trail,77,16,10:00 AM,Low
+Lake Independence Regional Trail,77,16,12:00 PM,Low
+Lake Independence Regional Trail,77,16,02:00 PM,Low
+Lake Independence Regional Trail,77,16,04:00 PM,Low
+Lake Independence Regional Trail,77,16,06:00 PM,Low
+Lake Independence Regional Trail,77,17,08:00 AM,Medium
+Lake Independence Regional Trail,77,17,10:00 AM,Medium
+Lake Independence Regional Trail,77,17,12:00 PM,Medium
+Lake Independence Regional Trail,77,17,02:00 PM,Medium
+Lake Independence Regional Trail,77,17,04:00 PM,Medium
+Lake Independence Regional Trail,77,17,06:00 PM,Medium
+Lake Independence Regional Trail,77,18,08:00 AM,Low
+Lake Independence Regional Trail,77,18,10:00 AM,Low
+Lake Independence Regional Trail,77,18,12:00 PM,Low
+Lake Independence Regional Trail,77,18,02:00 PM,Low
+Lake Independence Regional Trail,77,18,04:00 PM,Low
+Lake Independence Regional Trail,77,18,06:00 PM,Low
+Eagle Lake Regional Park,78,1,08:00 AM,Medium
+Eagle Lake Regional Park,78,1,10:00 AM,Medium
+Eagle Lake Regional Park,78,1,12:00 PM,Medium
+Eagle Lake Regional Park,78,1,02:00 PM,Medium
+Eagle Lake Regional Park,78,1,04:00 PM,Medium
+Eagle Lake Regional Park,78,1,06:00 PM,Medium
+Eagle Lake Regional Park,78,2,08:00 AM,Medium
+Eagle Lake Regional Park,78,2,10:00 AM,Medium
+Eagle Lake Regional Park,78,2,12:00 PM,Medium
+Eagle Lake Regional Park,78,2,02:00 PM,Medium
+Eagle Lake Regional Park,78,2,04:00 PM,Medium
+Eagle Lake Regional Park,78,2,06:00 PM,Medium
+Eagle Lake Regional Park,78,3,08:00 AM,High
+Eagle Lake Regional Park,78,3,10:00 AM,High
+Eagle Lake Regional Park,78,3,12:00 PM,High
+Eagle Lake Regional Park,78,3,02:00 PM,High
+Eagle Lake Regional Park,78,3,04:00 PM,High
+Eagle Lake Regional Park,78,3,06:00 PM,High
+Eagle Lake Regional Park,78,4,08:00 AM,Low
+Eagle Lake Regional Park,78,4,10:00 AM,Low
+Eagle Lake Regional Park,78,4,12:00 PM,Low
+Eagle Lake Regional Park,78,4,02:00 PM,Low
+Eagle Lake Regional Park,78,4,04:00 PM,Low
+Eagle Lake Regional Park,78,4,06:00 PM,Low
+North Cedar Lake Regional Trail,79,1,08:00 AM,High
+North Cedar Lake Regional Trail,79,1,10:00 AM,High
+North Cedar Lake Regional Trail,79,1,12:00 PM,High
+North Cedar Lake Regional Trail,79,1,02:00 PM,High
+North Cedar Lake Regional Trail,79,1,04:00 PM,High
+North Cedar Lake Regional Trail,79,1,06:00 PM,High
+North Cedar Lake Regional Trail,79,2,08:00 AM,Low
+North Cedar Lake Regional Trail,79,2,10:00 AM,Low
+North Cedar Lake Regional Trail,79,2,12:00 PM,Low
+North Cedar Lake Regional Trail,79,2,02:00 PM,Low
+North Cedar Lake Regional Trail,79,2,04:00 PM,Low
+North Cedar Lake Regional Trail,79,2,06:00 PM,Low
+North Cedar Lake Regional Trail,79,3,08:00 AM,Medium
+North Cedar Lake Regional Trail,79,3,10:00 AM,Medium
+North Cedar Lake Regional Trail,79,3,12:00 PM,Medium
+North Cedar Lake Regional Trail,79,3,02:00 PM,Medium
+North Cedar Lake Regional Trail,79,3,04:00 PM,Medium
+North Cedar Lake Regional Trail,79,3,06:00 PM,Medium
+North Cedar Lake Regional Trail,79,4,08:00 AM,Low
+North Cedar Lake Regional Trail,79,4,10:00 AM,Low
+North Cedar Lake Regional Trail,79,4,12:00 PM,Low
+North Cedar Lake Regional Trail,79,4,02:00 PM,Low
+North Cedar Lake Regional Trail,79,4,04:00 PM,Low
+North Cedar Lake Regional Trail,79,4,06:00 PM,Low
+North Cedar Lake Regional Trail,79,5,08:00 AM,Medium
+North Cedar Lake Regional Trail,79,5,10:00 AM,Medium
+North Cedar Lake Regional Trail,79,5,12:00 PM,Medium
+North Cedar Lake Regional Trail,79,5,02:00 PM,Medium
+North Cedar Lake Regional Trail,79,5,04:00 PM,Medium
+North Cedar Lake Regional Trail,79,5,06:00 PM,Medium
+North Cedar Lake Regional Trail,79,6,08:00 AM,Medium
+North Cedar Lake Regional Trail,79,6,10:00 AM,Medium
+North Cedar Lake Regional Trail,79,6,12:00 PM,Medium
+North Cedar Lake Regional Trail,79,6,02:00 PM,Medium
+North Cedar Lake Regional Trail,79,6,04:00 PM,Medium
+North Cedar Lake Regional Trail,79,6,06:00 PM,Medium
+North Cedar Lake Regional Trail,79,7,08:00 AM,Medium
+North Cedar Lake Regional Trail,79,7,10:00 AM,Medium
+North Cedar Lake Regional Trail,79,7,12:00 PM,Medium
+North Cedar Lake Regional Trail,79,7,02:00 PM,Medium
+North Cedar Lake Regional Trail,79,7,04:00 PM,Medium
+North Cedar Lake Regional Trail,79,7,06:00 PM,Medium
+North Cedar Lake Regional Trail,79,8,08:00 AM,Low
+North Cedar Lake Regional Trail,79,8,10:00 AM,Low
+North Cedar Lake Regional Trail,79,8,12:00 PM,Low
+North Cedar Lake Regional Trail,79,8,02:00 PM,Low
+North Cedar Lake Regional Trail,79,8,04:00 PM,Low
+North Cedar Lake Regional Trail,79,8,06:00 PM,Low
+North Cedar Lake Regional Trail,79,9,08:00 AM,High
+North Cedar Lake Regional Trail,79,9,10:00 AM,High
+North Cedar Lake Regional Trail,79,9,12:00 PM,High
+North Cedar Lake Regional Trail,79,9,02:00 PM,High
+North Cedar Lake Regional Trail,79,9,04:00 PM,High
+North Cedar Lake Regional Trail,79,9,06:00 PM,High
+North Cedar Lake Regional Trail,79,10,08:00 AM,Medium
+North Cedar Lake Regional Trail,79,10,10:00 AM,Medium
+North Cedar Lake Regional Trail,79,10,12:00 PM,Medium
+North Cedar Lake Regional Trail,79,10,02:00 PM,Medium
+North Cedar Lake Regional Trail,79,10,04:00 PM,Medium
+North Cedar Lake Regional Trail,79,10,06:00 PM,Medium
+North Cedar Lake Regional Trail,79,11,08:00 AM,Low
+North Cedar Lake Regional Trail,79,11,10:00 AM,Low
+North Cedar Lake Regional Trail,79,11,12:00 PM,Low
+North Cedar Lake Regional Trail,79,11,02:00 PM,Low
+North Cedar Lake Regional Trail,79,11,04:00 PM,Low
+North Cedar Lake Regional Trail,79,11,06:00 PM,Low
+North Cedar Lake Regional Trail,79,12,08:00 AM,Low
+North Cedar Lake Regional Trail,79,12,10:00 AM,Low
+North Cedar Lake Regional Trail,79,12,12:00 PM,Low
+North Cedar Lake Regional Trail,79,12,02:00 PM,Low
+North Cedar Lake Regional Trail,79,12,04:00 PM,Low
+North Cedar Lake Regional Trail,79,12,06:00 PM,Low
+North Cedar Lake Regional Trail,79,13,08:00 AM,Low
+North Cedar Lake Regional Trail,79,13,10:00 AM,Low
+North Cedar Lake Regional Trail,79,13,12:00 PM,Low
+North Cedar Lake Regional Trail,79,13,02:00 PM,Low
+North Cedar Lake Regional Trail,79,13,04:00 PM,Low
+North Cedar Lake Regional Trail,79,13,06:00 PM,Low
+Gale Woods Special Recreation Feature,80,1,08:00 AM,High
+Gale Woods Special Recreation Feature,80,1,10:00 AM,High
+Gale Woods Special Recreation Feature,80,1,12:00 PM,High
+Gale Woods Special Recreation Feature,80,1,02:00 PM,High
+Gale Woods Special Recreation Feature,80,1,04:00 PM,High
+Gale Woods Special Recreation Feature,80,1,06:00 PM,High
+Gale Woods Special Recreation Feature,80,2,08:00 AM,Medium
+Gale Woods Special Recreation Feature,80,2,10:00 AM,Medium
+Gale Woods Special Recreation Feature,80,2,12:00 PM,Medium
+Gale Woods Special Recreation Feature,80,2,02:00 PM,Medium
+Gale Woods Special Recreation Feature,80,2,04:00 PM,Medium
+Gale Woods Special Recreation Feature,80,2,06:00 PM,Medium
+Silverwood Special Recreation Feature,84,1,08:00 AM,High
+Silverwood Special Recreation Feature,84,1,10:00 AM,High
+Silverwood Special Recreation Feature,84,1,12:00 PM,High
+Silverwood Special Recreation Feature,84,1,02:00 PM,High
+Silverwood Special Recreation Feature,84,1,04:00 PM,High
+Silverwood Special Recreation Feature,84,1,06:00 PM,High
+Silverwood Special Recreation Feature,84,2,08:00 AM,Medium
+Silverwood Special Recreation Feature,84,2,10:00 AM,Medium
+Silverwood Special Recreation Feature,84,2,12:00 PM,Medium
+Silverwood Special Recreation Feature,84,2,02:00 PM,Medium
+Silverwood Special Recreation Feature,84,2,04:00 PM,Medium
+Silverwood Special Recreation Feature,84,2,06:00 PM,Medium
+Silverwood Special Recreation Feature,84,3,08:00 AM,Medium
+Silverwood Special Recreation Feature,84,3,10:00 AM,Medium
+Silverwood Special Recreation Feature,84,3,12:00 PM,Medium
+Silverwood Special Recreation Feature,84,3,02:00 PM,Medium
+Silverwood Special Recreation Feature,84,3,04:00 PM,Medium
+Silverwood Special Recreation Feature,84,3,06:00 PM,Medium
+Shingle Creek Regional Trail,88,10,08:00 AM,Medium
+Shingle Creek Regional Trail,88,10,10:00 AM,Medium
+Shingle Creek Regional Trail,88,10,12:00 PM,Medium
+Shingle Creek Regional Trail,88,10,02:00 PM,Medium
+Shingle Creek Regional Trail,88,10,04:00 PM,Medium
+Shingle Creek Regional Trail,88,10,06:00 PM,Medium
+Shingle Creek Regional Trail,88,11,08:00 AM,Low
+Shingle Creek Regional Trail,88,11,10:00 AM,Low
+Shingle Creek Regional Trail,88,11,12:00 PM,Low
+Shingle Creek Regional Trail,88,11,02:00 PM,Low
+Shingle Creek Regional Trail,88,11,04:00 PM,Low
+Shingle Creek Regional Trail,88,11,06:00 PM,Low
+Shingle Creek Regional Trail,88,12,08:00 AM,Low
+Shingle Creek Regional Trail,88,12,10:00 AM,Low
+Shingle Creek Regional Trail,88,12,12:00 PM,Low
+Shingle Creek Regional Trail,88,12,02:00 PM,Low
+Shingle Creek Regional Trail,88,12,04:00 PM,Low
+Shingle Creek Regional Trail,88,12,06:00 PM,Low
+Shingle Creek Regional Trail,88,13,08:00 AM,High
+Shingle Creek Regional Trail,88,13,10:00 AM,High
+Shingle Creek Regional Trail,88,13,12:00 PM,High
+Shingle Creek Regional Trail,88,13,02:00 PM,High
+Shingle Creek Regional Trail,88,13,04:00 PM,High
+Shingle Creek Regional Trail,88,13,06:00 PM,High
+Shingle Creek Regional Trail,88,14,08:00 AM,Low
+Shingle Creek Regional Trail,88,14,10:00 AM,Low
+Shingle Creek Regional Trail,88,14,12:00 PM,Low
+Shingle Creek Regional Trail,88,14,02:00 PM,Low
+Shingle Creek Regional Trail,88,14,04:00 PM,Low
+Shingle Creek Regional Trail,88,14,06:00 PM,Low
+Shingle Creek Regional Trail,88,15,08:00 AM,Low
+Shingle Creek Regional Trail,88,15,10:00 AM,Low
+Shingle Creek Regional Trail,88,15,12:00 PM,Low
+Shingle Creek Regional Trail,88,15,02:00 PM,Low
+Shingle Creek Regional Trail,88,15,04:00 PM,Low
+Shingle Creek Regional Trail,88,15,06:00 PM,Low
+Shingle Creek Regional Trail,88,37,08:00 AM,Medium
+Shingle Creek Regional Trail,88,37,10:00 AM,Medium
+Shingle Creek Regional Trail,88,37,12:00 PM,Medium
+Shingle Creek Regional Trail,88,37,02:00 PM,Medium
+Shingle Creek Regional Trail,88,37,04:00 PM,Medium
+Shingle Creek Regional Trail,88,37,06:00 PM,Medium
+Shingle Creek Regional Trail,88,39,08:00 AM,Low
+Shingle Creek Regional Trail,88,39,10:00 AM,Low
+Shingle Creek Regional Trail,88,39,12:00 PM,Low
+Shingle Creek Regional Trail,88,39,02:00 PM,Low
+Shingle Creek Regional Trail,88,39,04:00 PM,Low
+Shingle Creek Regional Trail,88,39,06:00 PM,Low
+Shingle Creek Regional Trail,88,40,08:00 AM,Low
+Shingle Creek Regional Trail,88,40,10:00 AM,Low
+Shingle Creek Regional Trail,88,40,12:00 PM,Low
+Shingle Creek Regional Trail,88,40,02:00 PM,Low
+Shingle Creek Regional Trail,88,40,04:00 PM,Low
+Shingle Creek Regional Trail,88,40,06:00 PM,Low
+Shingle Creek Regional Trail,88,41,08:00 AM,High
+Shingle Creek Regional Trail,88,41,10:00 AM,High
+Shingle Creek Regional Trail,88,41,12:00 PM,High
+Shingle Creek Regional Trail,88,41,02:00 PM,High
+Shingle Creek Regional Trail,88,41,04:00 PM,High
+Shingle Creek Regional Trail,88,41,06:00 PM,High
+Shingle Creek Regional Trail,88,42,08:00 AM,Medium
+Shingle Creek Regional Trail,88,42,10:00 AM,Medium
+Shingle Creek Regional Trail,88,42,12:00 PM,Medium
+Shingle Creek Regional Trail,88,42,02:00 PM,Medium
+Shingle Creek Regional Trail,88,42,04:00 PM,Medium
+Shingle Creek Regional Trail,88,42,06:00 PM,Medium
+Shingle Creek Regional Trail,88,43,08:00 AM,High
+Shingle Creek Regional Trail,88,43,10:00 AM,High
+Shingle Creek Regional Trail,88,43,12:00 PM,High
+Shingle Creek Regional Trail,88,43,02:00 PM,High
+Shingle Creek Regional Trail,88,43,04:00 PM,High
+Shingle Creek Regional Trail,88,43,06:00 PM,High
+Shingle Creek Regional Trail,88,44,08:00 AM,High
+Shingle Creek Regional Trail,88,44,10:00 AM,High
+Shingle Creek Regional Trail,88,44,12:00 PM,High
+Shingle Creek Regional Trail,88,44,02:00 PM,High
+Shingle Creek Regional Trail,88,44,04:00 PM,High
+Shingle Creek Regional Trail,88,44,06:00 PM,High
+Shingle Creek Regional Trail,88,45,08:00 AM,Medium
+Shingle Creek Regional Trail,88,45,10:00 AM,Medium
+Shingle Creek Regional Trail,88,45,12:00 PM,Medium
+Shingle Creek Regional Trail,88,45,02:00 PM,Medium
+Shingle Creek Regional Trail,88,45,04:00 PM,Medium
+Shingle Creek Regional Trail,88,45,06:00 PM,Medium
+Shingle Creek Regional Trail,88,46,08:00 AM,Medium
+Shingle Creek Regional Trail,88,46,10:00 AM,Medium
+Shingle Creek Regional Trail,88,46,12:00 PM,Medium
+Shingle Creek Regional Trail,88,46,02:00 PM,Medium
+Shingle Creek Regional Trail,88,46,04:00 PM,Medium
+Shingle Creek Regional Trail,88,46,06:00 PM,Medium
+Shingle Creek Regional Trail,88,47,08:00 AM,Medium
+Shingle Creek Regional Trail,88,47,10:00 AM,Medium
+Shingle Creek Regional Trail,88,47,12:00 PM,Medium
+Shingle Creek Regional Trail,88,47,02:00 PM,Medium
+Shingle Creek Regional Trail,88,47,04:00 PM,Medium
+Shingle Creek Regional Trail,88,47,06:00 PM,Medium
+Shingle Creek Regional Trail,88,48,08:00 AM,Medium
+Shingle Creek Regional Trail,88,48,10:00 AM,Medium
+Shingle Creek Regional Trail,88,48,12:00 PM,Medium
+Shingle Creek Regional Trail,88,48,02:00 PM,Medium
+Shingle Creek Regional Trail,88,48,04:00 PM,Medium
+Shingle Creek Regional Trail,88,48,06:00 PM,Medium
+Shingle Creek Regional Trail,88,49,08:00 AM,Low
+Shingle Creek Regional Trail,88,49,10:00 AM,Low
+Shingle Creek Regional Trail,88,49,12:00 PM,Low
+Shingle Creek Regional Trail,88,49,02:00 PM,Low
+Shingle Creek Regional Trail,88,49,04:00 PM,Low
+Shingle Creek Regional Trail,88,49,06:00 PM,Low
+Shingle Creek Regional Trail,88,50,08:00 AM,Low
+Shingle Creek Regional Trail,88,50,10:00 AM,Low
+Shingle Creek Regional Trail,88,50,12:00 PM,Low
+Shingle Creek Regional Trail,88,50,02:00 PM,Low
+Shingle Creek Regional Trail,88,50,04:00 PM,Low
+Shingle Creek Regional Trail,88,50,06:00 PM,Low
+Shingle Creek Regional Trail,88,51,08:00 AM,Low
+Shingle Creek Regional Trail,88,51,10:00 AM,Low
+Shingle Creek Regional Trail,88,51,12:00 PM,Low
+Shingle Creek Regional Trail,88,51,02:00 PM,Low
+Shingle Creek Regional Trail,88,51,04:00 PM,Low
+Shingle Creek Regional Trail,88,51,06:00 PM,Low
+Shingle Creek Regional Trail,88,52,08:00 AM,Low
+Shingle Creek Regional Trail,88,52,10:00 AM,Low
+Shingle Creek Regional Trail,88,52,12:00 PM,Low
+Shingle Creek Regional Trail,88,52,02:00 PM,Low
+Shingle Creek Regional Trail,88,52,04:00 PM,Low
+Shingle Creek Regional Trail,88,52,06:00 PM,Low
+Shingle Creek Regional Trail,88,53,08:00 AM,Low
+Shingle Creek Regional Trail,88,53,10:00 AM,Low
+Shingle Creek Regional Trail,88,53,12:00 PM,Low
+Shingle Creek Regional Trail,88,53,02:00 PM,Low
+Shingle Creek Regional Trail,88,53,04:00 PM,Low
+Shingle Creek Regional Trail,88,53,06:00 PM,Low
+Shingle Creek Regional Trail,88,54,08:00 AM,Low
+Shingle Creek Regional Trail,88,54,10:00 AM,Low
+Shingle Creek Regional Trail,88,54,12:00 PM,Low
+Shingle Creek Regional Trail,88,54,02:00 PM,Low
+Shingle Creek Regional Trail,88,54,04:00 PM,Low
+Shingle Creek Regional Trail,88,54,06:00 PM,Low
+Shingle Creek Regional Trail,88,55,08:00 AM,High
+Shingle Creek Regional Trail,88,55,10:00 AM,High
+Shingle Creek Regional Trail,88,55,12:00 PM,High
+Shingle Creek Regional Trail,88,55,02:00 PM,High
+Shingle Creek Regional Trail,88,55,04:00 PM,High
+Shingle Creek Regional Trail,88,55,06:00 PM,High
+Shingle Creek Regional Trail,88,56,08:00 AM,High
+Shingle Creek Regional Trail,88,56,10:00 AM,High
+Shingle Creek Regional Trail,88,56,12:00 PM,High
+Shingle Creek Regional Trail,88,56,02:00 PM,High
+Shingle Creek Regional Trail,88,56,04:00 PM,High
+Shingle Creek Regional Trail,88,56,06:00 PM,High
+Shingle Creek Regional Trail,88,57,08:00 AM,High
+Shingle Creek Regional Trail,88,57,10:00 AM,High
+Shingle Creek Regional Trail,88,57,12:00 PM,High
+Shingle Creek Regional Trail,88,57,02:00 PM,High
+Shingle Creek Regional Trail,88,57,04:00 PM,High
+Shingle Creek Regional Trail,88,57,06:00 PM,High
+Shingle Creek Regional Trail,88,58,08:00 AM,Low
+Shingle Creek Regional Trail,88,58,10:00 AM,Low
+Shingle Creek Regional Trail,88,58,12:00 PM,Low
+Shingle Creek Regional Trail,88,58,02:00 PM,Low
+Shingle Creek Regional Trail,88,58,04:00 PM,Low
+Shingle Creek Regional Trail,88,58,06:00 PM,Low
+Luce Line Regional Trail,89,11,08:00 AM,High
+Luce Line Regional Trail,89,11,10:00 AM,High
+Luce Line Regional Trail,89,11,12:00 PM,High
+Luce Line Regional Trail,89,11,02:00 PM,High
+Luce Line Regional Trail,89,11,04:00 PM,High
+Luce Line Regional Trail,89,11,06:00 PM,High
+Luce Line Regional Trail,89,12,08:00 AM,Low
+Luce Line Regional Trail,89,12,10:00 AM,Low
+Luce Line Regional Trail,89,12,12:00 PM,Low
+Luce Line Regional Trail,89,12,02:00 PM,Low
+Luce Line Regional Trail,89,12,04:00 PM,Low
+Luce Line Regional Trail,89,12,06:00 PM,Low
+Luce Line Regional Trail,89,13,08:00 AM,Low
+Luce Line Regional Trail,89,13,10:00 AM,Low
+Luce Line Regional Trail,89,13,12:00 PM,Low
+Luce Line Regional Trail,89,13,02:00 PM,Low
+Luce Line Regional Trail,89,13,04:00 PM,Low
+Luce Line Regional Trail,89,13,06:00 PM,Low
+Luce Line Regional Trail,89,14,08:00 AM,Low
+Luce Line Regional Trail,89,14,10:00 AM,Low
+Luce Line Regional Trail,89,14,12:00 PM,Low
+Luce Line Regional Trail,89,14,02:00 PM,Low
+Luce Line Regional Trail,89,14,04:00 PM,Low
+Luce Line Regional Trail,89,14,06:00 PM,Low
+Luce Line Regional Trail,89,15,08:00 AM,Low
+Luce Line Regional Trail,89,15,10:00 AM,Low
+Luce Line Regional Trail,89,15,12:00 PM,Low
+Luce Line Regional Trail,89,15,02:00 PM,Low
+Luce Line Regional Trail,89,15,04:00 PM,Low
+Luce Line Regional Trail,89,15,06:00 PM,Low
+Luce Line Regional Trail,89,16,08:00 AM,High
+Luce Line Regional Trail,89,16,10:00 AM,High
+Luce Line Regional Trail,89,16,12:00 PM,High
+Luce Line Regional Trail,89,16,02:00 PM,High
+Luce Line Regional Trail,89,16,04:00 PM,High
+Luce Line Regional Trail,89,16,06:00 PM,High
+Luce Line Regional Trail,89,17,08:00 AM,Low
+Luce Line Regional Trail,89,17,10:00 AM,Low
+Luce Line Regional Trail,89,17,12:00 PM,Low
+Luce Line Regional Trail,89,17,02:00 PM,Low
+Luce Line Regional Trail,89,17,04:00 PM,Low
+Luce Line Regional Trail,89,17,06:00 PM,Low
+Luce Line Regional Trail,89,18,08:00 AM,Medium
+Luce Line Regional Trail,89,18,10:00 AM,Medium
+Luce Line Regional Trail,89,18,12:00 PM,Medium
+Luce Line Regional Trail,89,18,02:00 PM,Medium
+Luce Line Regional Trail,89,18,04:00 PM,Medium
+Luce Line Regional Trail,89,18,06:00 PM,Medium
+Luce Line Regional Trail,89,19,08:00 AM,High
+Luce Line Regional Trail,89,19,10:00 AM,High
+Luce Line Regional Trail,89,19,12:00 PM,High
+Luce Line Regional Trail,89,19,02:00 PM,High
+Luce Line Regional Trail,89,19,04:00 PM,High
+Luce Line Regional Trail,89,19,06:00 PM,High
+Luce Line Regional Trail,89,20,08:00 AM,Medium
+Luce Line Regional Trail,89,20,10:00 AM,Medium
+Luce Line Regional Trail,89,20,12:00 PM,Medium
+Luce Line Regional Trail,89,20,02:00 PM,Medium
+Luce Line Regional Trail,89,20,04:00 PM,Medium
+Luce Line Regional Trail,89,20,06:00 PM,Medium
+Luce Line Regional Trail,89,21,08:00 AM,Low
+Luce Line Regional Trail,89,21,10:00 AM,Low
+Luce Line Regional Trail,89,21,12:00 PM,Low
+Luce Line Regional Trail,89,21,02:00 PM,Low
+Luce Line Regional Trail,89,21,04:00 PM,Low
+Luce Line Regional Trail,89,21,06:00 PM,Low
+Luce Line Regional Trail,89,22,08:00 AM,Medium
+Luce Line Regional Trail,89,22,10:00 AM,Medium
+Luce Line Regional Trail,89,22,12:00 PM,Medium
+Luce Line Regional Trail,89,22,02:00 PM,Medium
+Luce Line Regional Trail,89,22,04:00 PM,Medium
+Luce Line Regional Trail,89,22,06:00 PM,Medium
+Luce Line Regional Trail,89,23,08:00 AM,Medium
+Luce Line Regional Trail,89,23,10:00 AM,Medium
+Luce Line Regional Trail,89,23,12:00 PM,Medium
+Luce Line Regional Trail,89,23,02:00 PM,Medium
+Luce Line Regional Trail,89,23,04:00 PM,Medium
+Luce Line Regional Trail,89,23,06:00 PM,Medium
+Luce Line Regional Trail,89,24,08:00 AM,Low
+Luce Line Regional Trail,89,24,10:00 AM,Low
+Luce Line Regional Trail,89,24,12:00 PM,Low
+Luce Line Regional Trail,89,24,02:00 PM,Low
+Luce Line Regional Trail,89,24,04:00 PM,Low
+Luce Line Regional Trail,89,24,06:00 PM,Low
+Luce Line Regional Trail,89,25,08:00 AM,Low
+Luce Line Regional Trail,89,25,10:00 AM,Low
+Luce Line Regional Trail,89,25,12:00 PM,Low
+Luce Line Regional Trail,89,25,02:00 PM,Low
+Luce Line Regional Trail,89,25,04:00 PM,Low
+Luce Line Regional Trail,89,25,06:00 PM,Low
+Luce Line Regional Trail,89,26,08:00 AM,Medium
+Luce Line Regional Trail,89,26,10:00 AM,Medium
+Luce Line Regional Trail,89,26,12:00 PM,Medium
+Luce Line Regional Trail,89,26,02:00 PM,Medium
+Luce Line Regional Trail,89,26,04:00 PM,Medium
+Luce Line Regional Trail,89,26,06:00 PM,Medium
+Luce Line Regional Trail,89,27,08:00 AM,Low
+Luce Line Regional Trail,89,27,10:00 AM,Low
+Luce Line Regional Trail,89,27,12:00 PM,Low
+Luce Line Regional Trail,89,27,02:00 PM,Low
+Luce Line Regional Trail,89,27,04:00 PM,Low
+Luce Line Regional Trail,89,27,06:00 PM,Low
+Luce Line Regional Trail,89,28,08:00 AM,Low
+Luce Line Regional Trail,89,28,10:00 AM,Low
+Luce Line Regional Trail,89,28,12:00 PM,Low
+Luce Line Regional Trail,89,28,02:00 PM,Low
+Luce Line Regional Trail,89,28,04:00 PM,Low
+Luce Line Regional Trail,89,28,06:00 PM,Low
+Luce Line Regional Trail,89,29,08:00 AM,High
+Luce Line Regional Trail,89,29,10:00 AM,High
+Luce Line Regional Trail,89,29,12:00 PM,High
+Luce Line Regional Trail,89,29,02:00 PM,High
+Luce Line Regional Trail,89,29,04:00 PM,High
+Luce Line Regional Trail,89,29,06:00 PM,High
+Luce Line Regional Trail,89,30,08:00 AM,Low
+Luce Line Regional Trail,89,30,10:00 AM,Low
+Luce Line Regional Trail,89,30,12:00 PM,Low
+Luce Line Regional Trail,89,30,02:00 PM,Low
+Luce Line Regional Trail,89,30,04:00 PM,Low
+Luce Line Regional Trail,89,30,06:00 PM,Low
+Luce Line Regional Trail,89,31,08:00 AM,Low
+Luce Line Regional Trail,89,31,10:00 AM,Low
+Luce Line Regional Trail,89,31,12:00 PM,Low
+Luce Line Regional Trail,89,31,02:00 PM,Low
+Luce Line Regional Trail,89,31,04:00 PM,Low
+Luce Line Regional Trail,89,31,06:00 PM,Low
+Luce Line Regional Trail,89,32,08:00 AM,Medium
+Luce Line Regional Trail,89,32,10:00 AM,Medium
+Luce Line Regional Trail,89,32,12:00 PM,Medium
+Luce Line Regional Trail,89,32,02:00 PM,Medium
+Luce Line Regional Trail,89,32,04:00 PM,Medium
+Luce Line Regional Trail,89,32,06:00 PM,Medium
+Luce Line Regional Trail,89,33,08:00 AM,Medium
+Luce Line Regional Trail,89,33,10:00 AM,Medium
+Luce Line Regional Trail,89,33,12:00 PM,Medium
+Luce Line Regional Trail,89,33,02:00 PM,Medium
+Luce Line Regional Trail,89,33,04:00 PM,Medium
+Luce Line Regional Trail,89,33,06:00 PM,Medium
+Dakota Rail Regional Trail,96,1,08:00 AM,High
+Dakota Rail Regional Trail,96,1,10:00 AM,High
+Dakota Rail Regional Trail,96,1,12:00 PM,High
+Dakota Rail Regional Trail,96,1,02:00 PM,High
+Dakota Rail Regional Trail,96,1,04:00 PM,High
+Dakota Rail Regional Trail,96,1,06:00 PM,High
+Dakota Rail Regional Trail,96,2,08:00 AM,Low
+Dakota Rail Regional Trail,96,2,10:00 AM,Low
+Dakota Rail Regional Trail,96,2,12:00 PM,Low
+Dakota Rail Regional Trail,96,2,02:00 PM,Low
+Dakota Rail Regional Trail,96,2,04:00 PM,Low
+Dakota Rail Regional Trail,96,2,06:00 PM,Low
+Dakota Rail Regional Trail,96,3,08:00 AM,Medium
+Dakota Rail Regional Trail,96,3,10:00 AM,Medium
+Dakota Rail Regional Trail,96,3,12:00 PM,Medium
+Dakota Rail Regional Trail,96,3,02:00 PM,Medium
+Dakota Rail Regional Trail,96,3,04:00 PM,Medium
+Dakota Rail Regional Trail,96,3,06:00 PM,Medium
+Dakota Rail Regional Trail,96,4,08:00 AM,Low
+Dakota Rail Regional Trail,96,4,10:00 AM,Low
+Dakota Rail Regional Trail,96,4,12:00 PM,Low
+Dakota Rail Regional Trail,96,4,02:00 PM,Low
+Dakota Rail Regional Trail,96,4,04:00 PM,Low
+Dakota Rail Regional Trail,96,4,06:00 PM,Low
+Dakota Rail Regional Trail,96,5,08:00 AM,Low
+Dakota Rail Regional Trail,96,5,10:00 AM,Low
+Dakota Rail Regional Trail,96,5,12:00 PM,Low
+Dakota Rail Regional Trail,96,5,02:00 PM,Low
+Dakota Rail Regional Trail,96,5,04:00 PM,Low
+Dakota Rail Regional Trail,96,5,06:00 PM,Low
+Dakota Rail Regional Trail,96,6,08:00 AM,Low
+Dakota Rail Regional Trail,96,6,10:00 AM,Low
+Dakota Rail Regional Trail,96,6,12:00 PM,Low
+Dakota Rail Regional Trail,96,6,02:00 PM,Low
+Dakota Rail Regional Trail,96,6,04:00 PM,Low
+Dakota Rail Regional Trail,96,6,06:00 PM,Low
+Dakota Rail Regional Trail,96,7,08:00 AM,Medium
+Dakota Rail Regional Trail,96,7,10:00 AM,Medium
+Dakota Rail Regional Trail,96,7,12:00 PM,Medium
+Dakota Rail Regional Trail,96,7,02:00 PM,Medium
+Dakota Rail Regional Trail,96,7,04:00 PM,Medium
+Dakota Rail Regional Trail,96,7,06:00 PM,Medium
+Dakota Rail Regional Trail,96,8,08:00 AM,Medium
+Dakota Rail Regional Trail,96,8,10:00 AM,Medium
+Dakota Rail Regional Trail,96,8,12:00 PM,Medium
+Dakota Rail Regional Trail,96,8,02:00 PM,Medium
+Dakota Rail Regional Trail,96,8,04:00 PM,Medium
+Dakota Rail Regional Trail,96,8,06:00 PM,Medium
+Dakota Rail Regional Trail,96,9,08:00 AM,Low
+Dakota Rail Regional Trail,96,9,10:00 AM,Low
+Dakota Rail Regional Trail,96,9,12:00 PM,Low
+Dakota Rail Regional Trail,96,9,02:00 PM,Low
+Dakota Rail Regional Trail,96,9,04:00 PM,Low
+Dakota Rail Regional Trail,96,9,06:00 PM,Low
+Dakota Rail Regional Trail,96,10,08:00 AM,Low
+Dakota Rail Regional Trail,96,10,10:00 AM,Low
+Dakota Rail Regional Trail,96,10,12:00 PM,Low
+Dakota Rail Regional Trail,96,10,02:00 PM,Low
+Dakota Rail Regional Trail,96,10,04:00 PM,Low
+Dakota Rail Regional Trail,96,10,06:00 PM,Low
+Dakota Rail Regional Trail,96,11,08:00 AM,Low
+Dakota Rail Regional Trail,96,11,10:00 AM,Low
+Dakota Rail Regional Trail,96,11,12:00 PM,Low
+Dakota Rail Regional Trail,96,11,02:00 PM,Low
+Dakota Rail Regional Trail,96,11,04:00 PM,Low
+Dakota Rail Regional Trail,96,11,06:00 PM,Low
+Dakota Rail Regional Trail,96,12,08:00 AM,Medium
+Dakota Rail Regional Trail,96,12,10:00 AM,Medium
+Dakota Rail Regional Trail,96,12,12:00 PM,Medium
+Dakota Rail Regional Trail,96,12,02:00 PM,Medium
+Dakota Rail Regional Trail,96,12,04:00 PM,Medium
+Dakota Rail Regional Trail,96,12,06:00 PM,Medium
+Dakota Rail Regional Trail,96,13,08:00 AM,Low
+Dakota Rail Regional Trail,96,13,10:00 AM,Low
+Dakota Rail Regional Trail,96,13,12:00 PM,Low
+Dakota Rail Regional Trail,96,13,02:00 PM,Low
+Dakota Rail Regional Trail,96,13,04:00 PM,Low
+Dakota Rail Regional Trail,96,13,06:00 PM,Low
+Dakota Rail Regional Trail,96,14,08:00 AM,Low
+Dakota Rail Regional Trail,96,14,10:00 AM,Low
+Dakota Rail Regional Trail,96,14,12:00 PM,Low
+Dakota Rail Regional Trail,96,14,02:00 PM,Low
+Dakota Rail Regional Trail,96,14,04:00 PM,Low
+Dakota Rail Regional Trail,96,14,06:00 PM,Low
+Dakota Rail Regional Trail,96,15,08:00 AM,Low
+Dakota Rail Regional Trail,96,15,10:00 AM,Low
+Dakota Rail Regional Trail,96,15,12:00 PM,Low
+Dakota Rail Regional Trail,96,15,02:00 PM,Low
+Dakota Rail Regional Trail,96,15,04:00 PM,Low
+Dakota Rail Regional Trail,96,15,06:00 PM,Low
+Dakota Rail Regional Trail,96,16,08:00 AM,Low
+Dakota Rail Regional Trail,96,16,10:00 AM,Low
+Dakota Rail Regional Trail,96,16,12:00 PM,Low
+Dakota Rail Regional Trail,96,16,02:00 PM,Low
+Dakota Rail Regional Trail,96,16,04:00 PM,Low
+Dakota Rail Regional Trail,96,16,06:00 PM,Low
+Dakota Rail Regional Trail,96,17,08:00 AM,Low
+Dakota Rail Regional Trail,96,17,10:00 AM,Low
+Dakota Rail Regional Trail,96,17,12:00 PM,Low
+Dakota Rail Regional Trail,96,17,02:00 PM,Low
+Dakota Rail Regional Trail,96,17,04:00 PM,Low
+Dakota Rail Regional Trail,96,17,06:00 PM,Low
+Dakota Rail Regional Trail,96,18,08:00 AM,Medium
+Dakota Rail Regional Trail,96,18,10:00 AM,Medium
+Dakota Rail Regional Trail,96,18,12:00 PM,Medium
+Dakota Rail Regional Trail,96,18,02:00 PM,Medium
+Dakota Rail Regional Trail,96,18,04:00 PM,Medium
+Dakota Rail Regional Trail,96,18,06:00 PM,Medium
+Dakota Rail Regional Trail,96,19,08:00 AM,Low
+Dakota Rail Regional Trail,96,19,10:00 AM,Low
+Dakota Rail Regional Trail,96,19,12:00 PM,Low
+Dakota Rail Regional Trail,96,19,02:00 PM,Low
+Dakota Rail Regional Trail,96,19,04:00 PM,Low
+Dakota Rail Regional Trail,96,19,06:00 PM,Low
+Dakota Rail Regional Trail,96,20,08:00 AM,Medium
+Dakota Rail Regional Trail,96,20,10:00 AM,Medium
+Dakota Rail Regional Trail,96,20,12:00 PM,Medium
+Dakota Rail Regional Trail,96,20,02:00 PM,Medium
+Dakota Rail Regional Trail,96,20,04:00 PM,Medium
+Dakota Rail Regional Trail,96,20,06:00 PM,Medium
+Dakota Rail Regional Trail,96,21,08:00 AM,Low
+Dakota Rail Regional Trail,96,21,10:00 AM,Low
+Dakota Rail Regional Trail,96,21,12:00 PM,Low
+Dakota Rail Regional Trail,96,21,02:00 PM,Low
+Dakota Rail Regional Trail,96,21,04:00 PM,Low
+Dakota Rail Regional Trail,96,21,06:00 PM,Low
+Dakota Rail Regional Trail,96,22,08:00 AM,High
+Dakota Rail Regional Trail,96,22,10:00 AM,High
+Dakota Rail Regional Trail,96,22,12:00 PM,High
+Dakota Rail Regional Trail,96,22,02:00 PM,High
+Dakota Rail Regional Trail,96,22,04:00 PM,High
+Dakota Rail Regional Trail,96,22,06:00 PM,High
+Dakota Rail Regional Trail,96,23,08:00 AM,Low
+Dakota Rail Regional Trail,96,23,10:00 AM,Low
+Dakota Rail Regional Trail,96,23,12:00 PM,Low
+Dakota Rail Regional Trail,96,23,02:00 PM,Low
+Dakota Rail Regional Trail,96,23,04:00 PM,Low
+Dakota Rail Regional Trail,96,23,06:00 PM,Low
+Dakota Rail Regional Trail,96,24,08:00 AM,Low
+Dakota Rail Regional Trail,96,24,10:00 AM,Low
+Dakota Rail Regional Trail,96,24,12:00 PM,Low
+Dakota Rail Regional Trail,96,24,02:00 PM,Low
+Dakota Rail Regional Trail,96,24,04:00 PM,Low
+Dakota Rail Regional Trail,96,24,06:00 PM,Low
+Bassett Creek Regional Trail,97,1,08:00 AM,High
+Bassett Creek Regional Trail,97,1,10:00 AM,High
+Bassett Creek Regional Trail,97,1,12:00 PM,High
+Bassett Creek Regional Trail,97,1,02:00 PM,High
+Bassett Creek Regional Trail,97,1,04:00 PM,High
+Bassett Creek Regional Trail,97,1,06:00 PM,High
+Bassett Creek Regional Trail,97,2,08:00 AM,Low
+Bassett Creek Regional Trail,97,2,10:00 AM,Low
+Bassett Creek Regional Trail,97,2,12:00 PM,Low
+Bassett Creek Regional Trail,97,2,02:00 PM,Low
+Bassett Creek Regional Trail,97,2,04:00 PM,Low
+Bassett Creek Regional Trail,97,2,06:00 PM,Low
+Bassett Creek Regional Trail,97,3,08:00 AM,Low
+Bassett Creek Regional Trail,97,3,10:00 AM,Low
+Bassett Creek Regional Trail,97,3,12:00 PM,Low
+Bassett Creek Regional Trail,97,3,02:00 PM,Low
+Bassett Creek Regional Trail,97,3,04:00 PM,Low
+Bassett Creek Regional Trail,97,3,06:00 PM,Low
+Bassett Creek Regional Trail,97,4,08:00 AM,Medium
+Bassett Creek Regional Trail,97,4,10:00 AM,Medium
+Bassett Creek Regional Trail,97,4,12:00 PM,Medium
+Bassett Creek Regional Trail,97,4,02:00 PM,Medium
+Bassett Creek Regional Trail,97,4,04:00 PM,Medium
+Bassett Creek Regional Trail,97,4,06:00 PM,Medium
+Bassett Creek Regional Trail,97,5,08:00 AM,Medium
+Bassett Creek Regional Trail,97,5,10:00 AM,Medium
+Bassett Creek Regional Trail,97,5,12:00 PM,Medium
+Bassett Creek Regional Trail,97,5,02:00 PM,Medium
+Bassett Creek Regional Trail,97,5,04:00 PM,Medium
+Bassett Creek Regional Trail,97,5,06:00 PM,Medium
+Bassett Creek Regional Trail,97,6,08:00 AM,Medium
+Bassett Creek Regional Trail,97,6,10:00 AM,Medium
+Bassett Creek Regional Trail,97,6,12:00 PM,Medium
+Bassett Creek Regional Trail,97,6,02:00 PM,Medium
+Bassett Creek Regional Trail,97,6,04:00 PM,Medium
+Bassett Creek Regional Trail,97,6,06:00 PM,Medium
+Bassett Creek Regional Trail,97,7,08:00 AM,Medium
+Bassett Creek Regional Trail,97,7,10:00 AM,Medium
+Bassett Creek Regional Trail,97,7,12:00 PM,Medium
+Bassett Creek Regional Trail,97,7,02:00 PM,Medium
+Bassett Creek Regional Trail,97,7,04:00 PM,Medium
+Bassett Creek Regional Trail,97,7,06:00 PM,Medium
+Bassett Creek Regional Trail,97,8,08:00 AM,Low
+Bassett Creek Regional Trail,97,8,10:00 AM,Low
+Bassett Creek Regional Trail,97,8,12:00 PM,Low
+Bassett Creek Regional Trail,97,8,02:00 PM,Low
+Bassett Creek Regional Trail,97,8,04:00 PM,Low
+Bassett Creek Regional Trail,97,8,06:00 PM,Low
+Bassett Creek Regional Trail,97,9,08:00 AM,Low
+Bassett Creek Regional Trail,97,9,10:00 AM,Low
+Bassett Creek Regional Trail,97,9,12:00 PM,Low
+Bassett Creek Regional Trail,97,9,02:00 PM,Low
+Bassett Creek Regional Trail,97,9,04:00 PM,Low
+Bassett Creek Regional Trail,97,9,06:00 PM,Low
+Bassett Creek Regional Trail,97,10,08:00 AM,Medium
+Bassett Creek Regional Trail,97,10,10:00 AM,Medium
+Bassett Creek Regional Trail,97,10,12:00 PM,Medium
+Bassett Creek Regional Trail,97,10,02:00 PM,Medium
+Bassett Creek Regional Trail,97,10,04:00 PM,Medium
+Bassett Creek Regional Trail,97,10,06:00 PM,Medium
+Bassett Creek Regional Trail,97,11,08:00 AM,Medium
+Bassett Creek Regional Trail,97,11,10:00 AM,Medium
+Bassett Creek Regional Trail,97,11,12:00 PM,Medium
+Bassett Creek Regional Trail,97,11,02:00 PM,Medium
+Bassett Creek Regional Trail,97,11,04:00 PM,Medium
+Bassett Creek Regional Trail,97,11,06:00 PM,Medium
+Bassett Creek Regional Trail,97,12,08:00 AM,Low
+Bassett Creek Regional Trail,97,12,10:00 AM,Low
+Bassett Creek Regional Trail,97,12,12:00 PM,Low
+Bassett Creek Regional Trail,97,12,02:00 PM,Low
+Bassett Creek Regional Trail,97,12,04:00 PM,Low
+Bassett Creek Regional Trail,97,12,06:00 PM,Low
+Bassett Creek Regional Trail,97,13,08:00 AM,Medium
+Bassett Creek Regional Trail,97,13,10:00 AM,Medium
+Bassett Creek Regional Trail,97,13,12:00 PM,Medium
+Bassett Creek Regional Trail,97,13,02:00 PM,Medium
+Bassett Creek Regional Trail,97,13,04:00 PM,Medium
+Bassett Creek Regional Trail,97,13,06:00 PM,Medium
+Bassett Creek Regional Trail,97,14,08:00 AM,Medium
+Bassett Creek Regional Trail,97,14,10:00 AM,Medium
+Bassett Creek Regional Trail,97,14,12:00 PM,Medium
+Bassett Creek Regional Trail,97,14,02:00 PM,Medium
+Bassett Creek Regional Trail,97,14,04:00 PM,Medium
+Bassett Creek Regional Trail,97,14,06:00 PM,Medium
+Northeast Diagonal Regional Trail,101,1,08:00 AM,High
+Northeast Diagonal Regional Trail,101,1,10:00 AM,High
+Northeast Diagonal Regional Trail,101,1,12:00 PM,High
+Northeast Diagonal Regional Trail,101,1,02:00 PM,High
+Northeast Diagonal Regional Trail,101,1,04:00 PM,High
+Northeast Diagonal Regional Trail,101,1,06:00 PM,High
+Northeast Diagonal Regional Trail,101,2,08:00 AM,High
+Northeast Diagonal Regional Trail,101,2,10:00 AM,High
+Northeast Diagonal Regional Trail,101,2,12:00 PM,High
+Northeast Diagonal Regional Trail,101,2,02:00 PM,High
+Northeast Diagonal Regional Trail,101,2,04:00 PM,High
+Northeast Diagonal Regional Trail,101,2,06:00 PM,High
+Twin Lakes Regional Trail,111,2,08:00 AM,Low
+Twin Lakes Regional Trail,111,2,10:00 AM,Low
+Twin Lakes Regional Trail,111,2,12:00 PM,Low
+Twin Lakes Regional Trail,111,2,02:00 PM,Low
+Twin Lakes Regional Trail,111,2,04:00 PM,Low
+Twin Lakes Regional Trail,111,2,06:00 PM,Low
+Twin Lakes Regional Trail,111,3,08:00 AM,Low
+Twin Lakes Regional Trail,111,3,10:00 AM,Low
+Twin Lakes Regional Trail,111,3,12:00 PM,Low
+Twin Lakes Regional Trail,111,3,02:00 PM,Low
+Twin Lakes Regional Trail,111,3,04:00 PM,Low
+Twin Lakes Regional Trail,111,3,06:00 PM,Low
+Twin Lakes Regional Trail,111,4,08:00 AM,Low
+Twin Lakes Regional Trail,111,4,10:00 AM,Low
+Twin Lakes Regional Trail,111,4,12:00 PM,Low
+Twin Lakes Regional Trail,111,4,02:00 PM,Low
+Twin Lakes Regional Trail,111,4,04:00 PM,Low
+Twin Lakes Regional Trail,111,4,06:00 PM,Low
+Twin Lakes Regional Trail,111,5,08:00 AM,Low
+Twin Lakes Regional Trail,111,5,10:00 AM,Low
+Twin Lakes Regional Trail,111,5,12:00 PM,Low
+Twin Lakes Regional Trail,111,5,02:00 PM,Low
+Twin Lakes Regional Trail,111,5,04:00 PM,Low
+Twin Lakes Regional Trail,111,5,06:00 PM,Low
+Twin Lakes Regional Trail,111,6,08:00 AM,Low
+Twin Lakes Regional Trail,111,6,10:00 AM,Low
+Twin Lakes Regional Trail,111,6,12:00 PM,Low
+Twin Lakes Regional Trail,111,6,02:00 PM,Low
+Twin Lakes Regional Trail,111,6,04:00 PM,Low
+Twin Lakes Regional Trail,111,6,06:00 PM,Low
+Twin Lakes Regional Trail,111,7,08:00 AM,Medium
+Twin Lakes Regional Trail,111,7,10:00 AM,Medium
+Twin Lakes Regional Trail,111,7,12:00 PM,Medium
+Twin Lakes Regional Trail,111,7,02:00 PM,Medium
+Twin Lakes Regional Trail,111,7,04:00 PM,Medium
+Twin Lakes Regional Trail,111,7,06:00 PM,Medium
+Twin Lakes Regional Trail,111,8,08:00 AM,Medium
+Twin Lakes Regional Trail,111,8,10:00 AM,Medium
+Twin Lakes Regional Trail,111,8,12:00 PM,Medium
+Twin Lakes Regional Trail,111,8,02:00 PM,Medium
+Twin Lakes Regional Trail,111,8,04:00 PM,Medium
+Twin Lakes Regional Trail,111,8,06:00 PM,Medium
+Twin Lakes Regional Trail,111,9,08:00 AM,Medium
+Twin Lakes Regional Trail,111,9,10:00 AM,Medium
+Twin Lakes Regional Trail,111,9,12:00 PM,Medium
+Twin Lakes Regional Trail,111,9,02:00 PM,Medium
+Twin Lakes Regional Trail,111,9,04:00 PM,Medium
+Twin Lakes Regional Trail,111,9,06:00 PM,Medium
+Twin Lakes Regional Trail,111,10,08:00 AM,Low
+Twin Lakes Regional Trail,111,10,10:00 AM,Low
+Twin Lakes Regional Trail,111,10,12:00 PM,Low
+Twin Lakes Regional Trail,111,10,02:00 PM,Low
+Twin Lakes Regional Trail,111,10,04:00 PM,Low
+Twin Lakes Regional Trail,111,10,06:00 PM,Low
+Twin Lakes Regional Trail,111,11,08:00 AM,High
+Twin Lakes Regional Trail,111,11,10:00 AM,High
+Twin Lakes Regional Trail,111,11,12:00 PM,High
+Twin Lakes Regional Trail,111,11,02:00 PM,High
+Twin Lakes Regional Trail,111,11,04:00 PM,High
+Twin Lakes Regional Trail,111,11,06:00 PM,High
+Twin Lakes Regional Trail,111,12,08:00 AM,Medium
+Twin Lakes Regional Trail,111,12,10:00 AM,Medium
+Twin Lakes Regional Trail,111,12,12:00 PM,Medium
+Twin Lakes Regional Trail,111,12,02:00 PM,Medium
+Twin Lakes Regional Trail,111,12,04:00 PM,Medium
+Twin Lakes Regional Trail,111,12,06:00 PM,Medium
+Twin Lakes Regional Trail,111,13,08:00 AM,Low
+Twin Lakes Regional Trail,111,13,10:00 AM,Low
+Twin Lakes Regional Trail,111,13,12:00 PM,Low
+Twin Lakes Regional Trail,111,13,02:00 PM,Low
+Twin Lakes Regional Trail,111,13,04:00 PM,Low
+Twin Lakes Regional Trail,111,13,06:00 PM,Low
+Twin Lakes Regional Trail,111,14,08:00 AM,Low
+Twin Lakes Regional Trail,111,14,10:00 AM,Low
+Twin Lakes Regional Trail,111,14,12:00 PM,Low
+Twin Lakes Regional Trail,111,14,02:00 PM,Low
+Twin Lakes Regional Trail,111,14,04:00 PM,Low
+Twin Lakes Regional Trail,111,14,06:00 PM,Low
+Twin Lakes Regional Trail,111,15,08:00 AM,Low
+Twin Lakes Regional Trail,111,15,10:00 AM,Low
+Twin Lakes Regional Trail,111,15,12:00 PM,Low
+Twin Lakes Regional Trail,111,15,02:00 PM,Low
+Twin Lakes Regional Trail,111,15,04:00 PM,Low
+Twin Lakes Regional Trail,111,15,06:00 PM,Low
+Twin Lakes Regional Trail,111,16,08:00 AM,Low
+Twin Lakes Regional Trail,111,16,10:00 AM,Low
+Twin Lakes Regional Trail,111,16,12:00 PM,Low
+Twin Lakes Regional Trail,111,16,02:00 PM,Low
+Twin Lakes Regional Trail,111,16,04:00 PM,Low
+Twin Lakes Regional Trail,111,16,06:00 PM,Low
+Twin Lakes Regional Trail,111,17,08:00 AM,Medium
+Twin Lakes Regional Trail,111,17,10:00 AM,Medium
+Twin Lakes Regional Trail,111,17,12:00 PM,Medium
+Twin Lakes Regional Trail,111,17,02:00 PM,Medium
+Twin Lakes Regional Trail,111,17,04:00 PM,Medium
+Twin Lakes Regional Trail,111,17,06:00 PM,Medium
+Twin Lakes Regional Trail,111,18,08:00 AM,Low
+Twin Lakes Regional Trail,111,18,10:00 AM,Low
+Twin Lakes Regional Trail,111,18,12:00 PM,Low
+Twin Lakes Regional Trail,111,18,02:00 PM,Low
+Twin Lakes Regional Trail,111,18,04:00 PM,Low
+Twin Lakes Regional Trail,111,18,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,1,08:00 AM,High
+Nine Mile Creek Regional Trail,115,1,10:00 AM,High
+Nine Mile Creek Regional Trail,115,1,12:00 PM,High
+Nine Mile Creek Regional Trail,115,1,02:00 PM,High
+Nine Mile Creek Regional Trail,115,1,04:00 PM,High
+Nine Mile Creek Regional Trail,115,1,06:00 PM,High
+Nine Mile Creek Regional Trail,115,2,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,2,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,2,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,2,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,2,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,2,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,3,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,3,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,3,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,3,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,3,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,3,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,4,08:00 AM,Medium
+Nine Mile Creek Regional Trail,115,4,10:00 AM,Medium
+Nine Mile Creek Regional Trail,115,4,12:00 PM,Medium
+Nine Mile Creek Regional Trail,115,4,02:00 PM,Medium
+Nine Mile Creek Regional Trail,115,4,04:00 PM,Medium
+Nine Mile Creek Regional Trail,115,4,06:00 PM,Medium
+Nine Mile Creek Regional Trail,115,5,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,5,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,5,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,5,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,5,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,5,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,6,08:00 AM,Medium
+Nine Mile Creek Regional Trail,115,6,10:00 AM,Medium
+Nine Mile Creek Regional Trail,115,6,12:00 PM,Medium
+Nine Mile Creek Regional Trail,115,6,02:00 PM,Medium
+Nine Mile Creek Regional Trail,115,6,04:00 PM,Medium
+Nine Mile Creek Regional Trail,115,6,06:00 PM,Medium
+Nine Mile Creek Regional Trail,115,7,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,7,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,7,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,7,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,7,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,7,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,8,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,8,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,8,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,8,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,8,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,8,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,9,08:00 AM,Medium
+Nine Mile Creek Regional Trail,115,9,10:00 AM,Medium
+Nine Mile Creek Regional Trail,115,9,12:00 PM,Medium
+Nine Mile Creek Regional Trail,115,9,02:00 PM,Medium
+Nine Mile Creek Regional Trail,115,9,04:00 PM,Medium
+Nine Mile Creek Regional Trail,115,9,06:00 PM,Medium
+Nine Mile Creek Regional Trail,115,10,08:00 AM,High
+Nine Mile Creek Regional Trail,115,10,10:00 AM,High
+Nine Mile Creek Regional Trail,115,10,12:00 PM,High
+Nine Mile Creek Regional Trail,115,10,02:00 PM,High
+Nine Mile Creek Regional Trail,115,10,04:00 PM,High
+Nine Mile Creek Regional Trail,115,10,06:00 PM,High
+Nine Mile Creek Regional Trail,115,11,08:00 AM,High
+Nine Mile Creek Regional Trail,115,11,10:00 AM,High
+Nine Mile Creek Regional Trail,115,11,12:00 PM,High
+Nine Mile Creek Regional Trail,115,11,02:00 PM,High
+Nine Mile Creek Regional Trail,115,11,04:00 PM,High
+Nine Mile Creek Regional Trail,115,11,06:00 PM,High
+Nine Mile Creek Regional Trail,115,12,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,12,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,12,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,12,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,12,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,12,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,13,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,13,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,13,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,13,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,13,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,13,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,14,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,14,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,14,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,14,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,14,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,14,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,15,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,15,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,15,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,15,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,15,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,15,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,16,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,16,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,16,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,16,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,16,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,16,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,17,08:00 AM,Medium
+Nine Mile Creek Regional Trail,115,17,10:00 AM,Medium
+Nine Mile Creek Regional Trail,115,17,12:00 PM,Medium
+Nine Mile Creek Regional Trail,115,17,02:00 PM,Medium
+Nine Mile Creek Regional Trail,115,17,04:00 PM,Medium
+Nine Mile Creek Regional Trail,115,17,06:00 PM,Medium
+Nine Mile Creek Regional Trail,115,19,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,19,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,19,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,19,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,19,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,19,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,20,08:00 AM,Medium
+Nine Mile Creek Regional Trail,115,20,10:00 AM,Medium
+Nine Mile Creek Regional Trail,115,20,12:00 PM,Medium
+Nine Mile Creek Regional Trail,115,20,02:00 PM,Medium
+Nine Mile Creek Regional Trail,115,20,04:00 PM,Medium
+Nine Mile Creek Regional Trail,115,20,06:00 PM,Medium
+Nine Mile Creek Regional Trail,115,21,08:00 AM,Medium
+Nine Mile Creek Regional Trail,115,21,10:00 AM,Medium
+Nine Mile Creek Regional Trail,115,21,12:00 PM,Medium
+Nine Mile Creek Regional Trail,115,21,02:00 PM,Medium
+Nine Mile Creek Regional Trail,115,21,04:00 PM,Medium
+Nine Mile Creek Regional Trail,115,21,06:00 PM,Medium
+Nine Mile Creek Regional Trail,115,22,08:00 AM,Medium
+Nine Mile Creek Regional Trail,115,22,10:00 AM,Medium
+Nine Mile Creek Regional Trail,115,22,12:00 PM,Medium
+Nine Mile Creek Regional Trail,115,22,02:00 PM,Medium
+Nine Mile Creek Regional Trail,115,22,04:00 PM,Medium
+Nine Mile Creek Regional Trail,115,22,06:00 PM,Medium
+Nine Mile Creek Regional Trail,115,23,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,23,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,23,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,23,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,23,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,23,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,24,08:00 AM,Medium
+Nine Mile Creek Regional Trail,115,24,10:00 AM,Medium
+Nine Mile Creek Regional Trail,115,24,12:00 PM,Medium
+Nine Mile Creek Regional Trail,115,24,02:00 PM,Medium
+Nine Mile Creek Regional Trail,115,24,04:00 PM,Medium
+Nine Mile Creek Regional Trail,115,24,06:00 PM,Medium
+Nine Mile Creek Regional Trail,115,25,08:00 AM,Medium
+Nine Mile Creek Regional Trail,115,25,10:00 AM,Medium
+Nine Mile Creek Regional Trail,115,25,12:00 PM,Medium
+Nine Mile Creek Regional Trail,115,25,02:00 PM,Medium
+Nine Mile Creek Regional Trail,115,25,04:00 PM,Medium
+Nine Mile Creek Regional Trail,115,25,06:00 PM,Medium
+Nine Mile Creek Regional Trail,115,26,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,26,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,26,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,26,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,26,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,26,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,27,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,27,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,27,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,27,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,27,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,27,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,28,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,28,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,28,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,28,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,28,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,28,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,29,08:00 AM,Medium
+Nine Mile Creek Regional Trail,115,29,10:00 AM,Medium
+Nine Mile Creek Regional Trail,115,29,12:00 PM,Medium
+Nine Mile Creek Regional Trail,115,29,02:00 PM,Medium
+Nine Mile Creek Regional Trail,115,29,04:00 PM,Medium
+Nine Mile Creek Regional Trail,115,29,06:00 PM,Medium
+Nine Mile Creek Regional Trail,115,30,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,30,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,30,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,30,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,30,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,30,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,31,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,31,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,31,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,31,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,31,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,31,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,32,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,32,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,32,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,32,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,32,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,32,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,33,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,33,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,33,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,33,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,33,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,33,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,34,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,34,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,34,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,34,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,34,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,34,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,35,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,35,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,35,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,35,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,35,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,35,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,36,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,36,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,36,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,36,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,36,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,36,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,37,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,37,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,37,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,37,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,37,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,37,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,38,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,38,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,38,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,38,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,38,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,38,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,39,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,39,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,39,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,39,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,39,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,39,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,40,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,40,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,40,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,40,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,40,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,40,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,41,08:00 AM,Medium
+Nine Mile Creek Regional Trail,115,41,10:00 AM,Medium
+Nine Mile Creek Regional Trail,115,41,12:00 PM,Medium
+Nine Mile Creek Regional Trail,115,41,02:00 PM,Medium
+Nine Mile Creek Regional Trail,115,41,04:00 PM,Medium
+Nine Mile Creek Regional Trail,115,41,06:00 PM,Medium
+Nine Mile Creek Regional Trail,115,42,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,42,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,42,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,42,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,42,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,42,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,43,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,43,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,43,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,43,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,43,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,43,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,44,08:00 AM,Medium
+Nine Mile Creek Regional Trail,115,44,10:00 AM,Medium
+Nine Mile Creek Regional Trail,115,44,12:00 PM,Medium
+Nine Mile Creek Regional Trail,115,44,02:00 PM,Medium
+Nine Mile Creek Regional Trail,115,44,04:00 PM,Medium
+Nine Mile Creek Regional Trail,115,44,06:00 PM,Medium
+Nine Mile Creek Regional Trail,115,45,08:00 AM,Low
+Nine Mile Creek Regional Trail,115,45,10:00 AM,Low
+Nine Mile Creek Regional Trail,115,45,12:00 PM,Low
+Nine Mile Creek Regional Trail,115,45,02:00 PM,Low
+Nine Mile Creek Regional Trail,115,45,04:00 PM,Low
+Nine Mile Creek Regional Trail,115,45,06:00 PM,Low
+Nine Mile Creek Regional Trail,115,46,08:00 AM,Medium
+Nine Mile Creek Regional Trail,115,46,10:00 AM,Medium
+Nine Mile Creek Regional Trail,115,46,12:00 PM,Medium
+Nine Mile Creek Regional Trail,115,46,02:00 PM,Medium
+Nine Mile Creek Regional Trail,115,46,04:00 PM,Medium
+Nine Mile Creek Regional Trail,115,46,06:00 PM,Medium
+Kingswood Special Recreation Feature,117,1,08:00 AM,High
+Kingswood Special Recreation Feature,117,1,10:00 AM,High
+Kingswood Special Recreation Feature,117,1,12:00 PM,High
+Kingswood Special Recreation Feature,117,1,02:00 PM,High
+Kingswood Special Recreation Feature,117,1,04:00 PM,High
+Kingswood Special Recreation Feature,117,1,06:00 PM,High
+Crystal Lake Regional Trail,131,1,08:00 AM,High
+Crystal Lake Regional Trail,131,1,10:00 AM,High
+Crystal Lake Regional Trail,131,1,12:00 PM,High
+Crystal Lake Regional Trail,131,1,02:00 PM,High
+Crystal Lake Regional Trail,131,1,04:00 PM,High
+Crystal Lake Regional Trail,131,1,06:00 PM,High
+Crystal Lake Regional Trail,131,2,08:00 AM,Low
+Crystal Lake Regional Trail,131,2,10:00 AM,Low
+Crystal Lake Regional Trail,131,2,12:00 PM,Low
+Crystal Lake Regional Trail,131,2,02:00 PM,Low
+Crystal Lake Regional Trail,131,2,04:00 PM,Low
+Crystal Lake Regional Trail,131,2,06:00 PM,Low
+Crystal Lake Regional Trail,131,3,08:00 AM,Low
+Crystal Lake Regional Trail,131,3,10:00 AM,Low
+Crystal Lake Regional Trail,131,3,12:00 PM,Low
+Crystal Lake Regional Trail,131,3,02:00 PM,Low
+Crystal Lake Regional Trail,131,3,04:00 PM,Low
+Crystal Lake Regional Trail,131,3,06:00 PM,Low
+Crystal Lake Regional Trail,131,4,08:00 AM,High
+Crystal Lake Regional Trail,131,4,10:00 AM,High
+Crystal Lake Regional Trail,131,4,12:00 PM,High
+Crystal Lake Regional Trail,131,4,02:00 PM,High
+Crystal Lake Regional Trail,131,4,04:00 PM,High
+Crystal Lake Regional Trail,131,4,06:00 PM,High
+Crystal Lake Regional Trail,131,5,08:00 AM,High
+Crystal Lake Regional Trail,131,5,10:00 AM,High
+Crystal Lake Regional Trail,131,5,12:00 PM,High
+Crystal Lake Regional Trail,131,5,02:00 PM,High
+Crystal Lake Regional Trail,131,5,04:00 PM,High
+Crystal Lake Regional Trail,131,5,06:00 PM,High
+Crystal Lake Regional Trail,131,6,08:00 AM,High
+Crystal Lake Regional Trail,131,6,10:00 AM,High
+Crystal Lake Regional Trail,131,6,12:00 PM,High
+Crystal Lake Regional Trail,131,6,02:00 PM,High
+Crystal Lake Regional Trail,131,6,04:00 PM,High
+Crystal Lake Regional Trail,131,6,06:00 PM,High
+Crystal Lake Regional Trail,131,7,08:00 AM,High
+Crystal Lake Regional Trail,131,7,10:00 AM,High
+Crystal Lake Regional Trail,131,7,12:00 PM,High
+Crystal Lake Regional Trail,131,7,02:00 PM,High
+Crystal Lake Regional Trail,131,7,04:00 PM,High
+Crystal Lake Regional Trail,131,7,06:00 PM,High
+Crystal Lake Regional Trail,131,8,08:00 AM,Low
+Crystal Lake Regional Trail,131,8,10:00 AM,Low
+Crystal Lake Regional Trail,131,8,12:00 PM,Low
+Crystal Lake Regional Trail,131,8,02:00 PM,Low
+Crystal Lake Regional Trail,131,8,04:00 PM,Low
+Crystal Lake Regional Trail,131,8,06:00 PM,Low
+Crystal Lake Regional Trail,131,9,08:00 AM,Low
+Crystal Lake Regional Trail,131,9,10:00 AM,Low
+Crystal Lake Regional Trail,131,9,12:00 PM,Low
+Crystal Lake Regional Trail,131,9,02:00 PM,Low
+Crystal Lake Regional Trail,131,9,04:00 PM,Low
+Crystal Lake Regional Trail,131,9,06:00 PM,Low
+Crystal Lake Regional Trail,131,10,08:00 AM,Low
+Crystal Lake Regional Trail,131,10,10:00 AM,Low
+Crystal Lake Regional Trail,131,10,12:00 PM,Low
+Crystal Lake Regional Trail,131,10,02:00 PM,Low
+Crystal Lake Regional Trail,131,10,04:00 PM,Low
+Crystal Lake Regional Trail,131,10,06:00 PM,Low
+Crystal Lake Regional Trail,131,11,08:00 AM,Low
+Crystal Lake Regional Trail,131,11,10:00 AM,Low
+Crystal Lake Regional Trail,131,11,12:00 PM,Low
+Crystal Lake Regional Trail,131,11,02:00 PM,Low
+Crystal Lake Regional Trail,131,11,04:00 PM,Low
+Crystal Lake Regional Trail,131,11,06:00 PM,Low
+Crystal Lake Regional Trail,131,12,08:00 AM,Low
+Crystal Lake Regional Trail,131,12,10:00 AM,Low
+Crystal Lake Regional Trail,131,12,12:00 PM,Low
+Crystal Lake Regional Trail,131,12,02:00 PM,Low
+Crystal Lake Regional Trail,131,12,04:00 PM,Low
+Crystal Lake Regional Trail,131,12,06:00 PM,Low
+Crystal Lake Regional Trail,131,13,08:00 AM,Low
+Crystal Lake Regional Trail,131,13,10:00 AM,Low
+Crystal Lake Regional Trail,131,13,12:00 PM,Low
+Crystal Lake Regional Trail,131,13,02:00 PM,Low
+Crystal Lake Regional Trail,131,13,04:00 PM,Low
+Crystal Lake Regional Trail,131,13,06:00 PM,Low
+Crystal Lake Regional Trail,131,14,08:00 AM,Medium
+Crystal Lake Regional Trail,131,14,10:00 AM,Medium
+Crystal Lake Regional Trail,131,14,12:00 PM,Medium
+Crystal Lake Regional Trail,131,14,02:00 PM,Medium
+Crystal Lake Regional Trail,131,14,04:00 PM,Medium
+Crystal Lake Regional Trail,131,14,06:00 PM,Medium
+Crystal Lake Regional Trail,131,15,08:00 AM,Medium
+Crystal Lake Regional Trail,131,15,10:00 AM,Medium
+Crystal Lake Regional Trail,131,15,12:00 PM,Medium
+Crystal Lake Regional Trail,131,15,02:00 PM,Medium
+Crystal Lake Regional Trail,131,15,04:00 PM,Medium
+Crystal Lake Regional Trail,131,15,06:00 PM,Medium
+Crystal Lake Regional Trail,131,17,08:00 AM,Low
+Crystal Lake Regional Trail,131,17,10:00 AM,Low
+Crystal Lake Regional Trail,131,17,12:00 PM,Low
+Crystal Lake Regional Trail,131,17,02:00 PM,Low
+Crystal Lake Regional Trail,131,17,04:00 PM,Low
+Crystal Lake Regional Trail,131,17,06:00 PM,Low
+Crystal Lake Regional Trail,131,18,08:00 AM,Low
+Crystal Lake Regional Trail,131,18,10:00 AM,Low
+Crystal Lake Regional Trail,131,18,12:00 PM,Low
+Crystal Lake Regional Trail,131,18,02:00 PM,Low
+Crystal Lake Regional Trail,131,18,04:00 PM,Low
+Crystal Lake Regional Trail,131,18,06:00 PM,Low
+Crystal Lake Regional Trail,131,19,08:00 AM,Medium
+Crystal Lake Regional Trail,131,19,10:00 AM,Medium
+Crystal Lake Regional Trail,131,19,12:00 PM,Medium
+Crystal Lake Regional Trail,131,19,02:00 PM,Medium
+Crystal Lake Regional Trail,131,19,04:00 PM,Medium
+Crystal Lake Regional Trail,131,19,06:00 PM,Medium
+Crystal Lake Regional Trail,131,20,08:00 AM,Medium
+Crystal Lake Regional Trail,131,20,10:00 AM,Medium
+Crystal Lake Regional Trail,131,20,12:00 PM,Medium
+Crystal Lake Regional Trail,131,20,02:00 PM,Medium
+Crystal Lake Regional Trail,131,20,04:00 PM,Medium
+Crystal Lake Regional Trail,131,20,06:00 PM,Medium
+Crystal Lake Regional Trail,131,21,08:00 AM,Low
+Crystal Lake Regional Trail,131,21,10:00 AM,Low
+Crystal Lake Regional Trail,131,21,12:00 PM,Low
+Crystal Lake Regional Trail,131,21,02:00 PM,Low
+Crystal Lake Regional Trail,131,21,04:00 PM,Low
+Crystal Lake Regional Trail,131,21,06:00 PM,Low
+Crystal Lake Regional Trail,131,22,08:00 AM,Low
+Crystal Lake Regional Trail,131,22,10:00 AM,Low
+Crystal Lake Regional Trail,131,22,12:00 PM,Low
+Crystal Lake Regional Trail,131,22,02:00 PM,Low
+Crystal Lake Regional Trail,131,22,04:00 PM,Low
+Crystal Lake Regional Trail,131,22,06:00 PM,Low
+Crystal Lake Regional Trail,131,23,08:00 AM,Low
+Crystal Lake Regional Trail,131,23,10:00 AM,Low
+Crystal Lake Regional Trail,131,23,12:00 PM,Low
+Crystal Lake Regional Trail,131,23,02:00 PM,Low
+Crystal Lake Regional Trail,131,23,04:00 PM,Low
+Crystal Lake Regional Trail,131,23,06:00 PM,Low
+Crystal Lake Regional Trail,131,24,08:00 AM,Low
+Crystal Lake Regional Trail,131,24,10:00 AM,Low
+Crystal Lake Regional Trail,131,24,12:00 PM,Low
+Crystal Lake Regional Trail,131,24,02:00 PM,Low
+Crystal Lake Regional Trail,131,24,04:00 PM,Low
+Crystal Lake Regional Trail,131,24,06:00 PM,Low
+Crystal Lake Regional Trail,131,25,08:00 AM,Low
+Crystal Lake Regional Trail,131,25,10:00 AM,Low
+Crystal Lake Regional Trail,131,25,12:00 PM,Low
+Crystal Lake Regional Trail,131,25,02:00 PM,Low
+Crystal Lake Regional Trail,131,25,04:00 PM,Low
+Crystal Lake Regional Trail,131,25,06:00 PM,Low
+Crystal Lake Regional Trail,131,26,08:00 AM,Low
+Crystal Lake Regional Trail,131,26,10:00 AM,Low
+Crystal Lake Regional Trail,131,26,12:00 PM,Low
+Crystal Lake Regional Trail,131,26,02:00 PM,Low
+Crystal Lake Regional Trail,131,26,04:00 PM,Low
+Crystal Lake Regional Trail,131,26,06:00 PM,Low
+Crystal Lake Regional Trail,131,27,08:00 AM,Low
+Crystal Lake Regional Trail,131,27,10:00 AM,Low
+Crystal Lake Regional Trail,131,27,12:00 PM,Low
+Crystal Lake Regional Trail,131,27,02:00 PM,Low
+Crystal Lake Regional Trail,131,27,04:00 PM,Low
+Crystal Lake Regional Trail,131,27,06:00 PM,Low
+Crystal Lake Regional Trail,131,28,08:00 AM,Medium
+Crystal Lake Regional Trail,131,28,10:00 AM,Medium
+Crystal Lake Regional Trail,131,28,12:00 PM,Medium
+Crystal Lake Regional Trail,131,28,02:00 PM,Medium
+Crystal Lake Regional Trail,131,28,04:00 PM,Medium
+Crystal Lake Regional Trail,131,28,06:00 PM,Medium
+Crystal Lake Regional Trail,131,29,08:00 AM,Low
+Crystal Lake Regional Trail,131,29,10:00 AM,Low
+Crystal Lake Regional Trail,131,29,12:00 PM,Low
+Crystal Lake Regional Trail,131,29,02:00 PM,Low
+Crystal Lake Regional Trail,131,29,04:00 PM,Low
+Crystal Lake Regional Trail,131,29,06:00 PM,Low
+Crystal Lake Regional Trail,131,30,08:00 AM,Low
+Crystal Lake Regional Trail,131,30,10:00 AM,Low
+Crystal Lake Regional Trail,131,30,12:00 PM,Low
+Crystal Lake Regional Trail,131,30,02:00 PM,Low
+Crystal Lake Regional Trail,131,30,04:00 PM,Low
+Crystal Lake Regional Trail,131,30,06:00 PM,Low
+Crystal Lake Regional Trail,131,31,08:00 AM,Low
+Crystal Lake Regional Trail,131,31,10:00 AM,Low
+Crystal Lake Regional Trail,131,31,12:00 PM,Low
+Crystal Lake Regional Trail,131,31,02:00 PM,Low
+Crystal Lake Regional Trail,131,31,04:00 PM,Low
+Crystal Lake Regional Trail,131,31,06:00 PM,Low
+Crystal Lake Regional Trail,131,32,08:00 AM,Low
+Crystal Lake Regional Trail,131,32,10:00 AM,Low
+Crystal Lake Regional Trail,131,32,12:00 PM,Low
+Crystal Lake Regional Trail,131,32,02:00 PM,Low
+Crystal Lake Regional Trail,131,32,04:00 PM,Low
+Crystal Lake Regional Trail,131,32,06:00 PM,Low
+Crystal Lake Regional Trail,131,33,08:00 AM,Low
+Crystal Lake Regional Trail,131,33,10:00 AM,Low
+Crystal Lake Regional Trail,131,33,12:00 PM,Low
+Crystal Lake Regional Trail,131,33,02:00 PM,Low
+Crystal Lake Regional Trail,131,33,04:00 PM,Low
+Crystal Lake Regional Trail,131,33,06:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,1,08:00 AM,Medium
+Nokomis-Minnesota River Regional Trail,132,1,10:00 AM,Medium
+Nokomis-Minnesota River Regional Trail,132,1,12:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,1,02:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,1,04:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,1,06:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,2,08:00 AM,Medium
+Nokomis-Minnesota River Regional Trail,132,2,10:00 AM,Medium
+Nokomis-Minnesota River Regional Trail,132,2,12:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,2,02:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,2,04:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,2,06:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,3,08:00 AM,Medium
+Nokomis-Minnesota River Regional Trail,132,3,10:00 AM,Medium
+Nokomis-Minnesota River Regional Trail,132,3,12:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,3,02:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,3,04:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,3,06:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,4,08:00 AM,Medium
+Nokomis-Minnesota River Regional Trail,132,4,10:00 AM,Medium
+Nokomis-Minnesota River Regional Trail,132,4,12:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,4,02:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,4,04:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,4,06:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,5,08:00 AM,High
+Nokomis-Minnesota River Regional Trail,132,5,10:00 AM,High
+Nokomis-Minnesota River Regional Trail,132,5,12:00 PM,High
+Nokomis-Minnesota River Regional Trail,132,5,02:00 PM,High
+Nokomis-Minnesota River Regional Trail,132,5,04:00 PM,High
+Nokomis-Minnesota River Regional Trail,132,5,06:00 PM,High
+Nokomis-Minnesota River Regional Trail,132,6,08:00 AM,Low
+Nokomis-Minnesota River Regional Trail,132,6,10:00 AM,Low
+Nokomis-Minnesota River Regional Trail,132,6,12:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,6,02:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,6,04:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,6,06:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,7,08:00 AM,Medium
+Nokomis-Minnesota River Regional Trail,132,7,10:00 AM,Medium
+Nokomis-Minnesota River Regional Trail,132,7,12:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,7,02:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,7,04:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,7,06:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,8,08:00 AM,Low
+Nokomis-Minnesota River Regional Trail,132,8,10:00 AM,Low
+Nokomis-Minnesota River Regional Trail,132,8,12:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,8,02:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,8,04:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,8,06:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,9,08:00 AM,Low
+Nokomis-Minnesota River Regional Trail,132,9,10:00 AM,Low
+Nokomis-Minnesota River Regional Trail,132,9,12:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,9,02:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,9,04:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,9,06:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,10,08:00 AM,Low
+Nokomis-Minnesota River Regional Trail,132,10,10:00 AM,Low
+Nokomis-Minnesota River Regional Trail,132,10,12:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,10,02:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,10,04:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,10,06:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,11,08:00 AM,Low
+Nokomis-Minnesota River Regional Trail,132,11,10:00 AM,Low
+Nokomis-Minnesota River Regional Trail,132,11,12:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,11,02:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,11,04:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,11,06:00 PM,Low
+Nokomis-Minnesota River Regional Trail,132,12,08:00 AM,Medium
+Nokomis-Minnesota River Regional Trail,132,12,10:00 AM,Medium
+Nokomis-Minnesota River Regional Trail,132,12,12:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,12,02:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,12,04:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,12,06:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,13,08:00 AM,Medium
+Nokomis-Minnesota River Regional Trail,132,13,10:00 AM,Medium
+Nokomis-Minnesota River Regional Trail,132,13,12:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,13,02:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,13,04:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,13,06:00 PM,Medium
+Nokomis-Minnesota River Regional Trail,132,14,08:00 AM,High
+Nokomis-Minnesota River Regional Trail,132,14,10:00 AM,High
+Nokomis-Minnesota River Regional Trail,132,14,12:00 PM,High
+Nokomis-Minnesota River Regional Trail,132,14,02:00 PM,High
+Nokomis-Minnesota River Regional Trail,132,14,04:00 PM,High
+Nokomis-Minnesota River Regional Trail,132,14,06:00 PM,High

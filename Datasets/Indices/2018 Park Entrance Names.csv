@@ -1,0 +1,1290 @@
+Agency_id,Park_trail_id,Entrance_id,Entrance_name
+1,1,1,Islands of Peace Visitor Center
+1,1,2,Main Entrance
+1,1,3,Bike/hike trail at south end of park
+1,1,4,Bike/hike trail at north end of park
+1,2,1,Activity Center Lot
+1,2,2,Parking lot at junction of Parkway A and campground road
+1,2,3,South gatehouse
+1,2,4,North gatehouse
+1,2,5,Trail access off Prairie Road
+1,2,6,Dog Park Complex (13315 Hanson Boulevard)
+1,2,7,Blaine High School - near north parking lot
+1,2,8,Bunker Lake Boulevard Tunnel Entrance
+1,2,9,Access road entrance to picnic areas/overflow beach parking/Veterans Memorial
+1,110,1,Lakeside Commons Park - City of Blaine
+1,110,2,Blaine High School - behind football bleachers
+1,110,3,Aqua Lane - behind Townhomes on north side of Aqua Lane
+1,110,4,Elm Street near Centennial School
+1,75,1,Coon Creek Boulevard/Bunker Lake Boulevard
+1,75,2,Meadow Creek Church/Bunker Lake Boulevard
+1,75,3,Highway 47/Bunker Lake Boulevard
+1,75,4,Bunker Lake Boulevard/Sunfish Lake Boulevard
+1,75,5,County Road 14 and 21st Avenue
+1,107,1,Holiday Gas Station parking lot
+1,107,2,Al Flynn Park - City of Coon Rapids
+1,107,3,South of the intersection of 118th Avenue and Xeon Street
+1,107,4,Sand Creek Drive and Olive Street
+1,107,5,Foley Boulevard/Goldenrod Street
+1,107,6,Foley Boulevard/121st
+1,107,7,Foley Boulevard/123rd
+1,107,8,Egret and Robinson
+1,107,9,Meadow Lake Drive and Robinson
+1,3,1,Main Entrance
+1,3,3,Trail access at 86th Avenue and Mississippi River Boulevard
+1,3,4,West end of Coon Rapids Dam Powerhouse
+1,3,5,Egret and 99th
+1,3,6,Mississippi Boulevard and Uplander Street
+1,108,1,Lexington Avenue/121st Avenue Northeast
+1,108,2,Lexington Avenue/Ball Road
+1,108,3,Lexington Avenue/87th Avenue
+1,108,4,Lexington Avenue/Lake Drive (County Road 23)
+1,108,5,Lexington Avenue/North road
+1,108,6,West Road and Village Parkway
+1,108,7,Lexington Avenue and Woodland Road
+1,4,1,Main Gate
+1,4,3,East Trail Entrance
+1,4,4,South Trail Entrance off of 216th
+1,4,5,North Trail Entrance on 221st
+1,5,1,Picnic Area
+1,5,2,Boat Launch (Martin Lake)
+1,5,3,Boat Launch (Linwood Lake)
+1,5,4,Beach and trail at Island Lake
+1,6,1,Trail access at 86th Avenue and Mississippi River Boulevard
+1,6,2,Trail access at Riverview Heights Park in Fridley
+1,6,3,Trail access at Island of Peace Visitor Center (Minnesota Recreation and Parks Association Headquarters)
+1,6,4,Trail access on north side of I-694 bridge in Anoka County Riverfront Regional Park
+1,6,5,East River Road/Hartman
+1,6,6,Coon Rapids Boulevard and Mississippi Boulevard
+1,6,7,East River Road and Osborne Road Northeast
+1,6,8,East River Road (Coon Rapids Bouleavard) and 7th Avenue
+1,6,9,Ferry Street and Benton Street
+1,6,10,Mississippi River Community Park
+1,6,11,Robinson Drive Northwest and Creek Meadow Drive Northwest
+1,112,1,Boat Launch
+1,112,2,Riverdale Drive Northwest and Ramsey Boulevard
+1,8,1,Main Entrance
+1,8,2,Peltier Access
+1,8,5,Aqua Lane/Lake Drive
+1,8,6,LaMotte Park
+1,8,7,West Shadow Lake Drive
+1,8,9,YMCA - Lino Lakes
+1,8,10,Burch and West Shadow Lake Drive (where Rice Creek North Regional Trail enters the Park Reserve)
+1,8,11,Centerville Boat Launch
+1,8,12,Rice Creek Chain of Lakes Park Reserve Beach
+1,9,1,County Road J/Lexington Avenue
+1,9,2,Golden Lake Elementary School
+1,9,3,City Park
+1,9,4,Rice Lake Elementary School
+1,9,6,Baldwin City Park
+1,9,7,Robinhood Lane
+1,7,1,Fridley Community Park
+1,7,2,69th and University
+1,7,3,Former Columbia Arena
+1,7,4,Monroe Street
+1,7,5,Highway 65
+1,7,7,Old Central Avenue (County Road 35) and 69th Avenue Northeast
+1,7,8,Parking Lot (69th Avenue Northeast)
+1,7,9,Anoka Street North
+1,7,10,Stinson Boulevard
+1,7,11,Locke Park - Pavilion 1
+1,7,12,Locke Park - Pavilion 2
+1,7,13,East River Road/Hartman Circle
+1,7,14,Banfill Locke Center for the Arts Parking Lot
+1,10,1,Park Entrance
+1,109,1,Rum River North Count Park - Pavilion 2 Parking Lot
+1,109,2,Anoka High School - Parking lot next to the track
+1,109,3,Northstar Commuter Lot - Johnson Street and 4th Avenue
+1,109,4,City Hall - City of Anoka
+1,109,5,Rum River Trail/The Ponds Golf Course
+2,11,1,Bush Lake Beach
+2,11,2,West Bush Lake - North
+2,11,3,9148 West Bush Lake Road
+2,11,4,Chalet Road Parking Area
+2,11,5,West 85th Street Parking Lot
+2,11,6,West 84th Street (opposite Normandale Office Park)
+2,11,7,Normandale Road Bridge
+2,11,8,Sandro Road/Normandale Lake Drive
+2,11,9,West Bush Lake - South
+2,11,10,East Bush Lake Road and 86th Street
+2,11,11,Oregon Avenue South and East Bush Lake Road
+2,12,1,East 84th Street/Old Cedar Avenue
+2,12,2,Old Cedar Avenue/Old Shakopee Road
+2,12,3,American Boulevard/12th Avenue
+2,12,4,American Boulevard/Old Cedar Avenue
+2,12,5,Easth 86th Street/Old Cedar Avenue
+3,13,1,Main Entrance
+3,13,2,Paved Multi-Use Trail
+3,14,1,Main Entrance
+3,14,2,Old Beach Road Lane Entrance
+3,14,3,Informal Use Area Entrance
+3,12,1,Main Entrance
+3,104,1,Hidden Crossing Road Intersection
+3,104,2,Mayer Trailhead at Trunk Highway 25 and County Road 30
+3,104,3,Quartz Avenue Intersectoin
+3,104,4,Goose Lake Drive Intersection
+3,104,5,Highway 10 Trailhead/Intersection
+3,104,6,North Shore Road #1 Intersection
+3,104,7,North shore Road #2 Intersection ('S' in road)
+3,104,8,County Road 155/Hennepin County Line Intersection
+3,104,9,Adams Avenue South and County Road 30
+3,104,10,New Germany Trailhead at County Road 33 and County Road 30
+3,104,11,Union Avenue
+3,104,12,Yale Avenue
+3,104,13,Carver County and McLeod County Line
+3,104,14,Intersection of Carver County and McLeod County lines (black top turns to gravel)
+3,104,15,West
+3,113,1,Athletic Park Trailhead in Chaska
+3,113,2,Depot Park Trailhead in Carver
+3,113,3,Ash Street in Downtown Carver
+3,113,4,Main Street/County Road 40 in Southwest side of Carver proper/outskirts of town
+3,113,5,Main Street East in Downtown Carver and Pedestrian Access Exchange between trail bridge overpass and roadway
+3,113,6,Broadway Street/1st Street in Downtown Carver
+3,113,7,Jorgerson Street/Levy Trail in Downtown Carver
+3,113,8,Intersection or entry point of the Minnesota River Bluffs Regional Trail and Bluff Creek Drive
+3,116,1,Kirchlachen Park in Victoria
+3,116,2,Southwest Regional Trail/Lake Minnetonka LRT Regional Trail Trailhead facility in Victoria
+3,116,3,Intersection of Engler Boulevard (Highway 10) and Audubon Road (Highway 15)
+3,116,4,Intersection or entry point of the Minnesota River Bluffs Regional Trail and Flying Cloud Drive (County Road 61)
+4,15,1,WPA Overlook
+4,15,2,D Street in Mendota Heights and BRRT Intersection
+4,15,3,Lilydale Yacht Club/BRRT Trailhead
+4,15,4,Highway 13 and 494
+4,15,5,Pilot Knob Entrance
+4,15,6,Highway 55 Underpass
+4,16,1,Beach/Non-Motorized Boat Launch
+4,16,2,General Park Use Lot/Motorized Boat Launch Parking Lot
+4,17,1,Visitor Center/Beach
+4,17,2,Holland Lake
+4,17,3,Jensen Lake
+4,17,5,Horse Trailer Lot
+4,17,6,West Trailhead
+4,17,7,Galaxie Avenue
+4,17,8,Sherwood Way
+4,17,9,Parkridge Drive West
+4,17,10,Parkridge Drive East
+4,17,11,Dodd Road
+4,18,1,Picnic/Canoe Launch
+4,19,1,"Kaposia Landing, MRRT Trail Entrance"
+4,19,2,DNR Boat Landing/Trail Access Parking Lot
+4,19,3,Heritage Village Park - Inver Grove Heights
+4,19,4,MRRT - SLPR Schaar's Bluff Trail Entrance
+4,19,5,MRRT - Hastings Trail Entrance
+4,19,6,Rock Island Swing Bridge
+4,19,7,87th Street
+4,19,8,Cahill Ave and Concord Boulevard
+4,19,9,Pine Bend Elementary
+4,19,10,Pin Bend Bluffs
+4,19,11,MRRT:  Archery Access Point
+4,19,12,Schaar's Bluff Gathering Center Trail Access Point
+4,124,1,35W West Trailhead
+4,124,2,Jens A Caspersen Landing
+4,95,1,"Kaposia Park, Simon's Ravine Trail Entrance"
+4,95,2,Market Street Trail Entrance
+4,95,3,Simon's Ravine Trailhead
+4,95,4,Thompson County Park
+4,95,5,Emerson Avenue East and Sperl Street
+4,95,6,Oakdale Avenue and Rehnberg Place
+4,95,7,Oakdale Avenue and Wentworth Avenue
+4,95,8,Wentworth Library
+4,95,9,West Saint Paul Police Department
+4,95,10,Marthaler Park
+4,95,11,West Kraft Road
+4,95,12,Garlough Elementary/Charlton Street Underpass
+4,95,13,Dodge Nature Center
+4,95,14,Marie Avenue West and Chardel Court
+4,95,15,Marie Avenue West and Callahan Place
+4,95,16,Warrior Drive/Henry Sibley High School
+4,95,17,Sibley Court
+4,95,18,Knob Street
+4,95,19,Valley Park Location
+4,95,20,Bluff Circle Neighborhood Entry
+4,95,21,Lilydale East of Sibley Memorial Highway (13)
+4,20,1,Schaar's Bluff
+4,20,2,Archery Trail
+4,118,1,Main Trailhead/Shelter Parking Area
+4,118,2,Camper Cabin Parking Area
+4,118,3,Lone Rock Trail/Dakota County Hiking Trail Location Marker #17 Intersection
+5,135,1,"Marshall Terrace Park, Entrance to Parking Lot"
+5,135,2,"Edgewater Park, Bench Near Lowry Avenue Bridge"
+5,135,3,"Edgewater Park, Southeast Corner"
+5,135,4,"Gluek Park, Path Intersection North of Parking Lot"
+5,135,5,"East Bank Trail, Marshall Street Northeast/Burlington Northern Rail Line (North of 16th Avenue Northeast)"
+5,135,6,"Sheridan Memorial Park, Northeast 14th Avenue and Northeast Water Street"
+5,135,7,"East Bank Trail, Sherer Site"
+5,135,8,Between Plymouth and the entrance to 1315 West River Road North
+5,135,9,Between Plymouth Avenue and 17th Avenue North
+5,135,10,Between 17th Avenue North and Broadway
+5,135,11,"West River Road, Across from MPRB"
+5,135,12,Ole Olson Park
+5,41,1,Highway 100 Entrance
+5,41,2,Cedar Lake Road Bridge
+5,41,3,Ewing Avenue Entrance
+5,41,4,Bridge Over Channel on North Side of Cedar Lake and East of Cedar Lake Parkway (Northeast of intersection of South Cedar Lake Road and Cedar Lake Parkway)
+5,41,14,Kenilworth and Cedar Lake Trails Intersection
+5,41,5,Kenwood and Penn Avenue Trail Access
+5,41,7,Dunwoody and Bryn Mawr Bridge Entrance
+5,41,8,Glenwood Avenue/North 12th Street Access
+5,41,11,North Washington to 5th Street North
+5,41,10,Azine Way Entrance
+5,41,13,West River Parkway Entrance
+5,42,1,Hennepin Bluffs East
+5,42,11,East Bank Stone Arch Bridge Entrance
+5,42,17,Hennepin Bluffs West
+5,42,3,Main Street:  Third Avenue Southeast to 125 Main Street Southeast (or Aster Café)
+5,42,18,Main Street:  125 Main Street Southeast (or Aster Café) to Central Avenue Bridge
+5,42,19,Main strEET: Central Avenue Bridge to Wilde Roast Café
+5,42,20,Main Street: 518 North Hennepin to Merriam Street East Bank
+5,42,12,Merriam Street to Hennepin Avenue along Main Street East Bank
+5,42,25,B.F. Nelson - Parking Lot
+5,42,28,Boom Island - Canoe/Kayak landing
+5,42,4,Boom Island - Canoe/Kayak landing
+5,42,5,Plymouth Avenue
+5,42,26,Bike/Ped Path South of Plymouth Avenue Bridge
+5,42,6,North 4th Avenue/West River Parkway
+5,42,24,Nicollet Island - Parking lot near Railroad Tracks
+5,42,21,Cedar Lake Trail Entrance and West River Parkway
+5,42,7,Hennepin Avenue Bridge Stairway/Ramp
+5,42,22,"Hennepin Avenue Bridge, Nicollet Island Inn Side"
+5,42,23,Nicollet Island - Wilder Street and West Island Avenue
+5,42,8,Protland Avenue Entrance and Mill Ruins - Parking lot Northwest of Portland Avenue
+5,42,10,"Mill Ruins Park - Parking lot, lower level (near river)"
+5,42,13,11th Avenue South and West River Parkway
+5,42,27,10th Avenue Bridge and West River Parkway
+5,91,1,Central Avenue and Columbia Parkway Intersection
+5,91,2,Northeast Architect's Avenue and Parkway
+5,91,3,House Number 801 and Columbia Parkway
+5,91,6,35th Avenue Northeast and Columbia Parkway
+5,91,4,Columbia Park Picnic Area Parking lot
+5,91,5,Intersection of Saint Anthony Parkway and Northeast 5th Street
+5,93,1,Midtown Greenway and Kenilworth Trail
+5,93,5,Park Siding Park Trail Entrance
+5,93,2,Cedar Lake Parkway and Burnham Road
+5,93,3,2st Street West and Kenilworth Trail
+5,93,4,Cedar Lake Trail and Kenilworth Trail
+5,94,1,Highway 55 and Theodore Wirth Parkway
+5,94,2,Highway 55 Bridge over Luce Line Trail
+5,94,3,Glenwood Avenue and Vincent Avenue North
+5,94,4,Glenwood Avenue and Thomas Avenue North
+5,94,5,Thomas Avenue North and Inglewood Avenue
+5,94,10,Queen Avenue North Trail Entrance
+5,94,6,Morgan Avenue and Chestnut Avenue
+5,94,7,Chestnut and Cedar Lake Road
+5,94,8,Morgan Avenue South and Cedar Lake Road
+5,94,9,Bryn Mawr Meadows Parking Lot
+5,43,1,Cedar/Brownie Bridge
+5,43,2,Cedar Point
+5,43,3,Cedar - Midpoint
+5,43,4,Cedar - South
+5,43,5,Cedar - East Beach
+5,43,6,Isles - Franklin
+5,43,7,Isles - Oliver Place
+5,43,8,Isles - Penn
+5,43,9,Isles - Sheridan
+5,43,10,Isles - Kenilworth Bridge
+5,43,59,Dean Parkway - South Upton Avenue/Thomas Avenue South
+5,43,58,Dean Parkway - Northern End
+5,43,57,Dean Parkway - West 28th Street
+5,43,56,Dean Parkway - North of Lake Street
+5,43,11,Isles - West 28th Street
+5,43,54,Isles - Lake of the Isles Dog Park
+5,43,55,Isles - West Lake of the Isles Parkway and East Lake Calhoun Parkway
+5,43,12,Isles - James
+5,43,13,Isles - West 27th Street
+5,43,14,Isles/West 26th Street - Euclid Place
+5,43,15,Isles/West 22nd - West 25th
+5,43,16,Isles/West 22nd - Franklin
+5,43,17,Bde Maka Ska - Lagoon (Southeast Cornver)
+5,43,53,Bde Maka Ska - Sailor's Memorial (South Side)
+5,43,18,Bde Maka Ska - West 31st
+5,43,19,Bde Maka Ska - West 33rd
+5,43,20,Bde Maka Ska - West 36th Street (East side of the lake)
+5,43,21,Bde Maka Ska - Richfield Road/Berry Parkway
+5,43,22,Bde Maka Ska - Sheridan
+5,43,23,Bde Maka Ska - Upton
+5,43,24,Bde Maka Ska - Thomas Beach
+5,43,25,Bde Maka Ska - Xerxes
+5,43,26,Bde Maka Ska - West 36th Street (West side of the lake)
+5,43,27,Bde Maka Ska - West 36th Street/Rose Lane
+5,43,28,Bde Maka Ska - Rose Lane/West 32nd Street
+5,43,29,Bde Maka Ska - Lake Calhoun Executive Center
+5,43,30,Bde maka Ska - Dean/Lake
+5,43,31,Bde Maka Ska - Main Beach
+5,43,32,Harriet - Berry Bridge
+5,43,33,Harriet - Main Lot
+5,43,34,Harriet - Berry Bays
+5,43,35,Harriet - 42nd/Queen
+5,43,36,Harriet - Linden Hills
+5,43,37,Harriet - Linden/45th
+5,43,38,Harriet - West 45th/South Upton
+5,43,39,Harriet - Thomas
+5,43,40,Harriet - Penn
+5,43,41,Harriet - Oliver/Morgan
+5,43,42,Harriet - Knox
+5,43,43,Harriet - Minnehaha Parkway
+5,43,44,Harriet - East Lot 1
+5,43,45,Harriet - East Lot 2
+5,43,46,Harriet - 43rd
+5,43,47,Harriet - 42nd/Dupont Avenue South
+5,43,48,Harriet -Roseway/Dupont Avenue South
+5,43,49,Harriet - Rose/Peace Garden Parking Lot
+5,43,50,Harriet - Beach Bays 1
+5,43,51,Harriet - Beach Bays 2
+5,43,52,Harriet - Bandstand Overflow Lot
+5,45,1,54th Street/Hiawatha Avenue Intersection
+5,45,2,Minnehaha Dog Park Parking Lot
+5,45,3,Parking Lots/Bays North of the Dog Park
+5,45,13,Ped/Bike Trail Entrance from Hiawatha Avenue/Minnehaha Avenue
+5,45,4,South of Stevens House/Minnehaha Depot Area
+5,45,14,North of Stevens House/Minnehaha Depot Area
+5,45,5,Minnehaha Avenue Entrance
+5,45,15,Longfellow Gardnes - Parking Lot
+5,45,9,Main Parking Lot - South Side of Godfrey Parkway
+5,45,7,Nawadaha Boulevard/42nd-43rd Avenue
+5,45,6,Godfrey Parkway Parking Lot (North Only) and part of Nawadaha Boulevard
+5,45,8,Southeast Corner of 46th Avenue/Godfrey Parkway
+5,45,12,Godfrey/West River Parkway Parking Lot
+5,45,11,Wabun - Ford Bridge
+5,45,10,Wabun - North
+5,45,16,Wabun South 1
+5,45,17,Wabun South 2
+5,46,1,36th Avenue South/East Minnehaha Parkway
+5,46,40,38th Avenue South/Parkway
+5,46,39,46th Street East/Blue Line LRT
+5,46,2,36th Avenue/Crosby Place (North side of creek)
+5,46,38,36th Avenue/47th Street (South side of creek)
+5,46,37,South 35th Avenue/Minnehaha Parkway (South)
+5,46,3,East 47th Street/34th Avenue (North)
+5,46,4,31st Avenue South/East 46th Street
+5,46,5,31st Avenue South/East 46th Street (Cul-de-sac)
+5,46,6,30th Avenue South (Creek Bridge)
+5,46,7,Parkway/17-18th Avenue South
+5,46,8,East 49th Street/17th Avenue South (South side of creek)
+5,46,9,East 50th Street/16th Avenue South
+5,46,10,Parkway/14th Avenue South (North side)
+5,46,12,East 50th Street/12th Avenue South
+5,46,11,Parkway/11th Avenue South (North side)
+5,46,13,East 50th Street/East 51st Street
+5,46,14,Parkway/Elliot Avenue South (North side)
+5,46,17,Parkway/Columbus Avenue South (South side)
+5,46,15,Parkway/Columbus - Park Avenue South (North side)
+5,46,18,Parkway/Oakland Avenue South (South side)
+5,46,16,Parkway/Oakland Avenue South (North side)
+5,46,19,Parkway/4th Avenue South/East 50th Street
+5,46,20,433 Tarrymore (South side)
+5,46,22,Parkway/3rd Avenue South (North side - approximately 330 Minnehaha Parkway)
+5,46,21,East Minnehaha Parkway/2nd Avenue South (South side)
+5,46,23,Stevens/Creek Bridge
+5,46,24,Parkway/Belmont - Valley View (North side)
+5,46,25,Creek Footbridge West of Nicollet Avenue
+5,46,29,201 West Minnehaha Parkway
+5,46,26,144 West Minnehaha Parkway
+5,46,27,Creek Bridge at Valley View
+5,46,28,Creek Bridge at Harriet Avenue/Minnehaha Parkway
+5,46,30,Parkway/Lyndale (North side)
+5,46,41,Bryant Avenue South/West Minnehaha Parkway
+5,46,31,Parkway/Colfax (North side)
+5,46,33,Parkway/Dupont Avenue South (South side)
+5,46,34,Parkway/Girara Avenue South (South side)
+5,46,32,West Minnehaha Parkway/West 51st Street (Northeast side)
+5,46,35,Creek Bridge/Lynnhurst
+5,46,36,Parkway/West 50th Street
+5,46,43,Northeast Corner of Lynnhurst
+5,46,42,Lake Harriet Parkway/West Minnehaha Parkway Intersection
+5,44,1,East River Flats
+5,44,2,Parkway - Fulton/Oak
+5,44,3,Parkway - Ontario/Dartmouth
+5,44,4,Parkway - Franklin
+5,44,5,1515 East River Parkway
+5,44,6,Parkway - Cecil (Bike path)
+5,44,7,Parkway - Emerald Street (Bike path)
+5,44,8,Godfrey Parkway
+5,44,9,Parkway - 44th/45th Street
+5,44,10,Parkway - Minnehaha Academy (South campus)
+5,44,11,Parkway - 42nd/Northrop Drive
+5,44,12,Dowling School
+5,44,13,Parkway - 37th/38th
+5,44,14,Parkway - East 36th
+5,44,15,Parkway - East 34th
+5,44,16,Parkway - East 32nd
+5,44,17,Parkway - East Lake Street
+5,44,18,Parkway - East 28th Street
+5,44,19,Parkway - East 27th Street
+5,44,20,Parkway - East 25th Street
+5,44,21,Parkway - East 24th Street
+5,44,22,Parkway - Franklin
+5,44,23,Parkway - Riverside Park (Just north of Franklin)
+5,44,27,4th Street South and West River Parkway
+5,44,24,Bohemian Flats Parking Lot
+5,100,1,Hennepin Avenue Stinson Boulevard
+5,100,2,Northeast Kennedy Street and Stinson Boulevard
+5,100,3,Northeast Broadway Street and Stinson Boulevard
+5,100,8,Northeast Broadway Street/New Brighton Boulevard Entrance
+5,100,4,Ridgeway Parkway and Stinson Boulevard
+5,100,5,Intersection of Stinson and New Brighton Boulevard
+5,100,9,19th Avenue and New Brighton Boulevard (Hillside Cemetery Entrance)
+5,100,6,Gross Golf Course Entrance
+5,100,7,Walnut Street and Rose Street (Roseville)
+5,48,1,East 44th/29th Avenue South
+5,48,2,East 47th Street/27th Avenue South
+5,48,3,Minnehaha Parkway/Nokomis Community Center
+5,48,6,East Nokomis Parkway/Community Center
+5,48,4,East 49th Street/Woodlawn
+5,48,5,Lake Nokomis Parkway East/50th Street (North side of intersection)
+5,48,8,East 50th Street/East Nokomis Parkway (East side)
+5,48,9,East 52nd Street/Woodlawn
+5,48,10,East 54th/Woodlawn
+5,48,11,5525 Woodlawn Boulevard
+5,48,12,South 20th Avenue/Woodlawn
+5,48,13,Cedar Avenue/West lake Nokomis Parkway
+5,48,23,West Lake Nokomis Parkway/East 56th Street
+5,48,14,East 55th Street/Edgewater
+5,48,15,East 53rd/West Nokomis Parkway
+5,48,16,Cedar/Nokomis (North side)
+5,48,17,Main Lot 1 (Southwest)
+5,48,18,Main Lot 2 (Northwest)
+5,48,19,Main Lot 3 (Southeast)
+5,48,20,Main Lot 4 (Northeast)
+5,48,21,Ballfields (East side)
+5,48,22,Minnehaha Parkway (Dam Lot)
+5,48,7,East Nokomis Parkway/Minnehaha Parkway
+5,47,1,Camden Boat Launch
+5,47,2,37th Street Bridge
+5,47,4,48th Avenue Entrance
+5,47,5,53rd Avenue Entrance
+5,47,7,North Mississippi Drive Entrance
+5,47,8,Webber Parkway/Lyndale
+5,47,9,Webber Parkway/Colfax
+5,47,10,Webber Parkway/Emerson
+5,47,11,Webber Parkway/45th Avenue North
+5,47,12,"Northwest, Train Tracks/45th Avenue North"
+5,92,1,Stinson Bouleavard Northeast and Ridgeway Parkway
+5,92,2,Parking Lot on Ridgeway Parkway
+5,92,3,Ridgeway Parkway and Industrail Boulevard/Saint Anthony Parkway
+5,90,1,Ulysses and Saint Anthony Parkway Inersection
+5,90,2,Northeast Fillmore and Saint Anthony Parkway
+5,90,3,Intersection of Northeast 32nd and Taylor Street
+5,90,4,Central Avenue and Saint Anthony Parkway
+5,90,5,Four-sided kiosk parking lot northwest of dog park on Saint Anthony Parkway
+5,90,6,Soo Line Bridge and Saint Anthony Parkway
+5,90,7,Northeast Pierce Street and Saint Anthony Parkway
+5,90,8,Stairway crossing of Saint Anthony Parkway south of Deming Heights Park
+5,90,9,Intersection of 37th Avenue Northeast and Sain Anthony Parkway
+5,90,10,McKinley and Saint Anthony Parkway Intersection
+5,90,11,Cleveland and Saint Anthony Parkway Intersection
+5,90,12,Arthur Street Northeast and Saint Anthony Parkway Intersection
+5,90,13,Hayes and Saint anthony Parkway Intersection
+5,90,14,Marshall and Saint Anthony Parkway Intersection
+5,103,1,Russell Avenue North and 53rd Street
+5,103,2,Penn Avenue North/52nd Avenue North
+5,103,3,Morgan Avenue North/51st Avenue North
+5,103,4,Knox Avenue North/51st Avenue North
+5,103,5,Creekview Park
+5,103,6,Humboldt Avenue and Shingle Creek Drive
+5,103,7,49th Avenue North to Shingle Creek Drive
+5,103,8,45th Avenue North to Humboldt Avenue North along Shingle Creek Drive
+5,49,1,Golden Valley Road/Parkway
+5,49,2,Plymouth Avenue/Parkway
+5,49,3,Park 3 lot
+5,49,4,Wirth Parkway/Highway 55
+5,49,5,Glenwood/Xerxes
+5,49,6,Xerxes/Chestnut
+5,49,7,Glenwood Avenue/Wirth Parkway
+5,49,8,Wirth Beach
+5,49,9,I-394/Parkway
+5,49,10,Parking Lot - Quaking Bog
+5,49,11,Ottawa Avenue North and Luce Line (Golden Valley)
+5,50,1,Golden Valley Road/Parkway
+5,50,2,Xerxes/Glenwood Parkway
+5,50,3,Vincent Avenue North/McNair
+5,50,4,Vincent/24th
+5,50,5,Vincent/27th
+5,50,6,Wirth Parkway/26th (Parking lot)
+5,50,7,Xerxes/Glenwood Parkway
+5,50,8,Xerxes/Manor Drive
+5,50,9,Xerxes/Parkview Boulevard
+5,50,10,York/30th
+5,50,11,"3222 Xerxes Avenue North (Parkway/Lowry/Broadway intersection, on the northeast)"
+5,50,12,Xerxes/34th
+5,50,13,Xerxes/36th
+5,50,14,York/34th
+5,50,15,York/36th
+5,50,16,York/38th
+5,50,17,York/40th
+5,50,18,York/42nd
+5,50,19,York/43rd - Lake Drive
+5,50,20,Xerxes/Dowling
+5,50,21,Xerxes/40th - East side
+5,50,22,Xerxes/42nd - East side
+5,50,23,The Statue Opposite the Flagpole
+5,50,24,Flagpole
+5,50,25,Vincent/Parkway
+5,50,26,Sheridan/Parkway
+5,50,27,Penn/Parkway
+5,50,28,Newton/Parkway
+5,50,29,Logan/Parkway
+5,50,30,James/Parkway
+5,50,31,Humboldt/Parkway
+5,50,32,Webber Parkway/Memorial Parkway
+6,51,1,Picnic Pavilion
+6,51,2,Upper Afton/McKnight Corner
+6,51,3,Lower Afton Road (entrance to Lower Afton Off-leash Dog Area and trail)
+6,51,4,Point Douglas - Lower Picnic Area (entry from Sam Morgan Trail to BC Lower Creek)
+6,51,5,Winthrop Street Site
+6,51,6,Creek Trail at McKnight
+6,51,7,Creek Trail at North Park Drive
+6,51,8,Creek Trail at Upper Afton Road
+6,51,9,Lower Afton Road and McKnight Road
+6,51,10,North Off-leash Dog Parking Lot Entrnace
+6,51,11,Londin Lane East and Lower Afton Road
+6,51,12,Lower Afton Road and Century Avenue
+6,51,13,Ferndale Street North and Upper Afton Road
+6,51,14,Trail Entrance in Afton Heights Park
+6,51,15,Edgebrook Avenue and McKnight Road South
+6,51,16,Hillsdale Avenue and McKnight Road
+6,51,17,winthrop Street South and Lower Afton Road
+6,51,18,Winthrop Street South (South of Hillsdale)
+6,51,19,Battle Creek Road Trail Entrances (1)
+6,51,20,Battle Creek Road Trail Entrance (2)
+6,51,21,Point Douglas - Lower Afton Trail Entrance
+6,51,22,Burns Overlook Connection
+6,51,23,White Bear Avenue and C Street
+6,51,24,Battle Creek Trail at McKnight and North Park Drive
+6,52,1,Bald Eagle Boat Launch and Picnic Area
+6,52,2,Tamarack Nature Center
+6,52,3,Otter Lake Boat Launch/Dog Park
+6,52,4,Tamarack North by Normandy Court
+6,52,5,Tamarack North by Feather Court
+6,52,6,Tamarack Northeast Corner
+6,52,7,Tamarack East Side
+6,52,8,Tamarack East side by Seneca
+6,52,9,Tamarack South Side
+6,53,1,Highway 96/White Bear Parkway
+6,53,3,9th Street (White Bear Parkway) and Township Parkway
+6,53,4,Hammond and Otter Lake Road
+6,53,5,White Bear Parkway and Birch Lake Boulevard
+6,53,6,Tamarack Parking Lot North
+6,53,7,Tamarack Parking Lot South
+6,53,8,Hammond and Township Parkway
+6,54,1,South Trail Entrance (Northeast of the intersection of Maryland Avenue and Johnson Parkway)
+6,54,2,Gateway Intersection and Frost Avenue Entrance
+6,54,3,Beam Avenue Trail Entrance
+6,54,4,Burkle Road Trail Entrance
+6,54,5,City Road D and Hazelwood
+6,54,6,County Road C East and Neighborhood entrance through Harvest Park to Trail Entrance
+6,54,7,Cope Avenue
+6,54,8,Skillman Avenue Trail Entrance
+6,54,9,Ripley Avenue and Neighborhood Entrance onto Trail
+6,54,10,Larpenter Avenue Trail Entrance
+6,54,11,Idaho Avenue Trail Entrance
+6,54,12,Arlington Avenue Trail Entrance
+6,54,13,Weaver Elementary School
+6,54,14,Highway 36 frontage road connection
+6,54,15,Neighborhood access from Fitch Road
+6,54,16,County Road B Trail Entrance
+6,54,17,County Road D
+6,55,1,Snail Lake - North (Beach and Boat Launch Area)
+6,55,2,Snail Lake - South (Picnic Pavilion Area)
+6,55,3,Sucker Lake - North
+6,55,4,Sucker Lake - South/Lake Vadnais North
+6,55,5,Lake Vadnais - South
+6,55,6,Snail Lake Boulevard - Trail entrance from sidwalk just north of Beach and Boat Launch Area on east side of road
+6,55,7,Snail Lake Road at Trail Underpass
+6,55,8,Gramsie Road and Mackubin Street
+6,55,10,Bridge over I-694 to Grass Lake
+6,55,11,Entrance from Highway 96 Trail (across from Grocery Store)
+6,55,12,Sucker Lake Road and County Road F (Vadnais Lakes Section)
+6,55,13,Picnic area on Vadnais Boulevard and Edgerton Street (Little Vadnais Park)
+6,55,14,Hanska Neighborhood Entrance
+6,56,1,Highway 96 and Victoria Street
+6,56,2,Snail lake Boulevard and Highway 96
+6,56,3,Rice Street/Hodgson Road and Highway 96
+6,56,4,McMenemy and Highway 96
+6,56,5,Bramblewood and Highway 96
+6,56,6,Highway 96 and South Birch Lake Boulevard (between White Bear Parkway and Otter Lake Road on south side of Highway 96)
+6,56,7,Highway 96 at Hamline Avenue
+6,56,8,Highway 96 and Lexington Avenue
+6,56,9,Rice Street and Highway 96 (across from entrance to North Oaks)
+6,56,10,Highway 96 and Birch Bend Road (approximately 1 block west of Centerville Road)
+6,56,11,Highway 96 and White Bear Parkway
+6,56,12,Highway 96 and Highway 61
+6,56,13,Highway 96 and Karen Place (approximately 2 blocks east of Otter Lake Road on north side of Highway 96)
+6,56,14,Highway 96 and 2nd Avenue (approximately 2 blocks west of Highway 61 on north side of Highway 96)
+6,58,1,Spoon Lake
+6,58,2,Keller North (Island)
+6,58,5,Lakeside Picnic Area
+6,58,6,Lower Keller
+6,58,7,Golf View Keller
+6,58,8,Golf View Keller Trail Entrance
+6,58,9,Round Lake Trail Entrance from Phalen Regional Park
+6,59,1,Main Entrance/Old Highway 8
+6,59,2,South Entrance Boat Launch
+6,59,3,North Entrance
+6,59,4,Rice Creek West Trail
+6,59,5,Neighborhood Entrance
+6,60,1,West Trail Entrance
+6,60,2,East Trail Entrance
+6,60,3,Silver Lake Road Entrance
+6,60,4,Long Lake Road Entrance
+6,60,5,County Road H
+6,60,6,Mustang Circle
+6,60,7,Irondale High School
+6,60,8,Long Lake Regional Park
+6,60,9,Mounds View Boulevard Small Parking Lot
+6,60,10,County Road H Park and Ride
+6,61,1,Trail South Entrance
+6,61,2,Lexington Avenue Parking Lot
+6,61,3,West Neighborhood Entrance
+6,61,4,Snelling Avenue Dog Park Trail Entrance
+6,61,5,Prairie Ridge Road Trail Entrance
+6,61,6,Parkview Drive Trail Entrance
+6,61,7,Rice Creek Parkway Trail Entrance
+6,61,8,Fairview Neighborhood Entrance
+6,99,1,"Boat Launch, Picnic Area and E. Anderson Trail Entrance"
+6,99,2,South E. Anderson Trail and Beach Entrance
+6,99,3,County Road E2 and E. Anderson Trail Entrance
+6,99,4,Perry Park Entrance
+6,98,1,Trail South Entrance at Arlington and Jackson Streets
+6,98,2,Trail North Entrance east of McCarron's County Park
+6,98,3,Trail North Entrance east of McCarron's County Park - Larpenteur
+6,98,4,Gateway State Trail Entrance
+6,137,1,Trail Entrance at Highway 61 and Lake Avenue
+6,137,2,Clark Avenue and Lake Avenue
+6,137,3,2nd Street and Lake Avenue
+6,137,4,4th Street and Lake Avenue
+6,137,5,Central Avenue and Lake Avenue
+6,137,6,7th Street and Lake Avenue
+6,137,7,9th Street and Lake Avenue
+6,137,8,West Park (White Bear Lake)
+6,137,9,Trail Entrance at White County Park
+7,62,1,Johnson Parkway - Maryland Avenue entranc
+7,62,3,Drewry Lane and Beaumont Street access
+7,62,5,Payne Avenue Access
+7,62,6,Intersection of Phalen Boulevard and Johnson Parkway
+7,62,7,Intersection of Phalen Boulevard and Frank Street
+7,62,8,Parking lot at entrance to Bruce Vento Nature Sanctuary
+7,63,1,Chippewa - Curtice
+7,63,2,"Intersection of Cherokee Heights Boulevard, Baker Street West and Chippewa Avenue"
+7,63,3,Annapolis - Chippewa
+7,63,4,Cherokee Heights Boulevard - South
+7,63,5,Cherokee Avenue - Baker Street
+7,64,1,E Como - North
+7,64,2,E Como - Lakeview
+7,64,3,E Como - Victoria
+7,64,5,Como - Chatsworth
+7,64,6,Como Boulevard - Horton
+7,64,7,Horton Avenue - Churchill
+7,64,8,Horton Avenue - Lexington
+7,64,9,Horton Avenue - Midway Parkway
+7,64,10,Como Avenue - Midway Parkway to Hamline
+7,64,14,Hamline - Midway Parkway
+7,64,16,Zoo WOLF Lot - 1/2 lot nearest Wolf Woods
+7,64,17,Zoo WOLF Lot - 1/2 lot nearest Amusement Rides
+7,64,18,Nason - Kaufman
+7,64,19,Estabrook - Lexington Parkway
+7,64,20,Palm Lot - Midway Parkway 1
+7,64,21,On the end of the Palm Lot closest Midway Parkway
+7,64,22,Palm Lot - Aida 3
+7,64,23,Lake Pavilion - South
+7,64,24,Lake Pavilion - North
+7,64,26,West Picnic Lot
+7,64,27,Butterfly Lot
+7,65,1,Picnic Pavilion Parking Lot
+7,65,2,East Parking Lot
+7,65,3,Long Public Dock that points down river
+7,65,4,Harriet Island and Lilydale Park Junction
+7,65,5,Lilydale Road & Plato Boulevard
+7,65,7,Lilydale pool and Yacht Club parking area
+7,65,8,Harriet Island Pedestrian Gateway
+7,66,1,Interstate 35E
+7,66,2,Watergate
+7,66,3,Lower Hidden Falls - South Gate (at corner of Prior Avenue and Mississippi River Boulevard)
+7,66,4,Hidden Falls - Main
+7,66,5,River Entries
+7,67,1,Earl Street
+7,67,2,Thorn Street - Mounds Boulevard
+7,67,3,Wilshire/Mounds Boulevard
+7,67,4,Cherry Street/Mounds Boulevard
+7,68,1,430 Mississippi River Boulevard
+7,68,2,Lake Street - Marsahll Avenue Bridge
+7,68,3,104 Mississippi River Boulevard
+7,68,4,Boulevard - West of Exeter
+7,68,5,Mississippi Boulevard - Cretin
+7,68,6,Mississippi Boulevard - Summit
+7,68,7,162 Mississippi River Boulevard
+7,68,8,Mississippi River Boulevard - Saint Clair
+7,68,9,Mississippi River Boulevard - Jefferson
+7,68,10,524/534 Mississippi River Boulevard
+7,68,11,Mississippi River Boulevard - Woodlawn
+7,68,12,Mississippi River Boulevard - Highland Parkway
+7,68,13,Mississippi River Boulevard - Ford Dam Overlook
+7,68,14,Mississippi River Boulevard - Hidden Falls Overlook
+7,68,15,Mississippi River Boulevard - South of Magoffin
+7,68,16,Mississippi River Boulevard - Itasca
+7,68,17,Mississippi River Boulevard - Elsie Street
+7,68,18,Mississippi river Boulevard - Cleveland
+7,68,19,Mississippi River Boulevard - North of Prior
+7,70,1,Round Lake
+7,70,2,East Shore Drive - Sophia
+7,70,3,East Shore Drive - Larpenteur
+7,70,4,East Shore Drive - Brighton
+7,70,5,East Shore Drive - Arlington
+7,70,6,East Shore Drive - Wheelock
+7,70,7,Wheelock Gate
+7,70,8,Beach Lot
+7,70,9,Lakeside Lot
+7,70,10,Picnic Lot
+7,70,11,Bridge Lot
+7,70,12,Arcade Lot
+7,70,13,Gold Course Lot
+7,69,1,Crosby Farm Nature Area Parking Lot at Shepard Road and Gannon Street
+7,69,2,Watergate Marina Entrance at Shepard Road and Davern Street
+7,69,3,Crosby Lake Avenue and Shepard Road parking lot (Elway entrance)
+7,69,4,Otto Avenue entrance
+7,69,5,Randolph Street entrance
+7,69,6,Parking lot east (downriver) of Sibley Street and Warner Road Stoplight
+7,130,1,Main entry off Jackson Street - Parking lot
+7,130,2,Rose Avenue East at trail leading into park trail off the east end of Rose Avenue - trail entry
+7,130,3,Jenks Avenue East at trail leading into trail Jackson Street - trail entry
+8,88,10,81st Avenue and Xerxes Avenue
+8,88,11,85th Avenue and Xerxes Avenue
+8,88,12,Edinbrook Golf Course
+8,88,13,Noble Parkway
+8,88,14,97th Avenue and Noble Parkway
+8,88,15,101st Avenue and Noble Parkway
+8,88,37,Noble Parkway
+8,88,39,Edinbrook Parkway and Noble Parkway
+8,88,40,Edinbrook Crossing North
+8,88,41,Brooklyn Park City Trail
+8,88,42,Xerxes Court North
+8,88,43,Xerxes Avenue and Palmer Lake Trail
+8,88,44,Palmer Lake North Intersection
+8,88,45,York Avenue
+8,88,46,West Palmer Lake Park
+8,88,47,Shingle Creek Parkway and 69th Avenue Intersection
+8,88,48,Palmer Lake Trailhead
+8,88,49,69th Avenue Crossing
+8,88,50,Shingle Creek Parkway Underpass
+8,88,51,Freeway Boulevard Underpass
+8,88,52,Central Park - North Point
+8,88,53,Central Park - Central Point
+8,88,54,Central Park - Southern Point
+8,88,55,Bass Lake Road
+8,88,56,Highway 100 Overpass
+8,88,57,Central Park - Picnic Area and Park Trails
+8,88,58,Shingle Creek Parkway
+8,102,1,Main Entrance
+8,102,2,Boat Access
+8,114,1,Main Entrance
+8,114,2,Scott County Regional Trail Connection
+8,114,3,Tahinka Place Spur
+8,114,4,Hawk Ridge Road Spur
+8,114,5,North Wood Road Spur
+8,114,6,Spring Lake Road Spur - East
+8,114,7,South Pakring Lot
+8,114,8,Spring Lake Road Spur - West
+9,21,1,Baker Main Gate
+9,21,2,Campground Turf Spur
+9,21,3,Marshview Turf Trails
+9,21,4,Baker Horse Trailhead
+9,21,5,Southern Lake Independence Regional Trail Connection
+9,21,6,Maple Plain Trailhead
+9,21,7,Spurzem Fishing Access
+9,21,8,Half Moon Fishing Access
+9,21,9,Sycamore Trail Turf Spur
+9,21,10,County Road 24 Trail Intersection
+9,21,11,Northern LIT Connection
+9,21,12,Main Street Spur
+9,21,13,Main Recreation Area North Spur
+9,97,1,Ximines Lane Crossing
+9,97,2,Pilgrim Lane Crossing
+9,97,3,Gettysburg Avenue Crossing
+9,97,4,Boone Avenue/36th Avenue Intersection
+9,97,6,Northwood Park
+9,97,7,Winnetka Avenue/36th Avenue Intersection
+9,97,8,Nevada Avenue/36th Avenue Intersection
+9,97,9,Nevada Avenue/32nd Avenue Intersection
+9,97,10,Lion's Valley Place Park at Jersey Avenue
+9,97,11,Lion's Valley Place Park at Hampshire Avenue
+9,97,12,Douglas Drive Crossing
+9,97,13,Bassett Creek Park - West
+9,97,14,Bassett Creek Park - East
+9,22,1,Bryant Lake Main Gate
+9,22,2,Rowland Road Paved Spur
+9,22,3,Wooddale Church Parking Lot
+9,22,4,Bryant Lake Pet Exercise Area
+9,23,1,Grimm Road
+9,23,2,Lowry Nature Center
+9,23,3,Lake Auburn Access/King Sanctuary
+9,23,4,Steiger Lake Access
+9,23,5,Lake Zumbra Access
+9,23,7,Lake Minnetonka LRT Connection
+9,23,8,Carver Off-leash Dog Area
+9,24,1,French Main Gate
+9,24,2,36th Avenue Gate
+9,24,3,Medicine Lake Drive Turf Spur
+9,24,4,Rockford Road Connections
+9,24,5,Goldenrod Lane and 40th Avenue North Spur
+9,25,1,Cleary Main Gate
+9,25,2,Northeast Trail Entrance
+9,25,3,Northwest Trail Entrance
+9,25,4,Cleary Pet Exercise Area
+9,25,5,West Trail Spur
+9,76,1,Blake Road Crossing
+9,76,2,Wooddale Avenue Crossing
+9,76,3,Beltline Boulevard Crossing
+9,76,4,Depot Coffee House
+9,76,5,11th Avenue Crossing
+9,76,6,Edgebrook Park Connections
+9,76,7,Excelsior Boulevard Crossing
+9,76,8,Louisiana Avenue Spur
+9,76,9,Lilac Park Spur
+9,76,10,Tyler Avenue Spur
+9,76,11,5th Avenue Crossing
+9,76,12,8th Avenue Crossing
+9,76,13,Jackson Avenue Crossing
+9,26,2,Coon Rapids Dam Main Entrance
+9,26,3,East End of Coon Rapids Dam Walkway
+9,26,5,West Trail Spur
+9,26,6,97th Avenue Entrance
+9,27,1,Main Entrance
+9,27,2,Pet Exercise Area
+9,27,3,County Road 19 Spur
+9,27,4,County Road 203 Spur
+9,27,5,Territorial Road Turf Spur
+9,CRL=crystal lake?,,
+9,96,1,Ferndale Road and Shoreline Drive Crossings
+9,96,2,Russell Avenue Crossing
+9,96,3,North Shore Drive Crossing
+9,96,4,Shoreline Drive and Arcola Lane Accesses
+9,96,5,Woodbridge Road Crossing
+9,96,6,Lake Road Crossing
+9,96,7,Shadywood Road Crossing
+9,96,8,Sunset Drive Crossing
+9,96,9,Kings Road Crossing
+9,96,10,Montclair Lane Crossing
+9,96,11,Fairview Lane Crossing
+9,96,12,Shoreline Drive Crossing
+9,96,13,Sugarmill Lane Spurs
+9,96,14,Westedge Boulevard Crossing
+9,96,15,County Road 110 Crossing (Gale Woods Farm)
+9,96,16,Halstead Drive Crossing
+9,96,17,Highland road Crossing
+9,96,18,Saint Bonifacius Trailhead
+9,96,19,Orono Orchard Road Crossing
+9,96,20,Commerce Boulevard Crossing
+9,96,21,Gale Wood Farm Spur
+9,96,22,Hunters Trail Crossing
+9,96,23,Partridge Road Spur
+9,96,24,Eagle Nest Drive Spur
+9,28,1,Main Gate
+9,28,2,Rush Creek Trail Connection
+9,28,3,Zachary Lane Service Road
+9,28,4,109th Avenue/Goose Lake Road/Zachary Lane Roundabout
+9,28,5,Eastman Nature Center
+9,28,7,Elm Creek Horse and Archery Lot
+9,28,8,Territorial Road
+9,28,9,101st Avenue Spur
+9,28,10,Territorial Road and Fernbrook Lane Spur
+9,28,11,Elm Creek Road Trailhead Lot
+9,28,12,North Trailhead Lot
+9,28,13,Hayden Lake Road Crossing
+9,28,15,"Elm Creek Road, Eastern Trail Crossing"
+9,28,16,County Road 202 Trail Spurs
+9,28,17,Pet Exercise Area
+9,28,18,Hilltop Court Spur
+9,28,19,Pondview Court Spur
+9,28,20,Lakeside Trail Access
+9,28,22,LifeTime Fitness Spur
+9,28,23,Hackberry Lane Spur
+9,28,24,High Pointe Park Trail Access
+9,28,25,Medicine Lake Trail Access
+9,28,26,Cobblestone Road Spur
+9,28,27,121st Avenue Spur
+9,78,1,Golf/Main Entrance
+9,78,2,Eastern 62nd Avenue North Entrnace
+9,78,3,Western 63rd Avenue North Entrance
+9,78,4,Bass Lake Road Turf Spur
+9,30,1,Fish Lake Main Gate
+9,30,2,Timber Crest Drive North Spur
+9,30,3,West Medicine Lake Regional Trail Entrance
+9,30,4,Lakeside Trail
+9,30,5,South Medicine Lake Regional Trail Entrance
+9,30,6,Orchid Lane Turf Spur
+9,80,1,Main Gate
+9,80,2,Dakota Rail Regional Trail Spur
+9,31,1,Main Gate
+9,31,2,West 94th Street Spur
+9,31,3,Richardson Nature Center
+9,31,4,Bush lake Trail
+9,31,5,Sumac Knoll Group Camp
+9,31,6,Hyland Lake Southeast Trail Access
+9,31,7,Hyland Lake Southwest Trail Access
+9,31,8,Tierney's Woods
+9,31,9,Anderson Lakes Main Entrance
+9,31,10,Anderson Lakes Parkway Trail Access
+9,31,11,Hyland Hills
+9,32,1,Lake Rebecca Main Gate
+9,32,2,Crow River Canoe Access
+9,32,4,North Trail Spur
+9,32,6,Roy Road Spur
+9,32,7,Horse Trailhead
+9,32,9,Lake Sarah Off-Leash Area
+9,32,10,Southwest Trail Spur
+9,33,1,Lake Minnetonka Main Gate
+9,33,2,Shady Lane Spur
+9,33,3,Merrywood Lane Spur
+9,33,4,Lake Minnetonka Boat Launch
+9,33,5,County Road 44 Spur
+9,33,6,Lotus Drive Spur
+9,77,1,Kelley Parkway Crossing
+9,77,2,Watertown Road Crossing
+9,77,3,Luce Line State Trail Connection
+9,77,4,Silverview Drive Crossing
+9,77,5,County Road 6 Crossing
+9,77,6,Baker Park Reserve Connection - South
+9,77,7,Hamel Road Crossing
+9,77,8,County Road 11 Access
+9,77,9,Crestview Lane Crossing
+9,77,10,Highway 55 Crossing
+9,77,11,Pioneer Trail Crossing
+9,77,12,County Road 50 Crossing
+9,77,13,Strehler Road Crossing
+9,77,14,County Road 10 Crossing
+9,77,15,County Road 30 Crossing
+9,77,16,Oakdale Drive Crossing
+9,77,17,Crow-Hassan Park Reserve Connection
+9,77,18,Hanover Bridge
+9,89,11,Shenandoah Lane
+9,89,12,Fernbrook Lane Spurs
+9,89,13,15th Avenue Connection
+9,89,14,18th Avenue Spur
+9,89,15,Forestview Lane Spur
+9,89,16,West Medicine Lake Drive Crossing
+9,89,17,Sunrise Bay Condominiums
+9,89,18,South Shore Drive Crossing
+9,89,19,13th Avenue and Medicine Lake Regional Trail Connection
+9,89,20,Highway 169 Underpass Area
+9,89,21,Boone Avenue Crossing
+9,89,22,Winnetka Avenue Crossing
+9,89,23,Golden Valley Road Crossing
+9,89,24,Glenwood Avenue Spur
+9,89,25,Country Club Drive
+9,89,26,Douglas Drive Crossing
+9,89,27,Zane Avenue Crossing
+9,89,28,Holiday Lane Crossing
+9,89,29,Schaper Park
+9,89,30,Xenium Lane
+9,89,31,13th Avenue Spur
+9,89,32,11th Avenue and 10th Avenue Spurs
+9,89,33,Minnesota Lane Spur
+9,39,1,17th Avenue Crossing
+9,39,2,Shady Oak Road Crossing
+9,39,3,Tonkawood Road Crossing
+9,39,4,Minnetonka Middle School Connection
+9,39,5,Minnetonka Boulevard Crossing
+9,39,6,Water Street Crossing
+9,39,7,Manitou Road Crossing
+9,39,8,Smithtown Road Crossing
+9,39,9,Rolling Acres Road Crossing
+9,39,10,Park Drive Crossing
+9,39,11,Lund's Spur
+9,39,12,Guilliam's Field Park Spur
+9,39,13,Minnetonka Drive Spur
+9,39,14,Sussex Drive Spur
+9,39,15,Steele Street Spur
+9,39,16,Hidden Valley Road/Brown Lane Spurs
+9,39,17,Highway 101 Spurs
+9,39,18,Lindsey Lane Spur
+9,39,19,Burton Park Accesses
+9,39,20,Excelsior Boulevard Crossing
+9,39,21,Strawberry Lane Crossing
+9,39,22,Freeman Park Spur
+9,39,23,Highway 7 Spurs
+9,39,24,St. Moritz Street Spur
+9,39,25,Minnetonka Mills Road Crossing
+9,39,26,Bake Road Crossing
+9,39,27,Williston Road Crossing
+9,39,28,Victoria Trailhead
+9,39,29,14th Avenue Crossing
+9,39,30,11th Avenue Crossing
+9,39,31,Linwood Circle Crossing
+9,39,32,Sleepy Hollow Road Crossing
+9,39,33,Meadville Street Crossing
+9,39,34,Morse Avenue Crossing
+9,39,35,George Street Crossing
+9,39,36,Timber Lane Crossing
+9,39,37,Applewood Pointe Apartments Spur
+9,29,1,French Regional Park Connection
+9,29,2,36th Avenue and East Medicine Lake Boulevard Intersection
+9,29,4,32nd Avenue
+9,29,5,Medicine Ridge Road
+9,29,6,26th Avenue and Revere Lane
+9,29,7,Nathan Lane
+9,29,8,23rd Avenue
+9,29,9,East Medicine Lake Park
+9,29,10,Luce Line Regional Trail Connection
+9,29,16,Polaris Lane Spur
+9,29,17,West Fish Lake Road
+9,29,18,73rd Circle Spur
+9,29,19,Nottingham Park Connection
+9,29,20,Zanzibar Lane Spur
+9,29,21,78th Avenue Spur
+9,29,22,Xene Lane Spur
+9,29,23,Weaver Lake Road Spurs
+9,29,24,Blackoaks Lane Spur
+9,29,25,Rice Lake Connection - North
+9,29,26,96th Place Spur
+9,29,27,Fernbrook Elementary School
+9,29,29,Fernbrook Lane Crossing
+9,29,30,Maple Grove Arboretum Trail Connection
+9,29,31,Maple Grove High School Spur
+9,29,32,Elm Creek Bridge
+9,29,34,93rd Avenue Northern Spur
+9,29,35,71st Avenue Connection
+9,29,36,72nd Place Spur
+9,29,37,Elm Creek Park Reserve Connection
+9,29,38,Annapolis Lane Spur
+9,29,39,Maple Grove Parkway Spur
+9,29,40,Ranchview Lane Spur
+9,29,41,95th Avenue Crossing
+9,29,42,93rd Avenue Northern Spur
+9,29,43,Upland Lane Spur
+9,29,44,Rice Lake Connection - South
+9,29,45,Weaver Lake Elementary
+9,29,46,Bass Lake Road Underpass
+9,29,47,Glacier Lane - North Crossing
+9,29,48,Glacier Lane - South Crossing
+9,29,49,Ithaca Lane Spur
+9,29,50,62nd Place and Fernbrook Lane Spurs
+9,29,51,County Road 47
+9,29,52,West Fish Lake Road Crossing
+9,29,53,59th Avenue Connection
+9,29,54,Plymouth Greenway Connections
+9,29,55,54th Avenue Crossing
+9,29,56,53rd Avenue Crossing
+9,29,57,52nd Avenue Crossing
+9,29,58,Cheshire Lane and Schmidt Lake Road Intersection
+9,29,59,Schmidt Lake Road and Northwest Boulevard Intersection
+9,29,60,44th Avenue Crossing
+9,29,61,42nd Place Crossing
+9,40,1,11th Avenue Crossing
+9,40,2,Dominick Drive Crossing and Spur
+9,40,3,Baker Road Crossing
+9,40,4,County Road 62 Connection
+9,40,5,Valley View Road Spur
+9,40,6,Venture Lane Crossing
+9,40,7,Eden Prairie Road Crossing
+9,40,8,Dell Road Crossing
+9,40,9,Bluff Creek Drive Trailhead
+9,40,10,Edenvale Boulevard Crossing
+9,40,11,Howard Lane and Harlan Drive Spurs
+9,40,12,Riley Lake Park - West
+9,40,13,Scenic Heights Road Crossing
+9,40,14,Candlewood Parkway Crossing
+9,40,15,Danton Way Spur
+9,40,16,Shady Oak Road Spur
+9,40,17,Miller Park's Southeast Spur
+9,40,18,Highway 212 Overpass (North half of the #13 split)
+9,40,19,Pioneer Trail and Trails End Road spurs
+9,40,20,Riley Lake Park - East LOW
+9,40,21,County Road 62 Underpass
+9,40,22,Rowland Road Crossing
+9,34,1,Main Trailhead/Shelter Parking Area
+9,34,2,Horse trailhead
+9,34,3,Cam Ram Park Spur
+9,34,4,Natchez Avenue Spur
+9,34,5,Judicial Road Trailhead
+9,34,6,Murphy Lake Boat Launch
+9,34,7,Murphy Lake Boulevard Spur
+9,34,8,175th Street Spur
+9,34,9,Landmark Court Spur
+9,79,1,2nd Street Crossing
+9,79,2,Madison Avenue Connection
+9,79,3,36th Street Crossing
+9,79,4,34th Street Crossing
+9,79,5,Aquila Park Connection
+9,79,6,31st Street Crossing
+9,79,7,Virginia Avenue Crossing
+9,79,8,Victoria Circle Crossing
+9,79,9,Dakota Park Spur
+9,79,10,Target Spur
+9,79,11,Minnetonka Boulevard Spur
+9,79,12,Nelson Park Spur
+9,79,13,27th Street Crossing
+9,101,1,West End
+9,101,2,East End
+9,36,1,Lyndale Avenue and 57th Avenue Entrance
+9,36,2,Willow Lane Entrance
+9,115,1,Elliot Avenue Crossing
+9,115,2,Portland Avenue Crossing
+9,115,3,3rd Avenue Crossing
+9,115,4,Nicollet Avenue Crossing
+9,115,5,Pleasant Avenue Crossing
+9,115,6,Lyndale Avenue Crossing
+9,115,7,Colfax Avenue Crossing
+9,115,8,76th and 77th Street Intersection
+9,115,9,Humboldt Avenue and 76th Street Intersection
+9,115,10,Donaldson Park Spur
+9,115,11,Penn Avenue Crossing
+9,115,12,Sheridan Avenue Crossing
+9,115,13,Xerxes Avenue Crossing
+9,115,14,Gallagher Drive Connection
+9,115,15,France Avenue Crossing
+9,115,16,Gallagher Drive and Parklawn Avenue Intersection
+9,115,17,Kellogg Avenue Spur
+9,115,19,77th Street Spur
+9,115,20,72nd Street and Metro Boulevard Intersection
+9,115,21,Ohms Lane Connection
+9,115,22,70th Street Connection
+9,115,23,Edina Manor Boardwalk
+9,115,24,Heights Park Spur
+9,115,25,Valley Lane Spur
+9,115,26,Tracy Avenue Crossing
+9,115,27,Edina High School Spur
+9,115,28,Creek Valley Park Spur
+9,115,29,Bredesen Park Trail Connection
+9,115,30,Gleason Road Connection
+9,115,31,Vernon Avenue Crossing
+9,115,32,Walnut Ridge Park Trail Connection and Tamarac Lane Spur
+9,115,33,Walnut Ridge Park Lot Connection
+9,115,34,Londonderry Drive Connection and Walnut Drive Spur
+9,115,35,Lincoln Drive Crossing
+9,115,36,Smetana Drive and Breen Road Intersection
+9,115,37,Opportunity Court Connection
+9,115,38,Semtana Road and Westbrooke Way Intersection
+9,115,39,Old Settlers Trail Connection
+9,115,40,Westbrooke Way Connection
+9,115,41,Valley Park Lot Connection
+9,115,42,7th Street and 9th Avenue Intersection
+9,115,43,7th Street and 11th Avenue Intersection
+9,115,44,5th Street Connection
+9,115,45,Normandale Boulevard Spur
+9,115,46,East Promenade Connection
+9,37,1,Noerenberg Gardens
+9,35,1,Valley Forge Lane
+9,35,2,Boundary Creek Terrace
+9,35,3,Nathan Lane
+9,35,4,Jefferson Highway
+9,35,5,Winnetka Avenue
+9,35,6,Douglas Avenue
+9,35,7,Noble Avenue
+9,35,8,Fallgold Avenue
+9,35,9,Coon Rapids Dam
+9,35,10,City Trail Spur just east of Boundary Creek Terrace
+9,35,11,Lancaster Lane North
+9,35,12,Noble Parkway North
+9,35,33,Villas of the Mississippi
+9,35,38,Chestnut Circle North
+9,35,40,Oak Grove Park
+9,35,41,104th Circle North
+9,35,42,Yates Drive North
+9,35,43,105th Avenue North
+9,35,44,Toledo Drive North Spur
+9,35,45,Quail Avenue North
+9,35,46,Regent Avenue North
+9,35,47,Orchard Trail Park Spur
+9,111,2,Crystal Lake Regional Trail Connection
+9,111,3,Twin Lake Park
+9,111,4,Lake Breeze Avenue and Azelia Avenue
+9,111,5,France Avenue and Azelia Avenue
+9,111,6,France Avenue and 53rd Avenue
+9,111,7,53rd Avenue and Brooklyn Boulevard Service Road
+9,111,8,Brooklyn Boulevard
+9,111,9,Xerxes Avenue
+9,111,10,56th Avenue North
+9,111,11,Xerxes Avenue and Bass Lake Road
+9,111,12,Shingle Creek Parkway Crossing
+9,111,13,Logan Avenue Crossing
+9,111,14,Irving Avenue Crossing
+9,111,15,Fremonth Avenue Crossing
+9,111,16,Colfax Avenue Crossing
+9,111,17,Northway Drive Crossing
+9,111,18,Camden Avenue Crossing
+10,82,1,Main Gate
+10,71,1,Main Gate
+10,71,2,Paved Trail
+10,72,1,Main Gate
+10,83,1,Main Gate
+10,83,2,Gateway Trail entrance by covered picnic table
+10,133,1,Trailhead
+10,133,2,Highway 61 Entrance to Trail
+10,73,1,Main Gate
+10,74,1,Main Gate
+10,81,1,Trailhead at Transit Center at 19955 Forest Road North - just south of 202nd Street
+10,81,2,147th Street Intersection
+10,81,3,Trailhead at Hugo
+10,81,4,157th Street Intersection
+10,81,5,159th Street Intersection
+10,81,6,170th Street (4) Intersection
+10,81,7,180th Street Intersection
+10,81,8,190th Street Intersection
+10,81,9,202nd Street (50) Intersection
+10,81,10,County Road 83 Intersection
+10,81,11,Broadway (2) Intersection
+10,81,12,County Road 8 Intersection
+10,81,13,Chisago County Line
+10,81,14,Highway 61 & 145 Street North Intersection
+10,81,15,Highway 61 & Frenchman Road (Highway 8)
+10,81,16,Highway 61 & 140th Street North Intersection
+1,4,2,Boat Launch
+2,140,1,East 84th Street and Old Cedar Avenue
+2,140,2,Junction of Old Cedar Avenue and Old Shakopee Road
+2,140,3,Junction of American Boulevard and 12th Avenue
+2,140,4,Junction of American Boulevard and Old Cedar Avenue
+2,140,5,East 86th Street and Old Cedar Avenue
+3,13,3,Multi-use trail - access to regional park from Herman Field Park on northwest side of property
+5,41,6,Spring Lake Entrance
+6,58,4,Round Lake Picnic Area
+7,64,13,Como/Horton-Hamline
+9,84,1,Silverwood Main Entrance
+9,84,2,East Trail Entrance
+9,84,3,Southwest Trail Entrance
+9,117,1,West Unit Main Entrances
+9,131,1,Zenith Avenue Crossing
+9,131,2,Abbott Avenue Crossing
+9,131,3,35th Avenue Crossing
+9,131,4,Lakeview Terrace Park South
+9,131,5,Lakeview Terrace Park North
+9,131,6,Boardwalk South
+9,131,7,Boardwalk North
+9,131,8,40th Avenue & Bottineau Boulevard Intersection
+9,131,9,40th Avenue & Lake Road Intersection
+9,131,10,Halifax Avenue Connection
+9,131,11,Lake Road & Lake Drive Intersection
+9,131,12,Lake Drive & Lakeland Avenue Intersection
+9,131,13,Twin Oak Drive Connection
+9,131,14,Twin Lakes Boat Launch
+9,131,15,Twin Lakes Regional Trail Connection
+9,131,16,45th Avenue Connection
+9,131,17,47th Avenue Crossing
+9,131,18,49th Avenue Crossing
+9,131,19,Corvalis Avenue Crossing
+9,131,20,Wilshire Boulevard Crossing
+9,131,21,Bass Lake Road Crossing
+9,131,22,Crystal Airport Road Crossing
+9,131,23,Lombardy Lane Crossing
+9,131,24,62nd Avenue Crossing
+9,131,25,Forest Avenue Spur
+9,131,26,63rd Avenue Crossing
+9,131,27,65th Avenue Connection
+9,131,28,Elm Creek Boulevard Crossing
+9,131,29,Hemlock Lane Crossing
+9,131,30,93rd Avenue Crossing
+9,131,31,Zachary Lane Crossing
+9,131,32,Wellington Lane Crossing and Osseo Ice Arena Connection
+9,131,33,1st Avenue Crossing
+9,132,1,61st Street Connection
+9,132,2,Bloomington Avenue Spur
+9,132,3,63rd Street Crossing
+9,132,4,64th Street Crossing
+9,132,5,66th Street Crossing
+9,132,6,67th Street
+9,132,7,68th Street Connection
+9,132,8,Diagonal Boulevard Crossing
+9,132,9,73rd Street Crossing
+9,132,10,76th Street & Cedar Avenue Intersection
+9,132,11,Bloomington Avenue Crossing
+9,132,12,12th Avenue & 76th Street Intersection
+9,132,13,77th Street Crossing
+9,132,14,494 Bridge

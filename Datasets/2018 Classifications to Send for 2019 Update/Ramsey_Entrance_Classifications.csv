@@ -1,0 +1,1579 @@
+Park_name,Park_id,Entrance,Start_time,Usage_class,Day_type
+Battle Creek Regional Park,51,1,08:00 AM,Medium,Weekday
+Battle Creek Regional Park,51,1,08:00 AM,Medium,Weekend_holiday
+Battle Creek Regional Park,51,1,10:00 AM,Medium,Weekday
+Battle Creek Regional Park,51,1,10:00 AM,High,Weekend_holiday
+Battle Creek Regional Park,51,1,12:00 PM,Medium,Weekday
+Battle Creek Regional Park,51,1,12:00 PM,Medium,Weekend_holiday
+Battle Creek Regional Park,51,1,02:00 PM,Medium,Weekday
+Battle Creek Regional Park,51,1,02:00 PM,Medium,Weekend_holiday
+Battle Creek Regional Park,51,1,04:00 PM,High,Weekday
+Battle Creek Regional Park,51,1,04:00 PM,High,Weekend_holiday
+Battle Creek Regional Park,51,1,06:00 PM,High,Weekday
+Battle Creek Regional Park,51,1,06:00 PM,High,Weekend_holiday
+Battle Creek Regional Park,51,2,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,2,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,2,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,2,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,2,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,2,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,2,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,2,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,2,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,2,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,2,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,2,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,3,08:00 AM,Medium,Weekday
+Battle Creek Regional Park,51,3,08:00 AM,Medium,Weekend_holiday
+Battle Creek Regional Park,51,3,10:00 AM,Medium,Weekday
+Battle Creek Regional Park,51,3,10:00 AM,High,Weekend_holiday
+Battle Creek Regional Park,51,3,12:00 PM,Medium,Weekday
+Battle Creek Regional Park,51,3,12:00 PM,High,Weekend_holiday
+Battle Creek Regional Park,51,3,02:00 PM,Medium,Weekday
+Battle Creek Regional Park,51,3,02:00 PM,High,Weekend_holiday
+Battle Creek Regional Park,51,3,04:00 PM,High,Weekday
+Battle Creek Regional Park,51,3,04:00 PM,High,Weekend_holiday
+Battle Creek Regional Park,51,3,06:00 PM,High,Weekday
+Battle Creek Regional Park,51,3,06:00 PM,High,Weekend_holiday
+Battle Creek Regional Park,51,4,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,4,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,4,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,4,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,4,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,4,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,4,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,4,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,4,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,4,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,4,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,4,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,5,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,5,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,5,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,5,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,5,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,5,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,5,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,5,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,5,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,5,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,5,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,5,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,6,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,6,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,6,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,6,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,6,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,6,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,6,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,6,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,6,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,6,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,6,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,6,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,7,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,7,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,7,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,7,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,7,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,7,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,7,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,7,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,7,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,7,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,7,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,7,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,8,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,8,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,8,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,8,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,8,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,8,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,8,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,8,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,8,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,8,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,8,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,8,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,9,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,9,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,9,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,9,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,9,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,9,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,9,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,9,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,9,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,9,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,9,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,9,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,10,08:00 AM,High,Weekday
+Battle Creek Regional Park,51,10,08:00 AM,High,Weekend_holiday
+Battle Creek Regional Park,51,10,10:00 AM,High,Weekday
+Battle Creek Regional Park,51,10,10:00 AM,High,Weekend_holiday
+Battle Creek Regional Park,51,10,12:00 PM,High,Weekday
+Battle Creek Regional Park,51,10,12:00 PM,High,Weekend_holiday
+Battle Creek Regional Park,51,10,02:00 PM,High,Weekday
+Battle Creek Regional Park,51,10,02:00 PM,High,Weekend_holiday
+Battle Creek Regional Park,51,10,04:00 PM,High,Weekday
+Battle Creek Regional Park,51,10,04:00 PM,High,Weekend_holiday
+Battle Creek Regional Park,51,10,06:00 PM,High,Weekday
+Battle Creek Regional Park,51,10,06:00 PM,High,Weekend_holiday
+Battle Creek Regional Park,51,11,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,11,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,11,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,11,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,11,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,11,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,11,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,11,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,11,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,11,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,11,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,11,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,12,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,12,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,12,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,12,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,12,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,12,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,12,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,12,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,12,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,12,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,12,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,12,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,13,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,13,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,13,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,13,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,13,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,13,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,13,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,13,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,13,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,13,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,13,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,13,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,14,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,14,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,14,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,14,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,14,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,14,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,14,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,14,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,14,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,14,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,14,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,14,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,15,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,15,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,15,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,15,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,15,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,15,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,15,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,15,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,15,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,15,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,15,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,15,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,16,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,16,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,16,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,16,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,16,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,16,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,16,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,16,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,16,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,16,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,16,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,16,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,17,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,17,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,17,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,17,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,17,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,17,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,17,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,17,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,17,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,17,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,17,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,17,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,18,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,18,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,18,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,18,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,18,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,18,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,18,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,18,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,18,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,18,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,18,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,18,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,19,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,19,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,19,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,19,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,19,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,19,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,19,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,19,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,19,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,19,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,19,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,19,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,20,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,20,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,20,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,20,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,20,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,20,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,20,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,20,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,20,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,20,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,20,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,20,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,21,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,21,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,21,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,21,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,21,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,21,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,21,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,21,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,21,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,21,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,21,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,21,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,22,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,22,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,22,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,22,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,22,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,22,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,22,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,22,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,22,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,22,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,22,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,22,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,23,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,23,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,23,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,23,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,23,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,23,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,23,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,23,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,23,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,23,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,23,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,23,06:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,24,08:00 AM,Low,Weekday
+Battle Creek Regional Park,51,24,08:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,24,10:00 AM,Low,Weekday
+Battle Creek Regional Park,51,24,10:00 AM,Low,Weekend_holiday
+Battle Creek Regional Park,51,24,12:00 PM,Low,Weekday
+Battle Creek Regional Park,51,24,12:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,24,02:00 PM,Low,Weekday
+Battle Creek Regional Park,51,24,02:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,24,04:00 PM,Low,Weekday
+Battle Creek Regional Park,51,24,04:00 PM,Low,Weekend_holiday
+Battle Creek Regional Park,51,24,06:00 PM,Low,Weekday
+Battle Creek Regional Park,51,24,06:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,1,08:00 AM,High,Weekday
+Bald Eagle-Otter Lake Regional Park,52,1,08:00 AM,High,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,1,10:00 AM,Medium,Weekday
+Bald Eagle-Otter Lake Regional Park,52,1,10:00 AM,Medium,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,1,12:00 PM,Medium,Weekday
+Bald Eagle-Otter Lake Regional Park,52,1,12:00 PM,Medium,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,1,02:00 PM,Medium,Weekday
+Bald Eagle-Otter Lake Regional Park,52,1,02:00 PM,Medium,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,1,04:00 PM,High,Weekday
+Bald Eagle-Otter Lake Regional Park,52,1,04:00 PM,Medium,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,1,06:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,1,06:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,2,08:00 AM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,2,08:00 AM,High,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,2,10:00 AM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,2,10:00 AM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,2,12:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,2,12:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,2,02:00 PM,Medium,Weekday
+Bald Eagle-Otter Lake Regional Park,52,2,02:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,2,04:00 PM,Medium,Weekday
+Bald Eagle-Otter Lake Regional Park,52,2,04:00 PM,Medium,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,2,06:00 PM,Medium,Weekday
+Bald Eagle-Otter Lake Regional Park,52,2,06:00 PM,Medium,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,3,08:00 AM,High,Weekday
+Bald Eagle-Otter Lake Regional Park,52,3,08:00 AM,High,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,3,10:00 AM,Medium,Weekday
+Bald Eagle-Otter Lake Regional Park,52,3,10:00 AM,Medium,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,3,12:00 PM,Medium,Weekday
+Bald Eagle-Otter Lake Regional Park,52,3,12:00 PM,Medium,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,3,02:00 PM,High,Weekday
+Bald Eagle-Otter Lake Regional Park,52,3,02:00 PM,High,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,3,04:00 PM,High,Weekday
+Bald Eagle-Otter Lake Regional Park,52,3,04:00 PM,High,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,3,06:00 PM,High,Weekday
+Bald Eagle-Otter Lake Regional Park,52,3,06:00 PM,High,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,4,08:00 AM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,4,08:00 AM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,4,10:00 AM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,4,10:00 AM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,4,12:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,4,12:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,4,02:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,4,02:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,4,04:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,4,04:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,4,06:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,4,06:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,5,08:00 AM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,5,08:00 AM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,5,10:00 AM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,5,10:00 AM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,5,12:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,5,12:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,5,02:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,5,02:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,5,04:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,5,04:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,5,06:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,5,06:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,6,08:00 AM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,6,08:00 AM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,6,10:00 AM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,6,10:00 AM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,6,12:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,6,12:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,6,02:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,6,02:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,6,04:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,6,04:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,6,06:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,6,06:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,7,08:00 AM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,7,08:00 AM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,7,10:00 AM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,7,10:00 AM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,7,12:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,7,12:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,7,02:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,7,02:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,7,04:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,7,04:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,7,06:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,7,06:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,8,08:00 AM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,8,08:00 AM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,8,10:00 AM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,8,10:00 AM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,8,12:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,8,12:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,8,02:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,8,02:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,8,04:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,8,04:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,8,06:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,8,06:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,9,08:00 AM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,9,08:00 AM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,9,10:00 AM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,9,10:00 AM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,9,12:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,9,12:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,9,02:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,9,02:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,9,04:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,9,04:00 PM,Low,Weekend_holiday
+Bald Eagle-Otter Lake Regional Park,52,9,06:00 PM,Low,Weekday
+Bald Eagle-Otter Lake Regional Park,52,9,06:00 PM,Low,Weekend_holiday
+Birch Lake Regional Park,53,1,08:00 AM,High,Weekday
+Birch Lake Regional Park,53,1,08:00 AM,High,Weekend_holiday
+Birch Lake Regional Park,53,1,10:00 AM,Low,Weekday
+Birch Lake Regional Park,53,1,10:00 AM,Medium,Weekend_holiday
+Birch Lake Regional Park,53,1,12:00 PM,Low,Weekday
+Birch Lake Regional Park,53,1,12:00 PM,Medium,Weekend_holiday
+Birch Lake Regional Park,53,1,02:00 PM,Low,Weekday
+Birch Lake Regional Park,53,1,02:00 PM,Medium,Weekend_holiday
+Birch Lake Regional Park,53,1,04:00 PM,High,Weekday
+Birch Lake Regional Park,53,1,04:00 PM,Medium,Weekend_holiday
+Birch Lake Regional Park,53,1,06:00 PM,High,Weekday
+Birch Lake Regional Park,53,1,06:00 PM,Medium,Weekend_holiday
+Birch Lake Regional Park,53,3,08:00 AM,Low,Weekday
+Birch Lake Regional Park,53,3,08:00 AM,Low,Weekend_holiday
+Birch Lake Regional Park,53,3,10:00 AM,Low,Weekday
+Birch Lake Regional Park,53,3,10:00 AM,Low,Weekend_holiday
+Birch Lake Regional Park,53,3,12:00 PM,Low,Weekday
+Birch Lake Regional Park,53,3,12:00 PM,Low,Weekend_holiday
+Birch Lake Regional Park,53,3,02:00 PM,Low,Weekday
+Birch Lake Regional Park,53,3,02:00 PM,Low,Weekend_holiday
+Birch Lake Regional Park,53,3,04:00 PM,Low,Weekday
+Birch Lake Regional Park,53,3,04:00 PM,Low,Weekend_holiday
+Birch Lake Regional Park,53,3,06:00 PM,Low,Weekday
+Birch Lake Regional Park,53,3,06:00 PM,Low,Weekend_holiday
+Birch Lake Regional Park,53,4,08:00 AM,Low,Weekday
+Birch Lake Regional Park,53,4,08:00 AM,Low,Weekend_holiday
+Birch Lake Regional Park,53,4,10:00 AM,Low,Weekday
+Birch Lake Regional Park,53,4,10:00 AM,Low,Weekend_holiday
+Birch Lake Regional Park,53,4,12:00 PM,Low,Weekday
+Birch Lake Regional Park,53,4,12:00 PM,Low,Weekend_holiday
+Birch Lake Regional Park,53,4,02:00 PM,Low,Weekday
+Birch Lake Regional Park,53,4,02:00 PM,Low,Weekend_holiday
+Birch Lake Regional Park,53,4,04:00 PM,Low,Weekday
+Birch Lake Regional Park,53,4,04:00 PM,Low,Weekend_holiday
+Birch Lake Regional Park,53,4,06:00 PM,Low,Weekday
+Birch Lake Regional Park,53,4,06:00 PM,Low,Weekend_holiday
+Birch Lake Regional Park,53,5,08:00 AM,Low,Weekday
+Birch Lake Regional Park,53,5,08:00 AM,Low,Weekend_holiday
+Birch Lake Regional Park,53,5,10:00 AM,Low,Weekday
+Birch Lake Regional Park,53,5,10:00 AM,Low,Weekend_holiday
+Birch Lake Regional Park,53,5,12:00 PM,Low,Weekday
+Birch Lake Regional Park,53,5,12:00 PM,Low,Weekend_holiday
+Birch Lake Regional Park,53,5,02:00 PM,Low,Weekday
+Birch Lake Regional Park,53,5,02:00 PM,Low,Weekend_holiday
+Birch Lake Regional Park,53,5,04:00 PM,Low,Weekday
+Birch Lake Regional Park,53,5,04:00 PM,Low,Weekend_holiday
+Birch Lake Regional Park,53,5,06:00 PM,Low,Weekday
+Birch Lake Regional Park,53,5,06:00 PM,Low,Weekend_holiday
+Birch Lake Regional Park,53,6,08:00 AM,Medium,Weekday
+Birch Lake Regional Park,53,6,08:00 AM,High,Weekend_holiday
+Birch Lake Regional Park,53,6,10:00 AM,Low,Weekday
+Birch Lake Regional Park,53,6,10:00 AM,Medium,Weekend_holiday
+Birch Lake Regional Park,53,6,12:00 PM,Low,Weekday
+Birch Lake Regional Park,53,6,12:00 PM,Medium,Weekend_holiday
+Birch Lake Regional Park,53,6,02:00 PM,Low,Weekday
+Birch Lake Regional Park,53,6,02:00 PM,Medium,Weekend_holiday
+Birch Lake Regional Park,53,6,04:00 PM,Medium,Weekday
+Birch Lake Regional Park,53,6,04:00 PM,Medium,Weekend_holiday
+Birch Lake Regional Park,53,6,06:00 PM,Medium,Weekday
+Birch Lake Regional Park,53,6,06:00 PM,Medium,Weekend_holiday
+Birch Lake Regional Park,53,7,08:00 AM,Medium,Weekday
+Birch Lake Regional Park,53,7,08:00 AM,High,Weekend_holiday
+Birch Lake Regional Park,53,7,10:00 AM,Low,Weekday
+Birch Lake Regional Park,53,7,10:00 AM,Medium,Weekend_holiday
+Birch Lake Regional Park,53,7,12:00 PM,Low,Weekday
+Birch Lake Regional Park,53,7,12:00 PM,Medium,Weekend_holiday
+Birch Lake Regional Park,53,7,02:00 PM,Low,Weekday
+Birch Lake Regional Park,53,7,02:00 PM,Medium,Weekend_holiday
+Birch Lake Regional Park,53,7,04:00 PM,Medium,Weekday
+Birch Lake Regional Park,53,7,04:00 PM,Medium,Weekend_holiday
+Birch Lake Regional Park,53,7,06:00 PM,Medium,Weekday
+Birch Lake Regional Park,53,7,06:00 PM,Medium,Weekend_holiday
+Birch Lake Regional Park,53,8,08:00 AM,Low,Weekday
+Birch Lake Regional Park,53,8,08:00 AM,Low,Weekend_holiday
+Birch Lake Regional Park,53,8,10:00 AM,Low,Weekday
+Birch Lake Regional Park,53,8,10:00 AM,Low,Weekend_holiday
+Birch Lake Regional Park,53,8,12:00 PM,Low,Weekday
+Birch Lake Regional Park,53,8,12:00 PM,Low,Weekend_holiday
+Birch Lake Regional Park,53,8,02:00 PM,Low,Weekday
+Birch Lake Regional Park,53,8,02:00 PM,Low,Weekend_holiday
+Birch Lake Regional Park,53,8,04:00 PM,Low,Weekday
+Birch Lake Regional Park,53,8,04:00 PM,Low,Weekend_holiday
+Birch Lake Regional Park,53,8,06:00 PM,Low,Weekday
+Birch Lake Regional Park,53,8,06:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,1,08:00 AM,High,Weekday
+Bruce Vento Regional Trail,54,1,08:00 AM,High,Weekend_holiday
+Bruce Vento Regional Trail,54,1,10:00 AM,Medium,Weekday
+Bruce Vento Regional Trail,54,1,10:00 AM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,1,12:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,1,12:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,1,02:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,1,02:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,1,04:00 PM,High,Weekday
+Bruce Vento Regional Trail,54,1,04:00 PM,High,Weekend_holiday
+Bruce Vento Regional Trail,54,1,06:00 PM,High,Weekday
+Bruce Vento Regional Trail,54,1,06:00 PM,High,Weekend_holiday
+Bruce Vento Regional Trail,54,2,08:00 AM,High,Weekday
+Bruce Vento Regional Trail,54,2,08:00 AM,High,Weekend_holiday
+Bruce Vento Regional Trail,54,2,10:00 AM,Medium,Weekday
+Bruce Vento Regional Trail,54,2,10:00 AM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,2,12:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,2,12:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,2,02:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,2,02:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,2,04:00 PM,High,Weekday
+Bruce Vento Regional Trail,54,2,04:00 PM,High,Weekend_holiday
+Bruce Vento Regional Trail,54,2,06:00 PM,High,Weekday
+Bruce Vento Regional Trail,54,2,06:00 PM,High,Weekend_holiday
+Bruce Vento Regional Trail,54,3,08:00 AM,Medium,Weekday
+Bruce Vento Regional Trail,54,3,08:00 AM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,3,10:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,3,10:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,3,12:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,3,12:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,3,02:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,3,02:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,3,04:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,3,04:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,3,06:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,3,06:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,4,08:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,4,08:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,4,10:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,4,10:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,4,12:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,4,12:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,4,02:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,4,02:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,4,04:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,4,04:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,4,06:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,4,06:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,5,08:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,5,08:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,5,10:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,5,10:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,5,12:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,5,12:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,5,02:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,5,02:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,5,04:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,5,04:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,5,06:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,5,06:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,6,08:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,6,08:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,6,10:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,6,10:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,6,12:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,6,12:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,6,02:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,6,02:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,6,04:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,6,04:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,6,06:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,6,06:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,7,08:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,7,08:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,7,10:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,7,10:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,7,12:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,7,12:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,7,02:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,7,02:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,7,04:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,7,04:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,7,06:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,7,06:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,8,08:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,8,08:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,8,10:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,8,10:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,8,12:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,8,12:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,8,02:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,8,02:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,8,04:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,8,04:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,8,06:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,8,06:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,9,08:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,9,08:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,9,10:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,9,10:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,9,12:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,9,12:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,9,02:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,9,02:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,9,04:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,9,04:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,9,06:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,9,06:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,10,08:00 AM,Medium,Weekday
+Bruce Vento Regional Trail,54,10,08:00 AM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,10,10:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,10,10:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,10,12:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,10,12:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,10,02:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,10,02:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,10,04:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,10,04:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,10,06:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,10,06:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,11,08:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,11,08:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,11,10:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,11,10:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,11,12:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,11,12:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,11,02:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,11,02:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,11,04:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,11,04:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,11,06:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,11,06:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,12,08:00 AM,Medium,Weekday
+Bruce Vento Regional Trail,54,12,08:00 AM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,12,10:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,12,10:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,12,12:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,12,12:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,12,02:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,12,02:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,12,04:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,12,04:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,12,06:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,12,06:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,13,08:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,13,08:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,13,10:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,13,10:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,13,12:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,13,12:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,13,02:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,13,02:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,13,04:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,13,04:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,13,06:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,13,06:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,14,08:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,14,08:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,14,10:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,14,10:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,14,12:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,14,12:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,14,02:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,14,02:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,14,04:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,14,04:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,14,06:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,14,06:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,15,08:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,15,08:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,15,10:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,15,10:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,15,12:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,15,12:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,15,02:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,15,02:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,15,04:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,15,04:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,15,06:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,15,06:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,16,08:00 AM,Medium,Weekday
+Bruce Vento Regional Trail,54,16,08:00 AM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,16,10:00 AM,Medium,Weekday
+Bruce Vento Regional Trail,54,16,10:00 AM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,16,12:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,16,12:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,16,02:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,16,02:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,16,04:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,16,04:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,16,06:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,16,06:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,17,08:00 AM,Medium,Weekday
+Bruce Vento Regional Trail,54,17,08:00 AM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,17,10:00 AM,Low,Weekday
+Bruce Vento Regional Trail,54,17,10:00 AM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,17,12:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,17,12:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,17,02:00 PM,Low,Weekday
+Bruce Vento Regional Trail,54,17,02:00 PM,Low,Weekend_holiday
+Bruce Vento Regional Trail,54,17,04:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,17,04:00 PM,Medium,Weekend_holiday
+Bruce Vento Regional Trail,54,17,06:00 PM,Medium,Weekday
+Bruce Vento Regional Trail,54,17,06:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,1,08:00 AM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,1,08:00 AM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,1,10:00 AM,High,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,1,10:00 AM,High,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,1,12:00 PM,High,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,1,12:00 PM,High,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,1,02:00 PM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,1,02:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,1,04:00 PM,High,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,1,04:00 PM,High,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,1,06:00 PM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,1,06:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,2,08:00 AM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,2,08:00 AM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,2,10:00 AM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,2,10:00 AM,High,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,2,12:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,2,12:00 PM,High,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,2,02:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,2,02:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,2,04:00 PM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,2,04:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,2,06:00 PM,High,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,2,06:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,3,08:00 AM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,3,08:00 AM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,3,10:00 AM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,3,10:00 AM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,3,12:00 PM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,3,12:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,3,02:00 PM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,3,02:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,3,04:00 PM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,3,04:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,3,06:00 PM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,3,06:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,4,08:00 AM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,4,08:00 AM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,4,10:00 AM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,4,10:00 AM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,4,12:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,4,12:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,4,02:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,4,02:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,4,04:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,4,04:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,4,06:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,4,06:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,5,08:00 AM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,5,08:00 AM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,5,10:00 AM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,5,10:00 AM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,5,12:00 PM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,5,12:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,5,02:00 PM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,5,02:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,5,04:00 PM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,5,04:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,5,06:00 PM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,5,06:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,6,08:00 AM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,6,08:00 AM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,6,10:00 AM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,6,10:00 AM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,6,12:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,6,12:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,6,02:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,6,02:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,6,04:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,6,04:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,6,06:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,6,06:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,7,08:00 AM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,7,08:00 AM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,7,10:00 AM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,7,10:00 AM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,7,12:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,7,12:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,7,02:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,7,02:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,7,04:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,7,04:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,7,06:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,7,06:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,8,08:00 AM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,8,08:00 AM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,8,10:00 AM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,8,10:00 AM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,8,12:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,8,12:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,8,02:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,8,02:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,8,04:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,8,04:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,8,06:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,8,06:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,10,08:00 AM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,10,08:00 AM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,10,10:00 AM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,10,10:00 AM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,10,12:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,10,12:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,10,02:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,10,02:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,10,04:00 PM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,10,04:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,10,06:00 PM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,10,06:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,11,08:00 AM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,11,08:00 AM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,11,10:00 AM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,11,10:00 AM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,11,12:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,11,12:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,11,02:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,11,02:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,11,04:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,11,04:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,11,06:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,11,06:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,12,08:00 AM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,12,08:00 AM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,12,10:00 AM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,12,10:00 AM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,12,12:00 PM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,12,12:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,12,02:00 PM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,12,02:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,12,04:00 PM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,12,04:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,12,06:00 PM,Medium,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,12,06:00 PM,Medium,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,13,08:00 AM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,13,08:00 AM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,13,10:00 AM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,13,10:00 AM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,13,12:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,13,12:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,13,02:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,13,02:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,13,04:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,13,04:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,13,06:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,13,06:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,14,08:00 AM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,14,08:00 AM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,14,10:00 AM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,14,10:00 AM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,14,12:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,14,12:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,14,02:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,14,02:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,14,04:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,14,04:00 PM,Low,Weekend_holiday
+Grass-Vadnais-Snail Lake Regional Park,55,14,06:00 PM,Low,Weekday
+Grass-Vadnais-Snail Lake Regional Park,55,14,06:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,1,08:00 AM,Low,Weekday
+Highway 96 Regional Trail,56,1,08:00 AM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,1,10:00 AM,Low,Weekday
+Highway 96 Regional Trail,56,1,10:00 AM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,1,12:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,1,12:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,1,02:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,1,02:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,1,04:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,1,04:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,1,06:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,1,06:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,2,08:00 AM,Medium,Weekday
+Highway 96 Regional Trail,56,2,08:00 AM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,2,10:00 AM,Low,Weekday
+Highway 96 Regional Trail,56,2,10:00 AM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,2,12:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,2,12:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,2,02:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,2,02:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,2,04:00 PM,High,Weekday
+Highway 96 Regional Trail,56,2,04:00 PM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,2,06:00 PM,High,Weekday
+Highway 96 Regional Trail,56,2,06:00 PM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,3,08:00 AM,High,Weekday
+Highway 96 Regional Trail,56,3,08:00 AM,High,Weekend_holiday
+Highway 96 Regional Trail,56,3,10:00 AM,Medium,Weekday
+Highway 96 Regional Trail,56,3,10:00 AM,High,Weekend_holiday
+Highway 96 Regional Trail,56,3,12:00 PM,Medium,Weekday
+Highway 96 Regional Trail,56,3,12:00 PM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,3,02:00 PM,Medium,Weekday
+Highway 96 Regional Trail,56,3,02:00 PM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,3,04:00 PM,High,Weekday
+Highway 96 Regional Trail,56,3,04:00 PM,High,Weekend_holiday
+Highway 96 Regional Trail,56,3,06:00 PM,High,Weekday
+Highway 96 Regional Trail,56,3,06:00 PM,High,Weekend_holiday
+Highway 96 Regional Trail,56,4,08:00 AM,Medium,Weekday
+Highway 96 Regional Trail,56,4,08:00 AM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,4,10:00 AM,Medium,Weekday
+Highway 96 Regional Trail,56,4,10:00 AM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,4,12:00 PM,Medium,Weekday
+Highway 96 Regional Trail,56,4,12:00 PM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,4,02:00 PM,Medium,Weekday
+Highway 96 Regional Trail,56,4,02:00 PM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,4,04:00 PM,Medium,Weekday
+Highway 96 Regional Trail,56,4,04:00 PM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,4,06:00 PM,Medium,Weekday
+Highway 96 Regional Trail,56,4,06:00 PM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,5,08:00 AM,Low,Weekday
+Highway 96 Regional Trail,56,5,08:00 AM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,5,10:00 AM,Low,Weekday
+Highway 96 Regional Trail,56,5,10:00 AM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,5,12:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,5,12:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,5,02:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,5,02:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,5,04:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,5,04:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,5,06:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,5,06:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,6,08:00 AM,Medium,Weekday
+Highway 96 Regional Trail,56,6,08:00 AM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,6,10:00 AM,Low,Weekday
+Highway 96 Regional Trail,56,6,10:00 AM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,6,12:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,6,12:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,6,02:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,6,02:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,6,04:00 PM,Medium,Weekday
+Highway 96 Regional Trail,56,6,04:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,6,06:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,6,06:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,7,08:00 AM,Low,Weekday
+Highway 96 Regional Trail,56,7,08:00 AM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,7,10:00 AM,Low,Weekday
+Highway 96 Regional Trail,56,7,10:00 AM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,7,12:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,7,12:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,7,02:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,7,02:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,7,04:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,7,04:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,7,06:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,7,06:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,8,08:00 AM,High,Weekday
+Highway 96 Regional Trail,56,8,08:00 AM,High,Weekend_holiday
+Highway 96 Regional Trail,56,8,10:00 AM,Low,Weekday
+Highway 96 Regional Trail,56,8,10:00 AM,High,Weekend_holiday
+Highway 96 Regional Trail,56,8,12:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,8,12:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,8,02:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,8,02:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,8,04:00 PM,High,Weekday
+Highway 96 Regional Trail,56,8,04:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,8,06:00 PM,Medium,Weekday
+Highway 96 Regional Trail,56,8,06:00 PM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,9,08:00 AM,Medium,Weekday
+Highway 96 Regional Trail,56,9,08:00 AM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,9,10:00 AM,Low,Weekday
+Highway 96 Regional Trail,56,9,10:00 AM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,9,12:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,9,12:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,9,02:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,9,02:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,9,04:00 PM,Medium,Weekday
+Highway 96 Regional Trail,56,9,04:00 PM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,9,06:00 PM,Medium,Weekday
+Highway 96 Regional Trail,56,9,06:00 PM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,10,08:00 AM,High,Weekday
+Highway 96 Regional Trail,56,10,08:00 AM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,10,10:00 AM,Low,Weekday
+Highway 96 Regional Trail,56,10,10:00 AM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,10,12:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,10,12:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,10,02:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,10,02:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,10,04:00 PM,High,Weekday
+Highway 96 Regional Trail,56,10,04:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,10,06:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,10,06:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,11,08:00 AM,Medium,Weekday
+Highway 96 Regional Trail,56,11,08:00 AM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,11,10:00 AM,Low,Weekday
+Highway 96 Regional Trail,56,11,10:00 AM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,11,12:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,11,12:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,11,02:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,11,02:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,11,04:00 PM,Medium,Weekday
+Highway 96 Regional Trail,56,11,04:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,11,06:00 PM,Medium,Weekday
+Highway 96 Regional Trail,56,11,06:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,12,08:00 AM,Medium,Weekday
+Highway 96 Regional Trail,56,12,08:00 AM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,12,10:00 AM,Low,Weekday
+Highway 96 Regional Trail,56,12,10:00 AM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,12,12:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,12,12:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,12,02:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,12,02:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,12,04:00 PM,Medium,Weekday
+Highway 96 Regional Trail,56,12,04:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,12,06:00 PM,Medium,Weekday
+Highway 96 Regional Trail,56,12,06:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,13,08:00 AM,Low,Weekday
+Highway 96 Regional Trail,56,13,08:00 AM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,13,10:00 AM,Low,Weekday
+Highway 96 Regional Trail,56,13,10:00 AM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,13,12:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,13,12:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,13,02:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,13,02:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,13,04:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,13,04:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,13,06:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,13,06:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,14,08:00 AM,High,Weekday
+Highway 96 Regional Trail,56,14,08:00 AM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,14,10:00 AM,Low,Weekday
+Highway 96 Regional Trail,56,14,10:00 AM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,14,12:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,14,12:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,14,02:00 PM,Low,Weekday
+Highway 96 Regional Trail,56,14,02:00 PM,Low,Weekend_holiday
+Highway 96 Regional Trail,56,14,04:00 PM,High,Weekday
+Highway 96 Regional Trail,56,14,04:00 PM,Medium,Weekend_holiday
+Highway 96 Regional Trail,56,14,06:00 PM,Medium,Weekday
+Highway 96 Regional Trail,56,14,06:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,1,08:00 AM,Medium,Weekday
+Keller Regional Park,58,1,08:00 AM,Medium,Weekend_holiday
+Keller Regional Park,58,1,10:00 AM,Low,Weekday
+Keller Regional Park,58,1,10:00 AM,Medium,Weekend_holiday
+Keller Regional Park,58,1,12:00 PM,Low,Weekday
+Keller Regional Park,58,1,12:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,1,02:00 PM,Low,Weekday
+Keller Regional Park,58,1,02:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,1,04:00 PM,High,Weekday
+Keller Regional Park,58,1,04:00 PM,High,Weekend_holiday
+Keller Regional Park,58,1,06:00 PM,High,Weekday
+Keller Regional Park,58,1,06:00 PM,High,Weekend_holiday
+Keller Regional Park,58,2,08:00 AM,Low,Weekday
+Keller Regional Park,58,2,08:00 AM,Low,Weekend_holiday
+Keller Regional Park,58,2,10:00 AM,Low,Weekday
+Keller Regional Park,58,2,10:00 AM,Low,Weekend_holiday
+Keller Regional Park,58,2,12:00 PM,Low,Weekday
+Keller Regional Park,58,2,12:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,2,02:00 PM,Low,Weekday
+Keller Regional Park,58,2,02:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,2,04:00 PM,Low,Weekday
+Keller Regional Park,58,2,04:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,2,06:00 PM,Low,Weekday
+Keller Regional Park,58,2,06:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,4,08:00 AM,Low,Weekday
+Keller Regional Park,58,4,08:00 AM,Low,Weekend_holiday
+Keller Regional Park,58,4,10:00 AM,Low,Weekday
+Keller Regional Park,58,4,10:00 AM,Medium,Weekend_holiday
+Keller Regional Park,58,4,12:00 PM,Low,Weekday
+Keller Regional Park,58,4,12:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,4,02:00 PM,Low,Weekday
+Keller Regional Park,58,4,02:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,4,04:00 PM,Low,Weekday
+Keller Regional Park,58,4,04:00 PM,Medium,Weekend_holiday
+Keller Regional Park,58,4,06:00 PM,Low,Weekday
+Keller Regional Park,58,4,06:00 PM,Medium,Weekend_holiday
+Keller Regional Park,58,5,08:00 AM,Low,Weekday
+Keller Regional Park,58,5,08:00 AM,Low,Weekend_holiday
+Keller Regional Park,58,5,10:00 AM,Low,Weekday
+Keller Regional Park,58,5,10:00 AM,Medium,Weekend_holiday
+Keller Regional Park,58,5,12:00 PM,Low,Weekday
+Keller Regional Park,58,5,12:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,5,02:00 PM,Low,Weekday
+Keller Regional Park,58,5,02:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,5,04:00 PM,Low,Weekday
+Keller Regional Park,58,5,04:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,5,06:00 PM,Low,Weekday
+Keller Regional Park,58,5,06:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,6,08:00 AM,Low,Weekday
+Keller Regional Park,58,6,08:00 AM,Low,Weekend_holiday
+Keller Regional Park,58,6,10:00 AM,Low,Weekday
+Keller Regional Park,58,6,10:00 AM,Medium,Weekend_holiday
+Keller Regional Park,58,6,12:00 PM,Low,Weekday
+Keller Regional Park,58,6,12:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,6,02:00 PM,Low,Weekday
+Keller Regional Park,58,6,02:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,6,04:00 PM,Low,Weekday
+Keller Regional Park,58,6,04:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,6,06:00 PM,Low,Weekday
+Keller Regional Park,58,6,06:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,7,08:00 AM,Low,Weekday
+Keller Regional Park,58,7,08:00 AM,Medium,Weekend_holiday
+Keller Regional Park,58,7,10:00 AM,Low,Weekday
+Keller Regional Park,58,7,10:00 AM,High,Weekend_holiday
+Keller Regional Park,58,7,12:00 PM,Low,Weekday
+Keller Regional Park,58,7,12:00 PM,High,Weekend_holiday
+Keller Regional Park,58,7,02:00 PM,Low,Weekday
+Keller Regional Park,58,7,02:00 PM,High,Weekend_holiday
+Keller Regional Park,58,7,04:00 PM,High,Weekday
+Keller Regional Park,58,7,04:00 PM,High,Weekend_holiday
+Keller Regional Park,58,7,06:00 PM,Medium,Weekday
+Keller Regional Park,58,7,06:00 PM,Medium,Weekend_holiday
+Keller Regional Park,58,8,08:00 AM,Low,Weekday
+Keller Regional Park,58,8,08:00 AM,Medium,Weekend_holiday
+Keller Regional Park,58,8,10:00 AM,Low,Weekday
+Keller Regional Park,58,8,10:00 AM,Low,Weekend_holiday
+Keller Regional Park,58,8,12:00 PM,Low,Weekday
+Keller Regional Park,58,8,12:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,8,02:00 PM,Low,Weekday
+Keller Regional Park,58,8,02:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,8,04:00 PM,Medium,Weekday
+Keller Regional Park,58,8,04:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,8,06:00 PM,Low,Weekday
+Keller Regional Park,58,8,06:00 PM,Low,Weekend_holiday
+Keller Regional Park,58,9,08:00 AM,Low,Weekday
+Keller Regional Park,58,9,08:00 AM,Medium,Weekend_holiday
+Keller Regional Park,58,9,10:00 AM,Low,Weekday
+Keller Regional Park,58,9,10:00 AM,Medium,Weekend_holiday
+Keller Regional Park,58,9,12:00 PM,Low,Weekday
+Keller Regional Park,58,9,12:00 PM,Medium,Weekend_holiday
+Keller Regional Park,58,9,02:00 PM,Low,Weekday
+Keller Regional Park,58,9,02:00 PM,Medium,Weekend_holiday
+Keller Regional Park,58,9,04:00 PM,Low,Weekday
+Keller Regional Park,58,9,04:00 PM,Medium,Weekend_holiday
+Keller Regional Park,58,9,06:00 PM,Low,Weekday
+Keller Regional Park,58,9,06:00 PM,Medium,Weekend_holiday
+Long Lake Regional Park,59,1,08:00 AM,Low,Weekday
+Long Lake Regional Park,59,1,08:00 AM,Low,Weekend_holiday
+Long Lake Regional Park,59,1,10:00 AM,High,Weekday
+Long Lake Regional Park,59,1,10:00 AM,High,Weekend_holiday
+Long Lake Regional Park,59,1,12:00 PM,High,Weekday
+Long Lake Regional Park,59,1,12:00 PM,High,Weekend_holiday
+Long Lake Regional Park,59,1,02:00 PM,Medium,Weekday
+Long Lake Regional Park,59,1,02:00 PM,Medium,Weekend_holiday
+Long Lake Regional Park,59,1,04:00 PM,High,Weekday
+Long Lake Regional Park,59,1,04:00 PM,High,Weekend_holiday
+Long Lake Regional Park,59,1,06:00 PM,Medium,Weekday
+Long Lake Regional Park,59,1,06:00 PM,Medium,Weekend_holiday
+Long Lake Regional Park,59,2,08:00 AM,Medium,Weekday
+Long Lake Regional Park,59,2,08:00 AM,Medium,Weekend_holiday
+Long Lake Regional Park,59,2,10:00 AM,Low,Weekday
+Long Lake Regional Park,59,2,10:00 AM,Medium,Weekend_holiday
+Long Lake Regional Park,59,2,12:00 PM,Low,Weekday
+Long Lake Regional Park,59,2,12:00 PM,Low,Weekend_holiday
+Long Lake Regional Park,59,2,02:00 PM,Low,Weekday
+Long Lake Regional Park,59,2,02:00 PM,Low,Weekend_holiday
+Long Lake Regional Park,59,2,04:00 PM,Low,Weekday
+Long Lake Regional Park,59,2,04:00 PM,Medium,Weekend_holiday
+Long Lake Regional Park,59,2,06:00 PM,Medium,Weekday
+Long Lake Regional Park,59,2,06:00 PM,Low,Weekend_holiday
+Long Lake Regional Park,59,3,08:00 AM,Low,Weekday
+Long Lake Regional Park,59,3,08:00 AM,Low,Weekend_holiday
+Long Lake Regional Park,59,3,10:00 AM,Low,Weekday
+Long Lake Regional Park,59,3,10:00 AM,Low,Weekend_holiday
+Long Lake Regional Park,59,3,12:00 PM,Low,Weekday
+Long Lake Regional Park,59,3,12:00 PM,Low,Weekend_holiday
+Long Lake Regional Park,59,3,02:00 PM,Low,Weekday
+Long Lake Regional Park,59,3,02:00 PM,Low,Weekend_holiday
+Long Lake Regional Park,59,3,04:00 PM,Low,Weekday
+Long Lake Regional Park,59,3,04:00 PM,Low,Weekend_holiday
+Long Lake Regional Park,59,3,06:00 PM,Low,Weekday
+Long Lake Regional Park,59,3,06:00 PM,Low,Weekend_holiday
+Long Lake Regional Park,59,4,08:00 AM,Low,Weekday
+Long Lake Regional Park,59,4,08:00 AM,Low,Weekend_holiday
+Long Lake Regional Park,59,4,10:00 AM,Low,Weekday
+Long Lake Regional Park,59,4,10:00 AM,Low,Weekend_holiday
+Long Lake Regional Park,59,4,12:00 PM,Low,Weekday
+Long Lake Regional Park,59,4,12:00 PM,Low,Weekend_holiday
+Long Lake Regional Park,59,4,02:00 PM,Low,Weekday
+Long Lake Regional Park,59,4,02:00 PM,Low,Weekend_holiday
+Long Lake Regional Park,59,4,04:00 PM,Low,Weekday
+Long Lake Regional Park,59,4,04:00 PM,Low,Weekend_holiday
+Long Lake Regional Park,59,4,06:00 PM,Low,Weekday
+Long Lake Regional Park,59,4,06:00 PM,Low,Weekend_holiday
+Long Lake Regional Park,59,5,08:00 AM,Low,Weekday
+Long Lake Regional Park,59,5,08:00 AM,Low,Weekend_holiday
+Long Lake Regional Park,59,5,10:00 AM,Low,Weekday
+Long Lake Regional Park,59,5,10:00 AM,Low,Weekend_holiday
+Long Lake Regional Park,59,5,12:00 PM,Low,Weekday
+Long Lake Regional Park,59,5,12:00 PM,Low,Weekend_holiday
+Long Lake Regional Park,59,5,02:00 PM,Low,Weekday
+Long Lake Regional Park,59,5,02:00 PM,Low,Weekend_holiday
+Long Lake Regional Park,59,5,04:00 PM,Low,Weekday
+Long Lake Regional Park,59,5,04:00 PM,Low,Weekend_holiday
+Long Lake Regional Park,59,5,06:00 PM,Low,Weekday
+Long Lake Regional Park,59,5,06:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,1,08:00 AM,High,Weekday
+Rice Creek West Regional Trail,60,1,08:00 AM,High,Weekend_holiday
+Rice Creek West Regional Trail,60,1,10:00 AM,High,Weekday
+Rice Creek West Regional Trail,60,1,10:00 AM,High,Weekend_holiday
+Rice Creek West Regional Trail,60,1,12:00 PM,High,Weekday
+Rice Creek West Regional Trail,60,1,12:00 PM,High,Weekend_holiday
+Rice Creek West Regional Trail,60,1,02:00 PM,High,Weekday
+Rice Creek West Regional Trail,60,1,02:00 PM,High,Weekend_holiday
+Rice Creek West Regional Trail,60,1,04:00 PM,High,Weekday
+Rice Creek West Regional Trail,60,1,04:00 PM,High,Weekend_holiday
+Rice Creek West Regional Trail,60,1,06:00 PM,High,Weekday
+Rice Creek West Regional Trail,60,1,06:00 PM,High,Weekend_holiday
+Rice Creek West Regional Trail,60,2,08:00 AM,Low,Weekday
+Rice Creek West Regional Trail,60,2,08:00 AM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,2,10:00 AM,Low,Weekday
+Rice Creek West Regional Trail,60,2,10:00 AM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,2,12:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,2,12:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,2,02:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,2,02:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,2,04:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,2,04:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,2,06:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,2,06:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,3,08:00 AM,Medium,Weekday
+Rice Creek West Regional Trail,60,3,08:00 AM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,3,10:00 AM,Medium,Weekday
+Rice Creek West Regional Trail,60,3,10:00 AM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,3,12:00 PM,Medium,Weekday
+Rice Creek West Regional Trail,60,3,12:00 PM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,3,02:00 PM,Medium,Weekday
+Rice Creek West Regional Trail,60,3,02:00 PM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,3,04:00 PM,Medium,Weekday
+Rice Creek West Regional Trail,60,3,04:00 PM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,3,06:00 PM,Medium,Weekday
+Rice Creek West Regional Trail,60,3,06:00 PM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,4,08:00 AM,Medium,Weekday
+Rice Creek West Regional Trail,60,4,08:00 AM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,4,10:00 AM,Medium,Weekday
+Rice Creek West Regional Trail,60,4,10:00 AM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,4,12:00 PM,Medium,Weekday
+Rice Creek West Regional Trail,60,4,12:00 PM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,4,02:00 PM,Medium,Weekday
+Rice Creek West Regional Trail,60,4,02:00 PM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,4,04:00 PM,Medium,Weekday
+Rice Creek West Regional Trail,60,4,04:00 PM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,4,06:00 PM,Medium,Weekday
+Rice Creek West Regional Trail,60,4,06:00 PM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,5,08:00 AM,Medium,Weekday
+Rice Creek West Regional Trail,60,5,08:00 AM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,5,10:00 AM,Medium,Weekday
+Rice Creek West Regional Trail,60,5,10:00 AM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,5,12:00 PM,Medium,Weekday
+Rice Creek West Regional Trail,60,5,12:00 PM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,5,02:00 PM,Medium,Weekday
+Rice Creek West Regional Trail,60,5,02:00 PM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,5,04:00 PM,Medium,Weekday
+Rice Creek West Regional Trail,60,5,04:00 PM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,5,06:00 PM,Medium,Weekday
+Rice Creek West Regional Trail,60,5,06:00 PM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,6,08:00 AM,Low,Weekday
+Rice Creek West Regional Trail,60,6,08:00 AM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,6,10:00 AM,Low,Weekday
+Rice Creek West Regional Trail,60,6,10:00 AM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,6,12:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,6,12:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,6,02:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,6,02:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,6,04:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,6,04:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,6,06:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,6,06:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,7,08:00 AM,Medium,Weekday
+Rice Creek West Regional Trail,60,7,08:00 AM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,7,10:00 AM,Medium,Weekday
+Rice Creek West Regional Trail,60,7,10:00 AM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,7,12:00 PM,Medium,Weekday
+Rice Creek West Regional Trail,60,7,12:00 PM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,7,02:00 PM,Medium,Weekday
+Rice Creek West Regional Trail,60,7,02:00 PM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,7,04:00 PM,Medium,Weekday
+Rice Creek West Regional Trail,60,7,04:00 PM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,7,06:00 PM,Medium,Weekday
+Rice Creek West Regional Trail,60,7,06:00 PM,Medium,Weekend_holiday
+Rice Creek West Regional Trail,60,8,08:00 AM,Low,Weekday
+Rice Creek West Regional Trail,60,8,08:00 AM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,8,10:00 AM,Low,Weekday
+Rice Creek West Regional Trail,60,8,10:00 AM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,8,12:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,8,12:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,8,02:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,8,02:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,8,04:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,8,04:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,8,06:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,8,06:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,9,08:00 AM,Low,Weekday
+Rice Creek West Regional Trail,60,9,08:00 AM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,9,10:00 AM,Low,Weekday
+Rice Creek West Regional Trail,60,9,10:00 AM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,9,12:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,9,12:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,9,02:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,9,02:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,9,04:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,9,04:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,9,06:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,9,06:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,10,08:00 AM,Low,Weekday
+Rice Creek West Regional Trail,60,10,08:00 AM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,10,10:00 AM,Low,Weekday
+Rice Creek West Regional Trail,60,10,10:00 AM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,10,12:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,10,12:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,10,02:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,10,02:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,10,04:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,10,04:00 PM,Low,Weekend_holiday
+Rice Creek West Regional Trail,60,10,06:00 PM,Low,Weekday
+Rice Creek West Regional Trail,60,10,06:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,1,08:00 AM,High,Weekend_holiday
+Rice Creek North Regional Trail,61,1,10:00 AM,Medium,Weekend_holiday
+Rice Creek North Regional Trail,61,1,12:00 PM,Medium,Weekend_holiday
+Rice Creek North Regional Trail,61,1,02:00 PM,High,Weekend_holiday
+Rice Creek North Regional Trail,61,1,04:00 PM,Medium,Weekend_holiday
+Rice Creek North Regional Trail,61,1,06:00 PM,Medium,Weekend_holiday
+Rice Creek North Regional Trail,61,2,08:00 AM,Medium,Weekday
+Rice Creek North Regional Trail,61,2,08:00 AM,High,Weekend_holiday
+Rice Creek North Regional Trail,61,2,10:00 AM,Low,Weekday
+Rice Creek North Regional Trail,61,2,10:00 AM,High,Weekend_holiday
+Rice Creek North Regional Trail,61,2,12:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,2,12:00 PM,Medium,Weekend_holiday
+Rice Creek North Regional Trail,61,2,02:00 PM,High,Weekday
+Rice Creek North Regional Trail,61,2,02:00 PM,High,Weekend_holiday
+Rice Creek North Regional Trail,61,2,04:00 PM,High,Weekday
+Rice Creek North Regional Trail,61,2,04:00 PM,High,Weekend_holiday
+Rice Creek North Regional Trail,61,2,06:00 PM,High,Weekday
+Rice Creek North Regional Trail,61,2,06:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,3,08:00 AM,Low,Weekday
+Rice Creek North Regional Trail,61,3,08:00 AM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,3,10:00 AM,Low,Weekday
+Rice Creek North Regional Trail,61,3,10:00 AM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,3,12:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,3,12:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,3,02:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,3,02:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,3,04:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,3,04:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,3,06:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,3,06:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,4,08:00 AM,Low,Weekday
+Rice Creek North Regional Trail,61,4,08:00 AM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,4,10:00 AM,Low,Weekday
+Rice Creek North Regional Trail,61,4,10:00 AM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,4,12:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,4,12:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,4,02:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,4,02:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,4,04:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,4,04:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,4,06:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,4,06:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,5,08:00 AM,Low,Weekday
+Rice Creek North Regional Trail,61,5,08:00 AM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,5,10:00 AM,Low,Weekday
+Rice Creek North Regional Trail,61,5,10:00 AM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,5,12:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,5,12:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,5,02:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,5,02:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,5,04:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,5,04:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,5,06:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,5,06:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,6,08:00 AM,Low,Weekday
+Rice Creek North Regional Trail,61,6,08:00 AM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,6,10:00 AM,Low,Weekday
+Rice Creek North Regional Trail,61,6,10:00 AM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,6,12:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,6,12:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,6,02:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,6,02:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,6,04:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,6,04:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,6,06:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,6,06:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,7,08:00 AM,Low,Weekday
+Rice Creek North Regional Trail,61,7,08:00 AM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,7,10:00 AM,Low,Weekday
+Rice Creek North Regional Trail,61,7,10:00 AM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,7,12:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,7,12:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,7,02:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,7,02:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,7,04:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,7,04:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,7,06:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,7,06:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,8,08:00 AM,Low,Weekday
+Rice Creek North Regional Trail,61,8,08:00 AM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,8,10:00 AM,Low,Weekday
+Rice Creek North Regional Trail,61,8,10:00 AM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,8,12:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,8,12:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,8,02:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,8,02:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,8,04:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,8,04:00 PM,Low,Weekend_holiday
+Rice Creek North Regional Trail,61,8,06:00 PM,Low,Weekday
+Rice Creek North Regional Trail,61,8,06:00 PM,Low,Weekend_holiday
+Trout Brook Regional Trail,98,1,08:00 AM,Low,Weekday
+Trout Brook Regional Trail,98,1,08:00 AM,Medium,Weekend_holiday
+Trout Brook Regional Trail,98,1,10:00 AM,Low,Weekday
+Trout Brook Regional Trail,98,1,10:00 AM,Low,Weekend_holiday
+Trout Brook Regional Trail,98,1,12:00 PM,Low,Weekday
+Trout Brook Regional Trail,98,1,12:00 PM,Low,Weekend_holiday
+Trout Brook Regional Trail,98,1,02:00 PM,Low,Weekday
+Trout Brook Regional Trail,98,1,02:00 PM,Low,Weekend_holiday
+Trout Brook Regional Trail,98,1,04:00 PM,Medium,Weekday
+Trout Brook Regional Trail,98,1,04:00 PM,Low,Weekend_holiday
+Trout Brook Regional Trail,98,1,06:00 PM,Low,Weekday
+Trout Brook Regional Trail,98,1,06:00 PM,Low,Weekend_holiday
+Trout Brook Regional Trail,98,2,08:00 AM,Medium,Weekday
+Trout Brook Regional Trail,98,2,08:00 AM,Medium,Weekend_holiday
+Trout Brook Regional Trail,98,2,10:00 AM,Medium,Weekday
+Trout Brook Regional Trail,98,2,10:00 AM,Medium,Weekend_holiday
+Trout Brook Regional Trail,98,2,12:00 PM,Medium,Weekday
+Trout Brook Regional Trail,98,2,12:00 PM,Medium,Weekend_holiday
+Trout Brook Regional Trail,98,2,02:00 PM,Medium,Weekday
+Trout Brook Regional Trail,98,2,02:00 PM,Medium,Weekend_holiday
+Trout Brook Regional Trail,98,2,04:00 PM,High,Weekday
+Trout Brook Regional Trail,98,2,04:00 PM,Medium,Weekend_holiday
+Trout Brook Regional Trail,98,2,06:00 PM,High,Weekday
+Trout Brook Regional Trail,98,2,06:00 PM,Low,Weekend_holiday
+Trout Brook Regional Trail,98,3,08:00 AM,Low,Weekday
+Trout Brook Regional Trail,98,3,08:00 AM,Medium,Weekend_holiday
+Trout Brook Regional Trail,98,3,10:00 AM,Low,Weekday
+Trout Brook Regional Trail,98,3,10:00 AM,Low,Weekend_holiday
+Trout Brook Regional Trail,98,3,12:00 PM,Low,Weekday
+Trout Brook Regional Trail,98,3,12:00 PM,Low,Weekend_holiday
+Trout Brook Regional Trail,98,3,02:00 PM,Low,Weekday
+Trout Brook Regional Trail,98,3,02:00 PM,Low,Weekend_holiday
+Trout Brook Regional Trail,98,3,04:00 PM,Medium,Weekday
+Trout Brook Regional Trail,98,3,04:00 PM,Low,Weekend_holiday
+Trout Brook Regional Trail,98,3,06:00 PM,Medium,Weekday
+Trout Brook Regional Trail,98,3,06:00 PM,Low,Weekday
+Trout Brook Regional Trail,98,3,06:00 PM,Low,Weekend_holiday
+Trout Brook Regional Trail,98,4,08:00 AM,Low,Weekday
+Trout Brook Regional Trail,98,4,08:00 AM,Medium,Weekend_holiday
+Trout Brook Regional Trail,98,4,10:00 AM,Low,Weekend_holiday
+Trout Brook Regional Trail,98,4,12:00 PM,Low,Weekend_holiday
+Trout Brook Regional Trail,98,4,02:00 PM,Low,Weekend_holiday
+Trout Brook Regional Trail,98,4,04:00 PM,High,Weekday
+Trout Brook Regional Trail,98,4,04:00 PM,Medium,Weekday
+Trout Brook Regional Trail,98,4,04:00 PM,Low,Weekend_holiday
+Trout Brook Regional Trail,98,4,06:00 PM,High,Weekday
+Trout Brook Regional Trail,98,4,06:00 PM,Medium,Weekday
+Trout Brook Regional Trail,98,4,06:00 PM,Low,Weekend_holiday
+Tony Schmidt Regional Park,99,1,08:00 AM,Medium,Weekday
+Tony Schmidt Regional Park,99,1,08:00 AM,High,Weekend_holiday
+Tony Schmidt Regional Park,99,1,10:00 AM,Medium,Weekday
+Tony Schmidt Regional Park,99,1,10:00 AM,High,Weekend_holiday
+Tony Schmidt Regional Park,99,1,12:00 PM,Medium,Weekday
+Tony Schmidt Regional Park,99,1,12:00 PM,High,Weekend_holiday
+Tony Schmidt Regional Park,99,1,02:00 PM,Medium,Weekday
+Tony Schmidt Regional Park,99,1,02:00 PM,High,Weekend_holiday
+Tony Schmidt Regional Park,99,1,04:00 PM,High,Weekday
+Tony Schmidt Regional Park,99,1,04:00 PM,High,Weekend_holiday
+Tony Schmidt Regional Park,99,1,06:00 PM,Medium,Weekday
+Tony Schmidt Regional Park,99,1,06:00 PM,Medium,Weekend_holiday
+Tony Schmidt Regional Park,99,2,08:00 AM,Low,Weekday
+Tony Schmidt Regional Park,99,2,08:00 AM,Low,Weekend_holiday
+Tony Schmidt Regional Park,99,2,10:00 AM,Low,Weekday
+Tony Schmidt Regional Park,99,2,10:00 AM,Low,Weekend_holiday
+Tony Schmidt Regional Park,99,2,12:00 PM,Low,Weekday
+Tony Schmidt Regional Park,99,2,12:00 PM,Low,Weekend_holiday
+Tony Schmidt Regional Park,99,2,02:00 PM,Low,Weekday
+Tony Schmidt Regional Park,99,2,02:00 PM,Low,Weekend_holiday
+Tony Schmidt Regional Park,99,2,04:00 PM,Low,Weekday
+Tony Schmidt Regional Park,99,2,04:00 PM,Low,Weekend_holiday
+Tony Schmidt Regional Park,99,2,06:00 PM,Low,Weekday
+Tony Schmidt Regional Park,99,2,06:00 PM,Low,Weekend_holiday
+Tony Schmidt Regional Park,99,3,08:00 AM,Low,Weekday
+Tony Schmidt Regional Park,99,3,08:00 AM,Low,Weekend_holiday
+Tony Schmidt Regional Park,99,3,10:00 AM,Low,Weekday
+Tony Schmidt Regional Park,99,3,10:00 AM,Low,Weekend_holiday
+Tony Schmidt Regional Park,99,3,12:00 PM,Low,Weekday
+Tony Schmidt Regional Park,99,3,12:00 PM,Low,Weekend_holiday
+Tony Schmidt Regional Park,99,3,02:00 PM,Low,Weekday
+Tony Schmidt Regional Park,99,3,02:00 PM,Low,Weekend_holiday
+Tony Schmidt Regional Park,99,3,04:00 PM,Low,Weekday
+Tony Schmidt Regional Park,99,3,04:00 PM,Low,Weekend_holiday
+Tony Schmidt Regional Park,99,3,06:00 PM,Low,Weekday
+Tony Schmidt Regional Park,99,3,06:00 PM,Low,Weekend_holiday
+Tony Schmidt Regional Park,99,4,08:00 AM,Low,Weekday
+Tony Schmidt Regional Park,99,4,08:00 AM,Low,Weekend_holiday
+Tony Schmidt Regional Park,99,4,10:00 AM,Low,Weekday
+Tony Schmidt Regional Park,99,4,10:00 AM,Low,Weekend_holiday
+Tony Schmidt Regional Park,99,4,12:00 PM,Low,Weekday
+Tony Schmidt Regional Park,99,4,12:00 PM,Low,Weekend_holiday
+Tony Schmidt Regional Park,99,4,02:00 PM,Low,Weekday
+Tony Schmidt Regional Park,99,4,02:00 PM,Low,Weekend_holiday
+Tony Schmidt Regional Park,99,4,04:00 PM,Low,Weekday
+Tony Schmidt Regional Park,99,4,04:00 PM,Low,Weekend_holiday
+Tony Schmidt Regional Park,99,4,06:00 PM,Low,Weekday
+Tony Schmidt Regional Park,99,4,06:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,1,08:00 AM,High,Weekday
+Lakes Link Regional Trail,137,1,08:00 AM,High,Weekend_holiday
+Lakes Link Regional Trail,137,1,10:00 AM,High,Weekday
+Lakes Link Regional Trail,137,1,10:00 AM,High,Weekend_holiday
+Lakes Link Regional Trail,137,1,12:00 PM,High,Weekday
+Lakes Link Regional Trail,137,1,12:00 PM,High,Weekend_holiday
+Lakes Link Regional Trail,137,1,02:00 PM,High,Weekday
+Lakes Link Regional Trail,137,1,02:00 PM,High,Weekend_holiday
+Lakes Link Regional Trail,137,1,04:00 PM,High,Weekday
+Lakes Link Regional Trail,137,1,04:00 PM,High,Weekend_holiday
+Lakes Link Regional Trail,137,1,06:00 PM,High,Weekday
+Lakes Link Regional Trail,137,1,06:00 PM,High,Weekend_holiday
+Lakes Link Regional Trail,137,2,08:00 AM,Low,Weekday
+Lakes Link Regional Trail,137,2,08:00 AM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,2,10:00 AM,Low,Weekday
+Lakes Link Regional Trail,137,2,10:00 AM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,2,12:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,2,12:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,2,02:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,2,02:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,2,04:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,2,04:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,2,06:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,2,06:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,3,08:00 AM,Low,Weekday
+Lakes Link Regional Trail,137,3,08:00 AM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,3,10:00 AM,Low,Weekday
+Lakes Link Regional Trail,137,3,10:00 AM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,3,12:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,3,12:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,3,02:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,3,02:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,3,04:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,3,04:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,3,06:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,3,06:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,4,08:00 AM,Low,Weekday
+Lakes Link Regional Trail,137,4,08:00 AM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,4,10:00 AM,Low,Weekday
+Lakes Link Regional Trail,137,4,10:00 AM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,4,12:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,4,12:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,4,02:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,4,02:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,4,04:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,4,04:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,4,06:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,4,06:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,5,08:00 AM,Low,Weekday
+Lakes Link Regional Trail,137,5,08:00 AM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,5,10:00 AM,Low,Weekday
+Lakes Link Regional Trail,137,5,10:00 AM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,5,12:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,5,12:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,5,02:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,5,02:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,5,04:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,5,04:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,5,06:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,5,06:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,6,08:00 AM,Low,Weekday
+Lakes Link Regional Trail,137,6,08:00 AM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,6,10:00 AM,Low,Weekday
+Lakes Link Regional Trail,137,6,10:00 AM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,6,12:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,6,12:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,6,02:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,6,02:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,6,04:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,6,04:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,6,06:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,6,06:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,7,08:00 AM,Low,Weekday
+Lakes Link Regional Trail,137,7,08:00 AM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,7,10:00 AM,Low,Weekday
+Lakes Link Regional Trail,137,7,10:00 AM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,7,12:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,7,12:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,7,02:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,7,02:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,7,04:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,7,04:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,7,06:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,7,06:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,8,08:00 AM,Low,Weekday
+Lakes Link Regional Trail,137,8,08:00 AM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,8,10:00 AM,Low,Weekday
+Lakes Link Regional Trail,137,8,10:00 AM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,8,12:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,8,12:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,8,02:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,8,02:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,8,04:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,8,04:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,8,06:00 PM,Low,Weekday
+Lakes Link Regional Trail,137,8,06:00 PM,Low,Weekend_holiday
+Lakes Link Regional Trail,137,9,08:00 AM,High,Weekday
+Lakes Link Regional Trail,137,9,08:00 AM,High,Weekend_holiday
+Lakes Link Regional Trail,137,9,10:00 AM,High,Weekday
+Lakes Link Regional Trail,137,9,10:00 AM,High,Weekend_holiday
+Lakes Link Regional Trail,137,9,12:00 PM,High,Weekday
+Lakes Link Regional Trail,137,9,12:00 PM,High,Weekend_holiday
+Lakes Link Regional Trail,137,9,02:00 PM,High,Weekday
+Lakes Link Regional Trail,137,9,02:00 PM,High,Weekend_holiday
+Lakes Link Regional Trail,137,9,04:00 PM,High,Weekday
+Lakes Link Regional Trail,137,9,04:00 PM,High,Weekend_holiday
+Lakes Link Regional Trail,137,9,06:00 PM,High,Weekday
+Lakes Link Regional Trail,137,9,06:00 PM,High,Weekend_holiday

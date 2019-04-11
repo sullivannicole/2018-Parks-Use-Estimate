@@ -1,0 +1,103 @@
+Park_or_trail_name,Park_trail_id,Entrance_name,Entrance_id,Start_time,Usage_class
+Bush and Normandale Lakes Regional Park,11,Bush Lake Beach,1,08:00 AM,Medium
+Bush and Normandale Lakes Regional Park,11,Bush Lake Beach,1,10:00 AM,High
+Bush and Normandale Lakes Regional Park,11,Bush Lake Beach,1,12:00 PM,High
+Bush and Normandale Lakes Regional Park,11,Bush Lake Beach,1,02:00 PM,High
+Bush and Normandale Lakes Regional Park,11,Bush Lake Beach,1,04:00 PM,High
+Bush and Normandale Lakes Regional Park,11,Bush Lake Beach,1,06:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,West Bush Lake - North,2,08:00 AM,Medium
+Bush and Normandale Lakes Regional Park,11,West Bush Lake - North,2,10:00 AM,Medium
+Bush and Normandale Lakes Regional Park,11,West Bush Lake - North,2,12:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,West Bush Lake - North,2,02:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,West Bush Lake - North,2,04:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,West Bush Lake - North,2,06:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,9148 West Bush Lake Road,3,08:00 AM,Low
+Bush and Normandale Lakes Regional Park,11,9148 West Bush Lake Road,3,10:00 AM,Low
+Bush and Normandale Lakes Regional Park,11,9148 West Bush Lake Road,3,12:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,9148 West Bush Lake Road,3,02:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,9148 West Bush Lake Road,3,04:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,9148 West Bush Lake Road,3,06:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,Chalet Road Parking Area,4,08:00 AM,Medium
+Bush and Normandale Lakes Regional Park,11,Chalet Road Parking Area,4,10:00 AM,Medium
+Bush and Normandale Lakes Regional Park,11,Chalet Road Parking Area,4,12:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,Chalet Road Parking Area,4,02:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,Chalet Road Parking Area,4,04:00 PM,High
+Bush and Normandale Lakes Regional Park,11,Chalet Road Parking Area,4,06:00 PM,High
+Bush and Normandale Lakes Regional Park,11,West 85th Street Parking Lot,5,08:00 AM,Low
+Bush and Normandale Lakes Regional Park,11,West 85th Street Parking Lot,5,10:00 AM,Low
+Bush and Normandale Lakes Regional Park,11,West 85th Street Parking Lot,5,12:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,West 85th Street Parking Lot,5,02:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,West 85th Street Parking Lot,5,04:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,West 85th Street Parking Lot,5,06:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,West 84th Street (opposite Normandale Office Park),6,08:00 AM,Low
+Bush and Normandale Lakes Regional Park,11,West 84th Street (opposite Normandale Office Park),6,10:00 AM,Low
+Bush and Normandale Lakes Regional Park,11,West 84th Street (opposite Normandale Office Park),6,12:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,West 84th Street (opposite Normandale Office Park),6,02:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,West 84th Street (opposite Normandale Office Park),6,04:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,West 84th Street (opposite Normandale Office Park),6,06:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,Normandale Road Bridge,7,08:00 AM,Medium
+Bush and Normandale Lakes Regional Park,11,Normandale Road Bridge,7,10:00 AM,Medium
+Bush and Normandale Lakes Regional Park,11,Normandale Road Bridge,7,12:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,Normandale Road Bridge,7,02:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,Normandale Road Bridge,7,04:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,Normandale Road Bridge,7,06:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,Sandro Road/Normandale Lake Drive,8,08:00 AM,Low
+Bush and Normandale Lakes Regional Park,11,Sandro Road/Normandale Lake Drive,8,10:00 AM,Low
+Bush and Normandale Lakes Regional Park,11,Sandro Road/Normandale Lake Drive,8,12:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,Sandro Road/Normandale Lake Drive,8,02:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,Sandro Road/Normandale Lake Drive,8,04:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,Sandro Road/Normandale Lake Drive,8,06:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,West Bush Lake - South,9,08:00 AM,Medium
+Bush and Normandale Lakes Regional Park,11,West Bush Lake - South,9,10:00 AM,Medium
+Bush and Normandale Lakes Regional Park,11,West Bush Lake - South,9,12:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,West Bush Lake - South,9,02:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,West Bush Lake - South,9,04:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,West Bush Lake - South,9,06:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,East Bush Lake Road and 86th Street,10,08:00 AM,Medium
+Bush and Normandale Lakes Regional Park,11,East Bush Lake Road and 86th Street,10,10:00 AM,Medium
+Bush and Normandale Lakes Regional Park,11,East Bush Lake Road and 86th Street,10,12:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,East Bush Lake Road and 86th Street,10,02:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,East Bush Lake Road and 86th Street,10,04:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,East Bush Lake Road and 86th Street,10,06:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,Oregon Avenue South and East Bush Lake Road,11,08:00 AM,Low
+Bush and Normandale Lakes Regional Park,11,Oregon Avenue South and East Bush Lake Road,11,10:00 AM,Low
+Bush and Normandale Lakes Regional Park,11,Oregon Avenue South and East Bush Lake Road,11,12:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,Oregon Avenue South and East Bush Lake Road,11,02:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,Oregon Avenue South and East Bush Lake Road,11,04:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,Oregon Avenue South and East Bush Lake Road,11,06:00 PM,Low
+Bush and Normandale Lakes Regional Park,11,NA,12,08:00 AM,Medium
+Bush and Normandale Lakes Regional Park,11,NA,12,10:00 AM,Medium
+Bush and Normandale Lakes Regional Park,11,NA,12,12:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,NA,12,02:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,NA,12,04:00 PM,Medium
+Bush and Normandale Lakes Regional Park,11,NA,12,06:00 PM,Medium
+Nokomis-Minnesota River Bluffs Regional Trail,140,East 84th Street and Old Cedar Avenue,1,08:00 AM,Low
+Nokomis-Minnesota River Bluffs Regional Trail,140,East 84th Street and Old Cedar Avenue,1,10:00 AM,Low
+Nokomis-Minnesota River Bluffs Regional Trail,140,East 84th Street and Old Cedar Avenue,1,12:00 PM,Medium
+Nokomis-Minnesota River Bluffs Regional Trail,140,East 84th Street and Old Cedar Avenue,1,02:00 PM,Medium
+Nokomis-Minnesota River Bluffs Regional Trail,140,East 84th Street and Old Cedar Avenue,1,04:00 PM,Low
+Nokomis-Minnesota River Bluffs Regional Trail,140,East 84th Street and Old Cedar Avenue,1,06:00 PM,Low
+Nokomis-Minnesota River Bluffs Regional Trail,140,Junction of Old Cedar Avenue and Old Shakopee Road,2,08:00 AM,Low
+Nokomis-Minnesota River Bluffs Regional Trail,140,Junction of Old Cedar Avenue and Old Shakopee Road,2,10:00 AM,Low
+Nokomis-Minnesota River Bluffs Regional Trail,140,Junction of Old Cedar Avenue and Old Shakopee Road,2,12:00 PM,Low
+Nokomis-Minnesota River Bluffs Regional Trail,140,Junction of Old Cedar Avenue and Old Shakopee Road,2,02:00 PM,Low
+Nokomis-Minnesota River Bluffs Regional Trail,140,Junction of Old Cedar Avenue and Old Shakopee Road,2,04:00 PM,Low
+Nokomis-Minnesota River Bluffs Regional Trail,140,Junction of Old Cedar Avenue and Old Shakopee Road,2,06:00 PM,Low
+Nokomis-Minnesota River Bluffs Regional Trail,140,Junction of American Boulevard and 12th Avenue,3,08:00 AM,Medium
+Nokomis-Minnesota River Bluffs Regional Trail,140,Junction of American Boulevard and 12th Avenue,3,10:00 AM,High
+Nokomis-Minnesota River Bluffs Regional Trail,140,Junction of American Boulevard and 12th Avenue,3,12:00 PM,High
+Nokomis-Minnesota River Bluffs Regional Trail,140,Junction of American Boulevard and 12th Avenue,3,02:00 PM,High
+Nokomis-Minnesota River Bluffs Regional Trail,140,Junction of American Boulevard and 12th Avenue,3,04:00 PM,Medium
+Nokomis-Minnesota River Bluffs Regional Trail,140,Junction of American Boulevard and 12th Avenue,3,06:00 PM,Medium
+Nokomis-Minnesota River Bluffs Regional Trail,140,Junction of American Boulevard and Old Cedar Avenue,4,08:00 AM,High
+Nokomis-Minnesota River Bluffs Regional Trail,140,Junction of American Boulevard and Old Cedar Avenue,4,10:00 AM,High
+Nokomis-Minnesota River Bluffs Regional Trail,140,Junction of American Boulevard and Old Cedar Avenue,4,12:00 PM,High
+Nokomis-Minnesota River Bluffs Regional Trail,140,Junction of American Boulevard and Old Cedar Avenue,4,02:00 PM,High
+Nokomis-Minnesota River Bluffs Regional Trail,140,Junction of American Boulevard and Old Cedar Avenue,4,04:00 PM,High
+Nokomis-Minnesota River Bluffs Regional Trail,140,Junction of American Boulevard and Old Cedar Avenue,4,06:00 PM,High
+Nokomis-Minnesota River Bluffs Regional Trail,140,East 86th Street and Old Cedar Avenue,5,08:00 AM,Low
+Nokomis-Minnesota River Bluffs Regional Trail,140,East 86th Street and Old Cedar Avenue,5,10:00 AM,Medium
+Nokomis-Minnesota River Bluffs Regional Trail,140,East 86th Street and Old Cedar Avenue,5,12:00 PM,Medium
+Nokomis-Minnesota River Bluffs Regional Trail,140,East 86th Street and Old Cedar Avenue,5,02:00 PM,Medium
+Nokomis-Minnesota River Bluffs Regional Trail,140,East 86th Street and Old Cedar Avenue,5,04:00 PM,Medium
+Nokomis-Minnesota River Bluffs Regional Trail,140,East 86th Street and Old Cedar Avenue,5,06:00 PM,Low

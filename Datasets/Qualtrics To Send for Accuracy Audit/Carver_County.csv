@@ -1,0 +1,68 @@
+Q29,Q1,Q8,Q17,Q17_1,Q19,Q21,Q26,Q27,Q28,Q21_1,Q22,Q23,Q24,Q26_1,Q27_1
+What are your initials?,Agency Name,Park or Trail,Site Entrance Number,What month is it?,What day of the month is it?,What is the year?,Which timeslot best represents the time you will be onsite to conduct the count?,Is this a scheduled count? (was this count originally scheduled for the date and timeblock previously indicated?),"If not, when was it scheduled? Include date and time.","Bikes
+
+Indicate total number of bikes, tricycles, unicycles, motorcycles. Count people, not the number of bikes. If there are 2 people on 1 bike, count it as 2.","Pedestrian/Skaters
+
+Indicate total number of walkers, joggers, runners, baby strollers, skateboarders, inline and roller skaters, people in wheelchairs, etc.","Vehicles
+
+Indicate total number of cars, vans, pickup trucks, and metro mobility van/buses.
+
+Count the number of vehicles, not the number of people in them.","Buses
+
+Indicate total number of charter, school, church group vehicles that hold more than 8 people. Be sure that the bus enters the park. Metro Transit buses on regular routes never enter parks and are NOT counted. 
+
+Count the number of buses, not the number of people in them.","Horse Riders
+
+Indicate total number of people on horses, not the number of horses. Two people on one horse =2 visits. Do not count mounted police or park patrols.","Boaters
+
+Indicate total number of people arriving at the park by boat, not those towing a boat (that's counted in the vehicle category)."
+AW,Carver County,Minnesota River Bluffs Regional Trail,1,June,3,2018,12:00-2:00 PM,Yes,NA,16,4,0,0,0,0
+AW,Carver County,Southwest Regional Trail,1,June,3,2018,10:00-12:00 PM,Yes,NA,7,10,0,0,0,0
+AW,Carver County,Lake Minnewashta Regional Park,2,June,8,2018,2:00-4:00 PM,Yes,NA,0,10,0,0,0,0
+AW,Carver County,Minnesota River Bluffs Regional Trail,6,June,8,2018,10:00-12:00 PM,Yes,NA,0,0,0,0,0,0
+AW,Carver County,Southwest Regional Trail,3,June,8,2018,8:00-10:00 AM,Yes,NA,2,1,0,0,0,0
+AW,Carver County,Lake Minnewashta Regional Park,1,June,10,2018,4:00-6:00 PM,Yes,NA,0,0,52,0,0,0
+AW,Carver County,Lake Minnewashta Regional Park,2,June,17,2018,8:00-10:00 AM,Yes,NA,0,0,0,0,0,0
+AW,Carver County,Lake Minnewashta Regional Park,1,June,20,2018,10:00-12:00 PM,Yes,NA,0,0,44,0,0,0
+AW,Carver County,Southwest Regional Trail,2,June,23,2018,2:00-4:00 PM,Yes,NA,19,11,0,0,0,0
+AW,Carver County,Minnesota River Bluffs Regional Trail,8,June,23,2018,2:00-4:00 PM,Yes,NA,1,0,0,0,0,0
+AW,Carver County,Lake Minnewashta Regional Park,1,June,24,2018,10:00-12:00 PM,Yes,NA,0,0,50,0,0,0
+AW,Carver County,Minnesota River Bluffs Regional Trail,2,June,25,2018,10:00-12:00 PM,Yes,NA,5,2,0,0,0,0
+AW,Carver County,Southwest Regional Trail,2,June,25,2018,12:00-2:00 PM,Yes,NA,12,17,0,0,0,0
+AW,Carver County,Minnesota River Bluffs Regional Trail,6,June,30,2018,6:00-8:00 PM,Yes,NA,0,10,0,0,0,0
+AW,Carver County,Southwest Regional Trail,2,June,30,2018,4:00-6:00 PM,Yes,NA,4,1,0,0,0,0
+AW,Carver County,Lake Minnewashta Regional Park,1,July,2,2018,8:00-10:00 AM,Yes,NA,0,45,0,0,0,0
+AW,Carver County,Minnesota River Bluffs Regional Trail,8,July,2,2018,6:00-8:00 PM,Yes,NA,3,1,0,0,0,0
+AW,Carver County,Southwest Regional Trail,2,July,2,2018,4:00-6:00 PM,Yes,NA,4,11,0,0,0,0
+AW,Carver County,Minnesota River Bluffs Regional Trail,1,July,7,2018,12:00-2:00 PM,Yes,NA,5,7,0,0,0,0
+AW,Carver County,Southwest Regional Trail,4,July,7,2018,2:00-4:00 PM,Yes,NA,1,0,0,0,0,0
+AW,Carver County,Lake Minnewashta Regional Park,1,July,7,2018,6:00-8:00 PM,Yes,NA,0,0,37,0,0,0
+AW,Carver County,Lake Minnewashta Regional Park,1,July,8,2018,4:00-6:00 PM,Yes,NA,0,0,61,0,0,0
+AW,Carver County,Lake Minnewashta Regional Park,1,July,11,2018,8:00-10:00 AM,Yes,NA,0,0,27,0,0,0
+AH,Carver County,Baylor Regional Park,1,July,7,2018,10:00-12:00 PM,Yes,NA,0,0,8,0,0,0
+AH,Carver County,Lake Waconia Regional Park,1,July,7,2018,12:00-2:00 PM,Yes,NA,0,2,63,0,0,0
+AH,Carver County,Dakota Rail Regional Trail,8,June,5,2018,2:00-4:00 PM,Yes,NA,22,2,0,0,0,0
+AH,Carver County,Southwest Regional Trail,2,May,29,2018,12:00-2:00 PM,Yes,NA,8,15,0,0,0,0
+AH,Carver County,Minnesota River Bluffs Regional Trail,2,May,29,2018,2:00-4:00 PM,Yes,NA,0,2,0,0,0,0
+AH,Carver County,Lake Minnewashta Regional Park,1,June,21,2018,12:00-2:00 PM,Yes,NA,0,0,37,0,0,0
+AW,Carver County,Minnesota River Bluffs Regional Trail,1,July,15,2018,6:00-8:00 PM,Yes,NA,5,5,0,0,0,0
+AW,Carver County,Southwest Regional Trail,2,July,15,2018,4:00-6:00 PM,Yes,NA,13,14,0,0,0,0
+AH,Carver County,Lake Minnewashta Regional Park,1,July,28,2018,4:00-6:00 PM,Yes,NA,0,0,66,0,0,0
+AW,Carver County,Southwest Regional Trail,1,August,10,2018,6:00-8:00 PM,Yes,NA,6,2,0,0,0,0
+AW,Carver County,Minnesota River Bluffs Regional Trail,2,August,10,2018,4:00-6:00 PM,Yes,NA,5,7,0,0,0,0
+AW,Carver County,Lake Minnewashta Regional Park,1,August,10,2018,10:00-12:00 PM,Yes,NA,0,0,44,0,0,0
+AW,Carver County,Southwest Regional Trail,4,August,9,2018,12:00-2:00 PM,Yes,NA,2,0,0,0,0,0
+AW,Carver County,Minnesota River Bluffs Regional Trail,3,August,9,2018,10:00-12:00 PM,Yes,NA,0,2,0,0,0,0
+AW,Carver County,Minnesota River Bluffs Regional Trail,2,August,4,2018,10:00-12:00 PM,Yes,NA,0,2,0,0,0,0
+AW,Carver County,Southwest Regional Trail,1,August,4,2018,8:00-10:00 AM,Yes,NA,0,7,0,0,0,0
+AW,Carver County,Minnesota River Bluffs Regional Trail,8,August,1,2018,10:00-12:00 PM,Yes,NA,1,1,0,0,0,0
+AW,Carver County,Southwest Regional Trail,1,August,1,2018,8:00-10:00 AM,Yes,NA,0,4,0,0,0,0
+AW,Carver County,Lake Minnewashta Regional Park,1,August,31,2018,6:00-8:00 PM,Yes,NA,0,0,24,0,0,0
+AW,Carver County,Baylor Regional Park,1,August,29,2018,6:00-8:00 PM,Yes,NA,2,0,5,0,0,0
+AW,Carver County,Southwest Regional Trail,1,September,1,2018,4:00-6:00 PM,Yes,NA,14,2,0,0,0,0
+AW,Carver County,Minnesota River Bluffs Regional Trail,6,September,1,2018,8:00-10:00 AM,Yes,NA,1,9,0,0,0,0
+AW,Carver County,Southwest Regional Trail,2,September,3,2018,8:00-10:00 AM,Yes,NA,19,17,0,0,0,0
+AW,Carver County,Lake Minnewashta Regional Park,1,September,3,2018,10:00-12:00 PM,Yes,NA,0,0,86,0,0,0
+AW,Carver County,Baylor Regional Park,1,August,30,2018,6:00-8:00 PM,Yes,NA,2,0,5,0,0,0
+AW,Carver County,Minnesota River Bluffs Regional Trail,6,August,27,2018,10:00-12:00 PM,Yes,NA,0,0,0,0,0,0
+AW,Carver County,Lake Minnewashta Regional Park,1,August,26,2018,2:00-4:00 PM,Yes,NA,37,3,0,0,0,0

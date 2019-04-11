@@ -1,0 +1,73 @@
+"0","```r
+setwd('Datasets/Former Class Workbooks/')
+```"
+"1","The working directory was changed to N:/CommDev/Research/Research/Parks_Regional/_Annual visitor use estimates_copied from parks folder AND updated/2018 Use Estimate Creation/Datasets/Former Class Workbooks inside a notebook chunk. The working directory will be reset when the chunk is finished running. Use the knitr root.dir option in the setup chunk to change the working directory for notebook chunks.
+"
+"0","```r
+parks_classes_18 <- list.files(pattern = '*.csv')
+list2env(map(set_names(parks_classes_18, gsub('.csv$', '', parks_classes_18)), read_csv), envir = .GlobalEnv)
+```"
+"1","Parsed with column specification:
+cols(
+  .default = col_character()
+)
+See spec(...) for full column specifications.
+Parsed with column specification:
+cols(
+  .default = col_integer(),
+  `Park:` = col_character()
+)
+See spec(...) for full column specifications.
+Parsed with column specification:
+cols(
+  .default = col_character()
+)
+See spec(...) for full column specifications.
+Parsed with column specification:
+cols(
+  .default = col_character()
+)
+See spec(...) for full column specifications.
+Parsed with column specification:
+cols(
+  .default = col_character()
+)
+See spec(...) for full column specifications.
+Parsed with column specification:
+cols(
+  .default = col_character()
+)
+See spec(...) for full column specifications.
+Parsed with column specification:
+cols(
+  .default = col_character()
+)
+See spec(...) for full column specifications.
+Parsed with column specification:
+cols(
+  .default = col_character()
+)
+See spec(...) for full column specifications.
+Parsed with column specification:
+cols(
+  .default = col_character()
+)
+See spec(...) for full column specifications.
+Parsed with column specification:
+cols(
+  .default = col_character()
+)
+See spec(...) for full column specifications.
+Parsed with column specification:
+cols(
+  .default = col_character()
+)
+See spec(...) for full column specifications.
+"
+"1","<environment: R_GlobalEnv>
+"
+"0","```r
+all_agencies_classes <- list(Anoka_County, Bloomington, Carver_County, Dakota_County, Minneapolis_Park_and_Recreation_Board, Saint_Paul, Scott_County, Three_Rivers_Park_District, Washington_County)
+agencies_class_tidy <- map(all_agencies_classes, tidy_sample_class_wkbk)
+agencies_class_bound <- do.call(bind_rows, agencies_class_tidy)
+```"

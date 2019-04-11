@@ -1,0 +1,1864 @@
+Park_name,Park_id,Entrance,Start_time,Usage_class
+Cedar Lake Regional Trail,41,1,08:00 AM,Medium
+Cedar Lake Regional Trail,41,1,10:00 AM,Medium
+Cedar Lake Regional Trail,41,1,12:00 PM,Medium
+Cedar Lake Regional Trail,41,1,02:00 PM,Medium
+Cedar Lake Regional Trail,41,1,04:00 PM,Medium
+Cedar Lake Regional Trail,41,1,06:00 PM,Medium
+Cedar Lake Regional Trail,41,2,08:00 AM,Low
+Cedar Lake Regional Trail,41,2,10:00 AM,Low
+Cedar Lake Regional Trail,41,2,12:00 PM,Low
+Cedar Lake Regional Trail,41,2,02:00 PM,Low
+Cedar Lake Regional Trail,41,2,04:00 PM,Low
+Cedar Lake Regional Trail,41,2,06:00 PM,Low
+Cedar Lake Regional Trail,41,3,08:00 AM,High
+Cedar Lake Regional Trail,41,3,10:00 AM,Medium
+Cedar Lake Regional Trail,41,3,12:00 PM,Medium
+Cedar Lake Regional Trail,41,3,02:00 PM,Medium
+Cedar Lake Regional Trail,41,3,04:00 PM,Medium
+Cedar Lake Regional Trail,41,3,06:00 PM,High
+Cedar Lake Regional Trail,41,4,08:00 AM,Low
+Cedar Lake Regional Trail,41,4,10:00 AM,Low
+Cedar Lake Regional Trail,41,4,12:00 PM,Low
+Cedar Lake Regional Trail,41,4,02:00 PM,Low
+Cedar Lake Regional Trail,41,4,04:00 PM,Low
+Cedar Lake Regional Trail,41,4,06:00 PM,Low
+Cedar Lake Regional Trail,41,5,08:00 AM,High
+Cedar Lake Regional Trail,41,5,10:00 AM,Medium
+Cedar Lake Regional Trail,41,5,12:00 PM,Medium
+Cedar Lake Regional Trail,41,5,02:00 PM,Medium
+Cedar Lake Regional Trail,41,5,04:00 PM,High
+Cedar Lake Regional Trail,41,5,06:00 PM,High
+Cedar Lake Regional Trail,41,6,08:00 AM,High
+Cedar Lake Regional Trail,41,6,10:00 AM,Medium
+Cedar Lake Regional Trail,41,6,12:00 PM,Medium
+Cedar Lake Regional Trail,41,6,02:00 PM,Medium
+Cedar Lake Regional Trail,41,6,04:00 PM,High
+Cedar Lake Regional Trail,41,6,06:00 PM,High
+Cedar Lake Regional Trail,41,7,08:00 AM,High
+Cedar Lake Regional Trail,41,7,10:00 AM,Medium
+Cedar Lake Regional Trail,41,7,12:00 PM,Medium
+Cedar Lake Regional Trail,41,7,02:00 PM,Medium
+Cedar Lake Regional Trail,41,7,04:00 PM,High
+Cedar Lake Regional Trail,41,7,06:00 PM,High
+Cedar Lake Regional Trail,41,8,08:00 AM,Medium
+Cedar Lake Regional Trail,41,8,10:00 AM,Medium
+Cedar Lake Regional Trail,41,8,12:00 PM,Medium
+Cedar Lake Regional Trail,41,8,02:00 PM,Medium
+Cedar Lake Regional Trail,41,8,04:00 PM,Medium
+Cedar Lake Regional Trail,41,8,06:00 PM,Medium
+Cedar Lake Regional Trail,41,10,08:00 AM,Medium
+Cedar Lake Regional Trail,41,10,10:00 AM,Medium
+Cedar Lake Regional Trail,41,10,12:00 PM,Medium
+Cedar Lake Regional Trail,41,10,02:00 PM,Medium
+Cedar Lake Regional Trail,41,10,04:00 PM,Medium
+Cedar Lake Regional Trail,41,10,06:00 PM,Medium
+Cedar Lake Regional Trail,41,11,08:00 AM,Low
+Cedar Lake Regional Trail,41,11,10:00 AM,Low
+Cedar Lake Regional Trail,41,11,12:00 PM,Low
+Cedar Lake Regional Trail,41,11,02:00 PM,Low
+Cedar Lake Regional Trail,41,11,04:00 PM,Low
+Cedar Lake Regional Trail,41,11,06:00 PM,Low
+Cedar Lake Regional Trail,41,13,08:00 AM,High
+Cedar Lake Regional Trail,41,13,10:00 AM,High
+Cedar Lake Regional Trail,41,13,12:00 PM,Medium
+Cedar Lake Regional Trail,41,13,02:00 PM,Medium
+Cedar Lake Regional Trail,41,13,04:00 PM,High
+Cedar Lake Regional Trail,41,13,06:00 PM,High
+Cedar Lake Regional Trail,41,14,08:00 AM,High
+Cedar Lake Regional Trail,41,14,10:00 AM,High
+Cedar Lake Regional Trail,41,14,12:00 PM,Medium
+Cedar Lake Regional Trail,41,14,02:00 PM,Medium
+Cedar Lake Regional Trail,41,14,04:00 PM,High
+Cedar Lake Regional Trail,41,14,06:00 PM,High
+Central Mississippi Riverfront Regional Park,42,1,08:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,1,10:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,1,12:00 PM,High
+Central Mississippi Riverfront Regional Park,42,1,02:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,1,04:00 PM,High
+Central Mississippi Riverfront Regional Park,42,1,06:00 PM,High
+Central Mississippi Riverfront Regional Park,42,3,08:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,3,10:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,3,12:00 PM,High
+Central Mississippi Riverfront Regional Park,42,3,02:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,3,04:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,3,06:00 PM,High
+Central Mississippi Riverfront Regional Park,42,4,08:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,4,10:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,4,12:00 PM,High
+Central Mississippi Riverfront Regional Park,42,4,02:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,4,04:00 PM,High
+Central Mississippi Riverfront Regional Park,42,4,06:00 PM,High
+Central Mississippi Riverfront Regional Park,42,5,08:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,5,10:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,5,12:00 PM,High
+Central Mississippi Riverfront Regional Park,42,5,02:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,5,04:00 PM,High
+Central Mississippi Riverfront Regional Park,42,5,06:00 PM,High
+Central Mississippi Riverfront Regional Park,42,6,08:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,6,10:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,6,12:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,6,02:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,6,04:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,6,06:00 PM,High
+Central Mississippi Riverfront Regional Park,42,7,08:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,7,10:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,7,12:00 PM,High
+Central Mississippi Riverfront Regional Park,42,7,02:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,7,04:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,7,06:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,10,08:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,10,10:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,10,12:00 PM,High
+Central Mississippi Riverfront Regional Park,42,10,02:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,10,04:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,10,06:00 PM,High
+Central Mississippi Riverfront Regional Park,42,11,08:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,11,10:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,11,12:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,11,02:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,11,04:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,11,06:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,12,08:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,12,10:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,12,12:00 PM,High
+Central Mississippi Riverfront Regional Park,42,12,02:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,12,04:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,12,06:00 PM,High
+Central Mississippi Riverfront Regional Park,42,13,08:00 AM,High
+Central Mississippi Riverfront Regional Park,42,13,10:00 AM,High
+Central Mississippi Riverfront Regional Park,42,13,12:00 PM,High
+Central Mississippi Riverfront Regional Park,42,13,02:00 PM,High
+Central Mississippi Riverfront Regional Park,42,13,04:00 PM,High
+Central Mississippi Riverfront Regional Park,42,13,06:00 PM,High
+Central Mississippi Riverfront Regional Park,42,17,08:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,17,10:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,17,12:00 PM,High
+Central Mississippi Riverfront Regional Park,42,17,02:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,17,04:00 PM,High
+Central Mississippi Riverfront Regional Park,42,17,06:00 PM,High
+Central Mississippi Riverfront Regional Park,42,18,08:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,18,10:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,18,12:00 PM,High
+Central Mississippi Riverfront Regional Park,42,18,02:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,18,04:00 PM,High
+Central Mississippi Riverfront Regional Park,42,18,06:00 PM,High
+Central Mississippi Riverfront Regional Park,42,19,08:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,19,10:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,19,12:00 PM,High
+Central Mississippi Riverfront Regional Park,42,19,02:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,19,04:00 PM,High
+Central Mississippi Riverfront Regional Park,42,19,06:00 PM,High
+Central Mississippi Riverfront Regional Park,42,20,08:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,20,10:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,20,12:00 PM,High
+Central Mississippi Riverfront Regional Park,42,20,02:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,20,04:00 PM,High
+Central Mississippi Riverfront Regional Park,42,20,06:00 PM,High
+Central Mississippi Riverfront Regional Park,42,21,08:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,21,10:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,21,12:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,21,02:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,21,04:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,21,06:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,22,08:00 AM,Low
+Central Mississippi Riverfront Regional Park,42,22,10:00 AM,Low
+Central Mississippi Riverfront Regional Park,42,22,12:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,22,02:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,22,04:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,22,06:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,23,08:00 AM,Low
+Central Mississippi Riverfront Regional Park,42,23,10:00 AM,Low
+Central Mississippi Riverfront Regional Park,42,23,12:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,23,02:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,23,04:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,23,06:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,24,08:00 AM,Low
+Central Mississippi Riverfront Regional Park,42,24,10:00 AM,Low
+Central Mississippi Riverfront Regional Park,42,24,12:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,24,02:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,24,04:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,24,06:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,25,08:00 AM,Low
+Central Mississippi Riverfront Regional Park,42,25,10:00 AM,Low
+Central Mississippi Riverfront Regional Park,42,25,12:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,25,02:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,25,04:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,25,06:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,26,08:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,26,10:00 AM,Low
+Central Mississippi Riverfront Regional Park,42,26,12:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,26,02:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,26,04:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,26,06:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,27,08:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,27,10:00 AM,Medium
+Central Mississippi Riverfront Regional Park,42,27,12:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,27,02:00 PM,Low
+Central Mississippi Riverfront Regional Park,42,27,04:00 PM,Medium
+Central Mississippi Riverfront Regional Park,42,27,06:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,1,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,1,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,1,12:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,1,02:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,1,04:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,1,06:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,2,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,2,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,2,12:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,2,02:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,2,04:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,2,06:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,3,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,3,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,3,12:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,3,02:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,3,04:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,3,06:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,4,08:00 AM,High
+Minneapolis Chain of Lakes Regional Park,43,4,10:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,4,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,4,06:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,5,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,5,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,5,12:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,5,02:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,5,04:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,5,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,6,08:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,6,10:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,6,12:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,6,02:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,6,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,6,06:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,7,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,7,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,7,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,7,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,7,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,7,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,8,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,8,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,8,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,8,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,8,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,8,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,10,08:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,10,10:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,10,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,10,06:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,11,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,11,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,11,04:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,11,06:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,12,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,12,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,12,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,12,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,12,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,12,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,13,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,13,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,13,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,13,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,13,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,13,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,14,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,14,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,14,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,14,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,14,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,14,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,15,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,15,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,15,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,15,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,15,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,15,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,16,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,16,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,16,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,16,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,16,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,16,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,17,08:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,17,10:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,17,12:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,17,02:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,17,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,17,06:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,18,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,18,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,18,12:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,18,02:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,18,04:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,18,06:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,19,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,19,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,19,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,19,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,19,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,19,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,21,08:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,21,10:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,21,12:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,21,02:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,21,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,21,06:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,22,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,22,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,22,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,22,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,22,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,22,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,23,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,23,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,23,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,23,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,23,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,23,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,24,08:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,24,10:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,24,12:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,24,02:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,24,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,24,06:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,25,08:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,25,10:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,25,12:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,25,02:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,25,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,25,06:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,26,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,26,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,26,12:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,26,02:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,26,04:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,26,06:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,27,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,27,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,27,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,27,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,27,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,27,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,28,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,28,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,28,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,28,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,28,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,28,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,29,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,29,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,29,12:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,29,02:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,29,04:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,29,06:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,30,08:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,30,10:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,30,12:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,30,02:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,30,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,30,06:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,31,08:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,31,10:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,31,12:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,31,02:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,31,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,31,06:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,32,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,32,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,32,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,32,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,32,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,32,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,33,08:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,33,10:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,33,12:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,33,02:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,33,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,33,06:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,34,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,34,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,34,12:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,34,02:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,34,04:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,34,06:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,35,08:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,35,10:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,35,12:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,35,02:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,35,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,35,06:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,36,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,36,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,36,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,36,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,36,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,36,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,37,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,37,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,37,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,37,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,37,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,37,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,38,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,38,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,38,12:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,38,02:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,38,04:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,38,06:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,39,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,39,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,39,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,39,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,39,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,39,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,40,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,40,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,40,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,40,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,40,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,40,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,41,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,41,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,41,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,41,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,41,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,41,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,42,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,42,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,42,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,42,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,42,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,42,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,43,08:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,43,10:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,43,12:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,43,02:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,43,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,43,06:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,44,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,44,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,44,12:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,44,02:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,44,04:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,44,06:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,45,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,45,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,45,12:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,45,02:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,45,04:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,45,06:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,46,08:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,46,10:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,46,12:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,46,02:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,46,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,46,06:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,47,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,47,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,47,12:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,47,02:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,47,04:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,47,06:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,48,08:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,48,10:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,48,12:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,48,02:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,48,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,48,06:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,49,08:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,49,10:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,49,12:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,49,02:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,49,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,49,06:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,50,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,50,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,50,12:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,50,02:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,50,04:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,50,06:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,51,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,51,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,51,12:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,51,02:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,51,04:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,51,06:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,52,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,52,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,52,12:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,52,02:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,52,04:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,52,06:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,53,08:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,53,10:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,53,12:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,53,02:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,53,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,53,06:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,54,08:00 AM,High
+Minneapolis Chain of Lakes Regional Park,43,54,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,54,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,54,02:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,54,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,54,06:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,55,08:00 AM,High
+Minneapolis Chain of Lakes Regional Park,43,55,10:00 AM,High
+Minneapolis Chain of Lakes Regional Park,43,55,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,55,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,55,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,55,06:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,56,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,56,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,56,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,56,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,56,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,56,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,57,08:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,57,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,57,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,57,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,57,04:00 PM,Medium
+Minneapolis Chain of Lakes Regional Park,43,57,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,58,08:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,58,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,58,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,58,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,58,04:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,58,06:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,59,08:00 AM,Medium
+Minneapolis Chain of Lakes Regional Park,43,59,10:00 AM,Low
+Minneapolis Chain of Lakes Regional Park,43,59,12:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,59,02:00 PM,Low
+Minneapolis Chain of Lakes Regional Park,43,59,04:00 PM,High
+Minneapolis Chain of Lakes Regional Park,43,59,06:00 PM,High
+Mississippi Gorge Regional Park,44,1,08:00 AM,Medium
+Mississippi Gorge Regional Park,44,1,10:00 AM,Medium
+Mississippi Gorge Regional Park,44,1,12:00 PM,High
+Mississippi Gorge Regional Park,44,1,02:00 PM,High
+Mississippi Gorge Regional Park,44,1,04:00 PM,High
+Mississippi Gorge Regional Park,44,1,06:00 PM,High
+Mississippi Gorge Regional Park,44,3,08:00 AM,Low
+Mississippi Gorge Regional Park,44,3,10:00 AM,Low
+Mississippi Gorge Regional Park,44,3,12:00 PM,Low
+Mississippi Gorge Regional Park,44,3,02:00 PM,Low
+Mississippi Gorge Regional Park,44,3,04:00 PM,Low
+Mississippi Gorge Regional Park,44,3,06:00 PM,Low
+Mississippi Gorge Regional Park,44,4,08:00 AM,Low
+Mississippi Gorge Regional Park,44,4,10:00 AM,Low
+Mississippi Gorge Regional Park,44,4,12:00 PM,Medium
+Mississippi Gorge Regional Park,44,4,02:00 PM,Medium
+Mississippi Gorge Regional Park,44,4,04:00 PM,Medium
+Mississippi Gorge Regional Park,44,4,06:00 PM,Medium
+Mississippi Gorge Regional Park,44,5,08:00 AM,Low
+Mississippi Gorge Regional Park,44,5,10:00 AM,Low
+Mississippi Gorge Regional Park,44,5,12:00 PM,Low
+Mississippi Gorge Regional Park,44,5,02:00 PM,Low
+Mississippi Gorge Regional Park,44,5,04:00 PM,Low
+Mississippi Gorge Regional Park,44,5,06:00 PM,Low
+Mississippi Gorge Regional Park,44,6,08:00 AM,Low
+Mississippi Gorge Regional Park,44,6,10:00 AM,Low
+Mississippi Gorge Regional Park,44,6,12:00 PM,Low
+Mississippi Gorge Regional Park,44,6,02:00 PM,Low
+Mississippi Gorge Regional Park,44,6,04:00 PM,Low
+Mississippi Gorge Regional Park,44,6,06:00 PM,Low
+Mississippi Gorge Regional Park,44,7,08:00 AM,Medium
+Mississippi Gorge Regional Park,44,7,10:00 AM,Medium
+Mississippi Gorge Regional Park,44,7,12:00 PM,High
+Mississippi Gorge Regional Park,44,7,02:00 PM,High
+Mississippi Gorge Regional Park,44,7,04:00 PM,High
+Mississippi Gorge Regional Park,44,7,06:00 PM,High
+Mississippi Gorge Regional Park,44,8,08:00 AM,Medium
+Mississippi Gorge Regional Park,44,8,10:00 AM,Medium
+Mississippi Gorge Regional Park,44,8,12:00 PM,High
+Mississippi Gorge Regional Park,44,8,02:00 PM,High
+Mississippi Gorge Regional Park,44,8,04:00 PM,High
+Mississippi Gorge Regional Park,44,8,06:00 PM,High
+Mississippi Gorge Regional Park,44,9,08:00 AM,Low
+Mississippi Gorge Regional Park,44,9,10:00 AM,Low
+Mississippi Gorge Regional Park,44,9,12:00 PM,Medium
+Mississippi Gorge Regional Park,44,9,02:00 PM,Medium
+Mississippi Gorge Regional Park,44,9,04:00 PM,Medium
+Mississippi Gorge Regional Park,44,9,06:00 PM,Medium
+Mississippi Gorge Regional Park,44,10,08:00 AM,Low
+Mississippi Gorge Regional Park,44,10,10:00 AM,Low
+Mississippi Gorge Regional Park,44,10,12:00 PM,Low
+Mississippi Gorge Regional Park,44,10,02:00 PM,Low
+Mississippi Gorge Regional Park,44,10,04:00 PM,Low
+Mississippi Gorge Regional Park,44,10,06:00 PM,Low
+Mississippi Gorge Regional Park,44,11,08:00 AM,Low
+Mississippi Gorge Regional Park,44,11,10:00 AM,Low
+Mississippi Gorge Regional Park,44,11,12:00 PM,Low
+Mississippi Gorge Regional Park,44,11,02:00 PM,Low
+Mississippi Gorge Regional Park,44,11,04:00 PM,Low
+Mississippi Gorge Regional Park,44,11,06:00 PM,Low
+Mississippi Gorge Regional Park,44,12,08:00 AM,Low
+Mississippi Gorge Regional Park,44,12,10:00 AM,Low
+Mississippi Gorge Regional Park,44,12,12:00 PM,Low
+Mississippi Gorge Regional Park,44,12,02:00 PM,Low
+Mississippi Gorge Regional Park,44,12,04:00 PM,Low
+Mississippi Gorge Regional Park,44,12,06:00 PM,Low
+Mississippi Gorge Regional Park,44,13,08:00 AM,Medium
+Mississippi Gorge Regional Park,44,13,10:00 AM,Medium
+Mississippi Gorge Regional Park,44,13,12:00 PM,High
+Mississippi Gorge Regional Park,44,13,02:00 PM,High
+Mississippi Gorge Regional Park,44,13,04:00 PM,High
+Mississippi Gorge Regional Park,44,13,06:00 PM,High
+Mississippi Gorge Regional Park,44,14,08:00 AM,Low
+Mississippi Gorge Regional Park,44,14,10:00 AM,Low
+Mississippi Gorge Regional Park,44,14,12:00 PM,Low
+Mississippi Gorge Regional Park,44,14,02:00 PM,Low
+Mississippi Gorge Regional Park,44,14,04:00 PM,Low
+Mississippi Gorge Regional Park,44,14,06:00 PM,Low
+Mississippi Gorge Regional Park,44,15,08:00 AM,Low
+Mississippi Gorge Regional Park,44,15,10:00 AM,Low
+Mississippi Gorge Regional Park,44,15,12:00 PM,Medium
+Mississippi Gorge Regional Park,44,15,02:00 PM,Medium
+Mississippi Gorge Regional Park,44,15,04:00 PM,Medium
+Mississippi Gorge Regional Park,44,15,06:00 PM,Medium
+Mississippi Gorge Regional Park,44,16,08:00 AM,Medium
+Mississippi Gorge Regional Park,44,16,10:00 AM,Medium
+Mississippi Gorge Regional Park,44,16,12:00 PM,High
+Mississippi Gorge Regional Park,44,16,02:00 PM,High
+Mississippi Gorge Regional Park,44,16,04:00 PM,High
+Mississippi Gorge Regional Park,44,16,06:00 PM,High
+Mississippi Gorge Regional Park,44,17,08:00 AM,Medium
+Mississippi Gorge Regional Park,44,17,10:00 AM,Medium
+Mississippi Gorge Regional Park,44,17,12:00 PM,High
+Mississippi Gorge Regional Park,44,17,02:00 PM,High
+Mississippi Gorge Regional Park,44,17,04:00 PM,High
+Mississippi Gorge Regional Park,44,17,06:00 PM,High
+Mississippi Gorge Regional Park,44,18,08:00 AM,Low
+Mississippi Gorge Regional Park,44,18,10:00 AM,Low
+Mississippi Gorge Regional Park,44,18,12:00 PM,Low
+Mississippi Gorge Regional Park,44,18,02:00 PM,Low
+Mississippi Gorge Regional Park,44,18,04:00 PM,Low
+Mississippi Gorge Regional Park,44,18,06:00 PM,Low
+Mississippi Gorge Regional Park,44,19,08:00 AM,High
+Mississippi Gorge Regional Park,44,19,10:00 AM,Medium
+Mississippi Gorge Regional Park,44,19,12:00 PM,Low
+Mississippi Gorge Regional Park,44,19,02:00 PM,Low
+Mississippi Gorge Regional Park,44,19,04:00 PM,High
+Mississippi Gorge Regional Park,44,19,06:00 PM,High
+Mississippi Gorge Regional Park,44,20,08:00 AM,Low
+Mississippi Gorge Regional Park,44,20,10:00 AM,Low
+Mississippi Gorge Regional Park,44,20,12:00 PM,Low
+Mississippi Gorge Regional Park,44,20,02:00 PM,Low
+Mississippi Gorge Regional Park,44,20,04:00 PM,Low
+Mississippi Gorge Regional Park,44,20,06:00 PM,Low
+Mississippi Gorge Regional Park,44,21,08:00 AM,Medium
+Mississippi Gorge Regional Park,44,21,10:00 AM,Medium
+Mississippi Gorge Regional Park,44,21,12:00 PM,High
+Mississippi Gorge Regional Park,44,21,02:00 PM,High
+Mississippi Gorge Regional Park,44,21,04:00 PM,High
+Mississippi Gorge Regional Park,44,21,06:00 PM,High
+Mississippi Gorge Regional Park,44,22,08:00 AM,Medium
+Mississippi Gorge Regional Park,44,22,10:00 AM,Medium
+Mississippi Gorge Regional Park,44,22,12:00 PM,High
+Mississippi Gorge Regional Park,44,22,02:00 PM,High
+Mississippi Gorge Regional Park,44,22,04:00 PM,High
+Mississippi Gorge Regional Park,44,22,06:00 PM,High
+Mississippi Gorge Regional Park,44,23,08:00 AM,Medium
+Mississippi Gorge Regional Park,44,23,10:00 AM,Medium
+Mississippi Gorge Regional Park,44,23,12:00 PM,High
+Mississippi Gorge Regional Park,44,23,02:00 PM,High
+Mississippi Gorge Regional Park,44,23,04:00 PM,High
+Mississippi Gorge Regional Park,44,23,06:00 PM,High
+Mississippi Gorge Regional Park,44,24,08:00 AM,Medium
+Mississippi Gorge Regional Park,44,24,10:00 AM,Medium
+Mississippi Gorge Regional Park,44,24,12:00 PM,High
+Mississippi Gorge Regional Park,44,24,02:00 PM,High
+Mississippi Gorge Regional Park,44,24,04:00 PM,High
+Mississippi Gorge Regional Park,44,24,06:00 PM,High
+Mississippi Gorge Regional Park,44,27,08:00 AM,Medium
+Mississippi Gorge Regional Park,44,27,10:00 AM,Medium
+Mississippi Gorge Regional Park,44,27,12:00 PM,Low
+Mississippi Gorge Regional Park,44,27,02:00 PM,Low
+Mississippi Gorge Regional Park,44,27,04:00 PM,Medium
+Mississippi Gorge Regional Park,44,27,06:00 PM,Medium
+Minnehaha Regional Park,45,1,08:00 AM,Low
+Minnehaha Regional Park,45,1,10:00 AM,Low
+Minnehaha Regional Park,45,1,12:00 PM,Low
+Minnehaha Regional Park,45,1,02:00 PM,Low
+Minnehaha Regional Park,45,1,04:00 PM,Low
+Minnehaha Regional Park,45,1,06:00 PM,Low
+Minnehaha Regional Park,45,2,08:00 AM,Medium
+Minnehaha Regional Park,45,2,10:00 AM,Low
+Minnehaha Regional Park,45,2,12:00 PM,Low
+Minnehaha Regional Park,45,2,02:00 PM,Low
+Minnehaha Regional Park,45,2,04:00 PM,High
+Minnehaha Regional Park,45,2,06:00 PM,High
+Minnehaha Regional Park,45,3,08:00 AM,Low
+Minnehaha Regional Park,45,3,10:00 AM,Medium
+Minnehaha Regional Park,45,3,12:00 PM,Medium
+Minnehaha Regional Park,45,3,02:00 PM,Medium
+Minnehaha Regional Park,45,3,04:00 PM,Medium
+Minnehaha Regional Park,45,3,06:00 PM,Medium
+Minnehaha Regional Park,45,4,08:00 AM,Medium
+Minnehaha Regional Park,45,4,10:00 AM,Medium
+Minnehaha Regional Park,45,4,12:00 PM,Medium
+Minnehaha Regional Park,45,4,02:00 PM,Medium
+Minnehaha Regional Park,45,4,04:00 PM,Medium
+Minnehaha Regional Park,45,4,06:00 PM,Medium
+Minnehaha Regional Park,45,5,08:00 AM,Medium
+Minnehaha Regional Park,45,5,10:00 AM,High
+Minnehaha Regional Park,45,5,12:00 PM,High
+Minnehaha Regional Park,45,5,02:00 PM,High
+Minnehaha Regional Park,45,5,04:00 PM,High
+Minnehaha Regional Park,45,5,06:00 PM,Medium
+Minnehaha Regional Park,45,6,08:00 AM,Medium
+Minnehaha Regional Park,45,6,10:00 AM,High
+Minnehaha Regional Park,45,6,12:00 PM,High
+Minnehaha Regional Park,45,6,02:00 PM,High
+Minnehaha Regional Park,45,6,04:00 PM,High
+Minnehaha Regional Park,45,6,06:00 PM,Medium
+Minnehaha Regional Park,45,7,08:00 AM,Low
+Minnehaha Regional Park,45,7,10:00 AM,Low
+Minnehaha Regional Park,45,7,12:00 PM,Low
+Minnehaha Regional Park,45,7,02:00 PM,Low
+Minnehaha Regional Park,45,7,04:00 PM,Low
+Minnehaha Regional Park,45,7,06:00 PM,Low
+Minnehaha Regional Park,45,8,08:00 AM,Medium
+Minnehaha Regional Park,45,8,10:00 AM,High
+Minnehaha Regional Park,45,8,12:00 PM,High
+Minnehaha Regional Park,45,8,02:00 PM,High
+Minnehaha Regional Park,45,8,04:00 PM,High
+Minnehaha Regional Park,45,8,06:00 PM,High
+Minnehaha Regional Park,45,9,08:00 AM,Medium
+Minnehaha Regional Park,45,9,10:00 AM,Medium
+Minnehaha Regional Park,45,9,12:00 PM,Medium
+Minnehaha Regional Park,45,9,02:00 PM,High
+Minnehaha Regional Park,45,9,04:00 PM,High
+Minnehaha Regional Park,45,9,06:00 PM,High
+Minnehaha Regional Park,45,10,08:00 AM,High
+Minnehaha Regional Park,45,10,10:00 AM,High
+Minnehaha Regional Park,45,10,12:00 PM,High
+Minnehaha Regional Park,45,10,02:00 PM,High
+Minnehaha Regional Park,45,10,04:00 PM,High
+Minnehaha Regional Park,45,10,06:00 PM,High
+Minnehaha Regional Park,45,11,08:00 AM,Medium
+Minnehaha Regional Park,45,11,10:00 AM,Medium
+Minnehaha Regional Park,45,11,12:00 PM,Medium
+Minnehaha Regional Park,45,11,02:00 PM,Medium
+Minnehaha Regional Park,45,11,04:00 PM,Medium
+Minnehaha Regional Park,45,11,06:00 PM,Medium
+Minnehaha Regional Park,45,12,08:00 AM,Medium
+Minnehaha Regional Park,45,12,10:00 AM,Medium
+Minnehaha Regional Park,45,12,12:00 PM,Medium
+Minnehaha Regional Park,45,12,02:00 PM,Medium
+Minnehaha Regional Park,45,12,04:00 PM,Medium
+Minnehaha Regional Park,45,12,06:00 PM,Medium
+Minnehaha Regional Park,45,13,08:00 AM,Low
+Minnehaha Regional Park,45,13,10:00 AM,Low
+Minnehaha Regional Park,45,13,12:00 PM,Low
+Minnehaha Regional Park,45,13,02:00 PM,Low
+Minnehaha Regional Park,45,13,04:00 PM,Low
+Minnehaha Regional Park,45,13,06:00 PM,Low
+Minnehaha Regional Park,45,14,08:00 AM,Medium
+Minnehaha Regional Park,45,14,10:00 AM,Medium
+Minnehaha Regional Park,45,14,12:00 PM,Medium
+Minnehaha Regional Park,45,14,02:00 PM,Medium
+Minnehaha Regional Park,45,14,04:00 PM,Medium
+Minnehaha Regional Park,45,14,06:00 PM,Medium
+Minnehaha Regional Park,45,15,08:00 AM,Medium
+Minnehaha Regional Park,45,15,10:00 AM,High
+Minnehaha Regional Park,45,15,12:00 PM,High
+Minnehaha Regional Park,45,15,02:00 PM,High
+Minnehaha Regional Park,45,15,04:00 PM,High
+Minnehaha Regional Park,45,15,06:00 PM,Medium
+Minnehaha Regional Park,45,16,08:00 AM,Medium
+Minnehaha Regional Park,45,16,10:00 AM,High
+Minnehaha Regional Park,45,16,12:00 PM,High
+Minnehaha Regional Park,45,16,02:00 PM,High
+Minnehaha Regional Park,45,16,04:00 PM,High
+Minnehaha Regional Park,45,16,06:00 PM,Medium
+Minnehaha Regional Park,45,17,08:00 AM,Medium
+Minnehaha Regional Park,45,17,10:00 AM,High
+Minnehaha Regional Park,45,17,12:00 PM,High
+Minnehaha Regional Park,45,17,02:00 PM,High
+Minnehaha Regional Park,45,17,04:00 PM,High
+Minnehaha Regional Park,45,17,06:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,1,08:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,1,10:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,1,12:00 PM,High
+Minnehaha Parkway Regional Trail,46,1,02:00 PM,High
+Minnehaha Parkway Regional Trail,46,1,04:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,1,06:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,2,08:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,2,10:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,2,12:00 PM,High
+Minnehaha Parkway Regional Trail,46,2,02:00 PM,High
+Minnehaha Parkway Regional Trail,46,2,04:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,2,06:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,3,08:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,3,10:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,3,12:00 PM,High
+Minnehaha Parkway Regional Trail,46,3,02:00 PM,High
+Minnehaha Parkway Regional Trail,46,3,04:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,3,06:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,4,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,4,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,4,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,4,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,4,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,4,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,5,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,5,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,5,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,5,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,5,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,5,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,6,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,6,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,6,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,6,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,6,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,6,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,7,08:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,7,10:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,7,12:00 PM,High
+Minnehaha Parkway Regional Trail,46,7,02:00 PM,High
+Minnehaha Parkway Regional Trail,46,7,04:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,7,06:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,8,08:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,8,10:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,8,12:00 PM,High
+Minnehaha Parkway Regional Trail,46,8,02:00 PM,High
+Minnehaha Parkway Regional Trail,46,8,04:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,8,06:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,9,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,9,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,9,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,9,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,9,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,9,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,10,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,10,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,10,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,10,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,10,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,10,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,11,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,11,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,11,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,11,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,11,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,11,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,12,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,12,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,12,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,12,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,12,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,12,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,13,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,13,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,13,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,13,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,13,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,13,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,14,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,14,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,14,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,14,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,14,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,14,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,15,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,15,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,15,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,15,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,15,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,15,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,16,08:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,16,10:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,16,12:00 PM,High
+Minnehaha Parkway Regional Trail,46,16,02:00 PM,High
+Minnehaha Parkway Regional Trail,46,16,04:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,16,06:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,17,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,17,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,17,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,17,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,17,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,17,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,18,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,18,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,18,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,18,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,18,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,18,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,19,08:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,19,10:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,19,12:00 PM,High
+Minnehaha Parkway Regional Trail,46,19,02:00 PM,High
+Minnehaha Parkway Regional Trail,46,19,04:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,19,06:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,20,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,20,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,20,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,20,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,20,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,20,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,21,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,21,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,21,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,21,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,21,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,21,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,22,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,22,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,22,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,22,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,22,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,22,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,24,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,24,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,24,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,24,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,24,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,24,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,25,08:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,25,10:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,25,12:00 PM,High
+Minnehaha Parkway Regional Trail,46,25,02:00 PM,High
+Minnehaha Parkway Regional Trail,46,25,04:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,25,06:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,26,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,26,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,26,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,26,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,26,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,26,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,27,08:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,27,10:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,27,12:00 PM,High
+Minnehaha Parkway Regional Trail,46,27,02:00 PM,High
+Minnehaha Parkway Regional Trail,46,27,04:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,27,06:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,29,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,29,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,29,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,29,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,29,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,29,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,31,08:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,31,10:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,31,12:00 PM,High
+Minnehaha Parkway Regional Trail,46,31,02:00 PM,High
+Minnehaha Parkway Regional Trail,46,31,04:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,31,06:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,32,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,32,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,32,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,32,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,32,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,32,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,33,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,33,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,33,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,33,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,33,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,33,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,34,08:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,34,10:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,34,12:00 PM,High
+Minnehaha Parkway Regional Trail,46,34,02:00 PM,High
+Minnehaha Parkway Regional Trail,46,34,04:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,34,06:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,35,08:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,35,10:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,35,12:00 PM,High
+Minnehaha Parkway Regional Trail,46,35,02:00 PM,High
+Minnehaha Parkway Regional Trail,46,35,04:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,35,06:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,36,08:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,36,10:00 AM,High
+Minnehaha Parkway Regional Trail,46,36,12:00 PM,High
+Minnehaha Parkway Regional Trail,46,36,02:00 PM,High
+Minnehaha Parkway Regional Trail,46,36,04:00 PM,High
+Minnehaha Parkway Regional Trail,46,36,06:00 PM,High
+Minnehaha Parkway Regional Trail,46,37,08:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,37,10:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,37,12:00 PM,High
+Minnehaha Parkway Regional Trail,46,37,02:00 PM,High
+Minnehaha Parkway Regional Trail,46,37,04:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,37,06:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,38,08:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,38,10:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,38,12:00 PM,High
+Minnehaha Parkway Regional Trail,46,38,02:00 PM,High
+Minnehaha Parkway Regional Trail,46,38,04:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,38,06:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,39,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,39,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,39,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,39,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,39,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,39,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,40,08:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,40,10:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,40,12:00 PM,High
+Minnehaha Parkway Regional Trail,46,40,02:00 PM,High
+Minnehaha Parkway Regional Trail,46,40,04:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,40,06:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,41,08:00 AM,Low
+Minnehaha Parkway Regional Trail,46,41,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,41,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,41,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,41,04:00 PM,Low
+Minnehaha Parkway Regional Trail,46,41,06:00 PM,Low
+Minnehaha Parkway Regional Trail,46,42,08:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,42,10:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,42,12:00 PM,High
+Minnehaha Parkway Regional Trail,46,42,02:00 PM,High
+Minnehaha Parkway Regional Trail,46,42,04:00 PM,High
+Minnehaha Parkway Regional Trail,46,42,06:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,43,08:00 AM,Medium
+Minnehaha Parkway Regional Trail,46,43,10:00 AM,Low
+Minnehaha Parkway Regional Trail,46,43,12:00 PM,Low
+Minnehaha Parkway Regional Trail,46,43,02:00 PM,Low
+Minnehaha Parkway Regional Trail,46,43,04:00 PM,Medium
+Minnehaha Parkway Regional Trail,46,43,06:00 PM,Medium
+North Mississippi Regional Park,47,1,08:00 AM,High
+North Mississippi Regional Park,47,1,10:00 AM,High
+North Mississippi Regional Park,47,1,12:00 PM,Medium
+North Mississippi Regional Park,47,1,02:00 PM,Medium
+North Mississippi Regional Park,47,1,04:00 PM,High
+North Mississippi Regional Park,47,1,06:00 PM,High
+North Mississippi Regional Park,47,2,08:00 AM,Low
+North Mississippi Regional Park,47,2,10:00 AM,Low
+North Mississippi Regional Park,47,2,12:00 PM,Medium
+North Mississippi Regional Park,47,2,02:00 PM,Medium
+North Mississippi Regional Park,47,2,04:00 PM,Medium
+North Mississippi Regional Park,47,2,06:00 PM,Medium
+North Mississippi Regional Park,47,4,08:00 AM,High
+North Mississippi Regional Park,47,4,10:00 AM,High
+North Mississippi Regional Park,47,4,12:00 PM,High
+North Mississippi Regional Park,47,4,02:00 PM,High
+North Mississippi Regional Park,47,4,04:00 PM,High
+North Mississippi Regional Park,47,4,06:00 PM,High
+North Mississippi Regional Park,47,5,08:00 AM,High
+North Mississippi Regional Park,47,5,10:00 AM,High
+North Mississippi Regional Park,47,5,12:00 PM,High
+North Mississippi Regional Park,47,5,02:00 PM,High
+North Mississippi Regional Park,47,5,04:00 PM,High
+North Mississippi Regional Park,47,5,06:00 PM,High
+North Mississippi Regional Park,47,7,08:00 AM,High
+North Mississippi Regional Park,47,7,10:00 AM,High
+North Mississippi Regional Park,47,7,12:00 PM,High
+North Mississippi Regional Park,47,7,02:00 PM,High
+North Mississippi Regional Park,47,7,04:00 PM,High
+North Mississippi Regional Park,47,7,06:00 PM,High
+North Mississippi Regional Park,47,8,08:00 AM,Low
+North Mississippi Regional Park,47,8,10:00 AM,Low
+North Mississippi Regional Park,47,8,12:00 PM,Medium
+North Mississippi Regional Park,47,8,02:00 PM,Medium
+North Mississippi Regional Park,47,8,04:00 PM,Medium
+North Mississippi Regional Park,47,8,06:00 PM,Medium
+North Mississippi Regional Park,47,9,08:00 AM,Low
+North Mississippi Regional Park,47,9,10:00 AM,Low
+North Mississippi Regional Park,47,9,12:00 PM,Medium
+North Mississippi Regional Park,47,9,02:00 PM,Medium
+North Mississippi Regional Park,47,9,04:00 PM,Medium
+North Mississippi Regional Park,47,9,06:00 PM,Medium
+North Mississippi Regional Park,47,10,08:00 AM,Low
+North Mississippi Regional Park,47,10,10:00 AM,Low
+North Mississippi Regional Park,47,10,12:00 PM,Medium
+North Mississippi Regional Park,47,10,02:00 PM,High
+North Mississippi Regional Park,47,10,04:00 PM,High
+North Mississippi Regional Park,47,10,06:00 PM,High
+North Mississippi Regional Park,47,11,08:00 AM,Low
+North Mississippi Regional Park,47,11,10:00 AM,Low
+North Mississippi Regional Park,47,11,12:00 PM,Low
+North Mississippi Regional Park,47,11,02:00 PM,Low
+North Mississippi Regional Park,47,11,04:00 PM,Low
+North Mississippi Regional Park,47,11,06:00 PM,Low
+North Mississippi Regional Park,47,12,08:00 AM,Low
+North Mississippi Regional Park,47,12,10:00 AM,Low
+North Mississippi Regional Park,47,12,12:00 PM,Low
+North Mississippi Regional Park,47,12,02:00 PM,Low
+North Mississippi Regional Park,47,12,04:00 PM,Low
+North Mississippi Regional Park,47,12,06:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,1,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,1,10:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,1,12:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,1,02:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,1,04:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,1,06:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,2,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,2,10:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,2,12:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,2,02:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,2,04:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,2,06:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,3,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,3,10:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,3,12:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,3,02:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,3,04:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,3,06:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,4,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,4,10:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,4,12:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,4,02:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,4,04:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,4,06:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,5,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,5,10:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,5,12:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,5,02:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,5,04:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,5,06:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,6,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,6,10:00 AM,Medium
+Nokomis-Hiawatha Regional Park,48,6,12:00 PM,High
+Nokomis-Hiawatha Regional Park,48,6,02:00 PM,High
+Nokomis-Hiawatha Regional Park,48,6,04:00 PM,High
+Nokomis-Hiawatha Regional Park,48,6,06:00 PM,High
+Nokomis-Hiawatha Regional Park,48,7,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,7,10:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,7,12:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,7,02:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,7,04:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,7,06:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,8,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,8,10:00 AM,Medium
+Nokomis-Hiawatha Regional Park,48,8,12:00 PM,High
+Nokomis-Hiawatha Regional Park,48,8,02:00 PM,High
+Nokomis-Hiawatha Regional Park,48,8,04:00 PM,High
+Nokomis-Hiawatha Regional Park,48,8,06:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,9,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,9,10:00 AM,Medium
+Nokomis-Hiawatha Regional Park,48,9,12:00 PM,High
+Nokomis-Hiawatha Regional Park,48,9,02:00 PM,High
+Nokomis-Hiawatha Regional Park,48,9,04:00 PM,High
+Nokomis-Hiawatha Regional Park,48,9,06:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,10,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,10,10:00 AM,Medium
+Nokomis-Hiawatha Regional Park,48,10,12:00 PM,High
+Nokomis-Hiawatha Regional Park,48,10,02:00 PM,High
+Nokomis-Hiawatha Regional Park,48,10,04:00 PM,High
+Nokomis-Hiawatha Regional Park,48,10,06:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,11,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,11,10:00 AM,Medium
+Nokomis-Hiawatha Regional Park,48,11,12:00 PM,High
+Nokomis-Hiawatha Regional Park,48,11,02:00 PM,High
+Nokomis-Hiawatha Regional Park,48,11,04:00 PM,High
+Nokomis-Hiawatha Regional Park,48,11,06:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,12,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,12,10:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,12,12:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,12,02:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,12,04:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,12,06:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,13,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,13,10:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,13,12:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,13,02:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,13,04:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,13,06:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,14,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,14,10:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,14,12:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,14,02:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,14,04:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,14,06:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,15,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,15,10:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,15,12:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,15,02:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,15,04:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,15,06:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,16,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,16,10:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,16,12:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,16,02:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,16,04:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,16,06:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,17,08:00 AM,Medium
+Nokomis-Hiawatha Regional Park,48,17,10:00 AM,Medium
+Nokomis-Hiawatha Regional Park,48,17,12:00 PM,High
+Nokomis-Hiawatha Regional Park,48,17,02:00 PM,High
+Nokomis-Hiawatha Regional Park,48,17,04:00 PM,High
+Nokomis-Hiawatha Regional Park,48,17,06:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,18,08:00 AM,Medium
+Nokomis-Hiawatha Regional Park,48,18,10:00 AM,Medium
+Nokomis-Hiawatha Regional Park,48,18,12:00 PM,High
+Nokomis-Hiawatha Regional Park,48,18,02:00 PM,High
+Nokomis-Hiawatha Regional Park,48,18,04:00 PM,High
+Nokomis-Hiawatha Regional Park,48,18,06:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,19,08:00 AM,Medium
+Nokomis-Hiawatha Regional Park,48,19,10:00 AM,Medium
+Nokomis-Hiawatha Regional Park,48,19,12:00 PM,High
+Nokomis-Hiawatha Regional Park,48,19,02:00 PM,High
+Nokomis-Hiawatha Regional Park,48,19,04:00 PM,High
+Nokomis-Hiawatha Regional Park,48,19,06:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,20,08:00 AM,Medium
+Nokomis-Hiawatha Regional Park,48,20,10:00 AM,Medium
+Nokomis-Hiawatha Regional Park,48,20,12:00 PM,High
+Nokomis-Hiawatha Regional Park,48,20,02:00 PM,High
+Nokomis-Hiawatha Regional Park,48,20,04:00 PM,High
+Nokomis-Hiawatha Regional Park,48,20,06:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,21,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,21,10:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,21,12:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,21,02:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,21,04:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,21,06:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,22,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,22,10:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,22,12:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,22,02:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,22,04:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,22,06:00 PM,Medium
+Nokomis-Hiawatha Regional Park,48,23,08:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,23,10:00 AM,Low
+Nokomis-Hiawatha Regional Park,48,23,12:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,23,02:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,23,04:00 PM,Low
+Nokomis-Hiawatha Regional Park,48,23,06:00 PM,Low
+Theodore Wirth Regional Park,49,1,08:00 AM,Low
+Theodore Wirth Regional Park,49,1,10:00 AM,Low
+Theodore Wirth Regional Park,49,1,12:00 PM,Medium
+Theodore Wirth Regional Park,49,1,02:00 PM,Medium
+Theodore Wirth Regional Park,49,1,04:00 PM,Medium
+Theodore Wirth Regional Park,49,1,06:00 PM,Medium
+Theodore Wirth Regional Park,49,2,08:00 AM,Low
+Theodore Wirth Regional Park,49,2,10:00 AM,Low
+Theodore Wirth Regional Park,49,2,12:00 PM,Medium
+Theodore Wirth Regional Park,49,2,02:00 PM,Medium
+Theodore Wirth Regional Park,49,2,04:00 PM,Medium
+Theodore Wirth Regional Park,49,2,06:00 PM,Medium
+Theodore Wirth Regional Park,49,3,08:00 AM,Low
+Theodore Wirth Regional Park,49,3,10:00 AM,Low
+Theodore Wirth Regional Park,49,3,12:00 PM,Low
+Theodore Wirth Regional Park,49,3,02:00 PM,Low
+Theodore Wirth Regional Park,49,3,04:00 PM,Low
+Theodore Wirth Regional Park,49,3,06:00 PM,Low
+Theodore Wirth Regional Park,49,4,08:00 AM,Low
+Theodore Wirth Regional Park,49,4,10:00 AM,Low
+Theodore Wirth Regional Park,49,4,12:00 PM,Low
+Theodore Wirth Regional Park,49,4,02:00 PM,Low
+Theodore Wirth Regional Park,49,4,04:00 PM,Low
+Theodore Wirth Regional Park,49,4,06:00 PM,Low
+Theodore Wirth Regional Park,49,5,08:00 AM,Medium
+Theodore Wirth Regional Park,49,5,10:00 AM,Medium
+Theodore Wirth Regional Park,49,5,12:00 PM,High
+Theodore Wirth Regional Park,49,5,02:00 PM,High
+Theodore Wirth Regional Park,49,5,04:00 PM,High
+Theodore Wirth Regional Park,49,5,06:00 PM,High
+Theodore Wirth Regional Park,49,6,08:00 AM,Low
+Theodore Wirth Regional Park,49,6,10:00 AM,Low
+Theodore Wirth Regional Park,49,6,12:00 PM,Low
+Theodore Wirth Regional Park,49,6,02:00 PM,Low
+Theodore Wirth Regional Park,49,6,04:00 PM,Low
+Theodore Wirth Regional Park,49,6,06:00 PM,Low
+Theodore Wirth Regional Park,49,7,08:00 AM,Low
+Theodore Wirth Regional Park,49,7,10:00 AM,Low
+Theodore Wirth Regional Park,49,7,12:00 PM,Medium
+Theodore Wirth Regional Park,49,7,02:00 PM,Medium
+Theodore Wirth Regional Park,49,7,04:00 PM,Medium
+Theodore Wirth Regional Park,49,7,06:00 PM,Medium
+Theodore Wirth Regional Park,49,8,08:00 AM,Low
+Theodore Wirth Regional Park,49,8,10:00 AM,High
+Theodore Wirth Regional Park,49,8,12:00 PM,High
+Theodore Wirth Regional Park,49,8,02:00 PM,High
+Theodore Wirth Regional Park,49,8,04:00 PM,High
+Theodore Wirth Regional Park,49,8,06:00 PM,High
+Theodore Wirth Regional Park,49,9,08:00 AM,Medium
+Theodore Wirth Regional Park,49,9,10:00 AM,Medium
+Theodore Wirth Regional Park,49,9,12:00 PM,Low
+Theodore Wirth Regional Park,49,9,02:00 PM,Low
+Theodore Wirth Regional Park,49,9,04:00 PM,Low
+Theodore Wirth Regional Park,49,9,06:00 PM,Low
+Theodore Wirth Regional Park,49,10,08:00 AM,Low
+Theodore Wirth Regional Park,49,10,10:00 AM,Low
+Theodore Wirth Regional Park,49,10,12:00 PM,Low
+Theodore Wirth Regional Park,49,10,02:00 PM,Low
+Theodore Wirth Regional Park,49,10,04:00 PM,Low
+Theodore Wirth Regional Park,49,10,06:00 PM,Low
+Theodore Wirth Regional Park,49,11,08:00 AM,Medium
+Theodore Wirth Regional Park,49,11,10:00 AM,Low
+Theodore Wirth Regional Park,49,11,12:00 PM,Low
+Theodore Wirth Regional Park,49,11,02:00 PM,Medium
+Theodore Wirth Regional Park,49,11,04:00 PM,Medium
+Theodore Wirth Regional Park,49,11,06:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,1,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,1,10:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,1,12:00 PM,High
+Victory (Wirth) Memorial Parkway Regional Trail,50,1,02:00 PM,High
+Victory (Wirth) Memorial Parkway Regional Trail,50,1,04:00 PM,High
+Victory (Wirth) Memorial Parkway Regional Trail,50,1,06:00 PM,High
+Victory (Wirth) Memorial Parkway Regional Trail,50,2,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,2,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,2,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,2,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,2,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,2,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,3,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,3,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,3,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,3,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,3,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,3,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,4,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,4,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,4,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,4,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,4,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,4,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,5,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,5,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,5,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,5,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,5,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,5,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,6,08:00 AM,High
+Victory (Wirth) Memorial Parkway Regional Trail,50,6,10:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,6,12:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,6,02:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,6,04:00 PM,High
+Victory (Wirth) Memorial Parkway Regional Trail,50,6,06:00 PM,High
+Victory (Wirth) Memorial Parkway Regional Trail,50,7,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,7,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,7,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,7,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,7,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,7,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,8,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,8,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,8,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,8,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,8,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,8,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,9,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,9,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,9,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,9,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,9,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,9,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,10,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,10,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,10,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,10,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,10,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,10,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,11,08:00 AM,High
+Victory (Wirth) Memorial Parkway Regional Trail,50,11,10:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,11,12:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,11,02:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,11,04:00 PM,High
+Victory (Wirth) Memorial Parkway Regional Trail,50,11,06:00 PM,High
+Victory (Wirth) Memorial Parkway Regional Trail,50,12,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,12,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,12,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,12,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,12,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,12,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,13,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,13,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,13,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,13,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,13,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,13,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,14,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,14,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,14,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,14,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,14,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,14,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,15,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,15,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,15,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,15,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,15,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,15,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,16,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,16,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,16,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,16,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,16,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,16,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,17,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,17,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,17,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,17,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,17,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,17,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,18,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,18,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,18,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,18,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,18,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,18,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,19,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,19,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,19,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,19,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,19,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,19,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,20,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,20,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,20,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,20,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,20,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,20,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,21,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,21,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,21,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,21,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,21,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,21,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,22,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,22,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,22,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,22,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,22,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,22,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,23,08:00 AM,High
+Victory (Wirth) Memorial Parkway Regional Trail,50,23,10:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,23,12:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,23,02:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,23,04:00 PM,High
+Victory (Wirth) Memorial Parkway Regional Trail,50,23,06:00 PM,High
+Victory (Wirth) Memorial Parkway Regional Trail,50,24,08:00 AM,High
+Victory (Wirth) Memorial Parkway Regional Trail,50,24,10:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,24,12:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,24,02:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,24,04:00 PM,High
+Victory (Wirth) Memorial Parkway Regional Trail,50,24,06:00 PM,High
+Victory (Wirth) Memorial Parkway Regional Trail,50,25,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,25,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,25,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,25,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,25,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,25,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,26,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,26,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,26,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,26,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,26,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,26,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,27,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,27,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,27,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,27,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,27,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,27,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,28,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,28,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,28,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,28,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,28,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,28,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,29,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,29,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,29,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,29,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,29,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,29,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,30,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,30,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,30,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,30,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,30,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,30,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,31,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,31,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,31,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,31,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,31,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,31,06:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,32,08:00 AM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,32,10:00 AM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,32,12:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,32,02:00 PM,Low
+Victory (Wirth) Memorial Parkway Regional Trail,50,32,04:00 PM,Medium
+Victory (Wirth) Memorial Parkway Regional Trail,50,32,06:00 PM,Medium
+St. Anthony Parkway Regional Trail,90,1,08:00 AM,Medium
+St. Anthony Parkway Regional Trail,90,1,10:00 AM,Medium
+St. Anthony Parkway Regional Trail,90,1,12:00 PM,High
+St. Anthony Parkway Regional Trail,90,1,02:00 PM,High
+St. Anthony Parkway Regional Trail,90,1,04:00 PM,High
+St. Anthony Parkway Regional Trail,90,1,06:00 PM,High
+St. Anthony Parkway Regional Trail,90,2,08:00 AM,Medium
+St. Anthony Parkway Regional Trail,90,2,10:00 AM,Medium
+St. Anthony Parkway Regional Trail,90,2,12:00 PM,High
+St. Anthony Parkway Regional Trail,90,2,02:00 PM,High
+St. Anthony Parkway Regional Trail,90,2,04:00 PM,High
+St. Anthony Parkway Regional Trail,90,2,06:00 PM,High
+St. Anthony Parkway Regional Trail,90,3,08:00 AM,Medium
+St. Anthony Parkway Regional Trail,90,3,10:00 AM,Low
+St. Anthony Parkway Regional Trail,90,3,12:00 PM,Low
+St. Anthony Parkway Regional Trail,90,3,02:00 PM,Low
+St. Anthony Parkway Regional Trail,90,3,04:00 PM,Medium
+St. Anthony Parkway Regional Trail,90,3,06:00 PM,Medium
+St. Anthony Parkway Regional Trail,90,5,08:00 AM,Medium
+St. Anthony Parkway Regional Trail,90,5,10:00 AM,Low
+St. Anthony Parkway Regional Trail,90,5,12:00 PM,Low
+St. Anthony Parkway Regional Trail,90,5,02:00 PM,Low
+St. Anthony Parkway Regional Trail,90,5,04:00 PM,Medium
+St. Anthony Parkway Regional Trail,90,5,06:00 PM,Medium
+St. Anthony Parkway Regional Trail,90,6,08:00 AM,Medium
+St. Anthony Parkway Regional Trail,90,6,10:00 AM,Medium
+St. Anthony Parkway Regional Trail,90,6,12:00 PM,High
+St. Anthony Parkway Regional Trail,90,6,02:00 PM,High
+St. Anthony Parkway Regional Trail,90,6,04:00 PM,High
+St. Anthony Parkway Regional Trail,90,6,06:00 PM,High
+St. Anthony Parkway Regional Trail,90,7,08:00 AM,Medium
+St. Anthony Parkway Regional Trail,90,7,10:00 AM,Medium
+St. Anthony Parkway Regional Trail,90,7,12:00 PM,High
+St. Anthony Parkway Regional Trail,90,7,02:00 PM,High
+St. Anthony Parkway Regional Trail,90,7,04:00 PM,High
+St. Anthony Parkway Regional Trail,90,7,06:00 PM,High
+St. Anthony Parkway Regional Trail,90,8,08:00 AM,Low
+St. Anthony Parkway Regional Trail,90,8,10:00 AM,Low
+St. Anthony Parkway Regional Trail,90,8,12:00 PM,Low
+St. Anthony Parkway Regional Trail,90,8,02:00 PM,Low
+St. Anthony Parkway Regional Trail,90,8,04:00 PM,Low
+St. Anthony Parkway Regional Trail,90,8,06:00 PM,Low
+St. Anthony Parkway Regional Trail,90,9,08:00 AM,Medium
+St. Anthony Parkway Regional Trail,90,9,10:00 AM,Low
+St. Anthony Parkway Regional Trail,90,9,12:00 PM,Low
+St. Anthony Parkway Regional Trail,90,9,02:00 PM,Low
+St. Anthony Parkway Regional Trail,90,9,04:00 PM,Medium
+St. Anthony Parkway Regional Trail,90,9,06:00 PM,Medium
+St. Anthony Parkway Regional Trail,90,10,08:00 AM,Medium
+St. Anthony Parkway Regional Trail,90,10,10:00 AM,Medium
+St. Anthony Parkway Regional Trail,90,10,12:00 PM,Medium
+St. Anthony Parkway Regional Trail,90,10,02:00 PM,Medium
+St. Anthony Parkway Regional Trail,90,10,04:00 PM,Medium
+St. Anthony Parkway Regional Trail,90,10,06:00 PM,Medium
+St. Anthony Parkway Regional Trail,90,11,08:00 AM,Low
+St. Anthony Parkway Regional Trail,90,11,10:00 AM,Low
+St. Anthony Parkway Regional Trail,90,11,12:00 PM,Low
+St. Anthony Parkway Regional Trail,90,11,02:00 PM,Low
+St. Anthony Parkway Regional Trail,90,11,04:00 PM,Low
+St. Anthony Parkway Regional Trail,90,11,06:00 PM,Low
+St. Anthony Parkway Regional Trail,90,12,10:00 AM,Low
+St. Anthony Parkway Regional Trail,90,12,12:00 PM,Low
+St. Anthony Parkway Regional Trail,90,12,02:00 PM,Low
+St. Anthony Parkway Regional Trail,90,12,04:00 PM,Low
+St. Anthony Parkway Regional Trail,90,12,06:00 PM,Low
+St. Anthony Parkway Regional Trail,90,13,08:00 AM,Low
+St. Anthony Parkway Regional Trail,90,13,10:00 AM,Low
+St. Anthony Parkway Regional Trail,90,13,12:00 PM,Low
+St. Anthony Parkway Regional Trail,90,13,02:00 PM,Low
+St. Anthony Parkway Regional Trail,90,13,04:00 PM,Low
+St. Anthony Parkway Regional Trail,90,13,06:00 PM,Low
+St. Anthony Parkway Regional Trail,90,14,08:00 AM,Low
+St. Anthony Parkway Regional Trail,90,14,10:00 AM,Low
+St. Anthony Parkway Regional Trail,90,14,12:00 PM,Low
+St. Anthony Parkway Regional Trail,90,14,02:00 PM,Low
+St. Anthony Parkway Regional Trail,90,14,04:00 PM,Low
+St. Anthony Parkway Regional Trail,90,14,06:00 PM,Low
+Columbia Parkway Regional Trail,91,1,08:00 AM,Medium
+Columbia Parkway Regional Trail,91,1,10:00 AM,Medium
+Columbia Parkway Regional Trail,91,1,12:00 PM,High
+Columbia Parkway Regional Trail,91,1,02:00 PM,High
+Columbia Parkway Regional Trail,91,1,04:00 PM,High
+Columbia Parkway Regional Trail,91,1,06:00 PM,High
+Columbia Parkway Regional Trail,91,2,08:00 AM,Medium
+Columbia Parkway Regional Trail,91,2,10:00 AM,Low
+Columbia Parkway Regional Trail,91,2,12:00 PM,Low
+Columbia Parkway Regional Trail,91,2,02:00 PM,Low
+Columbia Parkway Regional Trail,91,2,04:00 PM,Medium
+Columbia Parkway Regional Trail,91,2,06:00 PM,Medium
+Columbia Parkway Regional Trail,91,3,08:00 AM,Medium
+Columbia Parkway Regional Trail,91,3,10:00 AM,Low
+Columbia Parkway Regional Trail,91,3,12:00 PM,Low
+Columbia Parkway Regional Trail,91,3,02:00 PM,Low
+Columbia Parkway Regional Trail,91,3,04:00 PM,Medium
+Columbia Parkway Regional Trail,91,3,06:00 PM,Medium
+Columbia Parkway Regional Trail,91,4,08:00 AM,Medium
+Columbia Parkway Regional Trail,91,4,10:00 AM,Medium
+Columbia Parkway Regional Trail,91,4,12:00 PM,High
+Columbia Parkway Regional Trail,91,4,02:00 PM,High
+Columbia Parkway Regional Trail,91,4,04:00 PM,High
+Columbia Parkway Regional Trail,91,4,06:00 PM,High
+Columbia Parkway Regional Trail,91,5,08:00 AM,Medium
+Columbia Parkway Regional Trail,91,5,10:00 AM,Low
+Columbia Parkway Regional Trail,91,5,12:00 PM,Low
+Columbia Parkway Regional Trail,91,5,02:00 PM,Low
+Columbia Parkway Regional Trail,91,5,04:00 PM,Medium
+Columbia Parkway Regional Trail,91,5,06:00 PM,Medium
+Columbia Parkway Regional Trail,91,6,08:00 AM,Medium
+Columbia Parkway Regional Trail,91,6,10:00 AM,Low
+Columbia Parkway Regional Trail,91,6,12:00 PM,Low
+Columbia Parkway Regional Trail,91,6,02:00 PM,Low
+Columbia Parkway Regional Trail,91,6,04:00 PM,Medium
+Columbia Parkway Regional Trail,91,6,06:00 PM,Medium
+Ridgeway Parkway Regional Trail,92,1,08:00 AM,Medium
+Ridgeway Parkway Regional Trail,92,1,10:00 AM,Low
+Ridgeway Parkway Regional Trail,92,1,12:00 PM,Low
+Ridgeway Parkway Regional Trail,92,1,02:00 PM,Low
+Ridgeway Parkway Regional Trail,92,1,04:00 PM,Medium
+Ridgeway Parkway Regional Trail,92,1,06:00 PM,Medium
+Ridgeway Parkway Regional Trail,92,2,08:00 AM,Medium
+Ridgeway Parkway Regional Trail,92,2,10:00 AM,Medium
+Ridgeway Parkway Regional Trail,92,2,12:00 PM,High
+Ridgeway Parkway Regional Trail,92,2,02:00 PM,High
+Ridgeway Parkway Regional Trail,92,2,04:00 PM,High
+Ridgeway Parkway Regional Trail,92,2,06:00 PM,High
+Ridgeway Parkway Regional Trail,92,3,08:00 AM,Medium
+Ridgeway Parkway Regional Trail,92,3,10:00 AM,Medium
+Ridgeway Parkway Regional Trail,92,3,12:00 PM,High
+Ridgeway Parkway Regional Trail,92,3,02:00 PM,High
+Ridgeway Parkway Regional Trail,92,3,04:00 PM,High
+Ridgeway Parkway Regional Trail,92,3,06:00 PM,High
+Kenilworth Regional Trail,93,1,08:00 AM,High
+Kenilworth Regional Trail,93,1,10:00 AM,High
+Kenilworth Regional Trail,93,1,12:00 PM,Medium
+Kenilworth Regional Trail,93,1,02:00 PM,Medium
+Kenilworth Regional Trail,93,1,04:00 PM,High
+Kenilworth Regional Trail,93,1,06:00 PM,High
+Kenilworth Regional Trail,93,2,08:00 AM,Medium
+Kenilworth Regional Trail,93,2,10:00 AM,Medium
+Kenilworth Regional Trail,93,2,12:00 PM,Low
+Kenilworth Regional Trail,93,2,02:00 PM,Low
+Kenilworth Regional Trail,93,2,04:00 PM,Medium
+Kenilworth Regional Trail,93,2,06:00 PM,Medium
+Kenilworth Regional Trail,93,3,08:00 AM,Medium
+Kenilworth Regional Trail,93,3,10:00 AM,Medium
+Kenilworth Regional Trail,93,3,12:00 PM,Low
+Kenilworth Regional Trail,93,3,02:00 PM,Low
+Kenilworth Regional Trail,93,3,04:00 PM,Medium
+Kenilworth Regional Trail,93,3,06:00 PM,Medium
+Kenilworth Regional Trail,93,4,08:00 AM,High
+Kenilworth Regional Trail,93,4,10:00 AM,High
+Kenilworth Regional Trail,93,4,12:00 PM,Medium
+Kenilworth Regional Trail,93,4,02:00 PM,Medium
+Kenilworth Regional Trail,93,4,04:00 PM,High
+Kenilworth Regional Trail,93,4,06:00 PM,High
+Kenilworth Regional Trail,93,5,08:00 AM,High
+Kenilworth Regional Trail,93,5,10:00 AM,High
+Kenilworth Regional Trail,93,5,12:00 PM,Medium
+Kenilworth Regional Trail,93,5,02:00 PM,Medium
+Kenilworth Regional Trail,93,5,04:00 PM,High
+Kenilworth Regional Trail,93,5,06:00 PM,High
+Luce Line Regional Trail,94,1,08:00 AM,Medium
+Luce Line Regional Trail,94,1,10:00 AM,High
+Luce Line Regional Trail,94,1,12:00 PM,High
+Luce Line Regional Trail,94,1,02:00 PM,Medium
+Luce Line Regional Trail,94,1,04:00 PM,Medium
+Luce Line Regional Trail,94,1,06:00 PM,Medium
+Luce Line Regional Trail,94,2,08:00 AM,Medium
+Luce Line Regional Trail,94,2,10:00 AM,Low
+Luce Line Regional Trail,94,2,12:00 PM,Low
+Luce Line Regional Trail,94,2,02:00 PM,Low
+Luce Line Regional Trail,94,2,04:00 PM,Low
+Luce Line Regional Trail,94,2,06:00 PM,Low
+Luce Line Regional Trail,94,3,08:00 AM,Low
+Luce Line Regional Trail,94,3,10:00 AM,Low
+Luce Line Regional Trail,94,3,12:00 PM,Medium
+Luce Line Regional Trail,94,3,02:00 PM,Medium
+Luce Line Regional Trail,94,3,04:00 PM,Medium
+Luce Line Regional Trail,94,3,06:00 PM,Low
+Luce Line Regional Trail,94,4,08:00 AM,High
+Luce Line Regional Trail,94,4,10:00 AM,High
+Luce Line Regional Trail,94,4,12:00 PM,Medium
+Luce Line Regional Trail,94,4,02:00 PM,Medium
+Luce Line Regional Trail,94,4,04:00 PM,High
+Luce Line Regional Trail,94,4,06:00 PM,Medium
+Luce Line Regional Trail,94,5,08:00 AM,High
+Luce Line Regional Trail,94,5,10:00 AM,Medium
+Luce Line Regional Trail,94,5,12:00 PM,Low
+Luce Line Regional Trail,94,5,02:00 PM,Low
+Luce Line Regional Trail,94,5,04:00 PM,Medium
+Luce Line Regional Trail,94,5,06:00 PM,Medium
+Luce Line Regional Trail,94,6,08:00 AM,Low
+Luce Line Regional Trail,94,6,10:00 AM,Low
+Luce Line Regional Trail,94,6,12:00 PM,Low
+Luce Line Regional Trail,94,6,02:00 PM,Low
+Luce Line Regional Trail,94,6,04:00 PM,Low
+Luce Line Regional Trail,94,6,06:00 PM,Low
+Luce Line Regional Trail,94,7,08:00 AM,Medium
+Luce Line Regional Trail,94,7,10:00 AM,Medium
+Luce Line Regional Trail,94,7,12:00 PM,Low
+Luce Line Regional Trail,94,7,02:00 PM,Low
+Luce Line Regional Trail,94,7,04:00 PM,Medium
+Luce Line Regional Trail,94,7,06:00 PM,Medium
+Luce Line Regional Trail,94,8,08:00 AM,Medium
+Luce Line Regional Trail,94,8,10:00 AM,Medium
+Luce Line Regional Trail,94,8,12:00 PM,Low
+Luce Line Regional Trail,94,8,02:00 PM,Low
+Luce Line Regional Trail,94,8,04:00 PM,Medium
+Luce Line Regional Trail,94,8,06:00 PM,Medium
+Luce Line Regional Trail,94,9,08:00 AM,Medium
+Luce Line Regional Trail,94,9,10:00 AM,Medium
+Luce Line Regional Trail,94,9,12:00 PM,Low
+Luce Line Regional Trail,94,9,02:00 PM,Low
+Luce Line Regional Trail,94,9,04:00 PM,Medium
+Luce Line Regional Trail,94,9,06:00 PM,Medium
+Luce Line Regional Trail,94,10,08:00 AM,Low
+Luce Line Regional Trail,94,10,10:00 AM,Low
+Luce Line Regional Trail,94,10,12:00 PM,Low
+Luce Line Regional Trail,94,10,02:00 PM,Low
+Luce Line Regional Trail,94,10,04:00 PM,Low
+Luce Line Regional Trail,94,10,06:00 PM,Low
+Northeast Diagonal Regional Trail,100,1,08:00 AM,High
+Northeast Diagonal Regional Trail,100,1,10:00 AM,High
+Northeast Diagonal Regional Trail,100,1,12:00 PM,High
+Northeast Diagonal Regional Trail,100,1,02:00 PM,High
+Northeast Diagonal Regional Trail,100,1,04:00 PM,High
+Northeast Diagonal Regional Trail,100,1,06:00 PM,High
+Northeast Diagonal Regional Trail,100,2,08:00 AM,Medium
+Northeast Diagonal Regional Trail,100,2,10:00 AM,Medium
+Northeast Diagonal Regional Trail,100,2,12:00 PM,Low
+Northeast Diagonal Regional Trail,100,2,02:00 PM,Low
+Northeast Diagonal Regional Trail,100,2,04:00 PM,Medium
+Northeast Diagonal Regional Trail,100,2,06:00 PM,Medium
+Northeast Diagonal Regional Trail,100,3,12:00 PM,Low
+Northeast Diagonal Regional Trail,100,3,02:00 PM,Low
+Northeast Diagonal Regional Trail,100,3,04:00 PM,Medium
+Northeast Diagonal Regional Trail,100,3,06:00 PM,Medium
+Northeast Diagonal Regional Trail,100,4,08:00 AM,Medium
+Northeast Diagonal Regional Trail,100,4,10:00 AM,Medium
+Northeast Diagonal Regional Trail,100,4,12:00 PM,Low
+Northeast Diagonal Regional Trail,100,4,02:00 PM,Low
+Northeast Diagonal Regional Trail,100,4,04:00 PM,Medium
+Northeast Diagonal Regional Trail,100,4,06:00 PM,Low
+Northeast Diagonal Regional Trail,100,5,08:00 AM,High
+Northeast Diagonal Regional Trail,100,5,10:00 AM,Medium
+Northeast Diagonal Regional Trail,100,5,12:00 PM,Medium
+Northeast Diagonal Regional Trail,100,5,02:00 PM,Medium
+Northeast Diagonal Regional Trail,100,5,04:00 PM,High
+Northeast Diagonal Regional Trail,100,5,06:00 PM,High
+Northeast Diagonal Regional Trail,100,6,08:00 AM,Medium
+Northeast Diagonal Regional Trail,100,6,10:00 AM,Medium
+Northeast Diagonal Regional Trail,100,6,12:00 PM,Medium
+Northeast Diagonal Regional Trail,100,6,02:00 PM,Medium
+Northeast Diagonal Regional Trail,100,6,04:00 PM,Medium
+Northeast Diagonal Regional Trail,100,6,06:00 PM,Medium
+Northeast Diagonal Regional Trail,100,7,08:00 AM,Medium
+Northeast Diagonal Regional Trail,100,7,10:00 AM,Medium
+Northeast Diagonal Regional Trail,100,7,12:00 PM,Medium
+Northeast Diagonal Regional Trail,100,7,02:00 PM,Medium
+Northeast Diagonal Regional Trail,100,7,04:00 PM,Medium
+Northeast Diagonal Regional Trail,100,7,06:00 PM,Medium
+Northeast Diagonal Regional Trail,100,8,08:00 AM,Low
+Northeast Diagonal Regional Trail,100,8,10:00 AM,Low
+Northeast Diagonal Regional Trail,100,8,12:00 PM,Low
+Northeast Diagonal Regional Trail,100,8,02:00 PM,Low
+Northeast Diagonal Regional Trail,100,8,04:00 PM,Low
+Northeast Diagonal Regional Trail,100,8,06:00 PM,Low
+Northeast Diagonal Regional Trail,100,9,08:00 AM,Medium
+Northeast Diagonal Regional Trail,100,9,10:00 AM,Low
+Northeast Diagonal Regional Trail,100,9,12:00 PM,Low
+Northeast Diagonal Regional Trail,100,9,02:00 PM,Low
+Northeast Diagonal Regional Trail,100,9,04:00 PM,Low
+Northeast Diagonal Regional Trail,100,9,06:00 PM,Medium
+Shingle Creek Regional Trail,103,1,08:00 AM,Medium
+Shingle Creek Regional Trail,103,1,10:00 AM,Medium
+Shingle Creek Regional Trail,103,1,12:00 PM,Low
+Shingle Creek Regional Trail,103,1,02:00 PM,Low
+Shingle Creek Regional Trail,103,1,04:00 PM,Medium
+Shingle Creek Regional Trail,103,1,06:00 PM,Medium
+Shingle Creek Regional Trail,103,2,08:00 AM,Low
+Shingle Creek Regional Trail,103,2,10:00 AM,Medium
+Shingle Creek Regional Trail,103,2,12:00 PM,High
+Shingle Creek Regional Trail,103,2,02:00 PM,High
+Shingle Creek Regional Trail,103,2,04:00 PM,High
+Shingle Creek Regional Trail,103,2,06:00 PM,High
+Shingle Creek Regional Trail,103,3,08:00 AM,Low
+Shingle Creek Regional Trail,103,3,10:00 AM,Low
+Shingle Creek Regional Trail,103,3,12:00 PM,Medium
+Shingle Creek Regional Trail,103,3,02:00 PM,Medium
+Shingle Creek Regional Trail,103,3,04:00 PM,High
+Shingle Creek Regional Trail,103,3,06:00 PM,High
+Shingle Creek Regional Trail,103,4,08:00 AM,Low
+Shingle Creek Regional Trail,103,4,10:00 AM,Low
+Shingle Creek Regional Trail,103,4,12:00 PM,Medium
+Shingle Creek Regional Trail,103,4,02:00 PM,Medium
+Shingle Creek Regional Trail,103,4,04:00 PM,Medium
+Shingle Creek Regional Trail,103,4,06:00 PM,Medium
+Shingle Creek Regional Trail,103,5,08:00 AM,Medium
+Shingle Creek Regional Trail,103,5,10:00 AM,Medium
+Shingle Creek Regional Trail,103,5,12:00 PM,High
+Shingle Creek Regional Trail,103,5,02:00 PM,High
+Shingle Creek Regional Trail,103,5,04:00 PM,High
+Shingle Creek Regional Trail,103,5,06:00 PM,High
+Shingle Creek Regional Trail,103,6,08:00 AM,Low
+Shingle Creek Regional Trail,103,6,10:00 AM,Low
+Shingle Creek Regional Trail,103,6,12:00 PM,Medium
+Shingle Creek Regional Trail,103,6,02:00 PM,Medium
+Shingle Creek Regional Trail,103,6,04:00 PM,Medium
+Shingle Creek Regional Trail,103,6,06:00 PM,Medium
+Shingle Creek Regional Trail,103,7,08:00 AM,Low
+Shingle Creek Regional Trail,103,7,10:00 AM,Low
+Shingle Creek Regional Trail,103,7,12:00 PM,Medium
+Shingle Creek Regional Trail,103,7,02:00 PM,Medium
+Shingle Creek Regional Trail,103,7,04:00 PM,Medium
+Shingle Creek Regional Trail,103,7,06:00 PM,Medium
+Shingle Creek Regional Trail,103,8,08:00 AM,Medium
+Shingle Creek Regional Trail,103,8,10:00 AM,Medium
+Shingle Creek Regional Trail,103,8,12:00 PM,High
+Shingle Creek Regional Trail,103,8,02:00 PM,High
+Shingle Creek Regional Trail,103,8,04:00 PM,High
+Shingle Creek Regional Trail,103,8,06:00 PM,High
+Above the Falls Regional Park,135,1,08:00 AM,Low
+Above the Falls Regional Park,135,1,10:00 AM,Low
+Above the Falls Regional Park,135,1,12:00 PM,Low
+Above the Falls Regional Park,135,1,02:00 PM,Medium
+Above the Falls Regional Park,135,1,04:00 PM,High
+Above the Falls Regional Park,135,1,06:00 PM,High
+Above the Falls Regional Park,135,2,08:00 AM,Low
+Above the Falls Regional Park,135,2,10:00 AM,Low
+Above the Falls Regional Park,135,2,12:00 PM,Low
+Above the Falls Regional Park,135,2,02:00 PM,Low
+Above the Falls Regional Park,135,2,04:00 PM,Low
+Above the Falls Regional Park,135,2,06:00 PM,Low
+Above the Falls Regional Park,135,3,08:00 AM,Low
+Above the Falls Regional Park,135,3,10:00 AM,Low
+Above the Falls Regional Park,135,3,12:00 PM,Low
+Above the Falls Regional Park,135,3,02:00 PM,Low
+Above the Falls Regional Park,135,3,04:00 PM,Low
+Above the Falls Regional Park,135,3,06:00 PM,Low
+Above the Falls Regional Park,135,4,08:00 AM,Low
+Above the Falls Regional Park,135,4,10:00 AM,Low
+Above the Falls Regional Park,135,4,12:00 PM,Low
+Above the Falls Regional Park,135,4,02:00 PM,Medium
+Above the Falls Regional Park,135,4,04:00 PM,Medium
+Above the Falls Regional Park,135,4,06:00 PM,Low
+Above the Falls Regional Park,135,5,08:00 AM,High
+Above the Falls Regional Park,135,5,10:00 AM,Low
+Above the Falls Regional Park,135,5,12:00 PM,Low
+Above the Falls Regional Park,135,5,02:00 PM,Low
+Above the Falls Regional Park,135,5,04:00 PM,Medium
+Above the Falls Regional Park,135,5,06:00 PM,Medium
+Above the Falls Regional Park,135,7,08:00 AM,Low
+Above the Falls Regional Park,135,7,10:00 AM,Low
+Above the Falls Regional Park,135,7,12:00 PM,Medium
+Above the Falls Regional Park,135,7,02:00 PM,Medium
+Above the Falls Regional Park,135,7,04:00 PM,High
+Above the Falls Regional Park,135,7,06:00 PM,Medium
+Above the Falls Regional Park,135,8,08:00 AM,High
+Above the Falls Regional Park,135,8,10:00 AM,High
+Above the Falls Regional Park,135,8,12:00 PM,High
+Above the Falls Regional Park,135,8,02:00 PM,High
+Above the Falls Regional Park,135,8,04:00 PM,High
+Above the Falls Regional Park,135,8,06:00 PM,High
+Above the Falls Regional Park,135,9,08:00 AM,Medium
+Above the Falls Regional Park,135,9,10:00 AM,Low
+Above the Falls Regional Park,135,9,12:00 PM,Low
+Above the Falls Regional Park,135,9,02:00 PM,Low
+Above the Falls Regional Park,135,9,04:00 PM,Low
+Above the Falls Regional Park,135,9,06:00 PM,Low
+Above the Falls Regional Park,135,10,08:00 AM,High
+Above the Falls Regional Park,135,10,10:00 AM,Medium
+Above the Falls Regional Park,135,10,12:00 PM,Medium
+Above the Falls Regional Park,135,10,02:00 PM,Medium
+Above the Falls Regional Park,135,10,04:00 PM,High
+Above the Falls Regional Park,135,10,06:00 PM,High
+Above the Falls Regional Park,135,11,08:00 AM,High
+Above the Falls Regional Park,135,11,10:00 AM,Medium
+Above the Falls Regional Park,135,11,12:00 PM,Medium
+Above the Falls Regional Park,135,11,02:00 PM,Medium
+Above the Falls Regional Park,135,11,04:00 PM,High
+Above the Falls Regional Park,135,11,06:00 PM,High
+Above the Falls Regional Park,135,12,08:00 AM,Low
+Above the Falls Regional Park,135,12,10:00 AM,Low
+Above the Falls Regional Park,135,12,12:00 PM,Low
+Above the Falls Regional Park,135,12,02:00 PM,Low
+Above the Falls Regional Park,135,12,04:00 PM,Low
+Above the Falls Regional Park,135,12,06:00 PM,Low

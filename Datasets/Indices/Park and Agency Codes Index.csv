@@ -1,0 +1,126 @@
+Park_id,Park_name,Agency_name,Agency_id
+1,Anoka County Riverfront Regional Park,Anoka County,1
+2,Bunker Hills Regional Park,Anoka County,1
+3,Coon Rapids Dam Regional Park,Anoka County,1
+4,Lake George Regional Park,Anoka County,1
+5,Martin-Island-Linwood Regional Park,Anoka County,1
+6,Mississippi River Regional Trail,Anoka County,1
+7,Rice Creek West Regional Trail,Anoka County,1
+8,Rice Creek Chain of Lakes Park Reserve,Anoka County,1
+9,Rice Creek North Regional Trail,Anoka County,1
+10,Rum River Central Regional Park,Anoka County,1
+11,Bush and Normandale Lakes Regional Park,Bloomington,2
+12,Baylor Regional Park,Carver County,3
+13,Lake Minnewashta Regional Park,Carver County,3
+14,Lake Waconia Regional Park,Carver County,3
+15,Big Rivers Regional Trail,Dakota County,4
+16,Lake Byllesby Regional Park,Dakota County,4
+17,Lebanon Hills Regional Park,Dakota County,4
+18,Miesville Ravine Park Reserve,Dakota County,4
+19,Mississippi River Regional Trail,Dakota County,4
+20,Spring Lake Park Reserve,Dakota County,4
+21,Baker Park Reserve,Three Rivers Park District,9
+22,Bryant Lake Regional Park,Three Rivers Park District,9
+23,Carver Park Reserve,Three Rivers Park District,9
+24,Clifton French Regional Park,Three Rivers Park District,9
+25,Cleary Lake Regional Park (Scott County),Three Rivers Park District,9
+26,Coon Rapids Dam Regional Park,Three Rivers Park District,9
+27,Crow-Hassan Park Reserve,Three Rivers Park District,9
+28,Elm Creek Park Reserve,Three Rivers Park District,9
+29,Medicine Lake Regional Trail,Three Rivers Park District,9
+30,Fish Lake Regional Park,Three Rivers Park District,9
+31,Hyland Lake Park Reserve,Three Rivers Park District,9
+32,Lake Rebecca Park Reserve,Three Rivers Park District,9
+33,Lake Minnetonka Regional Park,Three Rivers Park District,9
+34,Murphy-Hanrehan Park Reserve (Scott County),Three Rivers Park District,9
+35,Rush Creek Regional Trail,Three Rivers Park District,9
+36,North Mississippi Regional Park,Three Rivers Park District,9
+37,Noerenberg Gardens Special Recreation Feature,Three Rivers Park District,9
+38,Scott County Regional Trail,Scott County,8
+39,Lake Minnetonka LRT Regional Trail,Three Rivers Park District,9
+40,Minnesota River Bluffs Regional Trail,Three Rivers Park District,9
+41,Cedar Lake Regional Trail,Minneapolis Park and Recreation Board,5
+42,Central Mississippi Riverfront Regional Park,Minneapolis Park and Recreation Board,5
+43,Minneapolis Chain of Lakes Regional Park,Minneapolis Park and Recreation Board,5
+44,Mississippi Gorge Regional Park,Minneapolis Park and Recreation Board,5
+45,Minnehaha Regional Park,Minneapolis Park and Recreation Board,5
+46,Minnehaha Parkway Regional Trail,Minneapolis Park and Recreation Board,5
+47,North Mississippi Regional Park,Minneapolis Park and Recreation Board,5
+48,Nokomis-Hiawatha Regional Park,Minneapolis Park and Recreation Board,5
+49,Theodore Wirth Regional Park,Minneapolis Park and Recreation Board,5
+50,Victory (Wirth) Memorial Parkway Regional Trail,Minneapolis Park and Recreation Board,5
+51,Battle Creek Regional Park,Ramsey County,6
+52,Bald Eagle-Otter Lake Regional Park,Ramsey County,6
+53,Birch Lake Regional Park,Ramsey County,6
+54,Bruce Vento Regional Trail,Ramsey County,6
+55,Grass-Vadnais-Snail Lake Regional Park,Ramsey County,6
+56,Highway 96 Regional Trail,Ramsey County,6
+57,Hwy 96 Regional Trail - old segment called White Bear should be coded 56,NA,NA
+58,Keller Regional Park,Ramsey County,6
+59,Long Lake Regional Park,Ramsey County,6
+60,Rice Creek West Regional Trail,Ramsey County,6
+61,Rice Creek North Regional Trail,Ramsey County,6
+62,Bruce Vento Regional Trail,Saint Paul,7
+63,Cherokee Heights Regional Park,Saint Paul,7
+64,"Como Regional Park, Zoo, & Conservatory",Saint Paul,7
+65,Lilydale-Harriet Island Regional Park,Saint Paul,7
+66,Hidden Falls-Crosby Farm Regional Park,Saint Paul,7
+67,Indian Mounds Regional Park,Saint Paul,7
+68,Mississippi Gorge Regional Park,Saint Paul,7
+69,Sam Morgan Regional Trail,Saint Paul,7
+70,Phalen Regional Park,Saint Paul,7
+71,Cottage Grove Ravine Regional Park,Washington County,10
+72,Lake Elmo Park Reserve,Washington County,10
+73,St. Croix Bluffs Regional Park,Washington County,10
+74,Square Lake Special Recreation Feature,Washington County,10
+75,Central Anoka County Regional Trail,Anoka County,1
+76,Cedar Lake LRT Regional Trail,Three Rivers Park District,9
+77,Lake Independence Regional Trail,Three Rivers Park District,9
+78,Eagle Lake Regional Park,Three Rivers Park District,9
+79,North Cedar Lake Regional Trail,Three Rivers Park District,9
+80,Gale Woods Special Recreation Feature,Three Rivers Park District,9
+81,Hardwood Creek Regional Park,Washington County,10
+82,Big Marine Park Reserve,Washington County,10
+83,Pine Point Regional Park,Washington County,10
+84,Silverwood Special Recreation Feature,Three Rivers Park District,9
+85,Coon Lake CP,NA,NA
+86,Rum River North CP,NA,NA
+87,Rum River South CP,NA,NA
+88,Shingle Creek Regional Trail,Three Rivers Park District,9
+89,Luce Line Regional Trail,Three Rivers Park District,9
+90,St. Anthony Parkway Regional Trail,Minneapolis Park and Recreation Board,5
+91,Columbia Parkway Regional Trail,Minneapolis Park and Recreation Board,5
+92,Ridgway Parkway Regional Trail,Minneapolis Park and Recreation Board,5
+93,Kenilworth Regional Trail,Minneapolis Park and Recreation Board,5
+94,Luce Line Regional Trail,Minneapolis Park and Recreation Board,5
+95,River to River Greenway Regional Trail,Dakota County,4
+96,Dakota Rail Regional Trail,Three Rivers Park District,9
+97,Bassett Creek Regional Trail,Three Rivers Park District,9
+98,Trout Brook Regional Trail,Ramsey County,6
+99,Tony Schmidt Regional Park,Ramsey County,6
+100,Northeast Diagonal Regional Trail,Minneapolis Park and Recreation Board,5
+101,Northeast Diagonal Regional Trail,Three Rivers Park District,9
+102,Cedar Lake Farm Regional Park,Scott County,8
+103,Shingle Creek Regional Trail,Minneapolis Park and Recreation Board,5
+104,Dakota Rail Regional Trail,Carver County,3
+105,The Landing Special Recreation Feature,Three Rivers Park District,9
+107,Coon Creek Regional Trail,Anoka County,1
+108,East Anoka County Regional Trail,Anoka County,1
+109,Rum River Regional Trail,Anoka County,1
+110,Bunker Hills Regional Trail,Anoka County,1
+111,Twin Lakes Regional Trail,Three Rivers Park District,9
+112,Mississippi West Regional Park,Anoka County,1
+113,Minnesota River Bluffs Regional Trail,Carver County,3
+114,Spring Lake Regional Park,Scott County,8
+115,Nine Mile Creek Regional Trail,Three Rivers Park District,9
+116,Southwest Regional Trail,Carver County,3
+117,Kingswood Special Recreation Feature,Three Rivers Park District,9
+118,Whitetail Woods Regional Park,Dakota County,4
+124,Minnesota River Greenway Regional Trail,Dakota County,4
+130,Trout Brook Regional Trail,Saint Paul,7
+131,Crystal Lake Regional Trail,Three Rivers Park District,9
+132,Nokomis-Minnesota River Regional Trail,Three Rivers Park District,9
+133,Point Douglas Regional Trail,Washington County,10
+135,Above the Falls Regional Park,Minneapolis Park and Recreation Board,5
+137,Lakes Link Regional Trail,Ramsey County,6
+140,Nokomis-Minnesota River Bluffs Regional Trail,Bloomington,2

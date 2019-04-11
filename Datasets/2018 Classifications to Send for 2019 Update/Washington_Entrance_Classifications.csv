@@ -1,0 +1,151 @@
+Park_name,Park_id,Entrance,Start_time,Usage_class
+Cottage Grove Ravine Regional Park,71,1,08:00 AM,Medium
+Cottage Grove Ravine Regional Park,71,1,10:00 AM,High
+Cottage Grove Ravine Regional Park,71,1,12:00 PM,High
+Cottage Grove Ravine Regional Park,71,1,02:00 PM,High
+Cottage Grove Ravine Regional Park,71,1,04:00 PM,Medium
+Cottage Grove Ravine Regional Park,71,1,06:00 PM,Medium
+Cottage Grove Ravine Regional Park,71,2,08:00 AM,Low
+Cottage Grove Ravine Regional Park,71,2,10:00 AM,Low
+Cottage Grove Ravine Regional Park,71,2,12:00 PM,Low
+Cottage Grove Ravine Regional Park,71,2,02:00 PM,Low
+Cottage Grove Ravine Regional Park,71,2,04:00 PM,Low
+Cottage Grove Ravine Regional Park,71,2,06:00 PM,Low
+Lake Elmo Park Reserve,72,1,08:00 AM,Medium
+Lake Elmo Park Reserve,72,1,10:00 AM,High
+Lake Elmo Park Reserve,72,1,12:00 PM,High
+Lake Elmo Park Reserve,72,1,02:00 PM,High
+Lake Elmo Park Reserve,72,1,04:00 PM,High
+Lake Elmo Park Reserve,72,1,06:00 PM,Medium
+St. Croix Bluffs Regional Park,73,1,08:00 AM,Medium
+St. Croix Bluffs Regional Park,73,1,10:00 AM,High
+St. Croix Bluffs Regional Park,73,1,12:00 PM,High
+St. Croix Bluffs Regional Park,73,1,02:00 PM,High
+St. Croix Bluffs Regional Park,73,1,04:00 PM,Medium
+St. Croix Bluffs Regional Park,73,1,06:00 PM,Medium
+Square Lake Special Recreation Feature,74,1,08:00 AM,Medium
+Square Lake Special Recreation Feature,74,1,10:00 AM,High
+Square Lake Special Recreation Feature,74,1,12:00 PM,High
+Square Lake Special Recreation Feature,74,1,02:00 PM,High
+Square Lake Special Recreation Feature,74,1,04:00 PM,High
+Square Lake Special Recreation Feature,74,1,06:00 PM,Medium
+Hardwood Creek Regional Park,81,1,08:00 AM,High
+Hardwood Creek Regional Park,81,1,10:00 AM,High
+Hardwood Creek Regional Park,81,1,12:00 PM,High
+Hardwood Creek Regional Park,81,1,02:00 PM,High
+Hardwood Creek Regional Park,81,1,04:00 PM,High
+Hardwood Creek Regional Park,81,1,06:00 PM,High
+Hardwood Creek Regional Park,81,2,08:00 AM,High
+Hardwood Creek Regional Park,81,2,10:00 AM,High
+Hardwood Creek Regional Park,81,2,12:00 PM,High
+Hardwood Creek Regional Park,81,2,02:00 PM,High
+Hardwood Creek Regional Park,81,2,04:00 PM,High
+Hardwood Creek Regional Park,81,2,06:00 PM,High
+Hardwood Creek Regional Park,81,3,08:00 AM,Low
+Hardwood Creek Regional Park,81,3,10:00 AM,Low
+Hardwood Creek Regional Park,81,3,12:00 PM,Low
+Hardwood Creek Regional Park,81,3,02:00 PM,Low
+Hardwood Creek Regional Park,81,3,04:00 PM,Low
+Hardwood Creek Regional Park,81,3,06:00 PM,Low
+Hardwood Creek Regional Park,81,5,08:00 AM,Low
+Hardwood Creek Regional Park,81,5,10:00 AM,Low
+Hardwood Creek Regional Park,81,5,12:00 PM,Low
+Hardwood Creek Regional Park,81,5,02:00 PM,Low
+Hardwood Creek Regional Park,81,5,04:00 PM,Low
+Hardwood Creek Regional Park,81,5,06:00 PM,Low
+Hardwood Creek Regional Park,81,6,08:00 AM,Low
+Hardwood Creek Regional Park,81,6,10:00 AM,Low
+Hardwood Creek Regional Park,81,6,12:00 PM,Low
+Hardwood Creek Regional Park,81,6,02:00 PM,Low
+Hardwood Creek Regional Park,81,6,04:00 PM,Low
+Hardwood Creek Regional Park,81,6,06:00 PM,Low
+Hardwood Creek Regional Park,81,7,08:00 AM,Low
+Hardwood Creek Regional Park,81,7,10:00 AM,Low
+Hardwood Creek Regional Park,81,7,12:00 PM,Low
+Hardwood Creek Regional Park,81,7,02:00 PM,Low
+Hardwood Creek Regional Park,81,7,04:00 PM,Low
+Hardwood Creek Regional Park,81,7,06:00 PM,Low
+Hardwood Creek Regional Park,81,8,08:00 AM,Low
+Hardwood Creek Regional Park,81,8,10:00 AM,Low
+Hardwood Creek Regional Park,81,8,12:00 PM,Low
+Hardwood Creek Regional Park,81,8,02:00 PM,Low
+Hardwood Creek Regional Park,81,8,04:00 PM,Low
+Hardwood Creek Regional Park,81,8,06:00 PM,Low
+Hardwood Creek Regional Park,81,9,08:00 AM,Low
+Hardwood Creek Regional Park,81,9,10:00 AM,Low
+Hardwood Creek Regional Park,81,9,12:00 PM,Low
+Hardwood Creek Regional Park,81,9,02:00 PM,Low
+Hardwood Creek Regional Park,81,9,04:00 PM,Low
+Hardwood Creek Regional Park,81,9,06:00 PM,Low
+Hardwood Creek Regional Park,81,10,08:00 AM,Low
+Hardwood Creek Regional Park,81,10,10:00 AM,Low
+Hardwood Creek Regional Park,81,10,12:00 PM,Low
+Hardwood Creek Regional Park,81,10,02:00 PM,Low
+Hardwood Creek Regional Park,81,10,04:00 PM,Low
+Hardwood Creek Regional Park,81,10,06:00 PM,Low
+Hardwood Creek Regional Park,81,11,08:00 AM,Low
+Hardwood Creek Regional Park,81,11,10:00 AM,Low
+Hardwood Creek Regional Park,81,11,12:00 PM,Low
+Hardwood Creek Regional Park,81,11,02:00 PM,Low
+Hardwood Creek Regional Park,81,11,04:00 PM,Low
+Hardwood Creek Regional Park,81,11,06:00 PM,Low
+Hardwood Creek Regional Park,81,12,08:00 AM,Low
+Hardwood Creek Regional Park,81,12,10:00 AM,Low
+Hardwood Creek Regional Park,81,12,12:00 PM,Low
+Hardwood Creek Regional Park,81,12,02:00 PM,Low
+Hardwood Creek Regional Park,81,12,04:00 PM,Low
+Hardwood Creek Regional Park,81,12,06:00 PM,Low
+Hardwood Creek Regional Park,81,13,08:00 AM,Low
+Hardwood Creek Regional Park,81,13,10:00 AM,Low
+Hardwood Creek Regional Park,81,13,12:00 PM,Low
+Hardwood Creek Regional Park,81,13,02:00 PM,Low
+Hardwood Creek Regional Park,81,13,04:00 PM,Low
+Hardwood Creek Regional Park,81,13,06:00 PM,Low
+Hardwood Creek Regional Park,81,14,08:00 AM,Low
+Hardwood Creek Regional Park,81,14,10:00 AM,Low
+Hardwood Creek Regional Park,81,14,12:00 PM,Low
+Hardwood Creek Regional Park,81,14,02:00 PM,Low
+Hardwood Creek Regional Park,81,14,04:00 PM,Low
+Hardwood Creek Regional Park,81,14,06:00 PM,Low
+Hardwood Creek Regional Park,81,15,08:00 AM,High
+Hardwood Creek Regional Park,81,15,10:00 AM,High
+Hardwood Creek Regional Park,81,15,12:00 PM,High
+Hardwood Creek Regional Park,81,15,02:00 PM,High
+Hardwood Creek Regional Park,81,15,04:00 PM,High
+Hardwood Creek Regional Park,81,15,06:00 PM,High
+Hardwood Creek Regional Park,81,16,08:00 AM,Low
+Hardwood Creek Regional Park,81,16,10:00 AM,Low
+Hardwood Creek Regional Park,81,16,12:00 PM,Low
+Hardwood Creek Regional Park,81,16,02:00 PM,Low
+Hardwood Creek Regional Park,81,16,04:00 PM,Low
+Hardwood Creek Regional Park,81,16,06:00 PM,Low
+Big Marine Park Reserve,82,1,08:00 AM,Medium
+Big Marine Park Reserve,82,1,10:00 AM,High
+Big Marine Park Reserve,82,1,12:00 PM,High
+Big Marine Park Reserve,82,1,02:00 PM,High
+Big Marine Park Reserve,82,1,04:00 PM,Medium
+Big Marine Park Reserve,82,1,06:00 PM,Medium
+Pine Point Regional Park,83,1,08:00 AM,Medium
+Pine Point Regional Park,83,1,10:00 AM,High
+Pine Point Regional Park,83,1,12:00 PM,High
+Pine Point Regional Park,83,1,02:00 PM,High
+Pine Point Regional Park,83,1,04:00 PM,High
+Pine Point Regional Park,83,1,06:00 PM,Medium
+Pine Point Regional Park,83,2,08:00 AM,Medium
+Pine Point Regional Park,83,2,10:00 AM,High
+Pine Point Regional Park,83,2,12:00 PM,High
+Pine Point Regional Park,83,2,02:00 PM,High
+Pine Point Regional Park,83,2,04:00 PM,High
+Pine Point Regional Park,83,2,06:00 PM,Medium
+Point Douglas Regional Trail,133,1,08:00 AM,Medium
+Point Douglas Regional Trail,133,1,10:00 AM,High
+Point Douglas Regional Trail,133,1,12:00 PM,High
+Point Douglas Regional Trail,133,1,02:00 PM,High
+Point Douglas Regional Trail,133,1,04:00 PM,High
+Point Douglas Regional Trail,133,1,06:00 PM,Medium
+Point Douglas Regional Trail,133,2,08:00 AM,Medium
+Point Douglas Regional Trail,133,2,10:00 AM,High
+Point Douglas Regional Trail,133,2,12:00 PM,High
+Point Douglas Regional Trail,133,2,02:00 PM,High
+Point Douglas Regional Trail,133,2,04:00 PM,High
+Point Douglas Regional Trail,133,2,06:00 PM,Medium

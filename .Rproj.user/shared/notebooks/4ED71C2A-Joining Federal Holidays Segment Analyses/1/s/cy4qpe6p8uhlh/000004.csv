@@ -1,0 +1,2 @@
+"0","july_fourth_2018_tidy <- july_fourth_2018 %>%"
+"0","  separate(`Day Type`, into = c('Day_type_code', 'Day_type_description'), sep = ':') %>%"
