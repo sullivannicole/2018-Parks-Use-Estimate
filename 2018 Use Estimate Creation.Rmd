@@ -34,42 +34,42 @@ bus_vehicle_multipliers <- read_csv('Bus and Vehicle Multipliers Index.csv') # F
 ```{r}
 # Import 2018 Qualtrics datasets - see Qualtrics Info document for login information
 # Note that for import by code below to work, all datasets must be csvs, saved with original Qualtrics names in 'Datasets' folder (i.e. download as csv from Qualtrics and do not change the name)
-# setwd('.')
-# setwd('Datasets/Qualtrics')
-# parks_18 <- list.files(pattern = '*.csv')
-# 
-# make_names <- function(name_vector) {
-#  
-#   name_vector_df <- as.data.frame(name_vector)
-#  
-#  new_names <- name_vector_df %>%
-#    rename(Agency_name = 1) %>%
-#    mutate(Agency_name = str_replace_all(Agency_name, c('\\+-+.+?v' = '', '\\+' = '_')))
-# 
-#  new_names_list <- as.list(new_names)
-#  
-#  return(new_names_list$Agency_name)
-# }
-# 
-# list2env(map(set_names(parks_18, make_names(parks_18)), read_csv), envir = .GlobalEnv)
-# 
-# all_agencies_list <- list(Anoka_County = Anoka_County, Bloomington = Bloomington, Carver_County = Carver_County, Dakota_County = Dakota_County, Minneapolis_Park_and_Recreation_Board = Minneapolis_Park_and_Recreation_Board, Ramsey_County = Ramsey_County, Saint_Paul = Saint_Paul, Scott_County = Scott_County, Three_Rivers_Park_District = Three_Rivers_Park_District, Washington_County = Washington_County)
+setwd('.')
+setwd('Datasets/Qualtrics')
+parks_18 <- list.files(pattern = '*.csv')
+
+make_names <- function(name_vector) {
+
+  name_vector_df <- as.data.frame(name_vector)
+
+ new_names <- name_vector_df %>%
+   rename(Agency_name = 1) %>%
+   mutate(Agency_name = str_replace_all(Agency_name, c('\\+-+.+?v' = '', '\\+' = '_')))
+
+ new_names_list <- as.list(new_names)
+
+ return(new_names_list$Agency_name)
+}
+
+list2env(map(set_names(parks_18, make_names(parks_18)), read_csv), envir = .GlobalEnv)
+
+all_agencies_list <- list(Anoka_County = Anoka_County, Bloomington = Bloomington, Carver_County = Carver_County, Dakota_County = Dakota_County, Minneapolis_Park_and_Recreation_Board = Minneapolis_Park_and_Recreation_Board, Ramsey_County = Ramsey_County, Saint_Paul = Saint_Paul, Scott_County = Scott_County, Three_Rivers_Park_District = Three_Rivers_Park_District, Washington_County = Washington_County)
 
 # Remove unnecessary variables to clean datasets prior to sending to agencies
 # 
-# variable_paring <- function(df) {
-#   df %>%
-#     slice(-2) %>%
-#     select(18:33)
-# }
+variable_paring <- function(df) {
+  df %>%
+    slice(-2) %>%
+    select(18:33)
+}
 # 
-# parks_pared <- map(all_agencies_list, variable_paring)
+parks_pared <- map(all_agencies_list, variable_paring)
 
 # Write out datasets without extra variables to folder on N drive, from which they can be sent for correction
 
-# parks_pared %>%
-#   names(.) %>%
-#   map(~ write_csv(parks_pared[[.]], paste0("Datasets/To Send for Accuracy Audit/", ., ".csv")))
+parks_pared %>%
+  names(.) %>%
+  map(~ write_csv(parks_pared[[.]], paste0("Datasets/To Send for Accuracy Audit/", ., ".csv")))
 ```
 
 ## Step 1:  Tidy agencies' final data (with corrections), bind together
@@ -211,38 +211,38 @@ step_IIa_unjoined <- step_IIa %>%
 
 # Which agency or agencies have duplicated counts?
 
-# step_II_agency_counts <- step_II %>%
-#   group_by(Agency_name) %>%
-#   count()
-# 
-# step_IIa_agency_counts <- step_IIa %>%
-#   group_by(Agency_name) %>%
-#   count()
-# 
-# step_IIa_compare_agency_counts <- full_join(step_II_agency_counts, step_IIa_agency_counts, by = c('Agency_name'))
+step_II_agency_counts <- step_II %>%
+  group_by(Agency_name) %>%
+  count()
+
+step_IIa_agency_counts <- step_IIa %>%
+  group_by(Agency_name) %>%
+  count()
+
+step_IIa_compare_agency_counts <- full_join(step_II_agency_counts, step_IIa_agency_counts, by = c('Agency_name'))
 # 
 # # In this case, only Anoka.  Which Anoka parks or trails were duplicated?
-# 
-# step_II_park_counts <- step_II %>%
-#   filter(Agency_name == 'Anoka County') %>%
-#   group_by(Park_trail) %>%
-#   count()
-# 
-# step_IIa_park_counts <- step_IIa %>%
-#   filter(Agency_name == 'Anoka County') %>%
-#   group_by(Park_trail) %>%
-#   count()
-# 
-# step_IIa_compare_park_counts <- full_join(step_II_park_counts, step_IIa_park_counts, by = c('Park_trail'))
-# 
-# step_IIa_compare_counts %>%
-#   filter(n.x != n.y)
+
+step_II_park_counts <- step_II %>%
+  filter(Agency_name == 'Anoka County') %>%
+  group_by(Park_trail) %>%
+  count()
+
+step_IIa_park_counts <- step_IIa %>%
+  filter(Agency_name == 'Anoka County') %>%
+  group_by(Park_trail) %>%
+  count()
+
+step_IIa_compare_park_counts <- full_join(step_II_park_counts, step_IIa_park_counts, by = c('Park_trail'))
+
+step_IIa_compare_counts %>%
+  filter(n.x != n.y)
 # # In this case, Rum River Central Regional Park is responsible for the duplication.  Rum River CRP was given two park attributions for Anoka County, by mistake.  Remove the '109' attribution from the index.
 # 
-# step_IIa_unjoined <- step_IIa %>%
-#   filter(is.na(Park_id) | is.na(Agency_id)) %>%
-#   select(Park_trail, Agency_name) %>%
-#   unique()
+step_IIa_unjoined <- step_IIa %>%
+  filter(is.na(Park_id) | is.na(Agency_id)) %>%
+  select(Park_trail, Agency_name) %>%
+  unique()
 
 ```
 
@@ -276,7 +276,7 @@ step_III_dups <- step_III %>%
 
 step_III_dups
 
-#step_III_dups_full <- inner_join(step_III, step_III_dups, by = c('Park_id', 'Date', 'Start_time', 'Entrance', 'ResponseId'))
+step_III_dups_full <- inner_join(step_III, step_III_dups, by = c('Park_id', 'Date', 'Start_time', 'Entrance', 'ResponseId'))
 
 ```
 
@@ -335,8 +335,8 @@ step_V_unjoined <- step_V %>%
   filter(is.na(Expansion_factor))
 
 # For purposes of preliminary check of numbers, use only those counts that have an expansion factor assigned (un-assigned factors may be because parks are new or because of incorrect data entry)
-# step_V_not_na <- step_V %>%
-#   filter(!is.na(Expansion_factor))
+step_V_not_na <- step_V %>%
+  filter(!is.na(Expansion_factor))
 
 ```
 
@@ -627,7 +627,11 @@ list2env(map(set_names(parks, make_names(parks)), read_csv), envir = .GlobalEnv)
 
 
 
-events_camping <- bind_rows(Anoka_County_Events_Camping, Bloomington_Events_Camping, Carver_County_Events_Camping, Dakota_County_Events_Camping, MPRB_Events_Camping, Ramsey_County_Events_Camping, Saint_Paul_Events_Camping, TRPD_Events_Camping, TRPD_Scott_Events_Camping, Washington_County_Events_Camping)
+events_camping <- bind_rows(Anoka_County_Events_Camping, Bloomington_Events_Camping, 
+                            Carver_County_Events_Camping, Dakota_County_Events_Camping,
+                            MPRB_Events_Camping, Ramsey_County_Events_Camping, 
+                            Saint_Paul_Events_Camping, TRPD_Events_Camping, 
+                            TRPD_Scott_Events_Camping, Washington_County_Events_Camping)
 
 #setwd('.')
 setwd('Datasets/Indices')
