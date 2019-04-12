@@ -596,28 +596,28 @@ write_csv(estimates_comparison_tidy, 'Summer Visitor Use Estimate 2013 to 2018 -
 
 ```{r}
 # Percent difference in Trail or Park's Share of All Regional Visits between 2017 and 2018
-ggplot(estimate_comparison, aes(Trail_name, Estimate_percent_of_whole_difference)) +
-  geom_bar(stat = "identity") +
-  coord_flip() +
-  labs(title = "Percent Difference in Trail or Park's Share of all Regional Visits from 2017 to 2018")
-
-# Percent Difference from 2017 Estimate to 2018 Estimate
-ggplot(estimate_comparison, aes(Trail_name, Percent_difference_from_17_18_by_trail)) +
-  geom_bar(stat = "identity") +
-  coord_flip() +
-  labs(title = "Percent Difference in Trail or Park's 2017 Estimate to Its 2018 Estimate")
-
-# Gross Difference from 2017 Estimate to 2018 Estimate
-ggplot(estimate_comparison, aes(Trail_name, Estimate_gross_difference)) +
-  geom_bar(stat = "identity") +
-  coord_flip() +
-  labs(title = "Gross Difference from 2017 Estimate to 2018 Estimate")
-
-
-estimate_comparison %>%
-  gather(Estimate_17, Estimate_18, key = 'Estimate_year', value = 'Estimate') %>%
-  ggplot(aes(Trail_name, Estimate, fill = Estimate_year)) +
-  geom_bar(stat = 'identity', position = 'dodge') + coord_flip()
+# ggplot(estimate_comparison, aes(Trail_name, Estimate_percent_of_whole_difference)) +
+#   geom_bar(stat = "identity") +
+#   coord_flip() +
+#   labs(title = "Percent Difference in Trail or Park's Share of all Regional Visits from 2017 to 2018")
+# 
+# # Percent Difference from 2017 Estimate to 2018 Estimate
+# ggplot(estimate_comparison, aes(Trail_name, Percent_difference_from_17_18_by_trail)) +
+#   geom_bar(stat = "identity") +
+#   coord_flip() +
+#   labs(title = "Percent Difference in Trail or Park's 2017 Estimate to Its 2018 Estimate")
+# 
+# # Gross Difference from 2017 Estimate to 2018 Estimate
+# ggplot(estimate_comparison, aes(Trail_name, Estimate_gross_difference)) +
+#   geom_bar(stat = "identity") +
+#   coord_flip() +
+#   labs(title = "Gross Difference from 2017 Estimate to 2018 Estimate")
+# 
+# 
+# estimate_comparison %>%
+#   gather(Estimate_17, Estimate_18, key = 'Estimate_year', value = 'Estimate') %>%
+#   ggplot(aes(Trail_name, Estimate, fill = Estimate_year)) +
+#   geom_bar(stat = 'identity', position = 'dodge') + coord_flip()
 
 ```
 
