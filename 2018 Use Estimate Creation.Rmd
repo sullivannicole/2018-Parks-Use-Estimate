@@ -17,6 +17,7 @@ library(tidyverse)
 library(lubridate)
 library(RQuantLib)
 library(plotly)
+library(roxygen2)
 ```
 
 ## Step 0:  Import data and reference indices; remove superfluous variables to create datasets for agency correction
@@ -41,8 +42,8 @@ parks_18 <- list.files(pattern = '*.csv')
 #' make_names
 #'
 #' @param name_vector a vector of agency names
-#'
 #' @return a cleaned list of the agency names
+#' @details Takes in a vector of agency names and returns a clean list of the agency names. Removes special characters and establishes consistent naming conventions.
 make_names <- function(name_vector) {
   
   name_vector_df <- as.data.frame(name_vector)
@@ -91,33 +92,40 @@ parks <- list.files(pattern = '*.csv')
 
 list2env(map(set_names(parks, make_names(parks)), read_csv), envir = .GlobalEnv)
 
-all_agencies_list <- list(Anoka_County, Bloomington, Carver_County, Dakota_County, Minneapolis_Park_and_Recreation_Board, Ramsey_County, Saint_Paul, Scott_County, Three_Rivers_Park_District, Washington_County)
+# all_agencies_list <- list(Anoka_County, Bloomington, Carver_County, Dakota_County, 
+#                           Minneapolis_Park_and_Recreation_Board, Ramsey_County, 
+#                           Saint_Paul, Scott_County, Three_Rivers_Park_District, 
+#                           Washington_County)
 
+#' park_tidy
+#'
+#' @param df 
+#' @return a cleaned data frame with conistent column names, time formats. 
 park_tidy <- function(df) {
   df %>%
     slice(-1:-2) %>%
     rename(Agency_name = 19,
-         Park_trail = 20,
-         Entrance = 21,
-         Month = 22,
-         Day = 23,
-         Year = 24,
-         Timeslot = 25,
-         Scheduled_count = 26,
-         Scheduled_date = 27,
-         Bikers = 28,
-         Peds_skaters = 29,
-         Vehicles = 30,
-         Buses = 31,
-         Horse_riders = 32,
-         Boaters = 33) %>%
+           Park_trail = 20,
+           Entrance = 21,
+           Month = 22,
+           Day = 23,
+           Year = 24,
+           Timeslot = 25,
+           Scheduled_count = 26,
+           Scheduled_date = 27,
+           Bikers = 28,
+           Peds_skaters = 29,
+           Vehicles = 30,
+           Buses = 31,
+           Horse_riders = 32,
+           Boaters = 33) %>%
     select(19:33) %>%
     unique() %>%
     mutate(Start_time = ifelse(Timeslot != '10:00-12:00 PM', str_replace(Timeslot, '\\-.+? ', ''), '10:00AM')) %>%
     separate(Start_time, into = c('Start', 'AM_PM'), sep = -2) %>%
     unite(Start_time, Start, AM_PM, sep = ' ') %>%
     mutate(Zero = 0,
-         Start_time_2 = Start_time) %>%
+           Start_time_2 = Start_time) %>%
     unite(Start_alt, Zero, Start_time_2, sep = '') %>%
     mutate(Start_time_fmt = ifelse(Start_time != '10:00 AM' & Start_time != '12:00 PM', Start_alt, Start_time)) %>%
     select(-Start_alt)
