@@ -78,12 +78,13 @@ parks_pared <- map(all_agencies_list, variable_paring)
 
 # Write out datasets without extra variables to folder on N drive, from which they can be sent for correction
 
-parks_pared %>%
-  names(.) %>%
-  map(~ write_csv(parks_pared[[.]], paste0("Datasets/To Send for Accuracy Audit/", ., ".csv")))
+# parks_pared %>%
+#   names(.) %>%
+#   map(~ write_csv(parks_pared[[.]], paste0("Datasets/To Send for Accuracy Audit/", ., ".csv")))
 ```
 
-## Step 1:  Tidy agencies' final data (with corrections), bind together
+## Step 1:  Tidy agencies' final data (with corrections), bind together  
+This uses the data that the agencies have sent back from the audit. 
 
 ```{r}
 #setwd('.')
