@@ -84,19 +84,6 @@ parks_pared %>%
 setwd('Datasets/Returned Audits')
 parks <- list.files(pattern = '*.csv')
 
-make_names <- function(name_vector) {
-
-  name_vector_df <- as.data.frame(name_vector)
-
- new_names <- name_vector_df %>%
-   rename(Agency_name = 1) %>%
-   mutate(Agency_name = str_replace_all(Agency_name, c('\\+-+.+?v' = '', '\\+' = '_')))
-
- new_names_list <- as.list(new_names)
-
- return(new_names_list$Agency_name)
-}
-
 list2env(map(set_names(parks, make_names(parks)), read_csv), envir = .GlobalEnv)
 
 all_agencies_list <- list(Anoka_County, Bloomington, Carver_County, Dakota_County, Minneapolis_Park_and_Recreation_Board, Ramsey_County, Saint_Paul, Scott_County, Three_Rivers_Park_District, Washington_County)
