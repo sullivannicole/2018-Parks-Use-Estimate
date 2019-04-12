@@ -38,6 +38,11 @@ setwd('.')
 setwd('Datasets/Qualtrics')
 parks_18 <- list.files(pattern = '*.csv')
 
+#' make_names
+#'
+#' @param name_vector a vector of agency names
+#'
+#' @return a cleaned list of the agency names
 make_names <- function(name_vector) {
   
   name_vector_df <- as.data.frame(name_vector)
