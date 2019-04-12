@@ -143,8 +143,6 @@ agencies_bound <- do.call(bind_rows, agencies_tidied)
 library(haven)
 setwd('Datasets/2013-2017/')
 counts_14_17 <- read_sav('2014-2017 data FINAL._original.sav')
-
-
 ```
 
 ## Step 2:  Create a day type variable (weekend/holiday or weekday); create a variable with the total number of days for that day type in the season
@@ -532,7 +530,7 @@ estimates_comparison_tidy <- estimates_13_18_full %>%
   select(-drop) %>%
   mutate(Year_prefix = 20) %>%
   unite(Year, Year_prefix, Year_suffix, sep = '')
-  
+
 agency_comparison_percent <- estimates_comparison_tidy %>%
   filter(!is.na(Estimate)) %>%
   group_by(Year) %>%
@@ -639,7 +637,12 @@ events_camping <- bind_rows(Anoka_County_Events_Camping, Bloomington_Events_Camp
                             Saint_Paul_Events_Camping, TRPD_Events_Camping, 
                             TRPD_Scott_Events_Camping, Washington_County_Events_Camping)
 
-#setwd('.')
+
+```
+
+
+```{r}
+# setwd('.')
 setwd('Datasets/Indices')
 
 seasonal_multipliers <- read_csv('Seasonal Multipliers.csv')
@@ -679,7 +682,9 @@ annual_estimates_agency <- annual_estimates %>%
   rename(Agency = Agency_name,
          Percent = Percentage_of_total_regional_visits) %>%
   mutate(Year = 2018)
+```
 
+```{r}
 setwd('Datasets/2013-2017/Annual Use Estimates')
 annual_estimates_historic <- list.files(pattern = '*.csv')
 list2env(map(set_names(annual_estimates_historic, make_names(annual_estimates_historic)), read_csv), envir = .GlobalEnv)
