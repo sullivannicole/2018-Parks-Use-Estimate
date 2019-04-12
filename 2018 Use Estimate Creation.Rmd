@@ -741,7 +741,7 @@ ggplotly(stripchart_18)
 # Plot 2018 counts as boxplot; use plotly to zoom & mouse over specific observations that appear to be outliers
 boxplot_18 <- x2018 %>%
   mutate(Total_visitors = (ppv_multiplier*as.numeric(Vehicles) + as.numeric(Bikers) + as.numeric(Peds_skaters) + ppb_multiplier*as.numeric(Buses) + as.numeric(Horse_riders) + as.numeric(Boaters))) %>%
-  ggplot(aes(Park_trail, Total_visitors)) +
+  ggplot(aes(Park_name, Total_visitors)) +
   geom_boxplot(alpha = 0.6, size = .5) +
   coord_flip() +
   labs(title = '2018 ',
@@ -765,7 +765,7 @@ x2018 %>%
   theme(axis.text.y = element_text(size = 8))
 
 x2018 %>%
-  filter(Park_trail == 'Silverwood Special Recreation Feature') %>%
+  filter(Park_name == 'Silverwood Special Recreation Feature') %>%
   mutate(Total_visitors = (ppv_multiplier*as.numeric(Vehicles) + as.numeric(Bikers) + as.numeric(Peds_skaters) + ppb_multiplier*as.numeric(Buses) + as.numeric(Horse_riders) + as.numeric(Boaters))) %>%
   ggplot(aes(Total_visitors, fill = Day_type)) +
   geom_histogram(size = 1) +
@@ -775,8 +775,8 @@ x2018 %>%
   theme(axis.text.y = element_text(size = 8))
 
 # Plot 2018 counts for Silverwood SRF as density curve, no day type
- x2018 %>%
-  filter(Park_trail == 'Silverwood Special Recreation Feature') %>%
+x2018 %>%
+  filter(Park_name == 'Silverwood Special Recreation Feature') %>%
   mutate(Total_visitors = (ppv_multiplier*as.numeric(Vehicles) + as.numeric(Bikers) + as.numeric(Peds_skaters) + ppb_multiplier*as.numeric(Buses) + as.numeric(Horse_riders) + as.numeric(Boaters))) %>%
   ggplot(aes(Total_visitors)) +
   geom_density() +
@@ -794,7 +794,7 @@ x2018 %>%
        x = 'Counted visitors',
        y = 'Observations') +
   theme(axis.text.y = element_text(size = 8)) +
-  facet_wrap(~Park_trail)
+  facet_wrap(~Park_name)
 
 ggsave('2018 Distribution Curves for Counted Visitors.jpg', width = 50, height = 30, limitsize = FALSE)
 ```
