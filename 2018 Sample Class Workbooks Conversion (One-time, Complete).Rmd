@@ -15,6 +15,14 @@ Parks_day_types <- stack(mget(c('Weekend_holiday', 'Weekday'))) %>% rename(Park_
 
 # Tidy workbooks
 
+#' tidy_sample_clas_wkbk
+#'
+#' @param df a data frame of the entrance classes (high, medium, low) for all parks in a given agency
+#'
+#' @return a tidy data frame of all entrance classes
+#' @export
+#'
+#' @examples
 tidy_sample_class_wkbk <- function(df) {
 
   df_tidy <- df %>%
