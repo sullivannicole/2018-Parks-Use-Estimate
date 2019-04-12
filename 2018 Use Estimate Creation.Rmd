@@ -259,7 +259,7 @@ step_IIa_park_counts <- step_IIa %>%
 
 step_IIa_compare_park_counts <- full_join(step_II_park_counts, step_IIa_park_counts, by = c('Park_trail'))
 
-step_IIa_compare_counts %>%
+step_IIa_compare_park_counts %>%
   filter(n.x != n.y)
 # # In this case, Rum River Central Regional Park is responsible for the duplication.  Rum River CRP was given two park attributions for Anoka County, by mistake.  Remove the '109' attribution from the index.
 # 
