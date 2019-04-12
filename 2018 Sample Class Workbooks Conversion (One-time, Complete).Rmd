@@ -123,6 +123,7 @@ ramsey_class_bound %>%
 
 all_agencies_class_bound <- bind_rows(agencies_class_bound, ramsey_class_bound)
 
+# convert start times to 24hr format
 all_agencies_class_tidy <- all_agencies_class_bound %>%
   mutate(Start_time = ifelse(Start_time == 200, 1400,
                              ifelse(Start_time == 400, 1600,
