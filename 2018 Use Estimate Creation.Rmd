@@ -53,7 +53,12 @@ make_names <- function(name_vector) {
 
 list2env(map(set_names(parks_18, make_names(parks_18)), read_csv), envir = .GlobalEnv)
 
-all_agencies_list <- list(Anoka_County = Anoka_County, Bloomington = Bloomington, Carver_County = Carver_County, Dakota_County = Dakota_County, Minneapolis_Park_and_Recreation_Board = Minneapolis_Park_and_Recreation_Board, Ramsey_County = Ramsey_County, Saint_Paul = Saint_Paul, Scott_County = Scott_County, Three_Rivers_Park_District = Three_Rivers_Park_District, Washington_County = Washington_County)
+all_agencies_list <- list(Anoka_County = Anoka_County, Bloomington = Bloomington,
+                          Carver_County = Carver_County, Dakota_County = Dakota_County,
+                          Minneapolis_Park_and_Recreation_Board = Minneapolis_Park_and_Recreation_Board, 
+                          Ramsey_County = Ramsey_County, Saint_Paul = Saint_Paul, 
+                          Scott_County = Scott_County, Three_Rivers_Park_District = Three_Rivers_Park_District,
+                          Washington_County = Washington_County)
 
 # Remove unnecessary variables to clean datasets prior to sending to agencies
 # 
