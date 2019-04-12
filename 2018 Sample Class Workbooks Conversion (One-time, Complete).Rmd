@@ -178,22 +178,24 @@ usage_classifications_tidy <- usage_classifications_full %>%
 
 ```{r}
 # Add agency attribution; sort, arrange, and mutate variables prior to writing out
-# entrance_classifications <- read_csv('2018 Entrance Usage Classifications Index.csv')
-# park_ids <- read_csv('Park and Agency Codes Index.csv')
-# park_agencies_classifications <- left_join(entrance_classifications, park_ids, by = c('Park_trail' = 'Park_id'))
-# 
-# parks_agencies_classifications_tidy <- park_agencies_classifications %>%
-#   select(Agency_name, Agency_id, Park_name, Park_trail, Entrance, Start_time, Day_type, Usage_class) %>%
-#   rename(Park_trail_id = Park_trail,
-#          Entrance_id = Entrance) %>%
-#   arrange(Agency_id, Park_trail_id, Entrance_id, Start_time) %>%
-#   mutate(Start_time = format(strptime(substr(as.POSIXct(sprintf("%04.f", as.numeric(Start_time)), format="%H%M"), 12, 16), '%H:%M'), '%I:%M %p')) %>%
-#   mutate(Start_time = as.factor(Start_time))
+setwd('Datasets/Indices')
 
-#write_csv(parks_agencies_classifications_tidy, '2018 Entrance Usage Classifications with Agency Attribution Index.csv')
+entrance_classifications <- read_csv('2018 Entrance Usage Classifications Index.csv')
+park_ids <- read_csv('Park and Agency Codes Index.csv')
+park_agencies_classifications <- left_join(entrance_classifications, park_ids, by = c('Park_trail' = 'Park_id'))
 
-# parks_agencies_classifications <- read_csv('2018 Entrance Usage Classifications with Agency Attribution Index.csv')
-# agencies_entrance_names <- read_csv('2018 Park Entrance Names.csv')
+parks_agencies_classifications_tidy <- park_agencies_classifications %>%
+  select(Agency_name, Agency_id, Park_name, Park_trail, Entrance, Start_time, Day_type, Usage_class) %>%
+  rename(Park_trail_id = Park_trail,
+         Entrance_id = Entrance) %>%
+  arrange(Agency_id, Park_trail_id, Entrance_id, Start_time) %>%
+  mutate(Start_time = format(strptime(substr(as.POSIXct(sprintf("%04.f", as.numeric(Start_time)), format="%H%M"), 12, 16), '%H:%M'), '%I:%M %p')) %>%
+  mutate(Start_time = as.factor(Start_time))
+
+# write_csv(parks_agencies_classifications_tidy, '2018 Entrance Usage Classifications with Agency Attribution Index.csv')
+
+parks_agencies_classifications <- read_csv('2018 Entrance Usage Classifications with Agency Attribution Index.csv')
+agencies_entrance_names <- read_csv('2018 Park Entrance Names.csv')
 
 ```
 
