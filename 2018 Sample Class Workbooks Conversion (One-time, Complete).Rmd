@@ -144,8 +144,8 @@ entrances_with_multiple_designations <- all_agencies_class_tidy %>%
 
 ```{r}
 # Write out each agency's data as a separate dataframe to send to agencies for update; first, add agency attribute
-setwd('..')
-setwd('Indices')
+# setwd('..')
+setwd('Datasets/Indices')
 agencies_park_cw <- read_csv('Park and Agency Codes Index.csv')
 
 usage_classifications_agency <- left_join(all_agencies_class_tidy, agencies_park_cw, by = c('Park_trail' = 'Park_id'))
@@ -161,6 +161,7 @@ usage_classifications_agency_tidy <- usage_classifications_agency %>%
 ```
 
 ```{r}
+setwd('Datasets/Indices')
 park_entrance_names <- read_csv('2018 Park Entrance Names.csv')
 
 park_entrance_names_tidy <- park_entrance_names %>%
