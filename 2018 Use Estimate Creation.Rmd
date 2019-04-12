@@ -370,7 +370,9 @@ step_V_not_na <- step_V %>%
 # Compute expanded total of visitors (total for entire season, based on sample)
 
 step_VI <- step_V %>%
-  mutate(Expanded_total = (ppv_multiplier*as.numeric(Vehicles) + as.numeric(Bikers) + as.numeric(Peds_skaters) + ppb_multiplier*as.numeric(Buses) + as.numeric(Horse_riders) + as.numeric(Boaters)) * as.numeric(Total_days_by_type) * as.numeric(Expansion_factor))
+  mutate(Expanded_total = (ppv_multiplier*as.numeric(Vehicles) + as.numeric(Bikers) + as.numeric(Peds_skaters) +
+                             ppb_multiplier*as.numeric(Buses) + as.numeric(Horse_riders) + as.numeric(Boaters)) *
+           as.numeric(Total_days_by_type) * as.numeric(Expansion_factor))
 
 ```
 
@@ -469,15 +471,17 @@ x2015_2018_avg_use_class_park <- x2015_2018 %>%
   select(Park_id, Agency_id, Usage_class, Day_type, Average_expanded_total) %>%
   unique()
 
-x2015_2018_avg %>% mutate(total = sum(Estimate_18))
+x2015_2018_avg %>%
+  mutate(total = sum(Estimate_18))
 ```
 
 ## Step 8a:  Compare to previous year's summer estimates; note that large differences do not inherently mean incorrect estimates
 
 ```{r}
 setwd('Datasets/2013-2017/Summer Use Estimates')
-estimates_2017 <- read_csv('2017 Summer Use Estimates - No Events or Camping.csv')
 
+## 2017
+estimates_2017 <- read_csv('2017 Summer Use Estimates - No Events or Camping.csv')
 x2017_tidy <- estimates_2017 %>%
   rename(Park_trail = `Park or Trail`,
          Estimate_17 = `Total by class and day type`) %>%
@@ -488,8 +492,8 @@ x2017_tidy <- estimates_2017 %>%
   mutate(Park_id = as.numeric(Park_id)) %>%
   select(-Trail_name)
 
+## 2016
 estimates_2016 <- read_csv('2016 Summer Use Estimates - No Events or Camping.csv')
-
 x2016_tidy <- estimates_2016 %>%
   rename(Park_trail = `Park or Trail`,
          Estimate_16 = `Total by class and day type`) %>%
@@ -500,8 +504,8 @@ x2016_tidy <- estimates_2016 %>%
   mutate(Park_id = as.numeric(Park_id)) %>%
   select(-Trail_name)
 
+## 2015
 estimates_2015 <- read_csv('2015 Summer Use Estimates - No Events or Camping.csv')
-
 x2015_tidy <- estimates_2015 %>%
   rename(Park_trail = `Park or Trail`,
          Estimate_15 = `Total by class and day type`) %>%
@@ -512,8 +516,8 @@ x2015_tidy <- estimates_2015 %>%
   mutate(Park_id = as.numeric(Park_id)) %>%
   select(-Trail_name)
 
+## 2014
 estimates_2014 <- read_csv('2014 Summer Use Estimates - No Events or Camping.csv')
-
 x2014_tidy <- estimates_2014 %>%
   rename(Park_trail = `Park or Trail`,
          Estimate_14 = `Total by class and day type`) %>%
@@ -524,8 +528,8 @@ x2014_tidy <- estimates_2014 %>%
   mutate(Park_id = as.numeric(Park_id)) %>%
   select(-Trail_name)
 
+## 2013
 estimates_2013 <- read_csv('2013 Summer Use Estimates - No Events or Camping.csv')
-
 x2013_tidy <- estimates_2013 %>%
   rename(Park_trail = `Park or Trail`,
          Estimate_13 = `Total by class and day type`) %>%
