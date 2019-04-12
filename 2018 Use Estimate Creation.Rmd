@@ -300,7 +300,7 @@ step_III_dups <- step_III %>%
 
 step_III_dups
 
-step_III_dups_full <- inner_join(step_III, step_III_dups, by = c('Park_id', 'Date', 'Start_time', 'Entrance', 'ResponseId'))
+step_III_dups_full <- inner_join(step_III, step_III_dups, by = c('Park_id', 'Date', 'Start_time', 'Entrance'))
 
 ```
 
