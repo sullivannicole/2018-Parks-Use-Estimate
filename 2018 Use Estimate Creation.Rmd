@@ -139,22 +139,13 @@ agencies_bound <- do.call(bind_rows, agencies_tidied)
 
 ```
 
-```{r}
-library(haven)
-setwd('Datasets/2013-2017/')
-counts_14_17 <- read_sav('2014-2017 data FINAL._original.sav')
-```
-
 ## Step 2:  Create a day type variable (weekend/holiday or weekday); create a variable with the total number of days for that day type in the season
 
 ### Make sure, in this step, to change the year in the first two lines to the pertinent year - this has to be done manually because while usually use estimates are done the year after summer counts are complete, it could be that they are done in the same year as the counts in years to come
 
 ```{r}
 # Calculate days in the summer season for the year
-memorial_labor <- as.data.frame(RQuantLib::getHolidayList(calendar = 'UnitedStates',
-                                                          from = as_date(ymd('20180501')),
-                                                          to = as_date(ymd('20180930')),
-                                                          includeWeekends = FALSE))
+memorial_labor <- as.data.frame(RQuantLib::getHolidayList(calendar = 'UnitedStates', from = as_date(ymd('20180501')), to = as_date(ymd('20180930')), includeWeekends = FALSE))
 
 summer_days <- memorial_labor %>%
   rename(Date = 1) %>%
@@ -210,7 +201,7 @@ step_II <- agencies_bound %>%
   select(-Holiday) %>%
   mutate(Park_trail = ifelse(Park_trail == 'Minnesota River Greenway',
                              'Minnesota River Greenway Regional Trail',
-                             Park_trail)) %>%
+                             Park_trail)) %>% # this line could possibly be removed
   mutate(Start_time = as.character(Start_time_fmt)) %>%
   select(-Start_time_fmt)
 
@@ -307,9 +298,7 @@ step_III_dups_full <- inner_join(step_III, step_III_dups, by = c('Park_id', 'Dat
 ## Step 4:  Add persons per vehicle and persons per bus multipliers, defined by the 2016 Visitor Study and 1998-1999 Visitor Study, respectively
 
 ```{r}
-
 step_IV <- left_join(step_III, bus_vehicle_multipliers, by = c('Park_id' = 'Park'))
-
 ```
 
 ### Code below checks which parks did not have multiplier
@@ -362,6 +351,7 @@ step_V_unjoined <- step_V %>%
 step_V_not_na <- step_V %>%
   filter(!is.na(Expansion_factor))
 
+## Ramsey is the only agency that has entrances which may have a different usage classification for weekday/weekend
 ```
 
 ## Step 6:  Compute expanded total of visitors (total for entire season, based on sample) at entrance and by date and time of day
@@ -785,7 +775,7 @@ x2018 %>%
        y = 'Observations') +
   theme(axis.text.y = element_text(size = 8))
 
- # Plot all trails/parks density curves 
+# Plot all trails/parks density curves 
 x2018 %>%
   mutate(Total_visitors = (ppv_multiplier*as.numeric(Vehicles) + as.numeric(Bikers) + as.numeric(Peds_skaters) + ppb_multiplier*as.numeric(Buses) + as.numeric(Horse_riders) + as.numeric(Boaters))) %>%
   ggplot(aes(Total_visitors)) +
