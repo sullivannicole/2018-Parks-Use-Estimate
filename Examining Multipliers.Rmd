@@ -1,0 +1,21 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(plotly)
+
+multipliers <- read_csv("N:\\CommDev\\Research\\Research\\Parks_Regional\\Use Estimates\\2018\\Use Estimate Creation\\Datasets\\Indices\\Bus and Vehicle Multipliers Index.csv")
+units <- read_csv("N:\\CommDev\\Research\\Research\\Parks_Regional\\Use Estimates\\2018\\Use Estimate Creation\\Datasets\\Indices\\Park and Agency Codes Index.csv")
+
+mult_units <- left_join(multipliers, units, by = c("Park" = "Park_id"))
+
+ppv <- mult_units %>%
+  filter(!is.na(Agency_name))  %>%
+ggplot(aes(Park, ppv_multiplier, fill = Agency_name)) +
+  geom_bar(stat = "identity")
+
+ggplotly(ppv)
+```
